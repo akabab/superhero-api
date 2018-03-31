@@ -8,6 +8,7 @@ Multiples universes superheroes REST API
 `https://akabab.github.io/superhero-api/api/`
 
 ### [routes](#routes-1)
+- [`/all.json`](#all-json)
 - [`/id`](#id)
 - [`/powerstats`](#powerstats)
 - [`/appearance`](#appearance)
@@ -22,7 +23,11 @@ Multiples universes superheroes REST API
 
 ## Routes
 
+##### `all.json`
+GET all superheroes in a single JSON file
+
 ##### `/id`
+GET superhero complete informations by id
 
 eg. `/id/1.json`
 ```
@@ -77,6 +82,7 @@ eg. `/id/1.json`
 ```
 
 ##### `/powerstats`
+GET superhero powerstats by id
 
 eg. `/powerstats/1.json`
 ```
@@ -91,6 +97,7 @@ eg. `/powerstats/1.json`
 ```
 
 ##### `/appearance`
+GET superhero appearance by id
 
 eg. `/appearance/1.json`
 ```
@@ -111,6 +118,7 @@ eg. `/appearance/1.json`
 ```
 
 ##### `/biography`
+GET superhero biography by id
 
 eg. `/biography/1.json`
 ```
@@ -128,6 +136,7 @@ eg. `/biography/1.json`
 ```
 
 ##### `/connections`
+GET superhero connections by id
 
 eg. `/connections/1.json`
 ```
@@ -138,6 +147,7 @@ eg. `/connections/1.json`
 ```
 
 ##### `/work`
+GET superhero work by id
 
 eg. `/work/1.json`
 ```
@@ -149,6 +159,7 @@ eg. `/work/1.json`
 
 
 ## Images
+GET superhero image
 
 3 sizes of images based on main url just by changing 2 letters {sm, md, lg}
 
