@@ -1,9 +1,13 @@
 # superhero-api
 
+Multiples universes superheroes REST API
+
+## References
+
 ### base url
 `https://akabab.github.io/superhero-api/api/`
 
-### routes
+### [routes](#routes)
 - [`/id`](#id)
 - [`/powerstats`](#powerstats)
 - [`/appearance`](#appearance)
@@ -11,10 +15,16 @@
 - [`/connections`](#connections)
 - [`/work`](#work)
 
+### [images](#images)
+
+
+----
+
+## Routes
 
 ##### `/id`
 
-> eg. `/id/1.json`
+eg. `/id/1.json`
 ```
 {
   "id": 1,
@@ -61,14 +71,14 @@
     "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
   },
   "image": {
-    "url": "https://www.superherodb.com/pictures/portraits/a-bomb.jpg"
+    "url": "https://akabab.github.io/superhero-api/api/images/sm/a-bomb.jpg"
   }
 }
 ```
 
 ##### `/powerstats`
 
-> eg. `/powerstats/1.json`
+eg. `/powerstats/1.json`
 ```
 {
   "intelligence": 38,
@@ -82,7 +92,7 @@
 
 ##### `/appearance`
 
-> eg. `/appearance/1.json`
+eg. `/appearance/1.json`
 ```
 {
   "gender": "Male",
@@ -102,7 +112,7 @@
 
 ##### `/biography`
 
-> eg. `/biography/1.json`
+eg. `/biography/1.json`
 ```
 {
   "fullName": "Richard Milhouse Jones",
@@ -119,7 +129,7 @@
 
 ##### `/connections`
 
-> eg. `/connections/1.json`
+eg. `/connections/1.json`
 ```
 {
   "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
@@ -129,10 +139,24 @@
 
 ##### `/work`
 
-> eg. `/work/1.json`
+eg. `/work/1.json`
 ```
 {
   "occupation": "Musician, adventurer, author; formerly talk show host",
   "base": "-"
 }
 ```
+
+
+## Images
+
+3 sizes of images based on main url just by changing 2 letters {sm, md, lg}
+
+- Small (165x240)
+`/images/sm/a-bomb.jpg`
+
+- Medium (240x320)
+`/images/md/a-bomb.jpg`
+
+- Large (480x640)
+`/images/lg/a-bomb.jpg`
