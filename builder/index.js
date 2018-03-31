@@ -37,7 +37,7 @@ const buildImages = () => {}
 const clean = () => rimraf(apiFolderPath, _ => _)
 
 const rebuild = () => {
-  clean()
+  // clean()
 
   mkdirp(apiFolderPath)
 
