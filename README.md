@@ -23,7 +23,7 @@ Multiples universes superheroes REST API
 
 ## Routes
 
-##### `all.json`
+##### `/all.json`
 GET all superheroes in a single JSON file
 
 ##### `/id`
