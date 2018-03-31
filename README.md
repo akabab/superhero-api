@@ -7,7 +7,7 @@ Multiples universes superheroes REST API
 ### base url
 `https://akabab.github.io/superhero-api/api/`
 
-### [routes](#routes)
+### [routes](#routes-1)
 - [`/id`](#id)
 - [`/powerstats`](#powerstats)
 - [`/appearance`](#appearance)
@@ -15,7 +15,7 @@ Multiples universes superheroes REST API
 - [`/connections`](#connections)
 - [`/work`](#work)
 
-### [images](#images)
+### [images](#images-1)
 
 
 ----
