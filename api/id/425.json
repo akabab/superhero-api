@@ -1,0 +1,48 @@
+{
+  "id": 425,
+  "name": "Magus",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 70,
+    "durability": 99,
+    "power": 100,
+    "combat": 74
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Warlock's Father"
+    ],
+    "placeOfBirth": "Kvch (Technarchy?s home planet)",
+    "firstAppearance": "New Mutants #18 (1984)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Ruler of the Technarchy",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Warlock (son, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/magus.jpg"
+  }
+}

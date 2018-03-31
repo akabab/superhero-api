@@ -1,0 +1,51 @@
+{
+  "id": 659,
+  "name": "Thor",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 100,
+    "speed": 83,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Thor Odinson",
+    "alterEgos": "Rune King Thor",
+    "aliases": [
+      "Donald Blake",
+      "Sigurd Jarlson",
+      "Jake Olsen",
+      "Donar the Mighty"
+    ],
+    "placeOfBirth": "Asgard",
+    "firstAppearance": "Journey into Mystery #83 (August, 1962)",
+    "publisher": "Rune King Thor",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Asgardian",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "640 lb",
+      "288 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "King of Asgard; formerly EMS Technician; Physician",
+    "base": "New York, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Avengers",
+    "relatives": "Odin (father), Gaea (mother), Frigga (step-mother), Loki (step-brother), Vidar (half-brother), Buri (paternal great-grandfather), Bolthorn (maternal great grandfather), Bor (grandfather), Bestla (grandmother), Vili (uncle), Ve (uncle), Sigyn (former sister-in-law), Hela (alleged niece), Jormungand (alleged nephew), Fernis Wolf (alleged nephew)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/thor.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Martian",
+  "height": [
+    "6'7",
+    "201 cm"
+  ],
+  "weight": [
+    "300 lb",
+    "135 kg"
+  ],
+  "eyeColor": "Red",
+  "hairColor": "No Hair"
+}

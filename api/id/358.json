@@ -1,0 +1,48 @@
+{
+  "id": 358,
+  "name": "Jennifer Kale",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 35,
+    "durability": 42,
+    "power": 74,
+    "combat": 72
+  },
+  "biography": {
+    "fullName": "Jennifer Kale",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Wendy the Good Little Witch"
+    ],
+    "placeOfBirth": "Citrusville, Florida",
+    "firstAppearance": "(Adventures into) Fear#11 (1972)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "122 lb",
+      "55 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Sorceress, student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Witches, Legion of the Night",
+    "relatives": "Andrew Jackson Kale (brother, deceased), Joshua Kale (grandfather, deceased), Naomi Kale (aunt), Johnny Blaze ( Ghost Rider ), Barbara and Daniel Ketch (cousins); Illyana Kale, Noble and pastor Kale, Magdalena (ancestors)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/jennifer-kale.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 261,
+  "name": "Firestorm",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 80,
+    "speed": 58,
+    "durability": 80,
+    "power": 100,
+    "combat": 40
+  },
+  "biography": {
+    "fullName": "Ronald Raymond",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ronnie",
+      "Roy",
+      "Ronald Rockwell",
+      "Flamehead"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Firestorm #1 (March, 1978)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "202 lb",
+      "91 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Auburn"
+  },
+  "work": {
+    "occupation": "Adventurer; former employee of Bun 'n Run",
+    "base": "Formerly Manhattan, New York City; Ivy University, Ivy Town; Pittsburgh, Pennsylvania"
+  },
+  "connections": {
+    "groupAffiliation": "Firestorm Matrix, Justice League,formerly Black Lantern Corps, Power Company, White Lantern Corps",
+    "relatives": "Edward Raymond (father); Elaine Rockwell (mother, deceased); Felicity Smoak-Raymond (stepmother); Richard Dare (grandfather)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/firestorm-2.jpg"
+  }
+}

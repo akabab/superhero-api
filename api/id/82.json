@@ -1,0 +1,48 @@
+{
+  "id": 82,
+  "name": "Big Daddy",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 12,
+    "durability": 32,
+    "power": 22,
+    "combat": 64
+  },
+  "biography": {
+    "fullName": "Damon Macready",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Kick-Ass #4",
+    "publisher": "Icon Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Hit-Girl (daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/big-daddy.jpg"
+  }
+}

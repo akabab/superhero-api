@@ -1,0 +1,49 @@
+{
+  "id": 191,
+  "name": "Crystal",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 16,
+    "speed": 12,
+    "durability": 14,
+    "power": 61,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Crystallia Amaquelin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Crys",
+      "Exquisite Elemental"
+    ],
+    "placeOfBirth": "Attilan",
+    "firstAppearance": "Fantastic Four #45 (1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Inhuman",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "Mother, adventuress",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Inhumans (Royal Family); formerly Fantastic Four, Avengers, Queen's Vengeance",
+    "relatives": "Quelin (father), Ambur (mother), Medusa (sister), Gorgon, Karnak, Triton (cousins), Black Bolt (cousin, brother-in-law), Pietro Maximoff (Quicksilver, estranged husband), Luna (daughter), Ahura (nephew), extensive extended family"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/crystal.jpg"
+  }
+}

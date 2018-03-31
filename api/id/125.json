@@ -1,0 +1,48 @@
+{
+  "id": 125,
+  "name": "Blue Beetle II",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 45,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Theodore Kord",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "CAPTAIN ATOM Vol. 1 #83 (1966) (Published by Charlton Comics)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Inventor, President of Kord Omniversal, Crimefighter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Justice League of America; formerly the L.A.W.; formerly Super Buddies",
+    "relatives": "Jarvis Kord (uncle)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/blue-beetle-2.jpg"
+  }
+}

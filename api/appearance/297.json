@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Rodian",
+  "height": [
+    "5'7",
+    "170 cm"
+  ],
+  "weight": [
+    "- lb",
+    "0 kg"
+  ],
+  "eyeColor": "Purple",
+  "hairColor": "-"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 253,
+  "name": "Faora",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 95,
+    "speed": 75,
+    "durability": 100,
+    "power": 98,
+    "combat": 90
+  },
+  "biography": {
+    "fullName": "Faora Hu-Ul",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Katie"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Action Comics #471 (May, 1977)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Kryptonian",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Serial killer",
+    "base": "Phantom Zone; formerly Krypton"
+  },
+  "connections": {
+    "groupAffiliation": "Phantom Zone Criminals",
+    "relatives": "Hu-Ul (father, presumably deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/faora.jpg"
+  }
+}

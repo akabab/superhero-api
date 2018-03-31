@@ -1,0 +1,48 @@
+{
+  "id": 119,
+  "name": "Blob",
+  "powerstats": {
+    "intelligence": 10,
+    "strength": 83,
+    "speed": 23,
+    "durability": 95,
+    "power": 28,
+    "combat": 72
+  },
+  "biography": {
+    "fullName": "Frederick J. Dukes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Lubbock, Texas",
+    "firstAppearance": "X-Men #3 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "510 lb",
+      "230 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Former criminal, terrorist, government agent, carnival performer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Cell, formerly X-Corps, Magneto's army, Brotherhood Of Evil Mutants, Freedom Force, Factor Three, former partner of Unus",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/blob.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 657,
+  "name": "The Comedian",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 14,
+    "speed": 17,
+    "durability": 10,
+    "power": 12,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Edward Morgen Blake",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Eddie Blake"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Watchmen #1 (September, 1986)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Former Adventurer; Government Agent",
+    "base": "New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Crimebusters, Minutemen",
+    "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/comedian.jpg"
+  }
+}

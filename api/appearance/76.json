@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Human",
+  "height": [
+    "5'8",
+    "173 cm"
+  ],
+  "weight": [
+    "150 lb",
+    "68 kg"
+  ],
+  "eyeColor": "Green",
+  "hairColor": "Green"
+}

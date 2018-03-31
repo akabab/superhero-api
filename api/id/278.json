@@ -1,0 +1,48 @@
+{
+  "id": 278,
+  "name": "General Zod",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 100,
+    "speed": 96,
+    "durability": 100,
+    "power": 100,
+    "combat": 95
+  },
+  "biography": {
+    "fullName": "Dru-Zod",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dru-Zod (possible first name)"
+    ],
+    "placeOfBirth": "Krypton",
+    "firstAppearance": "Action Comics #845",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Kryptonian",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Formerly Krypton; formerly the Phantom Zone; currently Earth"
+  },
+  "connections": {
+    "groupAffiliation": "Phantom Zone criminals; former member of the Kryptonian Defense Council",
+    "relatives": "Ursa (mate/wife); Lor-Zod (son); Admiral Zod (possible ancestor)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/general-zod.jpg"
+  }
+}

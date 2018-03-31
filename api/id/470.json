@@ -1,0 +1,53 @@
+{
+  "id": 470,
+  "name": "Moon Knight",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 36,
+    "speed": 23,
+    "durability": 42,
+    "power": 28,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "Marc Spector",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jake Lockley",
+      "Steven Grant",
+      "Yitzak Topol",
+      "Fist of Khonshu",
+      "Crescent Crusader",
+      "Lunar Legionnaire"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "Werewolf by Night #32 (August, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Adventurer, entrepreneur; former prize fighter, spy, soldier, mercenary, cab driver",
+    "base": "New York City; formerly Spector Mansion, Long Island, Avengers Compound, California"
+  },
+  "connections": {
+    "groupAffiliation": "Secret Avengers; formerly: US Marine Corps, Central Intelligence Agency (CIA), partner of Jean-Paul du Champ, partner of Raoul Bushman, partner of Midnight, West Coast Avengers, Marvel Knights, Defenders",
+    "relatives": "Shadowknight (Randall Spector) (brother, deceased), Elias (father, deceased), Seth Phalkon (alleged great-great-grandfather)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/moon-knight.jpg"
+  }
+}

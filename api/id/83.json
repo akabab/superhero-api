@@ -1,0 +1,48 @@
+{
+  "id": 83,
+  "name": "Big Man",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 12,
+    "speed": 23,
+    "durability": 28,
+    "power": 19,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Frederick Foswell",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Patch"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man # 10 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "157 lb",
+      "71 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Reporter, professional criminal",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Daily Bugle, the Enforcers",
+    "relatives": "Janice Foswell (daughter), unnamed wife"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/big-man.jpg"
+  }
+}

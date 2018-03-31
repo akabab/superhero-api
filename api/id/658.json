@@ -1,0 +1,50 @@
+{
+  "id": 658,
+  "name": "Thing",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 84,
+    "speed": 21,
+    "durability": 100,
+    "power": 38,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Ben Grimm",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Blackbeard the Pirate",
+      "Grim Ben",
+      "Dr. Josiah Verpoorteen"
+    ],
+    "placeOfBirth": "New York City, New York",
+    "firstAppearance": "Fantastic Four #1 (November, 1961)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Radiation",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "500 lb",
+      "225 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Adventurer, former Air Force test pilot",
+    "base": "Baxter Building, New York City, New York (formerly) Four Freedoms Plaza, Pier Four;"
+  },
+  "connections": {
+    "groupAffiliation": "Fantastic Four formerly Avengers West Coast, Unlimited Class Wrestling Federation, Thunderiders",
+    "relatives": "Daniel (father, deceased), Elsie (mother, deceased), Daniel Jr. (brother, deceased), Jacob ('Jake,' uncle), Alyce (aunt, deceased), Pentunia ('Penny,' aunt, Jacob's second wife)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/thing.jpg"
+  }
+}

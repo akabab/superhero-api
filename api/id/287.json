@@ -1,0 +1,53 @@
+{
+  "id": 287,
+  "name": "Godzilla",
+  "powerstats": {
+    "intelligence": 44,
+    "strength": 100,
+    "speed": 54,
+    "durability": 100,
+    "power": 100,
+    "combat": 20
+  },
+  "biography": {
+    "fullName": "Gojira",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Legendary Godzilla",
+      "King of the Monsters",
+      "Gigantis",
+      "Monster Zero-One",
+      "God of Destruction",
+      "Alpha Predator"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Godzilla (1954)",
+    "publisher": "",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "Kaiju",
+    "height": [
+      "354'4",
+      "108.0 meters"
+    ],
+    "weight": [
+      "200000000 lb",
+      "90,000 tons"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/godzilla.jpg"
+  }
+}

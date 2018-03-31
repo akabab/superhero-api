@@ -1,0 +1,49 @@
+{
+  "id": 590,
+  "name": "She-Thing",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 72,
+    "speed": 21,
+    "durability": 80,
+    "power": 23,
+    "combat": 65
+  },
+  "biography": {
+    "fullName": "Sharon Ventura",
+    "alterEgos": "Ms Marvel II",
+    "aliases": [
+      "Thing",
+      "Ms Marvel"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Thing #27",
+    "publisher": "Ms Marvel II",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human / Radiation",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "340 lb",
+      "153 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Prisoner, former adventurer, wrestler, stuntwoman, scuba diver, motorcycle performer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Frightful Four; formerly Fantastic Four, Unlimited Class Wrestling Federation, Thunderiders",
+    "relatives": "Jack Ventura (father, deceased), Mrs. Ventura (mother, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/she-thing.jpg"
+  }
+}

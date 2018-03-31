@@ -1,0 +1,52 @@
+{
+  "id": 127,
+  "name": "Boba Fett",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 38,
+    "durability": 36,
+    "power": 68,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Teff",
+      "Sava Brek Madak",
+      "Jaster Mereel",
+      "Mandalore",
+      "Mand'alor"
+    ],
+    "placeOfBirth": "Kamino",
+    "firstAppearance": "-",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Clone",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Bounty Hunter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/boba-fett.jpg"
+  }
+}

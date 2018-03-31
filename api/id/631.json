@@ -1,0 +1,48 @@
+{
+  "id": 631,
+  "name": "Stardust",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 85,
+    "speed": 100,
+    "durability": 110,
+    "power": 100,
+    "combat": 85
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Entity Lambda-Zero"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Herald of Galactus",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Heralds of Galactus ; Formerly United Front",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/stardust.jpg"
+  }
+}

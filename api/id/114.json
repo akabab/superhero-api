@@ -1,0 +1,48 @@
+{
+  "id": 114,
+  "name": "Bling!",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 14,
+    "speed": 12,
+    "durability": 90,
+    "power": 52,
+    "combat": 28
+  },
+  "biography": {
+    "fullName": "Roxanne Washington",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men #171 (2005)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "152 lb",
+      "68 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Roy \"Daddy Libido\" Washington (father), Angel \"Sexy Mutha\" Depres (mother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/bling!.jpg"
+  }
+}

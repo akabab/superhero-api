@@ -1,0 +1,48 @@
+{
+  "id": 608,
+  "name": "Sobek",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 34,
+    "speed": 23,
+    "durability": 46,
+    "power": 20,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Yurrd the Unknown",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sobek the Talking Crocodile; The Unknown in Formless Time Before Time; Famine"
+    ],
+    "placeOfBirth": "Nile River; Bioengineered at Oolong Island",
+    "firstAppearance": "52 Week Twenty-Six",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Kahndaq"
+  },
+  "connections": {
+    "groupAffiliation": "Black Marvel Family, Four Horsemen",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/sobek.jpg"
+  }
+}

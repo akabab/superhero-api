@@ -1,0 +1,49 @@
+{
+  "id": 333,
+  "name": "Human Torch",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 11,
+    "speed": 63,
+    "durability": 70,
+    "power": 87,
+    "combat": 42
+  },
+  "biography": {
+    "fullName": "Johnny Storm",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Matchstick Johnny",
+      "Doug Brown"
+    ],
+    "placeOfBirth": "Glenville, Long Island, New York",
+    "firstAppearance": "Fantastic Four #1 (1961)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Radiation",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Pier Four, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Fantastic Four",
+    "relatives": "Susan Richards - Invisible Woman (sister), Franklin Richards (nephew), Reed Richards - Mister Fantastic (brother-in-law) Lyja (ex-wife)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/human-torch.jpg"
+  }
+}

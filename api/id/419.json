@@ -1,0 +1,48 @@
+{
+  "id": 419,
+  "name": "Luna",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 6,
+    "speed": 83,
+    "durability": 14,
+    "power": 53,
+    "combat": 14
+  },
+  "biography": {
+    "fullName": "Luna Maximoff",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Attilan, Blue Area of the Moon",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Quicksilver (Pietro Maximoff, father), Magneto (grandfather), Crystal (mother), Scarlet Witch, (aunt), Polaris (aunt)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/luna.jpg"
+  }
+}

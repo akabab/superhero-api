@@ -1,0 +1,54 @@
+{
+  "id": 289,
+  "name": "Goku",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 100,
+    "speed": 75,
+    "durability": 90,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Kakarot",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ultimate Defender",
+      "Sayain Monkey",
+      "Super Sayain",
+      "Z-Fighter",
+      "Son-Goku",
+      "Lower-Class Sayain",
+      "Goku Son"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Dragon Ball #1",
+    "publisher": "Shueisha",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Saiyan",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "137 lb",
+      "62 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Saiyajin, Son family, Z-Fighters",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/goku.jpg"
+  }
+}

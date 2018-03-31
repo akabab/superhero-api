@@ -1,0 +1,52 @@
+{
+  "id": 462,
+  "name": "Mockingbird",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 31,
+    "speed": 38,
+    "durability": 20,
+    "power": 48,
+    "combat": 95
+  },
+  "biography": {
+    "fullName": "Barbara Morse",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barbara Morse-Barton",
+      "Roberta Morse",
+      "Agent 19",
+      "Huntress",
+      "Bobbi Van Dyne; once posed as Shooting Star"
+    ],
+    "placeOfBirth": "San Diego, California",
+    "firstAppearance": "Astonishing Tales #6 (June, 1971)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Adventurer; former counter-terrorist agent, private investigator, government operative, S.H.I.E.L.D. agent, biologist",
+    "base": "New York City, New York"
+  },
+  "connections": {
+    "groupAffiliation": "World Counterterrorism Agency; formerly Secret Avengers, New Avengers, West Coast Avengers, Avengers, Great Lakes Avengers, S.H.I.E.L.D.; partner of Hawkeye; associate of Dr. Wilma Calvin",
+    "relatives": "Susan Morse (mother); Ben Morse (brother); Hawkeye (Clint Barton) (ex-husband)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/mockingbird.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 531,
+  "name": "Purple Man",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 10,
+    "speed": 8,
+    "durability": 30,
+    "power": 92,
+    "combat": 10
+  },
+  "biography": {
+    "fullName": "Zebediah Killgrave",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kilgrave"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Daredevil #4 (October, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "165 lb",
+      "74 kg"
+    ],
+    "eyeColor": "Purple",
+    "hairColor": "Purple"
+  },
+  "work": {
+    "occupation": "Professional criminal, Megalomaniac, Former spy",
+    "base": "New York City, New York, USA; formerly Canada, Croatia, formerly Yugoslavia"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Purple Children (leader and father), Villains for Hire, Hood's gang, partner of Electro, his own band of criminals",
+    "relatives": "Melanie Killgrave (ex-wife); Persuasion (Kara Killgrave) (daughter); Joe (son); Shallah (daughter); Connor (son); Jamie (son); Unnamed daughter"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/purple-man.jpg"
+  }
+}

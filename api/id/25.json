@@ -1,0 +1,49 @@
+{
+  "id": 25,
+  "name": "Angel Dust",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 55,
+    "speed": 23,
+    "durability": 42,
+    "power": 17,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "Christina",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Angel",
+      "Dusty"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Morlocks #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "126 lb",
+      "57 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Chicago, Illinois"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/angel-dust.jpg"
+  }
+}

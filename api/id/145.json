@@ -1,0 +1,55 @@
+{
+  "id": 145,
+  "name": "Cable",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 48,
+    "speed": 23,
+    "durability": 56,
+    "power": 100,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Nathan Summers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Chosen One",
+      "Soldier X",
+      "Nathan Dayspring",
+      "Askani'son",
+      "Nathan Dayspring Summers",
+      "Nathan Winters",
+      "The Traveller",
+      "The Saviour"
+    ],
+    "placeOfBirth": "Unrevealed location in the 20th Century United States",
+    "firstAppearance": "New Mutants #86 (as Cable)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'8",
+      "203 cm"
+    ],
+    "weight": [
+      "350 lb",
+      "158 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
+  },
+  "work": {
+    "occupation": "(current) Adventurer, (former) freedom fighter, United States government agent, mercenary, combat instructor for X-Force",
+    "base": "The Xavier Institute, Salem Center, Westchester County, New York"
+  },
+  "connections": {
+    "groupAffiliation": "X-Force, (former) X-Men, Clan Askani, Clan Chosen, Six Pack (formerly Wild Pack II)",
+    "relatives": "Scott Summers (Cyclops, father), Madelyne Pryor-Summers (Goblin Queen, mother, deceased), Jean Grey (Phoenix, stepmother), Alexander Summers (Havok, uncle), Christopher Summers (Corsair, paternal grandfather), Katherine Anne Summers (paternal grandmother, deceased), Philip Summers (great-grandfather), Deborah Summers (great-grandmother), Jenskot (Aliya, wife, deceased), Tyler (Genesis, son, deceased), Stryfe (clone, deceased), Gabriel Summers (Vulcan, uncle)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/cable.jpg"
+  }
+}

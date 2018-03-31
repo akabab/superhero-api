@@ -1,0 +1,51 @@
+{
+  "id": 655,
+  "name": "Thanos",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 33,
+    "durability": 100,
+    "power": 100,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Thanos",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Mad Titan",
+      "Masterlord",
+      "The Overmaster",
+      "Chins"
+    ],
+    "placeOfBirth": "Titan",
+    "firstAppearance": "Iron Man #55",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Eternal",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "985 lb",
+      "443 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Conqueror, worshiper of Death",
+    "base": "Mobile, formerly Sanctuary II, Titan"
+  },
+  "connections": {
+    "groupAffiliation": "Zodiac (ally); formerly Infinity Watch, Defenders",
+    "relatives": "A'Lars (father): Sui-San (mother, deceased; Eros (brother);Kronos (paternal Grandfather, deceased); Daina (paternal grandmother, deceased); Zuras (uncle, deceased); Thena (cousin); Gamora (foster daughter);Nebula (alleged granddaughter); Rot (\"child\" by Death);"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/thanos.jpg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 211,
+  "name": "Dazzler",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 33,
+    "durability": 60,
+    "power": 100,
+    "combat": 55
+  },
+  "biography": {
+    "fullName": "Alison Blaire",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ali",
+      "The Disco Dazzler",
+      "Songbird",
+      "Dazz",
+      "Kimberly Schau",
+      "Ally"
+    ],
+    "placeOfBirth": "Gardendale, Long Island, New York",
+    "firstAppearance": "X-Men #130 (1980)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Adventurer, singer, former actress, model, revolutionary",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Excalibur, X-Babies (guardian), Mojoverse Rebellion, X-Men, Cat's Laughing, Gladiators",
+    "relatives": "Bella Blaire (paternal grandmother), Carter Blaire (father, deceased), Katherine Blaire-Brown (Barbara London, mother), Nicholas Brown (step-father), Lois London (half-sister), Longshot (husband)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/dazzler.jpg"
+  }
+}

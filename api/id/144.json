@@ -1,0 +1,48 @@
+{
+  "id": 144,
+  "name": "Bushido",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 8,
+    "durability": 10,
+    "power": 19,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Ryuko Orsono",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Titans: Secret Files & Origins #2",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Teen Titans",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/bushido.jpg"
+  }
+}

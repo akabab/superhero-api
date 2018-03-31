@@ -1,0 +1,49 @@
+{
+  "id": 612,
+  "name": "Spawn",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 60,
+    "speed": 50,
+    "durability": 90,
+    "power": 100,
+    "combat": 95
+  },
+  "biography": {
+    "fullName": "Al Simmons",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The One",
+      "Hellspawn"
+    ],
+    "placeOfBirth": "Detroit, Michigan (8th level of Hell after rebirth)",
+    "firstAppearance": "Spawn #1 (May, 1992)",
+    "publisher": "Image Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Demon",
+    "height": [
+      "6'11",
+      "211 cm"
+    ],
+    "weight": [
+      "900 lb",
+      "405 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Hell"
+  },
+  "connections": {
+    "groupAffiliation": "Eighth Circle of Hell; formerly (as Al Simmons) CIA (U.S. Security Service), U.S. Secret Service, U.S. Marine Corps",
+    "relatives": "Wanda (widow), Cyan (widow's daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/spawn.jpg"
+  }
+}

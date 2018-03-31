@@ -1,0 +1,53 @@
+{
+  "id": 75,
+  "name": "Beast",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 48,
+    "speed": 38,
+    "durability": 60,
+    "power": 43,
+    "combat": 85
+  },
+  "biography": {
+    "fullName": "Henry Philip McCoy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dr. McCoy",
+      "Hanko",
+      "Kreature",
+      "Mutate #666",
+      "Magilla Gorilla",
+      "Golden Armed Boy"
+    ],
+    "placeOfBirth": "Dunfee, Illinois",
+    "firstAppearance": "X-MEN Vol. 1 #1, (in furry ape form) AMAZING ADVENTURES #11, (in current feline form) NEW X-MEN Vol. 1 #114",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "402 lb",
+      "181 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blue"
+  },
+  "work": {
+    "occupation": "Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler",
+    "base": "Xavier Institute, Salem Center, Westchester County, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Secret Avengers, S.W.O.R.D.; formerly X-Men (founding member); X-Club (founding member); Initiative; 198; X-Treme X-Men; Acolytes (while mind-controlled); Queen's Vengeance; X-Factor/X-Terminators (founding member); Rejects; Defenders, Avengers",
+    "relatives": "Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/beast.jpg"
+  }
+}

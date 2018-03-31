@@ -1,0 +1,48 @@
+{
+  "id": 571,
+  "name": "Sage",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 12,
+    "durability": 14,
+    "power": 28,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Tessa",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "X-MEN Vol. 1 #132",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'7'",
+      "170 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Former Soldier",
+    "base": "Base of operations unknown"
+  },
+  "connections": {
+    "groupAffiliation": "Excalibur, formerly X-Men, X-Treme Sanctions Executive, X-Treme X-Men, Hellfire Club",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/sage.jpg"
+  }
+}

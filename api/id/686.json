@@ -1,0 +1,60 @@
+{
+  "id": 686,
+  "name": "Vegeta",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 100,
+    "speed": 92,
+    "durability": 95,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Vegeta",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Prince Vegeta",
+      "The Saiyan Prince",
+      "The Prince of all Saiyans",
+      "Majin Vegeta",
+      "Bejiita",
+      "Bejiita no Ouji",
+      "Vejita",
+      "Vegita",
+      "Captain Vegeta",
+      "Vegeta-Sama",
+      "Makita (Hebrew dub)",
+      "Bezita (Malaysian dub)",
+      "Super Vegeta"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Dragon Ball #17",
+    "publisher": "Shueisha",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Saiyan",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "163 lb",
+      "73 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/vegeta.jpg"
+  }
+}

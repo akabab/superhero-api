@@ -1,0 +1,48 @@
+{
+  "id": 180,
+  "name": "Cloak",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 47,
+    "durability": 64,
+    "power": 100,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Tyrone Johnson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "South Boston, Massachusetts",
+    "firstAppearance": "Spectacular Spiderman #64",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "7'5",
+      "226 cm"
+    ],
+    "weight": [
+      "155 lb",
+      "70 kg"
+    ],
+    "eyeColor": "brown",
+    "hairColor": "black"
+  },
+  "work": {
+    "occupation": "Vigilante",
+    "base": "Holy Ghost Church, 42nd Street, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Cloak and Dagger, New Warriors, Marvel Knights",
+    "relatives": "Smokin' Joe (rumored grandfather)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/cloak.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 685,
+  "name": "Vanisher",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 75,
+    "durability": 56,
+    "power": 61,
+    "combat": 42
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Telford Porter"
+    ],
+    "placeOfBirth": "Boston, Massachusetts",
+    "firstAppearance": "X-Men (Vol 1) #2",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Professional criminal, former subversive",
+    "base": "former) Factor Three headquarters, Europe; Beat Street Club, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "(former) Outer Circle of Enforcers II, Factor Three, Fallen Angels",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/vanisher.jpg"
+  }
+}

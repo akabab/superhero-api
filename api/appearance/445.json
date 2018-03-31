@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Android",
+  "height": [
+    "6'5",
+    "196 cm"
+  ],
+  "weight": [
+    "200 lb",
+    "90 kg"
+  ],
+  "eyeColor": "Green",
+  "hairColor": "Brown"
+}

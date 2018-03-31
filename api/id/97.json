@@ -1,0 +1,48 @@
+{
+  "id": 97,
+  "name": "Black Canary",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 8,
+    "speed": 33,
+    "durability": 20,
+    "power": 52,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Laurel Lance",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Justice League of America (Volume 1) #75",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Metahuman",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
+    "base": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Birds of Prey; formerly Justice League of America, Justice Society of America, Justice League Task Force, Justice League International, Team Arrow",
+    "relatives": "Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/black-canary-2.jpg"
+  }
+}

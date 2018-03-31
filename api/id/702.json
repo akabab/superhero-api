@@ -1,0 +1,48 @@
+{
+  "id": 702,
+  "name": "Walrus",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 28,
+    "speed": 8,
+    "durability": 50,
+    "power": 11,
+    "combat": 20
+  },
+  "biography": {
+    "fullName": "Hubert Carpent",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Brooklyn, New York",
+    "firstAppearance": "Defenders #131 (May, 1984)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "360 lb",
+      "162 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Cab driver",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Humbert Carpenter (uncle)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/walrus.jpg"
+  }
+}

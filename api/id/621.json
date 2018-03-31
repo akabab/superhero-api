@@ -1,0 +1,49 @@
+{
+  "id": 621,
+  "name": "Spider-Man",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 57,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Miguel O'Hara",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Man 2099",
+      "Spiderman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #365 (August, 1992)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "CEO of Alchemax Corporation, Executive Assistant",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/spider-man-2099.jpg"
+  }
+}

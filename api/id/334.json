@@ -1,0 +1,50 @@
+{
+  "id": 334,
+  "name": "Huntress",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 10,
+    "speed": 23,
+    "durability": 28,
+    "power": 34,
+    "combat": 95
+  },
+  "biography": {
+    "fullName": "Helena Rosa Bertinelli",
+    "alterEgos": "Batgirl III",
+    "aliases": [
+      "Batgirl",
+      "Sicilian",
+      "Mafia Princess"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Huntress #1 (April 1989)",
+    "publisher": "Batgirl III",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Vigilante; High school English teacher",
+    "base": "Mobile; primarily Gotham City and Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Birds of Prey, formerly Checkmate, Justice League of America, Outsiders",
+    "relatives": "Giuseppe Bertinelli (great-grandfather; deceased), Alfredo Bertinelli (grandfather; deceased), Franco Bertinelli (father; deceased), Maria Panessa Bertinelli (mother; deceased), Santo Cassamento (biological father; deceased), Pino Bertinelli (brother; deceased), Freddy Caldone (cousin; deceased), Tomaso Panessa (uncle), Graziella Panessa (aunt), Monica Simonetta Panessa (cousin), Claudio Panessa (cousin; deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/huntress.jpg"
+  }
+}

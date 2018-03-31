@@ -1,0 +1,49 @@
+{
+  "id": 641,
+  "name": "Superboy",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 95,
+    "speed": 83,
+    "durability": 90,
+    "power": 95,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "Kon-El / Conner Kent",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Experiment 13; Superman; Project: Superman; Carl Krummett; Project: Lionel Luthor; The Metropolis Kid",
+      "Superman"
+    ],
+    "placeOfBirth": "Project Cadmus cloning facility",
+    "firstAppearance": "Adventures of Superman #500 (June, 1993)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "150 lb",
+      "68 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "San Francisco; Smallville; Formerly Metropolis; Formerly Honolulu"
+  },
+  "connections": {
+    "groupAffiliation": "Teen Titans, Legion of Super-Heroes, Team Superman; Formerly Young Justice, Project Cadmus, Ravers",
+    "relatives": "Superman (Kryptonian genetic template), Lex Luthor (Human genetic template), Match (clone)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/superboy.jpg"
+  }
+}

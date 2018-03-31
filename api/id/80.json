@@ -1,0 +1,58 @@
+{
+  "id": 80,
+  "name": "Beyonder",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 84
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ataxi",
+      "The Beyond Realm",
+      "Frank",
+      "Goblin Force",
+      "Goblin King",
+      "Goblyn King",
+      "Goblin Queen",
+      "The One From Beyond",
+      "God",
+      "Kosmos",
+      "Maker"
+    ],
+    "placeOfBirth": "Created in the Beyond",
+    "firstAppearance": "Marvel Super-Heroes Secret Wars #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Former student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Was once in a merged form with the Molecule Man but is no longer merged with him.",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/beyonder.jpg"
+  }
+}

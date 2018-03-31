@@ -1,0 +1,54 @@
+{
+  "id": 496,
+  "name": "Nova",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 85,
+    "speed": 75,
+    "durability": 100,
+    "power": 100,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Richard Rider",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rich",
+      "Bucket-Head",
+      "Human Rocket",
+      "Kid Nova",
+      "",
+      "Nova Prime",
+      "Quasar"
+    ],
+    "placeOfBirth": "Queens, NY",
+    "firstAppearance": "NOVA Vol. 1 #1 (September, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Superhero, also works parttime at Marvel Burger",
+    "base": "Mobile & Xandar, also formerly New Warriors headquarters"
+  },
+  "connections": {
+    "groupAffiliation": "Nova Corps formely United Front (Leader), New Warriors, Champions of Xandar, Secret Defenders, Defender for a day",
+    "relatives": "Charles Rider (Father), Gloria Rider (Mother), Robbie Rider (Brother) , Ralph Rider (Uncle, deceased) , Ellen (aunt)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/nova.jpg"
+  }
+}

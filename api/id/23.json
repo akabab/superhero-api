@@ -1,0 +1,49 @@
+{
+  "id": 23,
+  "name": "Angel",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 30,
+    "speed": 58,
+    "durability": 90,
+    "power": 100,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "Liam",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Angelus",
+      "Twilight"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Vampire",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Kathy (sister), Connor (son), Twilight (\"child\")"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/angel-liam.jpg"
+  }
+}

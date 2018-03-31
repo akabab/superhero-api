@@ -1,0 +1,48 @@
+{
+  "id": 609,
+  "name": "Solomon Grundy",
+  "powerstats": {
+    "intelligence": 9,
+    "strength": 93,
+    "speed": 13,
+    "durability": 100,
+    "power": 92,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "Cyrus Gold",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Marshland Monster"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "All-American Comics #61 (October, 1944)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Zombie",
+    "height": [
+      "9'2",
+      "279 cm"
+    ],
+    "weight": [
+      "971 lb",
+      "437 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "White"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
+    "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/solomon-grundy.jpg"
+  }
+}

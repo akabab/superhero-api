@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Atlantean",
+  "height": [
+    "5'10",
+    "178 cm"
+  ],
+  "weight": [
+    "235 lb",
+    "106 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Black"
+}

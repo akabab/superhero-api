@@ -1,0 +1,48 @@
+{
+  "id": 344,
+  "name": "Invisible Woman",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 10,
+    "speed": 27,
+    "durability": 85,
+    "power": 93,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Susan Storm Richards",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Invisible Girl"
+    ],
+    "placeOfBirth": "Glenville, Long Island, New York",
+    "firstAppearance": "FANTASTIC FOUR #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human / Radiation",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Member of the Fantastic Four, financial manager for Fantastic Four Inc, occasional model and actress",
+    "base": "Pier Four, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Fantastic Four, formerly; Secret Avengers, Avengers, Brides of Set, Pawns of Death",
+    "relatives": "Reed Richards (Mister Fantastic, husband), Franklin Richards (son), Valeria Richards (daughter), Johnny Storm (Human Torch, brother), Franklin Storm (father, deceased), Mary Storm (mother, deceased), Marygay Jewel Dinkins (aunt), \"Bones\" (cousin), Evelyn Richards (mother-in-law, deceased), Nathaniel Richards (father-in-law), Cassandra Richards (Warlord, mother-in-law, deceased), unnamed child of Nathaniel Richards (brother-in-law), Tara Richards (Huntara, sister-in-law), Kristoff Vernard (alleged brother-in-law), Lyja (sister-in-law)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/invisible-woman.jpg"
+  }
+}

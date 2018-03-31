@@ -1,0 +1,52 @@
+{
+  "id": 24,
+  "name": "Angel",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 13,
+    "speed": 46,
+    "durability": 64,
+    "power": 28,
+    "combat": 42
+  },
+  "biography": {
+    "fullName": "Warren Kenneth Worthington III",
+    "alterEgos": "Archangel",
+    "aliases": [
+      "Formerly Death",
+      "Dark Angel",
+      "Angel",
+      "Avenging Angel",
+      "Archangel"
+    ],
+    "placeOfBirth": "Centerport, Long Island, New York",
+    "firstAppearance": "X-Men #54-56 (1969)",
+    "publisher": "Archangel",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "150 lb",
+      "68 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, Mutantes Sans Fronti?res, Hellfire Club; formerly Secret Defenders, X-Factor/X-Terminators, Horsemen of Apocalypse, Defenders, Death's champions, Champions of Los Angeles",
+    "relatives": "Warren Kenneth Worthington Sr. (grandfather, deceased), Warren Kenneth Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burtram \"Burt\" Worthington (Dazzler, paternal uncle), unnamed cousin"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/angel.jpg"
+  }
+}

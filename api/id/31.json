@@ -1,0 +1,49 @@
+{
+  "id": 31,
+  "name": "Ant-Man II",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 18,
+    "speed": 17,
+    "durability": 40,
+    "power": 53,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "Scott Lang",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Myrmidon",
+      "Scott Edward Harris Lang"
+    ],
+    "placeOfBirth": "Coral Gables, Florida",
+    "firstAppearance": "Avengers Vol 1 #181 (March, 1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Electronics Technician,",
+    "base": "South Beach, Miami, Florida; formerly Farmingdale, Long Island, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Ant-Man Security Solutions; formerly Future Foundation (leader), Fantastic Four (leader), Defenders, Avengers, Heroes For Hire, Stark Industries",
+    "relatives": "Cassandra Eleanor Lang (daughter), Ruth (sister), Carl (brother-in-law), Peggy Rae (ex-wife)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/ant-man-2.jpg"
+  }
+}

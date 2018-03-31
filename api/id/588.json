@@ -1,0 +1,48 @@
+{
+  "id": 588,
+  "name": "Shatterstar",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 48,
+    "speed": 45,
+    "durability": 64,
+    "power": 49,
+    "combat": 84
+  },
+  "biography": {
+    "fullName": "Gaveedra Seven",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Benjamin Russell"
+    ],
+    "placeOfBirth": "Mojoworld",
+    "firstAppearance": "New Mutants #99",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "Warrior",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Force, Blood Cadre Alliance (former member)",
+    "relatives": "Longshot (father), Dazzler (mother), Mojo V"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/shatterstar.jpg"
+  }
+}

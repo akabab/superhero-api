@@ -1,0 +1,48 @@
+{
+  "id": 656,
+  "name": "The Cape",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 23,
+    "durability": 32,
+    "power": 22,
+    "combat": 64
+  },
+  "biography": {
+    "fullName": "Vince Faraday",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cape"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Cape S01E01 (2011)",
+    "publisher": null,
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Trip Faraday (son), Dana Thompson-Faraday (wife)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/the-cape.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 689,
+  "name": "Venom III",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 73,
+    "speed": 35,
+    "durability": 90,
+    "power": 73,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "MacDonald Gargan",
+    "alterEgos": "Scorpion",
+    "aliases": [
+      "Scorpion"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
+    "publisher": "Scorpion",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "7'6",
+      "229 cm"
+    ],
+    "weight": [
+      "742 lb",
+      "334 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Government operative; former professional criminal, private eye",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Thunderbolts; formerly (as Scorpion) Masters of Evil, \"Spider-Man Revenge League\"; (as Venom) Sinister Twelve",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/venom-3.jpg"
+  }
+}

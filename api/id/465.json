@@ -1,0 +1,48 @@
+{
+  "id": 465,
+  "name": "Mohinder Suresh",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Mohinder Suresh",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "India",
+    "firstAppearance": "Heroes S01E01 - Genesis",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Former agent of Pinehearst Company, former Company medical professional & agent, former taxi driver, former genetics professor",
+    "base": "Apartment in Brooklyn, NY"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "formerly Maya Herrera, formerly Mira Shenoy, Chandra Suresh (deceased), Unnamed mother, Shanti Suresh"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/mohinder-suresh.jpg"
+  }
+}

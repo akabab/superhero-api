@@ -1,0 +1,52 @@
+{
+  "id": 310,
+  "name": "Harry Potter",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 7,
+    "speed": 21,
+    "durability": 10,
+    "power": 100,
+    "combat": 50
+  },
+  "biography": {
+    "fullName": "Harry James Potter",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Triwizard Champion",
+      "Seeker",
+      "Quidditch Captain",
+      "Leader of Dumbledore's Army",
+      "Master of Death"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Harry Potter and the Philosopher's Stone",
+    "publisher": "J. K. Rowling",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Head of the Department of Magical Law Enforcement[",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/harry-potter.jpg"
+  }
+}

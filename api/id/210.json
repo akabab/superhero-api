@@ -1,0 +1,48 @@
+{
+  "id": 210,
+  "name": "Data",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 32,
+    "speed": 21,
+    "durability": 40,
+    "power": 56,
+    "combat": 50
+  },
+  "biography": {
+    "fullName": "Data",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "B-4"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Lieutenant commander",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Dr. Noonian Soong (creator)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/data.jpg"
+  }
+}

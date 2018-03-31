@@ -1,0 +1,57 @@
+{
+  "id": 186,
+  "name": "Copycat",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 10,
+    "speed": 21,
+    "durability": 25,
+    "power": 54,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "Vanessa Carlysle",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nurse Veronica",
+      "Patricia Muggins",
+      "Titania",
+      "Garrison Kane",
+      "Christina Valentino",
+      "Domino",
+      "Cheryl Marks",
+      "Debbie",
+      "Marguerite",
+      "Amy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New Mutants #98 (February, 1991)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "148 lb",
+      "67 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "White"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Mobile; formerly Adirondack Mountains, Xavier's School for Gifted Youngsters"
+  },
+  "connections": {
+    "groupAffiliation": "Weapon X/Weapon Plus and Six Pack (as Copycat), X-Force and New Mutants (as Domino)",
+    "relatives": "Burt Carlysle (father, deceased), Dorothy Carlysle (mother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/copycat.jpg"
+  }
+}

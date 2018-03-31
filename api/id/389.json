@@ -1,0 +1,49 @@
+{
+  "id": 389,
+  "name": "King Kong",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 100,
+    "speed": 71,
+    "durability": 75,
+    "power": 47,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "King Kong",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "the 8th Wonder of the World",
+      "King of Skull Island"
+    ],
+    "placeOfBirth": "Skull Island",
+    "firstAppearance": "King Kong (1933)",
+    "publisher": "",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Animal",
+    "height": [
+      "100'0",
+      "30.5 meters"
+    ],
+    "weight": [
+      "20000000 lb",
+      "9,000 tons"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Skull Island"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/king-kong.jpg"
+  }
+}

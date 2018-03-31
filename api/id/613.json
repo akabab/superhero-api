@@ -1,0 +1,54 @@
+{
+  "id": 613,
+  "name": "Spectre",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Aztar",
+    "alterEgos": "Aztar",
+    "aliases": [
+      "Spirit of Vengeance",
+      "Wrath of God",
+      "Spirit of Redemption",
+      "Raguel",
+      "James Corrigan",
+      "Hal Jordan",
+      "Cripus Allen"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "More Fun Comics #52 (February, 1940)",
+    "publisher": "Aztar",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/spectre.jpg"
+  }
+}

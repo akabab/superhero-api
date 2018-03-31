@@ -1,0 +1,50 @@
+{
+  "id": 404,
+  "name": "Leonardo",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 16,
+    "speed": 50,
+    "durability": 65,
+    "power": 59,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Leonardo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Leo",
+      "Ghost of the Jungle",
+      "Splinter Jr."
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teenage Mutant Ninja Turtles #1",
+    "publisher": "IDW Publishing",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Ninja",
+    "base": "New York, New York"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Donatello (brother), Michelangelo (brother), Raphael (brother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/leonardo.jpg"
+  }
+}

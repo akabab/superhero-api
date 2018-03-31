@@ -1,0 +1,49 @@
+{
+  "id": 49,
+  "name": "Atlas",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 100,
+    "speed": 42,
+    "durability": 100,
+    "power": 27,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Atlas the Great",
+      "Atlas the Untamed"
+    ],
+    "placeOfBirth": "Crystal Mountain",
+    "firstAppearance": "Action Comics #121",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "280 lb",
+      "126 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Formely; Hyssa, Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/atlas.jpg"
+  }
+}

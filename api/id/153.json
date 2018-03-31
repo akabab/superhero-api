@@ -1,0 +1,48 @@
+{
+  "id": 153,
+  "name": "Captain Epic",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Canada",
+    "firstAppearance": "World War II",
+    "publisher": "Team Epic TV",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Superhero",
+    "base": "Toronto"
+  },
+  "connections": {
+    "groupAffiliation": "Team Epic, The Canadian Shield Alliance (CSA)",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/captain-epic.jpg"
+  }
+}

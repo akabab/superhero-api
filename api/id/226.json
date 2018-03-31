@@ -1,0 +1,52 @@
+{
+  "id": 226,
+  "name": "Doctor Strange",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 10,
+    "speed": 12,
+    "durability": 84,
+    "power": 100,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "Stephen Strange",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sorcerer Supreme",
+      "Master of the Mystic Arts",
+      "Stephen Sanders",
+      "Captain Universe",
+      "Vincent Stevens"
+    ],
+    "placeOfBirth": "Philadelphia, Pennsylvania",
+    "firstAppearance": "Strange Tales #110 (July, 1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Grey",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Sorcerer Supreme, retired neurosurgeon",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Defenders, underground Avengers; formerly the Order, Midnight Sons; former disciple of the Ancient One",
+    "relatives": "Eugene (father, deceased), Beverly (mother, deceased), Victor (Khiron, brother, apparently deceased), Donna (sister, deceased), Clea (wife, estranged), Umar (mother-in-law), Orini (father-in-law), Dormammu (uncle-in-law)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/doctor-strange.jpg"
+  }
+}

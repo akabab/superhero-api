@@ -1,0 +1,52 @@
+{
+  "id": 174,
+  "name": "Cheetah III",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 88,
+    "durability": 80,
+    "power": 78,
+    "combat": 95
+  },
+  "biography": {
+    "fullName": "Barbara Minerva",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barbara Minerva",
+      "Bride of Urzkartaga",
+      "Priscilla Rich",
+      "Deborah Domaine",
+      "Sabrina Ballesteros"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Wonder Woman Vol2 #7 (Sept 1987)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Archaeologist, Anthropologist",
+    "base": "Nottingham, England"
+  },
+  "connections": {
+    "groupAffiliation": "The Society, Injustice League",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/cheetah-3.jpg"
+  }
+}

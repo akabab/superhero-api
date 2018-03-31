@@ -1,0 +1,14 @@
+{
+  "gender": "Female",
+  "race": "Atlantean",
+  "height": [
+    "5'9",
+    "175 cm"
+  ],
+  "weight": [
+    "160 lb",
+    "72 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Purple"
+}

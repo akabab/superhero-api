@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Clone",
+  "height": [
+    "6'4",
+    "193 cm"
+  ],
+  "weight": [
+    "250 lb",
+    "113 kg"
+  ],
+  "eyeColor": "Brown",
+  "hairColor": "Brown"
+}

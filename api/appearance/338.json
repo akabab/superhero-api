@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Eternal",
+  "height": [
+    "6'0",
+    "183 cm"
+  ],
+  "weight": [
+    "460 lb",
+    "207 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Red"
+}

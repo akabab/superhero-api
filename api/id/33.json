@@ -1,0 +1,48 @@
+{
+  "id": 33,
+  "name": "Anti-Spawn",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 58,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Jason Wynn",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Redeemer"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Spawn #16",
+    "publisher": "Image Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/hell-spawn.jpg"
+  }
+}

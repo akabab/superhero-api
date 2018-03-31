@@ -1,0 +1,48 @@
+{
+  "id": 206,
+  "name": "Darkstar",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 8,
+    "speed": 35,
+    "durability": 42,
+    "power": 79,
+    "combat": 64
+  },
+  "biography": {
+    "fullName": "Laynia Petrovna",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tyomni Zvesda"
+    ],
+    "placeOfBirth": "Minks, USSR",
+    "firstAppearance": "Champions #7 (August, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Occupation unknown",
+    "base": "(before death) Paris, France (formerly) Moscow, USSR; Los Angeles, California, United States"
+  },
+  "connections": {
+    "groupAffiliation": "(at death)X-Corps (formerly) Champions, Winter Guard, Soviet Super Soldiers",
+    "relatives": "Nicolai Krylenko a.k.a. Vanguard (brother), Sergi Krylov a.k.a. The Presence (father), Marya Krylova (mother, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/darkstar.jpg"
+  }
+}

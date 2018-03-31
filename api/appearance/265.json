@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Black Racer",
+  "height": [
+    "6'0",
+    "183 cm"
+  ],
+  "weight": [
+    "195 lb",
+    "88 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Blond"
+}

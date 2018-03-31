@@ -1,0 +1,48 @@
+{
+  "id": 503,
+  "name": "One-Above-All",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "One Above All"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Doctor Strange Vol 2 #13",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "Cosmic Entity",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Living Tribunal (creation)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/one-above-all-omni.jpg"
+  }
+}

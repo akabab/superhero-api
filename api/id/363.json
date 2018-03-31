@@ -1,0 +1,49 @@
+{
+  "id": 363,
+  "name": "Jigsaw",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Billy Russo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Billy the Beaut",
+      "Jigsaw Punisher"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #162 (Nov. 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "250 lb",
+      "113 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Professional mobster",
+    "base": "Manhattan, New York"
+  },
+  "connections": {
+    "groupAffiliation": "The Maggia crime family, The Costa crime family",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/jigsaw.jpg"
+  }
+}

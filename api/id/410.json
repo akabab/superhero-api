@@ -1,0 +1,51 @@
+{
+  "id": 410,
+  "name": "Living Tribunal",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Living Trinity",
+      "Magistrate",
+      "High Judge of The Multiverse",
+      "Sir"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Strange Tales #157",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "Cosmic Entity",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "One-Above-All (creator)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/living-tribunal.jpg"
+  }
+}

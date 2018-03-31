@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Gorilla",
+  "height": [
+    "6'6",
+    "198 cm"
+  ],
+  "weight": [
+    "600 lb",
+    "270 kg"
+  ],
+  "eyeColor": "Yellow",
+  "hairColor": "Black"
+}

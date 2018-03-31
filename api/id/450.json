@@ -1,0 +1,51 @@
+{
+  "id": 450,
+  "name": "Michelangelo",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 14,
+    "speed": 50,
+    "durability": 65,
+    "power": 59,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mike",
+      "Mikey",
+      "Mikester",
+      "Michaelangelo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "IDW Publishing",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Leonardo (brother), Donatello (brother), Raphael (brother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/michelangelo.jpg"
+  }
+}

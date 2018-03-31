@@ -1,0 +1,48 @@
+{
+  "id": 697,
+  "name": "Vision",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 72,
+    "speed": 54,
+    "durability": 95,
+    "power": 100,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Vision",
+    "alterEgos": "Anti-Vision, Vision II",
+    "aliases": [
+      "Victor Shade"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
+    "publisher": "Anti-Vision",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Gold",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
+  },
+  "connections": {
+    "groupAffiliation": "Young Avengers, formerly; Avengers, West Coast Avengers, Defenders, Queen's Vengeance",
+    "relatives": "Wanda Maximoff (Scarlet Witch, ex-wife), Thomas Shepherd (Speed, son), William Kaplan (Wiccan, son), Ultron (\"father\"), Henry Pym (Ant-Man, \"grandfather\"), Pietro Maximoff (Quicksilver, ex-brother-in-law), Erik Magnus Lensher (Magneto, ex-father-in-law), Jocasta (fellow creation, \"sister\"), Simon Williams (Wonder Man, \"brother\"), Victor Mancha (fellow creation, half brother), Alkhema (fellow creation, \"stepmother\")"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/vision.jpg"
+  }
+}

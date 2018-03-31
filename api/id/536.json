@@ -1,0 +1,50 @@
+{
+  "id": 536,
+  "name": "Quicksilver",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 28,
+    "speed": 100,
+    "durability": 60,
+    "power": 81,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Pietro Django Maximoff",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pietro Frank",
+      "Gypsy Davey",
+      "Mateo Maximoff"
+    ],
+    "placeOfBirth": "Wundagore Mountain, Transia (in Eastern Europe)",
+    "firstAppearance": "X-MEN Vol. 1 #4",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Silver"
+  },
+  "work": {
+    "occupation": "(current) Adventurer, (former) Terrorist, officer of the Inhumans militia, United States government operative",
+    "base": "Currently a castle on the Hudson River in upstate New York that is owned by the High Evolutionary; (former) Transia; Avengers Mansion, Manhattan; Avengers Compound, Palos Verdes, California; X-Factor headquarters, Washington D. C."
+  },
+  "connections": {
+    "groupAffiliation": "Avengers, unofficial member of the Royal Family of the Inhumans, (former) Brotherhood of Evil Mutants I, X-Factor II",
+    "relatives": "Wanda Maximoff (Scarlet Witch, sister), Magnus (Magneto, father), Magda (mother, deceased), Django Maximoff (adoptive father), Marya Maximoff (adoptive mother, deceased), Crystal (wife), Maximoff, Luna (daughter), Medusa (sister-in-law), Black Bolt, Gorgon, Karnak, Triton, Maximus (cousins by marriage), Vision (ex-brother-in-law)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/quicksilver.jpg"
+  }
+}

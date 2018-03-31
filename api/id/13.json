@@ -1,0 +1,50 @@
+{
+  "id": 13,
+  "name": "Ajax",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 48,
+    "speed": 35,
+    "durability": 80,
+    "power": 34,
+    "combat": 55
+  },
+  "biography": {
+    "fullName": "Francis",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "\"Frankie\"",
+      "the A-Man",
+      "the Attending"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Deadpool #14 (March, 1998)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Cyborg",
+    "height": [
+      "6'4",
+      "193 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Weapon X",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/ajax.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Cyborg",
+  "height": [
+    "6'4",
+    "193 cm"
+  ],
+  "weight": [
+    "200 lb",
+    "90 kg"
+  ],
+  "eyeColor": "Brown",
+  "hairColor": "Black"
+}

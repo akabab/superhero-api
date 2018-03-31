@@ -1,0 +1,48 @@
+{
+  "id": 348,
+  "name": "Isis",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 48,
+    "speed": 75,
+    "durability": 46,
+    "power": 50,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Adrianna Tomaz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Adventurer, formerly First Lady of Kahndaq, former slave",
+    "base": "Shiruta, Kahndaq"
+  },
+  "connections": {
+    "groupAffiliation": "Black Marvel Family",
+    "relatives": "Amon Tomaz (brother, deceased), Black Adam (husband)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/isis.jpg"
+  }
+}

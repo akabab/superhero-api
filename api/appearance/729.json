@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Yoda's species",
+  "height": [
+    "2'2",
+    "66 cm"
+  ],
+  "weight": [
+    "38 lb",
+    "17 kg"
+  ],
+  "eyeColor": "Brown",
+  "hairColor": "White"
+}

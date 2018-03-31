@@ -1,0 +1,52 @@
+{
+  "id": 551,
+  "name": "Red Tornado",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 38,
+    "speed": 67,
+    "durability": 60,
+    "power": 100,
+    "combat": 40
+  },
+  "biography": {
+    "fullName": "John Smith",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ulthoon",
+      "Tornado Tyrant of Rann",
+      "Tornado Champion",
+      "Tornado Man Dreaming",
+      "\"Reddy\""
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "As Red Tornado: Justice League of America #64, As Ulthoon: Mystery in Space #61",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "325 lb",
+      "146 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Happy Harbor, Rhode Island"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League of America, formerly Parliament of Vapors, T.O. Morrow, Justice Society of America, Young Justice, Primal Force, Leymen, Donna Troy",
+    "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/red-tornado.jpg"
+  }
+}

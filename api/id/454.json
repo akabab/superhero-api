@@ -1,0 +1,48 @@
+{
+  "id": 454,
+  "name": "Misfit",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 32,
+    "speed": 23,
+    "durability": 80,
+    "power": 91,
+    "combat": 42
+  },
+  "biography": {
+    "fullName": "Charlotte Gage-Radcliffe",
+    "alterEgos": "Batgirl V",
+    "aliases": [
+      "Batgirl"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Birds of Prey #96",
+    "publisher": "Batgirl V",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Dalten Towers, Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "Birds of Prey",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/misfit.jpg"
+  }
+}

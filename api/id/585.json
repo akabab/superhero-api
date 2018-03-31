@@ -1,0 +1,48 @@
+{
+  "id": 585,
+  "name": "Shadow Lass",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 67,
+    "durability": 20,
+    "power": 79,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Tasmia Mallor",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Talok VIII",
+    "firstAppearance": "Adventure Comics #365",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Talokite",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/shadow-lass.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Mutant",
+  "height": [
+    "5'7",
+    "170 cm"
+  ],
+  "weight": [
+    "140 lb",
+    "63 kg"
+  ],
+  "eyeColor": "Brown",
+  "hairColor": "Black"
+}

@@ -1,0 +1,48 @@
+{
+  "id": 254,
+  "name": "Feral",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 28,
+    "speed": 45,
+    "durability": 28,
+    "power": 27,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Maria Callasantos",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "NEW MUTANTS #99",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Yellow (without irises)",
+    "hairColor": "Orange / White"
+  },
+  "work": {
+    "occupation": "Formerly Adventurer, Terrorist",
+    "base": "Base of operations unknown"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Morlocks, X-Force, Mutant Liberation Front",
+    "relatives": "Mr. Callasantos (father, first name unrevealed, deceased), Marcella Callasantos (mother, deceased), Lucia Callasantos (Thornn, sister), Matteo Callasantos (brother, deceased), Carolina Callasantos (sister, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/feral.jpg"
+  }
+}

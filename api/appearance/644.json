@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Kryptonian",
+  "height": [
+    "6'3",
+    "191 cm"
+  ],
+  "weight": [
+    "225 lb",
+    "101 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Black"
+}

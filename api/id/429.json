@@ -1,0 +1,50 @@
+{
+  "id": 429,
+  "name": "Man-Wolf",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 44,
+    "speed": 35,
+    "durability": 42,
+    "power": 45,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "John Jameson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Stargod",
+      "Vanwolf",
+      "Skywolf"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2'",
+      "188 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Auburn"
+  },
+  "work": {
+    "occupation": "Employed by Dept. of Social Services, Queens; former astronaut, test pilot, security chief for Ravenscroft Institute",
+    "base": "Queens"
+  },
+  "connections": {
+    "groupAffiliation": "Ravencroft Insitute Staff, Avengers Support Crew, NASA, USAF",
+    "relatives": "J. Jonah (father), Joan (mother, deceased), Marla Madison (stepmother), David (paternal grandfather, presumed deceased), Betty (paternal grandmother, presumed deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/man-wolf.jpg"
+  }
+}

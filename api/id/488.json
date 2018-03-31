@@ -1,0 +1,48 @@
+{
+  "id": 488,
+  "name": "Negasonic Teenage Warhead",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 7,
+    "speed": 8,
+    "durability": 10,
+    "power": 45,
+    "combat": 35
+  },
+  "biography": {
+    "fullName": "Ellie Phimister",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Warhead"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New X-Men #115",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/ntw.jpg"
+  }
+}

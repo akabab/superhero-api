@@ -1,0 +1,59 @@
+{
+  "id": 717,
+  "name": "Wolverine",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 32,
+    "speed": 50,
+    "durability": 100,
+    "power": 89,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Logan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Weapon X",
+      "Weapon Ten",
+      "Death",
+      "Mutate 9601",
+      "Jim Logan",
+      "Emilio Garra",
+      "Weapon Chi",
+      "Experiment X",
+      "Agent Ten",
+      "Peter Richards",
+      "Mai kethLogan",
+      "Mr. Patch"
+    ],
+    "placeOfBirth": "Alberta, Canada",
+    "firstAppearance": "Incredible Hulk Vol. 2 #180",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'3",
+      "160 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Adventurer, instructor, former bartender, bouncer, spy, government operative, mercenary, soldier, sailor, miner",
+    "base": "Xavier Institute, Salem Center, Westchester County, New York; Avengers Tower, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, formerly Horsemen of Apocalypse, Fantastic Four, Secret Defenders, Clan Yashida, Department H, Alpha Flight, Department K, Team X, Team_Weapon_X, Devil's Brigade, Canadian Army",
+    "relatives": "John Howlett Sr. (father, deceased), Elizabeth Howlett (mother, deceased), John Howlett Jr. (brother, allegedly deceased), Viper (ex-wife), Amiko (foster daughter), Erista (son), X-23 (clone)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/wolverine.jpg"
+  }
+}

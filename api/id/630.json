@@ -1,0 +1,48 @@
+{
+  "id": 630,
+  "name": "Star-Lord",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 20,
+    "speed": 33,
+    "durability": 50,
+    "power": 25,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Peter Jason Quill",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Starlord"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Marvel Preview #4 (January, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human-Spartoi",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Adventurer; Royal Prince of Spartax",
+    "base": "C.I.T.T.; formerly Kree space; Hala, Daedalus 5"
+  },
+  "connections": {
+    "groupAffiliation": "Guardians of the Galaxy (leader); formerly unnamed commando team, United Front, Imperial Guard, partner of Ship, NASA",
+    "relatives": "Eson (grandfather, deceased), Gareth (great-uncle, deceased), Jason of Sparta (father), Meredith Quill (mother, deceased), Victoria (half-sister), Kip Holm (adopted brother), Sandy (adopted sister in-law), Alain (adopted niece), Rhys, Robyn (adopted nephews), Kitty Pryde (fiance), Unnamed former Symbiote"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/star-lord.jpg"
+  }
+}

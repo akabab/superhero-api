@@ -1,0 +1,55 @@
+{
+  "id": 379,
+  "name": "Kang",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 48,
+    "speed": 58,
+    "durability": 70,
+    "power": 100,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Nathaniel Richards",
+    "alterEgos": "Iron Lad",
+    "aliases": [
+      "Blue Man",
+      "Victor Timely",
+      "Blue Totem",
+      "Scarlet Centurion",
+      "Rama-Tut",
+      "King of Kings",
+      "Master of Men",
+      "Lord of the Seven Suns"
+    ],
+    "placeOfBirth": "Other Earth, 31st century",
+    "firstAppearance": "(As Rama-Tut) Fantastic Four #19 (1963); (as Kang) Avengers #8 (1964)",
+    "publisher": "Iron Lad",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly the Council of Kangs, Cross-Time Kangs",
+    "relatives": "Cassandra Richards, their unnamed son, and matriarch of the Eyriennes; Tara Richards, Reed Richards ( Mister Fantastic ), Franklin Richards, Valeria Richards (all ancestors); various Eyriennes (common ancestry); Victor Von Doom (Doctor Doom, alleged ancestor); Ramades (son), Marcus Kang I-XXIII (sons, deceased); Immortus, Iron Lad, and numerous other alternate dimensional counterparts and their offspring"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/kang.jpg"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 48,
+  "name": "Atlas",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 80,
+    "speed": 25,
+    "durability": 100,
+    "power": 98,
+    "combat": 50
+  },
+  "biography": {
+    "fullName": "Erik Josten",
+    "alterEgos": "Goliath, Power Man, Smuggler",
+    "aliases": [
+      "Power Man",
+      "Smuggler",
+      "Goliath",
+      "Shatterfist",
+      "Intruder from Beyond",
+      "Edward Jantzen"
+    ],
+    "placeOfBirth": "Milwaukee, Wisconsin",
+    "firstAppearance": "Incredible Hulk #449",
+    "publisher": "Goliath",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "Adventurer; former professional criminal, mercenary, dock worker, soldier",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Thunderbolts, formerly Revengers, Defenders (New Jersey Initiative team), Masters of Evil, Maggia, Grim Reaper's Lethal Legion, Mandarin's Minions, Emissaries of Evil; former partner of Citizen V (Dallas Riordan) and Swordsman, Count Nefaria's Lethal Legi",
+    "relatives": "Unidentified parents (deceased), Carl (brother, deceased), Conrad (brother), Lindy (sister, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/atlas-josten.jpg"
+  }
+}

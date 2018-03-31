@@ -1,0 +1,51 @@
+{
+  "id": 95,
+  "name": "Black Adam",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 92,
+    "durability": 100,
+    "power": 100,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Teth-Adam",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hassan Bari",
+      "Theo Adam",
+      "Mighty Adam",
+      "Khem-Adam"
+    ],
+    "placeOfBirth": "Kahndaq, Egypt",
+    "firstAppearance": "Marvel Family #1 (December, 1945)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "250 lb",
+      "113 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City"
+  },
+  "connections": {
+    "groupAffiliation": "None; Formerly the Black Marvel Family, Society of Villains, Injustice Society, Justice Society of America",
+    "relatives": "Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/black-adam.jpg"
+  }
+}

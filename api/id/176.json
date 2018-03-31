@@ -1,0 +1,48 @@
+{
+  "id": 176,
+  "name": "Chuck Norris",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 80,
+    "speed": 47,
+    "durability": 56,
+    "power": 42,
+    "combat": 99
+  },
+  "biography": {
+    "fullName": "Carlos Ray Norris",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Chuck"
+    ],
+    "placeOfBirth": "Ryan, Oklahoma, United States",
+    "firstAppearance": "-",
+    "publisher": null,
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/chuck-norris.jpg"
+  }
+}

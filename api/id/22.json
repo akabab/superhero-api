@@ -1,0 +1,49 @@
+{
+  "id": 22,
+  "name": "Ando Masahashi",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Ando Masahashi",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Huggerz69",
+      "Sidekick"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Yamagato Industries computer programmer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/ando-masahashi.jpg"
+  }
+}

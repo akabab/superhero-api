@@ -1,0 +1,48 @@
+{
+  "id": 639,
+  "name": "Stormtrooper",
+  "powerstats": {
+    "intelligence": 10,
+    "strength": 8,
+    "speed": 8,
+    "durability": 15,
+    "power": 5,
+    "combat": 20
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/stormtrooper.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 574,
+  "name": "Sauron",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 85,
+    "speed": 33,
+    "durability": 100,
+    "power": 100,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Sauron",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Annatar",
+      "Gorthaur the Cruel",
+      "Sauron the Dark",
+      "The Necromancer",
+      "Dark Lord of Mordor",
+      "Lord of the Rings",
+      "The Great Eye"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "J. R. R. Tolkien",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Maiar",
+    "height": [
+      "9'2",
+      "279 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/sauron-lotr.jpg"
+  }
+}

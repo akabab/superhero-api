@@ -1,0 +1,59 @@
+{
+  "id": 643,
+  "name": "Supergirl",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "Kara Zor-El",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Linda Lang",
+      "Kara-El",
+      "Kara Kent",
+      "Flamebird",
+      "Trinity Child",
+      "Teen of Tomorrow",
+      "The Girl of Steel",
+      "The Maid of Might",
+      "The Princess of Power",
+      "Mighty Maid",
+      "Claire Connors",
+      "Bluebird"
+    ],
+    "placeOfBirth": "Argo City, Krypton",
+    "firstAppearance": "Superman/Batman #8 (May, 2004)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Kryptonian",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Intern, Adventurer, Student, Crime-Fighter",
+    "base": "Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Justice League of America, Supermen of America, Justice League of Amazons, Kent Family, Superman Family, Kryptonian Science Guild, Teen Titans, Legion of Super-Heroes, Outsiders",
+    "relatives": "Zor-El (father), Allura In-Ze (mother), Jor-El II (uncle, deceased), Lara Lor-Van (aunt, deceased), Kal-El (Superman,Clark Kent, cousin), Lois Lane (cousin-in-law), Jonathan Kent (adopted uncle), Martha Kent (adopted aunt), Kon-El (Superboy, Conner Kent, clone cousin, deceased), Nim-El (uncle), Dondra Klu-Ta (aunt), Don-El (cousin), Jor-El I (praternal grandfather, deceased), Nimda An-Dor (paternal grandmother, deceased), Lar-Van (maternal grandfather, deceased), Lara Rok-Var (maternal grandmother, deceased), Val-El, Sul-El, Tala-El, Hatu-El, Gam-El (ancestors, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/supergirl.jpg"
+  }
+}

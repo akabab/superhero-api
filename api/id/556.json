@@ -1,0 +1,49 @@
+{
+  "id": 556,
+  "name": "Rhino",
+  "powerstats": {
+    "intelligence": 25,
+    "strength": 80,
+    "speed": 43,
+    "durability": 90,
+    "power": 36,
+    "combat": 85
+  },
+  "biography": {
+    "fullName": "Aleksei Mikhailovich Sytsevich",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Alex O'Hirn",
+      "Mecha-Rhino"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #41",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Radiation",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "710 lb",
+      "320 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Professional Criminal ,Henchman of the Russian Mafia",
+    "base": "Mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Sinister Syndicate",
+    "relatives": "Miriam Sytsevich (mother, deceased), Alexia (niece, lastname unrevealed), unnamed grandmother"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/rhino.jpg"
+  }
+}

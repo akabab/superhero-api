@@ -1,0 +1,52 @@
+{
+  "id": 433,
+  "name": "Marvel Girl",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 85,
+    "speed": 47,
+    "durability": 42,
+    "power": 100,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Rachel Anne Summers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rachel Grey",
+      "formerly Phoenix",
+      "Mother Askani",
+      "Bright Lady",
+      "Aly'zrn Summerset"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "UNCANNY X-MEN #141",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'7'",
+      "170 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Xavier Institute of Higher Learning, Salem Center, Westchester County, New York (formerly) Braddock Lighthouse, England"
+  },
+  "connections": {
+    "groupAffiliation": "Starjammers, formerly X-Men, former servant of Elias Bogan, formerly Clan Askani (leader), Excalibur, former servant of Ahab",
+    "relatives": "Scott Summers (Cyclops, alternate timeline father, deceased in own time), Jean Grey-Summers (Phoenix, alternate timeline mother, deceased in own time), Alex Summers (Havok, alternate timeline uncle), Franklin Richards (alternate future husband), Jonathan Reed Richards (Hyperstorm, alternate future son), David Richards (alternate future son)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/marvel-girl.jpg"
+  }
+}

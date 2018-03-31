@@ -1,0 +1,14 @@
+{
+  "gender": "Female",
+  "race": "Alien",
+  "height": [
+    "6'4",
+    "193 cm"
+  ],
+  "weight": [
+    "218 lb",
+    "98 kg"
+  ],
+  "eyeColor": "White",
+  "hairColor": "Orange"
+}

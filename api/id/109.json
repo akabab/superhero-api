@@ -1,0 +1,48 @@
+{
+  "id": 109,
+  "name": "Blackout",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 32,
+    "speed": 45,
+    "durability": 80,
+    "power": 45,
+    "combat": 65
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Ghost Rider Vol 3 #2 (June, 1990)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Demon",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "White"
+  },
+  "work": {
+    "occupation": "Assassin, enforcer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Lilin; Deathwatch; Hood's gang",
+    "relatives": "Lilith (Great Grandmother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/blackout.jpg"
+  }
+}

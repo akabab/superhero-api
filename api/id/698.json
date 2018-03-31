@@ -1,0 +1,49 @@
+{
+  "id": 698,
+  "name": "Vision II",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Vision",
+    "alterEgos": "Anti-Vision, Vision",
+    "aliases": [
+      "Victor Shade",
+      "Ghost of Stone"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Avengers (Vol. 1) #57",
+    "publisher": "Anti-Vision",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "6'3'",
+      "191 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Avengers Mansion, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Avengers",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/no-portrait.jpg"
+  }
+}

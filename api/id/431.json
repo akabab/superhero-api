@@ -1,0 +1,52 @@
+{
+  "id": 431,
+  "name": "Mantis",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 8,
+    "speed": 33,
+    "durability": 80,
+    "power": 100,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Celestial Madonna",
+      "Willow",
+      "Lorelei",
+      "Mandy Celestine",
+      "This One (in referring to herself)"
+    ],
+    "placeOfBirth": "Vietnam",
+    "firstAppearance": "Avengers #112",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human-Kree",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Celestial Madonna, former adventuress, former bar-maid/prostitute/exotic dancer",
+    "base": "Mobile"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Libra (Gustav Brandt) (father), Lau Brandt (mother), Cotati possessing Jacques Duquesne (husband), Quoi (son)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/mantis.jpg"
+  }
+}

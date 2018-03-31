@@ -1,0 +1,50 @@
+{
+  "id": 306,
+  "name": "Hal Jordan",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 90,
+    "speed": 75,
+    "durability": 80,
+    "power": 100,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Hal Jordan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Parallax",
+      "Spectre",
+      "Green Lantern"
+    ],
+    "placeOfBirth": "Coast City, California",
+    "firstAppearance": "Showcase #22",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Adventurer, Air Force Test Pilot",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Green Lantern Corps, Justice League of America, Justice League Europe, frequently teamed with the second Flash and the original Green Arrow",
+    "relatives": "Martin H. \"Marty\" Jordan (father, deceased), Jessica Jordan (mother, deceased), Jim Jordan (younger brother), Jack Jordan (older brother, deceased), Jan Jordan (sister-in-law, deceased), Helen Jordan (neice), Larry Jordan (Air Wave I - cousin, deceased), Hal Jordan (Air Wave II - cousin)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/hal-jordan.jpg"
+  }
+}

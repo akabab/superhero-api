@@ -1,0 +1,53 @@
+{
+  "id": 100,
+  "name": "Black Flash",
+  "powerstats": {
+    "intelligence": 44,
+    "strength": 10,
+    "speed": 100,
+    "durability": 80,
+    "power": 100,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barry Allen",
+      "Flashback",
+      "Slow Lightning",
+      "Black Racer",
+      "Death Flash",
+      "God of Death"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash Vol 2 #138",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/black-flash.jpg"
+  }
+}

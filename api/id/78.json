@@ -1,0 +1,48 @@
+{
+  "id": 78,
+  "name": "Ben 10",
+  "powerstats": {
+    "intelligence": 10,
+    "strength": 7,
+    "speed": 8,
+    "durability": 10,
+    "power": 90,
+    "combat": 40
+  },
+  "biography": {
+    "fullName": "Benjamin Kirby Tennyson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ben Ten"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Ben 10 S01E01",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/ben-10.jpg"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 91,
+  "name": "Birdman",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 35,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Ray Randal",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bird-Man",
+      "Harvey Birdman",
+      "Ray Randal",
+      "Harvey Birdman Attorney at Law",
+      "Harry",
+      "Henry",
+      "Birdbath",
+      "Bootyliciuos"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Birdman and the Galaxy Trio (1967)",
+    "publisher": "Hanna-Barbera",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/birdman.jpg"
+  }
+}

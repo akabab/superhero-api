@@ -1,0 +1,54 @@
+{
+  "id": 504,
+  "name": "Onslaught",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 33,
+    "durability": 100,
+    "power": 100,
+    "combat": 55
+  },
+  "biography": {
+    "fullName": "Onslaught",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Charlie Silus",
+      "Sir David The Great",
+      "Charles Xavier",
+      "Magneto",
+      "That Which Shall Survive",
+      "the Entity",
+      "Dark Xavier"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Man Vol 1 #15 (May, 1996)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "10'0",
+      "305 cm"
+    ],
+    "weight": [
+      "900 lb",
+      "405 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Would-be destroyer",
+    "base": "Central Park Citadel, Astral Fortress"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Professor Charles Xavier (fusee, deceased); Magneto (fusee)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/onslaught.jpg"
+  }
+}

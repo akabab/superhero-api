@@ -1,0 +1,49 @@
+{
+  "id": 322,
+  "name": "Hellboy",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 53,
+    "speed": 21,
+    "durability": 95,
+    "power": 73,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "Anung Un Rama",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "World Destroyer",
+      "The Great Beast"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Dime Press #4 (May 1, 1993)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Demon",
+    "height": [
+      "8'6",
+      "259 cm"
+    ],
+    "weight": [
+      "350 lb",
+      "158 kg"
+    ],
+    "eyeColor": "Gold",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Abe Sapien, Liz Sherman, Roger the Homunculus, Savage Dragon, the Goon, Batman, Starman, Ghost, Painkiller Jane, Lobster Johnson, Torch of Liberty",
+    "relatives": "Catherine Tanner-Tremaine (mother, deceased), two unnamed maternal half-siblings (deceased), Professor Trevor Bruttenholm (foster father)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/hellboy.jpg"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 572,
+  "name": "Sandman",
+  "powerstats": {
+    "intelligence": 44,
+    "strength": 75,
+    "speed": 46,
+    "durability": 90,
+    "power": 100,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "William Baker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Flint Marko",
+      "Sylvester Mann",
+      "Quarryman"
+    ],
+    "placeOfBirth": "Queens, New York",
+    "firstAppearance": "Amazing Spider-Man #4 (September, 1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "450 lb",
+      "203 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Professional Criminal",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "(Formerly) Sinister Twelve, the Sinister Six, the Frightful Four, the Outlaws and the Wild Pack, reserve member of the Avengers",
+    "relatives": "Mrs. Baker (mother), unidentified cousin"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/sandman.jpg"
+  }
+}

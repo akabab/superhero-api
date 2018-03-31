@@ -1,0 +1,48 @@
+{
+  "id": 9,
+  "name": "Agent 13",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 46,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Sharon Carter",
+    "alterEgos": "Sharon Carter",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Tales of Suspense #75",
+    "publisher": "Sharon Carter",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Agent of SHIELD",
+    "base": "S.H.I.E.L.D. Headquarters, New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Agent of SHIELD.; former member of the Femme Force",
+    "relatives": "Harrison Carter (father), Amanda Carter (mother), Margaret \"Peggy\" Carter (sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/agent-13.jpg"
+  }
+}

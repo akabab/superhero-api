@@ -1,0 +1,51 @@
+{
+  "id": 623,
+  "name": "Spider-Woman",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 42,
+    "speed": 42,
+    "durability": 60,
+    "power": 68,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Jessica Drew",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Arachne",
+      "Ariadne Hyde",
+      "Dark Angel",
+      "Dark Angel of San Francisco"
+    ],
+    "placeOfBirth": "London, England",
+    "firstAppearance": "Marvel Spotlight #32 (February, 1977)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Form agent of HYDRA, former bounty hunter, private investigator, adventurer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Former agent of HYDRA",
+    "relatives": "Jonathan (father, deceased), Merriem (mother, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/spider-woman.jpg"
+  }
+}

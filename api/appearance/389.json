@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Animal",
+  "height": [
+    "100'0",
+    "30.5 meters"
+  ],
+  "weight": [
+    "20000000 lb",
+    "9,000 tons"
+  ],
+  "eyeColor": "Yellow",
+  "hairColor": "Black"
+}

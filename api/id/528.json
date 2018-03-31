@@ -1,0 +1,51 @@
+{
+  "id": 528,
+  "name": "Professor Zoom",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 10,
+    "speed": 100,
+    "durability": 20,
+    "power": 83,
+    "combat": 20
+  },
+  "biography": {
+    "fullName": "Eobard Thawne",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Reverse Flash",
+      "Black Flash",
+      "Adrian Zoom",
+      "Mister Zyx"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #139 (September, 1963)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "179 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Strawberry Blond"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Central Cityplex, 25th Century"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Secret Society of Super-Villains, Black Lantern Corps, White Lantern Corps",
+    "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/professor-zoom.jpg"
+  }
+}

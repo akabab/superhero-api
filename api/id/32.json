@@ -1,0 +1,49 @@
+{
+  "id": 32,
+  "name": "Anti-Monitor",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 50,
+    "durability": 100,
+    "power": 100,
+    "combat": 90
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Monitor",
+      "Mobius"
+    ],
+    "placeOfBirth": "Moon of Qward",
+    "firstAppearance": "Crisis on Infinite Earths #4",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "200",
+      "61.0 meters"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Qward, Antimatter Universe"
+  },
+  "connections": {
+    "groupAffiliation": "Sinestro Corps, Weaponers of Qward, Thunderers of Qward, Shadow Demons",
+    "relatives": "Monitor (\"brother\"), The Monitors"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/anti-monitor.jpg"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Vampire",
+  "height": [
+    "6'2",
+    "188 cm"
+  ],
+  "weight": [
+    "215 lb",
+    "97 kg"
+  ],
+  "eyeColor": "Brown",
+  "hairColor": "Black"
+}

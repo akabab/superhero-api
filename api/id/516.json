@@ -1,0 +1,48 @@
+{
+  "id": 516,
+  "name": "Phantom Girl",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 23,
+    "durability": 28,
+    "power": 53,
+    "combat": 42
+  },
+  "biography": {
+    "fullName": "Tinya Wazzo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "United Planets, Bgztl"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/phantom-girl.jpg"
+  }
+}

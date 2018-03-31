@@ -1,0 +1,48 @@
+{
+  "id": 92,
+  "name": "Bishop",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 14,
+    "speed": 23,
+    "durability": 75,
+    "power": 100,
+    "combat": 65
+  },
+  "biography": {
+    "fullName": "Lucas Bishop",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Archbishop"
+    ],
+    "placeOfBirth": "A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth",
+    "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "275 lb",
+      "124 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)",
+    "base": "Formerly Xavier Institute for Higher Learning, Salem Center, Westchester County, New York"
+  },
+  "connections": {
+    "groupAffiliation": "\"Clean City\"; formerly Stryfe; X-Men; X.S.E. (Storm's team); X-Treme X-Men; X.S.E. (Hecate'e's team); The Twelve",
+    "relatives": "Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/bishop.jpg"
+  }
+}

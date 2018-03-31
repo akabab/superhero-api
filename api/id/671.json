@@ -1,0 +1,48 @@
+{
+  "id": 671,
+  "name": "Toxin",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 73,
+    "speed": 70,
+    "durability": 84,
+    "power": 82,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Patrick Mulligan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Larry"
+    ],
+    "placeOfBirth": "New York City",
+    "firstAppearance": "Venom vs. Carnage #1 (2004)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "215 lb",
+      "97 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Police officer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Ally of Spider-Man and Black Cat",
+    "relatives": "Gina Mulligan (wife), Edward Mulligan (son), Mr. Mulligan (father), Mrs. Mulligan (mother), Carnage (\"father\"), Venom (\"grandfather\")"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/toxin.jpg"
+  }
+}

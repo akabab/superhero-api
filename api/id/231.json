@@ -1,0 +1,50 @@
+{
+  "id": 231,
+  "name": "Doppelganger",
+  "powerstats": {
+    "intelligence": 8,
+    "strength": 63,
+    "speed": 60,
+    "durability": 95,
+    "power": 69,
+    "combat": 84
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Spider-Man Doppelganger",
+      "Spider-Doppelganger",
+      "Mindless One"
+    ],
+    "placeOfBirth": "The Dimension of Manifestations",
+    "firstAppearance": "Infinity War #1 (1992)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Carnage Family; Magus' doppelgangers; operative of Demogoblin",
+    "relatives": "Anthropomorpho (creator); Hellspawn, Moonshade, many other doppelgangers (brethren)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/doppelganger.jpg"
+  }
+}

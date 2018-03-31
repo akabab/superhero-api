@@ -1,0 +1,48 @@
+{
+  "id": 654,
+  "name": "Tempest",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 45,
+    "durability": 28,
+    "power": 66,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "Angel Salvadore Bohusk",
+    "alterEgos": "Angel Salvadore",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New X-Men #118 (November, 2001)",
+    "publisher": "Angel Salvadore",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'4",
+      "163 cm"
+    ],
+    "weight": [
+      "121 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly New Warriors; Special Class",
+    "relatives": "Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/tempest.jpg"
+  }
+}

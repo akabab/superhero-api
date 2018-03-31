@@ -1,0 +1,48 @@
+{
+  "id": 437,
+  "name": "Matt Parkman",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 12,
+    "durability": 14,
+    "power": 59,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Matthew Parkman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S01E02 - Don't Look Back",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "NYPD detective",
+    "base": "New York, NY; formerly Los Angeles, CA"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Maury Parkman (father), Janice Parkman (ex-wife)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/matt-parkman.jpg"
+  }
+}

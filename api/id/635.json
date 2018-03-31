@@ -1,0 +1,49 @@
+{
+  "id": 635,
+  "name": "Steel",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 82,
+    "speed": 53,
+    "durability": 90,
+    "power": 64,
+    "combat": 64
+  },
+  "biography": {
+    "fullName": "John Henry Irons",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Man of Steel",
+      "Henry Johnson"
+    ],
+    "placeOfBirth": "Washington, D.C.",
+    "firstAppearance": "Adventures of Superman #500 (1993)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "290 lb",
+      "131 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Weapons designer, former steelworker",
+    "base": "Steelworks, Metropolis; formerly Jersey City and Washington D.C."
+  },
+  "connections": {
+    "groupAffiliation": "Reserve member of the Justice League of America",
+    "relatives": "Mrs. Irons (mother, deceased), Mr. Irons (father, deceased), Maternal Grandmother (deceased), maternal grandfather (deceased), Butter (grandfather), Bess (grandmother, deceased), Clay Irons (brother), Jemahl Irons (nephew), Blondell Irons (sister-in-law), Natasha Irons (Starlight, niece), Paco (nephew), Tyke (former foster nephew)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/steel.jpg"
+  }
+}

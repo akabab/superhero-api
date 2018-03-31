@@ -1,0 +1,52 @@
+{
+  "id": 647,
+  "name": "Sylar",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 12,
+    "durability": 28,
+    "power": 91,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Gabriel Gray",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Gabriel Sylar",
+      "Drew O'Grady",
+      "Dr. Suresh",
+      "Zane Taylor",
+      "Isaac Mendez"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Timepiece restorer",
+    "base": "New York, NY"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Virginia Gray (mother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/sylar.jpg"
+  }
+}

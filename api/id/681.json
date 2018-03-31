@@ -1,0 +1,48 @@
+{
+  "id": 681,
+  "name": "Utgard-Loki",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 80,
+    "speed": 23,
+    "durability": 84,
+    "power": 85,
+    "combat": 64
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Jotunheim",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Frost Giant",
+    "height": [
+      "50'0",
+      "15.2 meters"
+    ],
+    "weight": [
+      "128000 lb",
+      "58 tons"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
+  },
+  "work": {
+    "occupation": "Monarch",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Giants of Jotunheim",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/utgard-loki.jpg"
+  }
+}

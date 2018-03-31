@@ -1,0 +1,49 @@
+{
+  "id": 540,
+  "name": "Rambo",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 14,
+    "speed": 25,
+    "durability": 30,
+    "power": 30,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "John Rambo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Raven",
+      "Lone Wolf"
+    ],
+    "placeOfBirth": "Bowie, Arizona",
+    "firstAppearance": "First Blood (Novel, 1972)",
+    "publisher": null,
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "185 lb",
+      "83 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "United States Army soldier (former)",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "United States Army (former)",
+    "relatives": "R. Rambo (father), Marie Drago (mother), Col. Sam Trautman (close-friend, father-figure, trainer, best-friend until death)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/rambo.jpg"
+  }
+}

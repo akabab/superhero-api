@@ -1,0 +1,48 @@
+{
+  "id": 220,
+  "name": "DL Hawkins",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 12,
+    "speed": 12,
+    "durability": 56,
+    "power": 48,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Daniel Lawrence Hawkins",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S01E05 - Hiros",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Construction worker, Firefighter",
+    "base": "Las Vegas, NV"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Niki Sanders (wife), Micah Sanders (son), Paulette Hawkins (mother), Monica Dawson (cousin), Damon Dawson (cousin)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/dl-hawkins.jpg"
+  }
+}

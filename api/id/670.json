@@ -1,0 +1,48 @@
+{
+  "id": 670,
+  "name": "Toad",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 34,
+    "speed": 58,
+    "durability": 56,
+    "power": 70,
+    "combat": 28
+  },
+  "biography": {
+    "fullName": "Mortimer Toynbee",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Terrible Toad-King"
+    ],
+    "placeOfBirth": "York, England",
+    "firstAppearance": "X-Men #4 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "169 lb",
+      "76 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Former criminal",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "198; (formerly) Brotherhood of Evil Mutants, Misfits; (formerly) associate of Gideon, Emma Frost",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/toad.jpg"
+  }
+}

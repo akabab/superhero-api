@@ -1,0 +1,53 @@
+{
+  "id": 523,
+  "name": "Polaris",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 73,
+    "speed": 42,
+    "durability": 50,
+    "power": 100,
+    "combat": 45
+  },
+  "biography": {
+    "fullName": "Lorna Dane",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pestilence",
+      "formerly Malice",
+      "Polarity",
+      "Magnetrix",
+      "M-2",
+      "Magneto the Second"
+    ],
+    "placeOfBirth": "Presumably northern California - not confirmed",
+    "firstAppearance": "X-Men #49 (October, 1968)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Green"
+  },
+  "work": {
+    "occupation": "Adventurer, former U.S. government operative, former graduate student in geophysics",
+    "base": "Serval Industries, Virginia; formerly X-Factor Investigations Headquarters, Starjammer; Xavier Institute for Higher Learning, Salem Center, Westchester County, New York; Genosha; X-Factor HQ, Washington D.C., Maryland; Mutant Research Center, Muir Island;"
+  },
+  "connections": {
+    "groupAffiliation": "X-Factor (Serval Industries); formerly X-Factor Investigations, Starjammers, X-Men, Horsemen of Apocalypse, Genoshan Cabinet, X-Factor (Government), The Twelve, Acolytes, Muir Island X-Men, Defenders for a Day, Marauders (possessed by Malice)",
+    "relatives": "Joseph (father's clone/paternal uncle, deceased), Magneto (father), Magda Lehnsherr (step-mother, deceased), Zaladane (sister, status uncertain), Anya Lehnsherr (paternal half-sister, deceased), Scarlet Witch (paternal half-sister), Quicksilver (paternal half-brother), Nightcrawler (half-brother-in-law), Vision (half-brother-in-law), Crystal (half-sister-in-law), Nocturne (half-niece), Speed (half-nephew), Wiccan (half-nephew), Luna Maximoff (half-niece)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/polaris.jpg"
+  }
+}

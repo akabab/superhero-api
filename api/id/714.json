@@ -1,0 +1,49 @@
+{
+  "id": 714,
+  "name": "Winter Soldier",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 32,
+    "speed": 35,
+    "durability": 65,
+    "power": 60,
+    "combat": 84
+  },
+  "biography": {
+    "fullName": "Bucky Barnes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bucky",
+      "Captain America"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "260 lb",
+      "117 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Adventurer; former SHIELD operative, Assassin (See Note under \"Winter Soldier\" article), Army Mascot, Student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Black Widow (partner), Nick Fury (employer); formerly Avengers, New Avengers, Invaders, Kid Commandos, Liberty Legion, Young Allies, Crazy S.U.E.S., Captain America (partner), Falcon (partner)",
+    "relatives": "George M. Barnes (father, deceased), Winifred C. Barnes (mother, deceased), Rebecca P. Barnes Proctor (sister), Ida (aunt, presumed deceased), Mr. Proctor (brother-in-law), unidentified niece and nephew, Scott Proctor (grandnephew), Kimberly Proctor (grandniece)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/winter-soldier.jpg"
+  }
+}

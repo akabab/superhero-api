@@ -1,0 +1,49 @@
+{
+  "id": 268,
+  "name": "Forge",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 12,
+    "durability": 28,
+    "power": 25,
+    "combat": 48
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Maker",
+      "Cheyenne"
+    ],
+    "placeOfBirth": "Unrevealed, presumably in the American West",
+    "firstAppearance": "Uncanny X-Men #184",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "6'",
+      "183 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Inventor working for the U.S. government, former soldier",
+    "base": "Arlington, Virginia"
+  },
+  "connections": {
+    "groupAffiliation": "X-Factor",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/forge.jpg"
+  }
+}

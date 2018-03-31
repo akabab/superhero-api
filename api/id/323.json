@@ -1,0 +1,50 @@
+{
+  "id": 323,
+  "name": "Hellcat",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 11,
+    "speed": 33,
+    "durability": 45,
+    "power": 46,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Patricia Walker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Patsy Walker",
+      "Patricia Hellstrom",
+      "The Cat"
+    ],
+    "placeOfBirth": "Centerville, CA USA",
+    "firstAppearance": "Avengers #144 (February, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "Housemaker, model, adventurer, supernatural investigator",
+    "base": "San Francisco, CA USA"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Alaskan-based Initiative agent, Lady Liberators, Avengers, Defenders, Legion of the Unliving",
+    "relatives": "Joshua Walker (father), Dorothy Walker (mother, deceased), Sophia (maternal aunt), Bea (step-mother), Mickey Walker (brother), Robert \"Buzz\" Baxter (aka Mad-Dog, ex-husband), Daimon Hellstrom (aka Hellstorm, ex-husband), Percy Walker"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/hellcat.jpg"
+  }
+}

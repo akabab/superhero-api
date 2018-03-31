@@ -1,0 +1,51 @@
+{
+  "id": 265,
+  "name": "Flash II",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 48,
+    "speed": 100,
+    "durability": 60,
+    "power": 100,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "Barry Allen",
+    "alterEgos": "Black Racer",
+    "aliases": [
+      "The Scarlet Speedster",
+      "the Fastest Man Alive",
+      "the Monarch of Motion",
+      "the Sultan of Speed"
+    ],
+    "placeOfBirth": "Fallville, Iowa",
+    "firstAppearance": "Showcase #4 (October, 1956)",
+    "publisher": "Black Racer",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Black Racer",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Forensic Scientist",
+    "base": "Central City, Missouri"
+  },
+  "connections": {
+    "groupAffiliation": "Flash Family, Justice League of America; formerly Blue Lantern Corps",
+    "relatives": "Henry and Nora (parents), Malcolm Thawne (twin), Iris West Allen (wife), Wally West (Flash III, nephew), Don and Dawn Allen (son and daughter), Bart Allen (Flash IV, grandson), Jenni Ognats (granddaughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/flash-2.jpg"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 489,
+  "name": "Nick Fury",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 11,
+    "speed": 23,
+    "durability": 42,
+    "power": 25,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Nicholas Joseph Fury",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Doyle",
+      "The Mystery in the Mask",
+      "Patch",
+      "Scorpio"
+    ],
+    "placeOfBirth": "New York City",
+    "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "221 lb",
+      "99 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown / White"
+  },
+  "work": {
+    "occupation": "S.H.I.E.L.D. director; former S.H.I.E.L.D. agent, intelligence agent, soldier and commando leader, parachuting instructor, stunt flyer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Secret Avengers, SHIELD (both incarnations); formerly Team Valkyrie, C.I.A., liaison to MI-5, O.S.S., Howling Commandos, U.S. Army",
+    "relatives": "Jack Fury (father, deceased);\nunnamed mother;\nunnamed stepmother (deceased);\nDawn Fury (half-sister);\nJake Fury (half-brother);\nMikel Fury (son, deceased);\nJerry Sapristi (cousin);\nTina Sapristi (cousin by marriage);\nErnesto, Pietro, Giovanni, Maria, Rosa and Gabriella (1st cousins once removed);"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/nick-fury.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 678,
+  "name": "Two-Face",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 10,
+    "speed": 12,
+    "durability": 14,
+    "power": 9,
+    "combat": 28
+  },
+  "biography": {
+    "fullName": "Harvey Dent",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Apollo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "182 lb",
+      "82 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Reformed criminal; former district attorney",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/two-face.jpg"
+  }
+}

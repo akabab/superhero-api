@@ -1,0 +1,14 @@
+{
+  "gender": "Female",
+  "race": "Human",
+  "height": [
+    "5'7",
+    "170 cm"
+  ],
+  "weight": [
+    "140 lb",
+    "63 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Blond"
+}

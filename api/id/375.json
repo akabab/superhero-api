@@ -1,0 +1,48 @@
+{
+  "id": 375,
+  "name": "Junkpile",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 38,
+    "speed": 17,
+    "durability": 90,
+    "power": 81,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men 2099 #1 (October, 1993)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Mercenary; Former member of S.H.I.E.L.D.",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Former member of X-Men, former member of S.H.I.E.L.D.",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/junkpile.jpg"
+  }
+}

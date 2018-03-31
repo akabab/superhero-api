@@ -1,0 +1,49 @@
+{
+  "id": 135,
+  "name": "Box IV",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 75,
+    "speed": 23,
+    "durability": 28,
+    "power": 11,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Madison Jeffries",
+    "alterEgos": "Gemini V",
+    "aliases": [
+      "Gemini",
+      "Jack-In-The-Box"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Alpha Flight #16",
+    "publisher": "Gemini V",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown / Black"
+  },
+  "work": {
+    "occupation": "Inventor, former soldier",
+    "base": "Base of operations unknown"
+  },
+  "connections": {
+    "groupAffiliation": "Alpha Flight, Gamma Flight, Zodiac, Team_Weapon_X",
+    "relatives": "Scramble (Lionel Jeffries, brother, deceased), Diamond Lil (wife)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/box-4.jpg"
+  }
+}

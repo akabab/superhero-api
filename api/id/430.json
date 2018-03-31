@@ -1,0 +1,52 @@
+{
+  "id": 430,
+  "name": "Mandarin",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 28,
+    "speed": 23,
+    "durability": 28,
+    "power": 100,
+    "combat": 95
+  },
+  "biography": {
+    "fullName": "Khan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tem Borjigin",
+      "Gene Kahn",
+      "Master Khan",
+      "Zhang Tong",
+      "Mandy"
+    ],
+    "placeOfBirth": "China",
+    "firstAppearance": "Tales of Suspense #50 (February, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "215 lb",
+      "97 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
+  },
+  "work": {
+    "occupation": "Would-be conqueror; former janitor, businessman and crimelord, government administrator",
+    "base": "Prometheus Corporation; formerly Dragon of Heaven; Palace of the Star Dragon in the Valley of Spirits."
+  },
+  "connections": {
+    "groupAffiliation": "current CEO of Prometheus Corporation; has employed the Avatars, Living Laser, Power Man, Swordsman, Enchantress, Executioner, Sandman, and Ladykiller.",
+    "relatives": "Unidentified father, mother, paternal aunt (all deceased). Mei-Ling (fianc?e, deceased), Temujin (son), Genghis Khan (alleged ancestor, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/mandarin.jpg"
+  }
+}

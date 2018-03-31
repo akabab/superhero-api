@@ -1,0 +1,48 @@
+{
+  "id": 582,
+  "name": "Sebastian Shaw",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 85,
+    "speed": 12,
+    "durability": 95,
+    "power": 36,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Sebastian Hiram Shaw",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/no-portrait.jpg"
+  }
+}

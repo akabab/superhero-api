@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Frost Giant",
+  "height": [
+    "50'0",
+    "15.2 meters"
+  ],
+  "weight": [
+    "128000 lb",
+    "58 tons"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "White"
+}

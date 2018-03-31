@@ -1,0 +1,49 @@
+{
+  "id": 611,
+  "name": "Space Ghost",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 18,
+    "speed": 33,
+    "durability": 40,
+    "power": 95,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Thaddeus Bach",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ted Ghostel",
+      "Tad Ghostal"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Space Ghost (1966)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "250 lb",
+      "113 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Galactic Heroes",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/space-ghost.jpg"
+  }
+}

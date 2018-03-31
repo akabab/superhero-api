@@ -1,0 +1,51 @@
+{
+  "id": 156,
+  "name": "Captain Marvel",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 88,
+    "durability": 95,
+    "power": 100,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "Billy Batson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The World's Mightiest Mortal",
+      "The Big Red Cheese",
+      "Captain Thunder",
+      "Shazam"
+    ],
+    "placeOfBirth": "Fawcett City, United States",
+    "firstAppearance": "Whiz Comics no. 2 (1940)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'4",
+      "193 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Marvel Family, Justice Society of America",
+    "relatives": "C.C. Batson (father, deceased), Marilyn Batson (mother, deceased), Ebenezer Batson (uncle), Mary Batson (Mary Marvel, sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/captain-marvel.jpg"
+  }
+}

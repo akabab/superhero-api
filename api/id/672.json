@@ -1,0 +1,56 @@
+{
+  "id": 672,
+  "name": "Toxin",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 80,
+    "speed": 42,
+    "durability": 85,
+    "power": 97,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Eddie Brock",
+    "alterEgos": "Anti-Venom, Venom",
+    "aliases": [
+      "Eddie",
+      "Sister Edwina",
+      "\"Ed\"",
+      "Edwin Brock",
+      "Venom",
+      "Lethal Protector",
+      "998th",
+      "Anti-Venom",
+      "White Venom"
+    ],
+    "placeOfBirth": "San Francisco, California",
+    "firstAppearance": "Venom Vol 2 #17",
+    "publisher": "Anti-Venom",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "260 lb",
+      "117 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Vigilante; former symbiote hunter, shelter attendant, government operative, journalist for the Daily Globe",
+    "base": "New York, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly; temporary partner of Agent Venom, Savage Six, Sinister Six, Revengers, former partner of Vengeance, Spider-Man, Scarlet Spider. Volunteer at F.E.A.S.T.",
+    "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Anti-Venom Symbiote (former symbiote, uncle and former brother, deceased), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/toxin-2.jpg"
+  }
+}

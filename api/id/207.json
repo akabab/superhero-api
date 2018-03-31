@@ -1,0 +1,49 @@
+{
+  "id": 207,
+  "name": "Darth Maul",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 48,
+    "speed": 50,
+    "durability": 30,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sith",
+      "Master Of The Double-Bladed Lightsaber"
+    ],
+    "placeOfBirth": "Dathomir",
+    "firstAppearance": "Star Wars Episode I: The Phantom Menace (1999)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Dathomirian Zabrak",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Yellow / Red",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Darth Sidious (Master)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/darth-maul.jpg"
+  }
+}

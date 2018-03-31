@@ -1,0 +1,14 @@
+{
+  "gender": "Female",
+  "race": null,
+  "height": [
+    "5'6'",
+    "168 cm"
+  ],
+  "weight": [
+    "120 lb",
+    "54 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Strawberry Blond"
+}

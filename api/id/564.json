@@ -1,0 +1,51 @@
+{
+  "id": 564,
+  "name": "Robin V",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 8,
+    "speed": 33,
+    "durability": 16,
+    "power": 29,
+    "combat": 65
+  },
+  "biography": {
+    "fullName": "Damian Wayne",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Batman",
+      "Damian al Ghul",
+      "Ibn al Xu'ffasch",
+      "Redbird"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman: Son of the Demon",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "4'6",
+      "137 cm"
+    ],
+    "weight": [
+      "84 lb",
+      "38 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Batman Inc., Wayne Enterprises; formerly Teen Titans, League of Assassins",
+    "relatives": "Talia al Ghul (mother),\nBruce Wayne (Batman, father),\nRa's Al Ghul (maternal grandfather),\nMelisande (maternal grandmother),\nThomas Wayne (paternal grandfather),\nMartha Wayne (paternal grandmother),\nSensei (great-grandfather),\nSimon Hurt (ancestor),\nNyssa Raatko (aunt, deceased),\nDusan al Ghul (White Ghost, uncle, deceased),\nRichard Grayson (Nightwing, adoptive brother),\nTim Drake (Red Robin, adoptive brother),\nCassandra Cain (Batgirl IV, adoptive sister),\nJason Todd (Red Hood, adoptive brother), \nPatrick Wayne (great-grandfather, deceased); \nCharles Wayne (great-great-grandfather, deceased);\nConstance Wayne (great-great-grandmother, deceased); \nAlan Wayne (ancestor, deceased); \nSolomon Wayne (ancestor, deceased); \nDarius Wayne (ancestor, deceased); \nJoshua Wayne (ancestor, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/robin-v.jpg"
+  }
+}

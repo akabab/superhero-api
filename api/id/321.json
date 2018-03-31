@@ -1,0 +1,48 @@
+{
+  "id": 321,
+  "name": "Hela",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 100,
+    "speed": 46,
+    "durability": 100,
+    "power": 100,
+    "combat": 45
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Goddess of Death"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Journey into Mystery #102",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Asgardian",
+    "height": [
+      "7'0",
+      "213 cm"
+    ],
+    "weight": [
+      "500 lb",
+      "225 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Asgardian Goddess of Death, former Ruler of Hel and Niffleheim",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Loki (father), Thor (Uncle)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/hela.jpg"
+  }
+}

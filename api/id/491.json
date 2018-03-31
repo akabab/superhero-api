@@ -1,0 +1,57 @@
+{
+  "id": 491,
+  "name": "Nightwing",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 11,
+    "speed": 33,
+    "durability": 28,
+    "power": 36,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Dick Grayson",
+    "alterEgos": "Batman II, Robin",
+    "aliases": [
+      "Freddie Dinardo",
+      "Freddy Loyd",
+      "The Target",
+      "Renegade",
+      "The Worlds Greatest Acrobat",
+      "The Aerial Avenger",
+      "Pixie Boots",
+      "The Boy / Teen Wonder",
+      "The Worlds Greatest Detective",
+      "The Caped Crusader"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "as Dick Grayson and Robin) Detective Comics #38, (as Nightwing) Tales of the Teen Titans #44, (as Batman) Batman #512",
+    "publisher": "Batman II",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Vigilante and detective, former police officer, former Circus Acrobat",
+    "base": "Wayne Tower, Gotham City; formerly the Batcave; formerly Bludhaven; formerly New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family and the JLA; formerly the Teen Titans, the New Titans, the Titans and the Outsiders",
+    "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/nightwing.jpg"
+  }
+}

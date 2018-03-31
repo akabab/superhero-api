@@ -1,0 +1,49 @@
+{
+  "id": 353,
+  "name": "James T. Kirk",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 11,
+    "speed": 17,
+    "durability": 30,
+    "power": 30,
+    "combat": 75
+  },
+  "biography": {
+    "fullName": "James T. Kirk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jim",
+      "Captain Kirk"
+    ],
+    "placeOfBirth": "Riverside, Iowa, Earth",
+    "firstAppearance": "Star Trek S01E01: The Man Trap",
+    "publisher": "Star Trek",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Hazel",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Captain",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Federation, Starfleet",
+    "relatives": "Winona Kirk (mother), George Kirk (father), George Samuel Kirk (brother), Michele Suzanne Kirk (sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/james-t-kirk.jpg"
+  }
+}

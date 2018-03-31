@@ -1,0 +1,49 @@
+{
+  "id": 558,
+  "name": "Riddler",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 10,
+    "speed": 12,
+    "durability": 14,
+    "power": 10,
+    "combat": 14
+  },
+  "biography": {
+    "fullName": "Edward Nigma",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "E. Nigma",
+      "Edward E. Nigma"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Detective Comics #140 (1948)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/riddler.jpg"
+  }
+}

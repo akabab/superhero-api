@@ -1,0 +1,48 @@
+{
+  "id": 181,
+  "name": "Clock King",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 17,
+    "durability": 10,
+    "power": 7,
+    "combat": 40
+  },
+  "biography": {
+    "fullName": "William Tockman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tempus Fugit"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "World's Finest #111 (August, 1960)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "173 lb",
+      "78 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Clockwatchers, Justice League Antarctica, Suicide Squad, Time Foes",
+    "relatives": "Beverly (sister, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/clock-king.jpg"
+  }
+}

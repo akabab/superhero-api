@@ -1,0 +1,67 @@
+{
+  "id": 530,
+  "name": "Punisher",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 16,
+    "speed": 21,
+    "durability": 45,
+    "power": 42,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Frank Castle",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Big Nothing",
+      "Major Bateman",
+      "Ted Bishop",
+      "Cliff Callador",
+      "Castigo",
+      "Chaloner",
+      "Fred D'Amato",
+      "Eastman",
+      "Charles Fort",
+      "Frank Loomis",
+      "McRook",
+      "Melchior",
+      "Joe Rainey",
+      "Frank Rook",
+      "Richard Rook",
+      "Tony Knowlen Ross",
+      "Francis Stronghold",
+      "Johnny Tower",
+      "Dmitri Velikoff",
+      "Fra"
+    ],
+    "placeOfBirth": "Queens, New York",
+    "firstAppearance": "AMAZING SPIDER-MAN #129",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0'",
+      "183 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Former United States Marine turned professional vigilante",
+    "base": "Mobile, usually in New York City"
+  },
+  "connections": {
+    "groupAffiliation": "None; Formerly Secret Avengers, Daredevil's Unnamed Super-Hero Team, Green Berets, U.S. Marine Corps",
+    "relatives": "Maria Castle (Wife, deceased), Christie Castle (Daughter, deceased), Frank Castle Junior (Son, deceased), Mario Castle (Father, deceased), Louisa Castle (Mother, deceased), Rocco Castiglione (Uncle, deceased), Esmerelda Castiglione (Aunt, deceased), Michael Castle (Brother, stillborn, deceased)."
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/punisher.jpg"
+  }
+}

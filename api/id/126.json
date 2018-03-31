@@ -1,0 +1,48 @@
+{
+  "id": 126,
+  "name": "Blue Beetle III",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 34,
+    "speed": 58,
+    "durability": 80,
+    "power": 100,
+    "combat": 30
+  },
+  "biography": {
+    "fullName": "Jaime Reyes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Scooter"
+    ],
+    "placeOfBirth": "Presumed to be El Paso",
+    "firstAppearance": "Infinite Crisis #3 (2006)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Student",
+    "base": "El Paso, Texas"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League International,Posse; Teen Titans",
+    "relatives": "Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/blue-beetle-3.jpg"
+  }
+}

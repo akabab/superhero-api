@@ -1,0 +1,48 @@
+{
+  "id": 446,
+  "name": "Metamorpho",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 82,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Rex Mason",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Element Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Brave and the Bold #57",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Adventurer, former Soldier of Fortune",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Outsiders, formerly Doom Patrol, Justice League Europe, Seven Soldiers of Victory",
+    "relatives": "Unnamed parents (deceased), Sapphire Stagg Mason (wife), Joseph (son), Simon Stagg (father-in-law)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/metamorpho.jpg"
+  }
+}

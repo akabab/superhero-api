@@ -1,0 +1,51 @@
+{
+  "id": 458,
+  "name": "Mister Knife",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 17,
+    "durability": 30,
+    "power": 13,
+    "combat": 65
+  },
+  "biography": {
+    "fullName": "J'son",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jason of Spartax",
+      "Jason of Sparta",
+      "Star-Lord",
+      "Mr Knife"
+    ],
+    "placeOfBirth": "Spartax, Spartoi Empire, near the Shi'ar Galaxy",
+    "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Spartoi",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Crimelord; former emperor, prince",
+    "base": "Formerly Spartax, Spartoi Empire, near the Shi'ar Galaxy"
+  },
+  "connections": {
+    "groupAffiliation": "Slaughter Lords (leader); formerly Galactic Council, ruler of the Spartoi Empire",
+    "relatives": "Eson (father, deceased), Peter Quill (Star-Lord, son), Victoria (daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/mister-knife.jpg"
+  }
+}

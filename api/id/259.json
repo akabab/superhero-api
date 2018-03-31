@@ -1,0 +1,50 @@
+{
+  "id": 259,
+  "name": "Firestar",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 8,
+    "speed": 54,
+    "durability": 55,
+    "power": 71,
+    "combat": 32
+  },
+  "biography": {
+    "fullName": "Angelica Jones",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Angel",
+      "Anj",
+      "Lady Comet"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Uncanny X-Men #193 (May, 1985)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "Student",
+    "base": "New Warriors Crash Pad, New York City, New York State; Avengers Mansion, New York City, New York State; and formerly Massachusetts Academy, Snow Valley, Massachusetts"
+  },
+  "connections": {
+    "groupAffiliation": "New Warriors Reservist, Avengers Reservist, and Former Hellion and student of the White Queen",
+    "relatives": "Bartholomew Jones (father), Nana (grandmother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/firestar.jpg"
+  }
+}

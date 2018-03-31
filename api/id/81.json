@@ -1,0 +1,49 @@
+{
+  "id": 81,
+  "name": "Big Barda",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 79,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Barda Free",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barda",
+      "the Strongest Woman in the World"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Mister Miracle (Volume 1) #4",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "New God",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Gotham City, New Genesis, formerly Apokolips"
+  },
+  "connections": {
+    "groupAffiliation": "Apocalypse, New Gods, Birds of Prey, formerly Female Furies, formerly Justice League of America",
+    "relatives": "Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/big-barda.jpg"
+  }
+}

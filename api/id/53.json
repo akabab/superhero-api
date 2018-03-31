@@ -1,0 +1,50 @@
+{
+  "id": 53,
+  "name": "Atom II",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 10,
+    "speed": 33,
+    "durability": 45,
+    "power": 40,
+    "combat": 60
+  },
+  "biography": {
+    "fullName": "Ray Palmer",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Mighty Mite",
+      "the Tiny Titan",
+      "the World's Smallest Hero"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Showcase #34",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Auburn"
+  },
+  "work": {
+    "occupation": "Physics Professor",
+    "base": "Ivy Town"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League of America, formerly; Suicide Squad, Teen Titans",
+    "relatives": "Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/atom-2.jpg"
+  }
+}

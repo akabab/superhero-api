@@ -1,0 +1,52 @@
+{
+  "id": 286,
+  "name": "Goblin Queen",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 23,
+    "durability": 28,
+    "power": 65,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Madelyne Jennifer Pryor",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Anodyne",
+      "Maddie",
+      "Lyne",
+      "Red",
+      "Madelyne Pryor-Summers"
+    ],
+    "placeOfBirth": "Created in Sinister's Labs, Nebraska",
+    "firstAppearance": "Uncanny X-Men #168",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Mobile; formerly Anchorage, Alaska; Reaver Base, Australian Outback, Australia; Empire State Building, New York, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Former ally of X-Men, partner of N'Astirh",
+    "relatives": "Mister Sinister (creator), Jean Grey (Phoenix, genetic template), Scott Summers (Cyclops, husband), Nathan Christopher Summers (Cable, son), Christopher Summers (Corsair, father-in-law), Alex Summers (Havok, brother-in-law)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/goblin-queen.jpg"
+  }
+}

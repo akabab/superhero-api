@@ -1,0 +1,57 @@
+{
+  "id": 170,
+  "name": "Chameleon",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 10,
+    "speed": 12,
+    "durability": 28,
+    "power": 28,
+    "combat": 28
+  },
+  "biography": {
+    "fullName": "Dmitri Anatoly Smerdyakov Kravinoff",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dr. Ashley Kafka",
+      "Dr. Turner",
+      "J. Jonah Jameson",
+      "Torpedo",
+      "Rick Jones",
+      "Dr. Henry Pym",
+      "Peter Parker",
+      "Captain George Stacy",
+      "Dr. Robert Bruce Banner",
+      "General"
+    ],
+    "placeOfBirth": "Russia",
+    "firstAppearance": "Amazing Spider-Man #1",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "The Exterminators; formerly Sinister Six, Sinister Twelve",
+    "relatives": "Kravinoff Patriarch (father, deceased), mother (unnamed), Sergei Kravinoff (Kraven I, half-brother, deceased), Vladimir Kravinoff (The Grim Hunter, nephew, deceased), Alyosha Kravinoff (Kraven the Hunter, nephew), Ned Tannengarden (nephew, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/chameleon.jpg"
+  }
+}

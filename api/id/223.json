@@ -1,0 +1,49 @@
+{
+  "id": 223,
+  "name": "Doctor Doom II",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Kristoff Vernard",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Victor Von Doom",
+      "Dr Doom"
+    ],
+    "placeOfBirth": "Doomstadt, Latveria",
+    "firstAppearance": "Fantastic Four #247 (1982, as Kristoff), Fantastic Four #278 (1985, as Doctor Doom)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "293 lb",
+      "132 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Former monarch, would-be conqueror"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "unnamed mother (deceased), Mister Fantastic (alleged half-brother), Valeria Richards (alleged niece), Victor von Doom (aka Doctor Doom, adopted father)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/doctor-doom-2.jpg"
+  }
+}

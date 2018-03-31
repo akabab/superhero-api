@@ -1,0 +1,50 @@
+{
+  "id": 15,
+  "name": "Alex Mercer",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 80,
+    "speed": 42,
+    "durability": 90,
+    "power": 100,
+    "combat": 50
+  },
+  "biography": {
+    "fullName": "Alexander J. Mercer",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Prototype",
+      "Zues",
+      "Blacklight"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Wildstorm",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Gentek, The Infected",
+    "relatives": "Dana Mercer (sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/alex-mercer.jpg"
+  }
+}

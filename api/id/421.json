@@ -1,0 +1,52 @@
+{
+  "id": 421,
+  "name": "Mach-IV",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 36,
+    "speed": 60,
+    "durability": 84,
+    "power": 60,
+    "combat": 56
+  },
+  "biography": {
+    "fullName": "Abner Jenkins",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Beetle",
+      "MACH-I",
+      "MACH-II",
+      "MACH-III",
+      "Matthew"
+    ],
+    "placeOfBirth": "Baltimore, Maryland",
+    "firstAppearance": "(Beetle) Strange Tales #123 (1964); (MACH-I) Incredible Hulk #449 (1997); (MACH-II) Thunderbolts #37 (2000); (MACH-III) Thunderbolts #57 (2001); (MACH-IV) New Thunderbolts #1 (2005)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Adventurer; former master mechanic, professional criminal, mercenary",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "formerly Thunderbolts, Masters of Evil, Sinister Syndicate, Justin Hammer's Hit Squad, Maggia, Sinister Seven, Commission on Superhuman Activities, Defenders impersonators, Burton Canyon Police Department",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/mach-4.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 236,
+  "name": "Elastigirl",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 32,
+    "speed": 33,
+    "durability": 95,
+    "power": 52,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Helen Parr",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mrs Incredible"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Incredible Family (co-leader), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend), Mirage (ally), Snug Porter (receives aircraft from him)",
+    "relatives": "Robert Parr(Mr Incredible, husband), Violet Parr(Violet, daughter), Dashiell Parr (Dash, son), Jack-jack (son)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/elastigirl.jpg"
+  }
+}

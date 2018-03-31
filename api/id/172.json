@@ -1,0 +1,49 @@
+{
+  "id": 172,
+  "name": "Cheetah",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 8,
+    "speed": 42,
+    "durability": 20,
+    "power": 32,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Priscilla Rich",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kay Carlton",
+      "The Cheetah"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'4",
+      "163 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Villainy Inc",
+    "relatives": "Claudia Rich (cousin), Debi Domaine (niece)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/cheetah-1.jpg"
+  }
+}

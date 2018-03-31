@@ -1,0 +1,48 @@
+{
+  "id": 424,
+  "name": "Magog",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 48,
+    "speed": 23,
+    "durability": 64,
+    "power": 66,
+    "combat": 72
+  },
+  "biography": {
+    "fullName": "David Reid",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "formerly Justice Society of America, formerally United States Marine Corps",
+    "relatives": "Franklin Delano Roosevelt (great-grandfather, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/magog.jpg"
+  }
+}

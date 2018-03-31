@@ -1,0 +1,49 @@
+{
+  "id": 599,
+  "name": "Silverclaw",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 28,
+    "speed": 35,
+    "durability": 42,
+    "power": 34,
+    "combat": 42
+  },
+  "biography": {
+    "fullName": "Maria de Guadalupe Santiago",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "La Garra Argentado",
+      "Daughter of the Volcano God,"
+    ],
+    "placeOfBirth": "The village of Kamekeri, Costa Verde",
+    "firstAppearance": "Avengers #8 (1998)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'2",
+      "157 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "University student, adventurer",
+    "base": "Empire State University and Avengers Mansion, New York City, NY"
+  },
+  "connections": {
+    "groupAffiliation": "The Secret Avengers, formerly reserve member of the Avengers",
+    "relatives": "Jaime Santiago (father), Peliali (mother), Edwin Jarvis (\"uncle\")"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/silverclaw.jpg"
+  }
+}

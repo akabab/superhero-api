@@ -1,0 +1,14 @@
+{
+  "gender": "Female",
+  "race": "Amazon",
+  "height": [
+    "6'0",
+    "183 cm"
+  ],
+  "weight": [
+    "165 lb",
+    "74 kg"
+  ],
+  "eyeColor": "Blue",
+  "hairColor": "Black"
+}

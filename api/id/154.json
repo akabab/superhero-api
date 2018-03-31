@@ -1,0 +1,48 @@
+{
+  "id": 154,
+  "name": "Captain Hindsight",
+  "powerstats": {
+    "intelligence": 25,
+    "strength": 10,
+    "speed": 83,
+    "durability": 30,
+    "power": 10,
+    "combat": 20
+  },
+  "biography": {
+    "fullName": "Jack Brolin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "South Park S14 E11 \"Coon 2: Hindsight\"",
+    "publisher": "South Park",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Former Superhero; News Reporter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/captain-hindsight.jpg"
+  }
+}

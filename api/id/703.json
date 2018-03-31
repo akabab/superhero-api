@@ -1,0 +1,50 @@
+{
+  "id": 703,
+  "name": "War Machine",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 80,
+    "speed": 63,
+    "durability": 100,
+    "power": 100,
+    "combat": 85
+  },
+  "biography": {
+    "fullName": "James Rupert Rhodes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rhodey",
+      "Iron Man",
+      "Jim Rhodes"
+    ],
+    "placeOfBirth": "Philadelphia, Pennsylvania",
+    "firstAppearance": "Iron Man #118 (1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "210 lb",
+      "95 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Initiative instructor, adventurer, government agent; formerly: Sentinel Squad O*N*E combat instructor, soldier, pilot",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Initiative; formerly: Sentinel Squad O*N*E, Office of National Emergency (O*N*E), Crew, Secret Defenders, Worldwatch, Stark Enterprises, Force Works, West Coast Avengers, U.S. Marine Corps",
+    "relatives": "David Rhodes (father), Roberta Rhodes (mother), Jeanette Rhodes (sister, deceased), Josh (uncle, last name unrevealed), unnamed alleged son"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/war-machine.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 365,
+  "name": "JJ Powell",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 10,
+    "speed": 8,
+    "durability": 10,
+    "power": 14,
+    "combat": 10
+  },
+  "biography": {
+    "fullName": "JJ Powell",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Jim Powell and Stephanie Powell (parents), Daphne Powell (sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/jj-powell.jpg"
+  }
+}

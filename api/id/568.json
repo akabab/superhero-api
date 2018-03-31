@@ -1,0 +1,59 @@
+{
+  "id": 568,
+  "name": "Ronin",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 12,
+    "speed": 21,
+    "durability": 10,
+    "power": 13,
+    "combat": 80
+  },
+  "biography": {
+    "fullName": "Clint Barton",
+    "alterEgos": "Goliath, Hawkeye",
+    "aliases": [
+      "Formerly Hawkeye",
+      "the Marksman",
+      "'Br'er Hawkeye'",
+      "Superhuman Cellblock Prisoner 334556",
+      "Longbow",
+      "Goliath",
+      "Father Time",
+      "Louis",
+      "Robin Hood",
+      "the Hawkeye Kid",
+      "Golden Archer",
+      "'Purple Man'; impersonated Constrictor & Dreadknight"
+    ],
+    "placeOfBirth": "Waverly, Iowa",
+    "firstAppearance": "-",
+    "publisher": "Goliath",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "Outlaw adventurer, revolutionary; former professional super hero, fugitive, unnoficial S.H.I.E.L.D. operative, federal inmate, CTE security chief, ranch hand, archery tutor, carnival performer, roustabout, butcher shop worker",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Avengers; formerly founding member of Avengers West Coast and first chairman, Thunderbolts, S.H.I.E.L.D. (unofficial), Chain Gang 421-011, Shadows, Great Lakes Avengers, Cross Technological Enterprises, Defenders, Carson Carnival of Traveling Wonders, Ti",
+    "relatives": "Harold Barton (father), Edith Barton (mother), Charles Bernard \"Barney\" Barton (brother), Barbara Morse 'Bobbi' Barton (Mockingbird, wife), Brett Barton (ancestor), Mack Barton (ancestor); all deceased"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/no-portrait.jpg"
+  }
+}

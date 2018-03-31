@@ -1,0 +1,54 @@
+{
+  "id": 559,
+  "name": "Rip Hunter",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 8,
+    "speed": 8,
+    "durability": 10,
+    "power": 100,
+    "combat": 25
+  },
+  "biography": {
+    "fullName": "Richard Hunter",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Time Lord",
+      "Time Master",
+      "Boppy",
+      "Dr. Hunter",
+      "Mr",
+      "Hunter",
+      "Carter"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Showcase #20",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Time Lab, Arizona"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly leader of the Time Masters; former member of the Forgotten Heroes; former member of the Linear Men, Booster Gold International (BGI)",
+    "relatives": "Michael Carter, (Booster Gold, father),  Unknown (mother), Jonar Carter (grandfather), Ellen Carter (grandmother, deceased), Michelle Carter (Goldstar) (aunt), Daniel Carter (21st century ancestor), Rose Levin (ancestor), Dan Hunter (cousin),"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/rip-hunter.jpg"
+  }
+}

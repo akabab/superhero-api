@@ -1,0 +1,48 @@
+{
+  "id": 372,
+  "name": "Jubilee",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 8,
+    "speed": 22,
+    "durability": 20,
+    "power": 66,
+    "combat": 90
+  },
+  "biography": {
+    "fullName": "Jubilation Lee",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jubes"
+    ],
+    "placeOfBirth": "Beverly Hills, California",
+    "firstAppearance": "Uncanny X-Men #244 (May, 1989)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "Student, Adventurer",
+    "base": "Xavier Institute, Salem Center, Westchester County, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Currently Generation X, formerly X-Men",
+    "relatives": "Dr. and Mrs. Lee (parents, deceased)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/jubilee.jpg"
+  }
+}

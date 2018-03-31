@@ -1,0 +1,48 @@
+{
+  "id": 533,
+  "name": "Q",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 12,
+    "speed": 17,
+    "durability": 100,
+    "power": 100,
+    "combat": 40
+  },
+  "biography": {
+    "fullName": "Q",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Q Continuum"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "alignment": "-"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/q.jpg"
+  }
+}

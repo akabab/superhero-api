@@ -1,0 +1,50 @@
+{
+  "id": 561,
+  "name": "Robin",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 11,
+    "speed": 27,
+    "durability": 28,
+    "power": 32,
+    "combat": 85
+  },
+  "biography": {
+    "fullName": "Dick Grayson",
+    "alterEgos": "Batman II, Nightwing",
+    "aliases": [
+      "Renegade",
+      "The Target",
+      "Freddie Dinardo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Detective Comics #38 (April, 1940)",
+    "publisher": "Batman II",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Wayne Tower, Gotham City; formerly the Batcave;  formerly Bl?dhaven;  formerly New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Batman Incorporated, Justice League; formerly Teen Titans, Outsiders, Bludhaven Police Department, Secret Society of Super-Villains",
+    "relatives": "John Grayson (father), Mary Grayson (mother), Bruce Wayne (adoptive father), Damian Wayne (adoptive brother), Jason Todd (adoptive brother), Tim Drake (adoptive brother), Cassandra Cain (adoptive sister)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/robin-i.jpg"
+  }
+}

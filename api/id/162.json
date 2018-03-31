@@ -1,0 +1,49 @@
+{
+  "id": 162,
+  "name": "Carnage",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 63,
+    "speed": 70,
+    "durability": 84,
+    "power": 88,
+    "combat": 90
+  },
+  "biography": {
+    "fullName": "Cletus Kasady",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mass Carnage",
+      "999th"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Maximum Carnage: (Carrion, Shriek, Demogoblin, Doppelganger)",
+    "relatives": "Venom (\"father\"); Shriek (\"wife\"); Hybrid, Lasher, Phage, Riot (\"brothers\"); Agony, Scream (\"sisters\"); Carrion, Demogoblin, Doppelganger, Toxin (\"sons\"); Scorn (\"Daughter\")"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/carnage.jpg"
+  }
+}

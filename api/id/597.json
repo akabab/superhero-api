@@ -1,0 +1,48 @@
+{
+  "id": 597,
+  "name": "Silk Spectre II",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 51,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Laurie Juspeczyk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Watchmen",
+    "relatives": "Silk Spectre I (mother)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/silk-spectre-2.jpg"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 208,
+  "name": "Darth Vader",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 48,
+    "speed": 33,
+    "durability": 35,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "Anakin Skywalker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lord Vader"
+    ],
+    "placeOfBirth": "Tatooine",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Cyborg",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "No Hair"
+  },
+  "work": {
+    "occupation": "Sith Lord, Supreme Commander of the Imperial Fleet",
+    "base": "Death Star"
+  },
+  "connections": {
+    "groupAffiliation": "Sith, Galactic Empire",
+    "relatives": "Luke Skywalker (Son), Princess Leia (Daughter)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/darth-vader.jpg"
+  }
+}

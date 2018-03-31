@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Zombie",
+  "height": [
+    "9'2",
+    "279 cm"
+  ],
+  "weight": [
+    "971 lb",
+    "437 kg"
+  ],
+  "eyeColor": "Black",
+  "hairColor": "White"
+}

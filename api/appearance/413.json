@@ -1,0 +1,14 @@
+{
+  "gender": "Male",
+  "race": "Czarnian",
+  "height": [
+    "7'6",
+    "229 cm"
+  ],
+  "weight": [
+    "640 lb",
+    "288 kg"
+  ],
+  "eyeColor": "Red",
+  "hairColor": "Black"
+}

@@ -1,0 +1,51 @@
+{
+  "id": 20,
+  "name": "Amazo",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 100,
+    "speed": 83,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Professor Ivos Amazing Android",
+      "Timazo",
+      "Humazo",
+      "Hourmazo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Brave and the Bold #30 (July, 1960)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "8'5",
+      "257 cm"
+    ],
+    "weight": [
+      "385 lb",
+      "173 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly the Secret Society of Super Villains",
+    "relatives": "Professor Ivo (creator), Kid Amazo (cyborg offspring)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/amazo.jpg"
+  }
+}

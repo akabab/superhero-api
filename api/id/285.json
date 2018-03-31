@@ -1,0 +1,50 @@
+{
+  "id": 285,
+  "name": "Gladiator",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 77,
+    "combat": 70
+  },
+  "biography": {
+    "fullName": "Kallark",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Majestor",
+      "Praetor",
+      "Captain Universe"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men Vol 1 #107 October, 1977",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Strontian",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "595 lb",
+      "268 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blue"
+  },
+  "work": {
+    "occupation": "Majestor of the Shi'ar Empire; Former Praetor of the Imperial Guard; possibly former Herald of Galactus",
+    "base": "Chandilar, Shi'ar Galaxy; mobile throughout the Shi'ar Empire and surrounding galaxies."
+  },
+  "connections": {
+    "groupAffiliation": "Galactic Council, Annihilators; formerly Imperial Guard; possibly Heralds of Galactus",
+    "relatives": "Kubark (Kid Gladiator) (son), Xenith (The Strontian) (cousin)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/gladiator.jpg"
+  }
+}

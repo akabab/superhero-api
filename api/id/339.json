@@ -1,0 +1,53 @@
+{
+  "id": 339,
+  "name": "Iceman",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 32,
+    "speed": 53,
+    "durability": 100,
+    "power": 100,
+    "combat": 64
+  },
+  "biography": {
+    "fullName": "Bobby Drake",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bobby Drake",
+      "Mister Friese",
+      "Drake Roberts",
+      "Rampage",
+      "Frozen One",
+      "Iceface"
+    ],
+    "placeOfBirth": "Fort Washington, Long Island, New York",
+    "firstAppearance": "X-Men #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "145 lb",
+      "65 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "work": {
+    "occupation": "Adventurer, formerly teacher, accountant, student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men (Jean Grey School member, founding member); formerly Murder Circus (brainwashed), Excelsiors (squad leader), The Twelve, X-Factor/X-Terminators (founding member), Chosen (Dualers), Secret Defenders, Defenders, Champions (founder and founding member)",
+    "relatives": "William Robert Drake (father), Madeline Beatrice Bass Drake (mother), Mary (cousin), Joel (cousin), Anne (aunt)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/iceman.jpg"
+  }
+}

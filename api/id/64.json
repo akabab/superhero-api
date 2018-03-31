@@ -1,0 +1,49 @@
+{
+  "id": 64,
+  "name": "Batgirl",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 27,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "biography": {
+    "fullName": "Mary Elizabeth Kane",
+    "alterEgos": "Hawkfire",
+    "aliases": [
+      "Bette Kane",
+      "Bat-Girl"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #139",
+    "publisher": "Hawkfire",
+    "alignment": "good"
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "work": {
+    "occupation": "Crime-fighter",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Former associated partner of Batman and Robin of Earth-One; Partner of Katherine Kane",
+    "relatives": "Katherine Kane (Batwoman I,  Aunt)"
+  },
+  "image": {
+    "url": "https://www.superherodb.com/pictures/portraits/batgirl-1.jpg"
+  }
+}
