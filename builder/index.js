@@ -1,28 +1,29 @@
-const request = require('request')
 const fs = require('fs')
 const path = require('path')
 const { promisify } = require('util')
+const mkdirp = require('mkdirp')
+const rimraf = require('rimraf')
 
-const source = require('./source.json')
+const heroes = require('./sources/superheroes.json')
 
 const folders = [
-  { key: 'id', getter: h => h },
-  { key: 'powerstats', getter: h => h.powerstats },
-  { key: 'appearance', getter: h => h.appearance },
-  { key: 'biography', getter: h => h.biography },
-  { key: 'connections', getter: h => h.connections },
-  { key: 'work', getter: h => h.work },
+  { name: 'id', getter: h => h },
+  { name: 'powerstats', getter: h => h.powerstats },
+  { name: 'appearance', getter: h => h.appearance },
+  { name: 'biography', getter: h => h.biography },
+  { name: 'connections', getter: h => h.connections },
+  { name: 'work', getter: h => h.work },
 ]
 
 const apiFolderPath = 'api'
 
 const writeFile = promisify(fs.writeFile)
 
-const build = ({ key, getter }) => {
-  // if folder 'key' doesn't exists -> mkdir
+const buildFolder = ({ name, getter }) => {
+  mkdirp(path.join(apiFolderPath, name))
 
-  source.forEach(hero => {
-    const filepath = path.join(apiFolderPath, key, `${hero.id}.json`)
+  heroes.forEach(hero => {
+    const filepath = path.join(apiFolderPath, name, `${hero.id}.json`)
     const body = getter(hero)
 
     writeFile(filepath, JSON.stringify(body, null, 2))
@@ -31,4 +32,18 @@ const build = ({ key, getter }) => {
   })
 }
 
-folders.map(build)
+const buildImages = () => {}
+
+const clean = () => rimraf(apiFolderPath, _ => _)
+
+const rebuild = () => {
+  clean()
+
+  mkdirp(apiFolderPath)
+
+  writeFile(path.join(apiFolderPath, 'all.json'), JSON.stringify(heroes, null, 2))
+
+  folders.map(buildFolder)
+}
+
+rebuild()

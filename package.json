@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "request": "^2.85.0"
+    "mkdirp": "^0.5.1",
+    "request": "^2.85.0",
+    "rimraf": "^2.6.2"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-api": "node builder"
   },
   "repository": {
     "type": "git",
