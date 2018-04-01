@@ -27,10 +27,12 @@ Multiples universes superheroes REST API
 ##### `/all.json`
 GET all superheroes in a single JSON file
 
+eg. [`/all.json`](https://akabab.github.io/superhero-api/api/all.json)
+
 ##### `/id`
 GET superhero complete informations by id
 
-eg. `/id/1.json`
+eg. [`/id/1.json`](https://akabab.github.io/superhero-api/api/id/1.json)
 ```
 {
   "id": 1,
@@ -85,7 +87,7 @@ eg. `/id/1.json`
 ##### `/powerstats`
 GET superhero powerstats by id
 
-eg. `/powerstats/1.json`
+eg. [`/powerstats/1.json`](https://akabab.github.io/superhero-api/api/powerstats/1.json)
 ```
 {
   "intelligence": 38,
@@ -100,7 +102,7 @@ eg. `/powerstats/1.json`
 ##### `/appearance`
 GET superhero appearance by id
 
-eg. `/appearance/1.json`
+eg. [`/appearance/1.json`](https://akabab.github.io/superhero-api/api/appearance/1.json)
 ```
 {
   "gender": "Male",
@@ -121,7 +123,7 @@ eg. `/appearance/1.json`
 ##### `/biography`
 GET superhero biography by id
 
-eg. `/biography/1.json`
+eg. [`/biography/1.json`](https://akabab.github.io/superhero-api/api/biography/1.json)
 ```
 {
   "fullName": "Richard Milhouse Jones",
@@ -139,7 +141,7 @@ eg. `/biography/1.json`
 ##### `/connections`
 GET superhero connections by id
 
-eg. `/connections/1.json`
+eg. [`/connections/1.json`](https://akabab.github.io/superhero-api/api/connections/1.json)
 ```
 {
   "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
@@ -150,7 +152,7 @@ eg. `/connections/1.json`
 ##### `/work`
 GET superhero work by id
 
-eg. `/work/1.json`
+eg. [`/work/1.json`](https://akabab.github.io/superhero-api/api/work/1.json)
 ```
 {
   "occupation": "Musician, adventurer, author; formerly talk show host",
