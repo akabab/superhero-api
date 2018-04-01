@@ -2,14 +2,14 @@
   "name": "superhero-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "dependencies": {
     "fs-extra": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-api": "node builder"
+    "build": "node builder"
   },
   "repository": {
     "type": "git",

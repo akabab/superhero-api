@@ -33,26 +33,27 @@ const buildFolder = async ({ name, getter }) => {
 
 const buildImages = () => {}
 
-const buildIndex = heroes => {
-  const index = `# Superheroes index
+const buildGlossary = heroes => {
+  const glossary = `# Superheroes glossary
 
 |    | id | name | INT | STR | SPD | DUR | POW | CMB |
 | -- | -- | ---- | --- | --- | --- | --- | --- | --- |
 ${heroes
-  .map(h =>`| ![X](${h.images.thumb}) | ${h.id} | ${h.name} | ${Object.values(h.powerstats).join(' | ')} |`)
+  .map(h =>`| ![](${h.images.thumb.split('/api/')[1]}) | ${h.id} | ${h.name} | ${Object.values(h.powerstats).join(' | ')} |`)
   .join('\n')}
 `
-  writeFile(path.join(apiFolderPath, 'readme.md'), index)
+  writeFile('api/glossary.md', glossary)
 }
 
 const rebuild = async () => {
   await fs.ensureDir(apiFolderPath)
   await fs.emptyDir(apiFolderPath)
   await fs.copy('.backup/images', 'api/images')
+  await fs.copy('builder/sources/documentation.md', 'api/readme.md')
 
-  buildIndex(heroes)
+  buildGlossary(heroes)
 
-  writeFile(path.join(apiFolderPath, 'all.json'), JSON.stringify(heroes, null, 2))
+  writeFile('api/all.json', JSON.stringify(heroes, null, 2))
 
   folders.map(buildFolder)
 
