@@ -28,13 +28,15 @@ npm run build
 
 ## Contribute
 
-**Fork & PR** 
-
 You can contribute by:
 - add new or edit images of heroes in the [`builder/sources/images`](https://github.com/akabab/superhero-api/tree/master/builder/sources/images) folder
 - submit `powerstats` values for heroes with `null` ones
 - suggest new heroes with a complete JSON object
 - ..
 
-## Message for original owners from TwentyEight10
+**Fork & PR** 
+
+---
+
+#### Message for original owners from TwentyEight10
 Contact me :)
