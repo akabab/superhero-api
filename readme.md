@@ -2,7 +2,7 @@
 
 Multiple universes superheroes open-source REST API
 
-> original source from http://superheroapi.com/ edited, cleaned up & made available to [contribution](#contribute)
+> original source from [superheroapi.com](http://superheroapi.com) edited, cleaned up & made available to [contribution](#contribute)
 
 ## API
 - [documentation](api)
