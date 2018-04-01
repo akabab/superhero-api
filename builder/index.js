@@ -4,6 +4,7 @@ const { promisify } = require('util')
 
 const heroes = require('./sources/superheroes.json')
   .filter(h => !Object.values(h.powerstats).includes(null))
+  // Filter only thoses will powerstats non nulls
 
 const folders = [
   { name: 'id', getter: h => h },
