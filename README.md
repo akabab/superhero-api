@@ -18,6 +18,7 @@ Multiples universes superheroes REST API
 
 ### [images](#images-1)
 
+### [List of superheroes](api)
 
 ----
 
