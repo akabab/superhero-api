@@ -1,10 +1,9 @@
-const fs = require('fs')
+const fs = require('fs-extra')
 const path = require('path')
 const { promisify } = require('util')
-const mkdirp = require('mkdirp')
-const rimraf = require('rimraf')
 
 const heroes = require('./sources/superheroes.json')
+  .filter(h => !Object.values(h.powerstats).includes(null))
 
 const folders = [
   { name: 'id', getter: h => h },
@@ -19,8 +18,8 @@ const apiFolderPath = 'api'
 
 const writeFile = promisify(fs.writeFile)
 
-const buildFolder = ({ name, getter }) => {
-  mkdirp(path.join(apiFolderPath, name))
+const buildFolder = async ({ name, getter }) => {
+  await fs.ensureDir(path.join(apiFolderPath, name))
 
   heroes.forEach(hero => {
     const filepath = path.join(apiFolderPath, name, `${hero.id}.json`)
@@ -34,12 +33,22 @@ const buildFolder = ({ name, getter }) => {
 
 const buildImages = () => {}
 
-const clean = () => rimraf(apiFolderPath, _ => _)
+const buildIndex = heroes => {
+  const index = `# Superheroes index
 
-const rebuild = () => {
-  // clean()
+| id | name |
+| -- | ---- |
+${heroes.map(h => `| ${h.id} | ${h.name} |`).join('\n')}
+`
+  writeFile(path.join(apiFolderPath, 'readme.md'), index)
+}
 
-  mkdirp(apiFolderPath)
+const rebuild = async () => {
+  await fs.ensureDir(apiFolderPath)
+  await fs.emptyDir(apiFolderPath)
+  await fs.copy('.backup/images', 'api/images')
+
+  buildIndex(heroes)
 
   writeFile(path.join(apiFolderPath, 'all.json'), JSON.stringify(heroes, null, 2))
 
