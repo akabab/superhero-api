@@ -78,8 +78,10 @@ eg. [`/id/1.json`](https://akabab.github.io/superhero-api/api/id/1.json)
     "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
     "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/a-bomb.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/a-bomb.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/a-bomb.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/a-bomb.jpg"
   }
 }
 ```
