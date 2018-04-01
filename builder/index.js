@@ -37,9 +37,11 @@ const buildImages = () => {}
 const buildIndex = heroes => {
   const index = `# Superheroes index
 
-| id | name |
-| -- | ---- |
-${heroes.map(h => `| ${h.id} | ${h.name} |`).join('\n')}
+| id | name | INT | STR | SPD | DUR | POW | CMB |
+| -- | ---- | --- | --- | --- | --- | --- | --- |
+${heroes
+  .map(h =>`| ${h.id} | ${h.name} | ${Object.values(h.powerstats).join(' | ')} |`)
+  .join('\n')}
 `
   writeFile(path.join(apiFolderPath, 'readme.md'), index)
 }
@@ -57,3 +59,4 @@ const rebuild = async () => {
 }
 
 rebuild()
+
