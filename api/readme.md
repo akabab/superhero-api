@@ -2,7 +2,7 @@
 
 |    | id | name | INT | STR | SPD | DUR | POW | CMB |
 | -- | -- | ---- | --- | --- | --- | --- | --- | --- |
-| ![X](https://akabab.github.io/superhero-api/api/images/thumbs/a-bomb.jpg) | 1 | A-Bomb | 38 | 100 | 17 | 80 | 24 | 64 |
+| ![X](api/images/thumbs/a-bomb.jpg) | 1 | A-Bomb | 38 | 100 | 17 | 80 | 24 | 64 |
 | ![X](https://akabab.github.io/superhero-api/api/images/thumbs/abe-sapien.jpg) | 2 | Abe Sapien | 88 | 28 | 35 | 65 | 100 | 85 |
 | ![X](https://akabab.github.io/superhero-api/api/images/thumbs/abin-sur.jpg) | 3 | Abin Sur | 50 | 90 | 53 | 64 | 99 | 65 |
 | ![X](https://akabab.github.io/superhero-api/api/images/thumbs/abomination.jpg) | 4 | Abomination | 63 | 80 | 53 | 90 | 62 | 95 |
