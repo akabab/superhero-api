@@ -27,7 +27,6 @@ const buildFolder = async ({ name, getter }) => {
     const body = getter(hero)
 
     writeFile(filepath, JSON.stringify(body, null, 2))
-      .then(err => console.log(err ? 'Error: ' + err : `${filepath} saved`))
       .catch(err => console.log(err))
   })
 }
@@ -56,7 +55,8 @@ const rebuild = async () => {
   writeFile(path.join(apiFolderPath, 'all.json'), JSON.stringify(heroes, null, 2))
 
   folders.map(buildFolder)
+
+  console.log('build successful')
 }
 
 rebuild()
-
