@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Maurice Picard (father), Yvette Picard (mother), Robert Picard (brother), Shinzon (clone)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jean-luc-picard.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jean-luc-picard.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jean-luc-picard.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jean-luc-picard.jpg"
   }
 }

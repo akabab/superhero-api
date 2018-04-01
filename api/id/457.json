@@ -44,7 +44,9 @@
     "groupAffiliation": "Assorted Batman rogues, The Society",
     "relatives": "Nora Fries (wife, deceased, then resurrected as Lazara), Charles (Father) and Lorraine Fries (Mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mister-freeze.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-freeze.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-freeze.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-freeze.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly X-Men, Brotherhood of Mutants, Forge's resistance",
     "relatives": "Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/x-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/x-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/x-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/x-man.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Norrin Radd (Silver Surfer, clonal source), Clea (creator)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ardina.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ardina.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ardina.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ardina.jpg"
   }
 }

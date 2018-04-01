@@ -44,7 +44,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/deadshot.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/deadshot.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/deadshot.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/deadshot.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Clockwatchers, Justice League Antarctica, Suicide Squad, Time Foes",
     "relatives": "Beverly (sister, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/clock-king.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/clock-king.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/clock-king.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/clock-king.jpg"
   }
 }

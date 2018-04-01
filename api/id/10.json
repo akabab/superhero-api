@@ -45,7 +45,9 @@
     "groupAffiliation": "A.I.M., Deadpool; formerly Agency X, Hydra",
     "relatives": "Allison (ex-wife); Terry and Howie (sons)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/agent-bob.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/agent-bob.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/agent-bob.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-bob.jpg"
   }
 }

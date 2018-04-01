@@ -42,7 +42,9 @@
     "groupAffiliation": "X-Peditioners, formerly X-Men, Halo City Protectorate, Oasis",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bloodhawk.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bloodhawk.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bloodhawk.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bloodhawk.jpg"
   }
 }

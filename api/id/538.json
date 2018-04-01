@@ -42,7 +42,9 @@
     "groupAffiliation": "League of Assassins",
     "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ras-al-ghul.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ras-al-ghul.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ras-al-ghul.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ras-al-ghul.jpg"
   }
 }

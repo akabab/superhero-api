@@ -45,7 +45,9 @@
     "groupAffiliation": "Marvel Family, Justice Society of America",
     "relatives": "C.C. Batson (father, deceased), Marilyn Batson (mother, deceased), Ebenezer Batson (uncle), Mary Batson (Mary Marvel, sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-marvel.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-marvel.jpg"
   }
 }

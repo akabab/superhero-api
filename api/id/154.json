@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-hindsight.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-hindsight.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-hindsight.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-hindsight.jpg"
   }
 }

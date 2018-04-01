@@ -43,7 +43,9 @@
     "groupAffiliation": "Inhumans, Fantastic Four",
     "relatives": "Kobar, La (maternal grandparents), Azur (maternal aunt), Mander (maternal uncle-by-marriage), Quelin (father), Ambur (mother), Crystal (sister), Black Bolt (husband, second cousin), Ahura (son), Karnak (cousin), Triton (cousin), Psynapse (second cousin), Maximus (brother-in-law, second cousin), Ronan the Accuser (brother-in-law), Quicksilver (ex-brother-in-law), Luna (niece)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/medusa.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/medusa.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/medusa.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/medusa.jpg"
   }
 }

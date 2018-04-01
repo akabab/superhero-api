@@ -46,7 +46,9 @@
     "groupAffiliation": "currently Avengers, former companion to the X-Men (as Carol Danvers), former member of the Starjammers (as Binary), Former Avenger (as Ms. Marvel)",
     "relatives": "Marie Danvers (mother), Joseph Danvers, Sr. (father), Joseph Danvers, Jr. (brother), Steve Danvers (brother, deceased), Marcus Immortus (Danvers) (\"son\", deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel-danvers.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel-danvers.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-marvel-danvers.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-marvel-danvers.jpg"
   }
 }

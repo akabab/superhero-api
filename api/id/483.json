@@ -44,7 +44,9 @@
     "groupAffiliation": "Agents of Atlas, Long-time ally of Namor; Monster Hunters, Invaders, All Winners Squad; At one time or another was partnered with FBI Agent Jimmy Woo, Sun Girl, Venus, Golden Girl, Hulk",
     "relatives": "Namor (cousin), Talan (husband, deceased), Namorita (\"daughter\" cloned)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/namora.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/namora.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/namora.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/namora.jpg"
   }
 }

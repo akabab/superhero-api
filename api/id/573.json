@@ -43,7 +43,9 @@
     "groupAffiliation": "Omega Flight; formerly Alpha Flight, Beta Flight, Gamma Flight, Howling Commandos",
     "relatives": "Veronica Langkowsi (ex-wife), unidentified son, Lillian von Loont (Gilded Lily, great-aunt, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sasquatch.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sasquatch.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sasquatch.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sasquatch.jpg"
   }
 }

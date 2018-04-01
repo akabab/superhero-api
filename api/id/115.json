@@ -42,7 +42,9 @@
     "groupAffiliation": "New Mutants; formerly X-Men, Selene's Inner Circle",
     "relatives": "Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/blink.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/blink.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/blink.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blink.jpg"
   }
 }

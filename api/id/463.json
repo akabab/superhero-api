@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "M.O.D.O.K. Superior (clone), Head Case (son), Number None (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/modok.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/modok.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/modok.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/modok.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Green Lantern Corps, Black Lantern Corps",
     "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/abin-sur.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/abin-sur.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/abin-sur.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/abin-sur.jpg"
   }
 }

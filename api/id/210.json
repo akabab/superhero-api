@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Dr. Noonian Soong (creator)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/data.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/data.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/data.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/data.jpg"
   }
 }

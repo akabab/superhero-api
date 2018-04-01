@@ -42,7 +42,9 @@
     "groupAffiliation": "Fantastic Four, formerly; Secret Avengers, Avengers, Brides of Set, Pawns of Death",
     "relatives": "Reed Richards (Mister Fantastic, husband), Franklin Richards (son), Valeria Richards (daughter), Johnny Storm (Human Torch, brother), Franklin Storm (father, deceased), Mary Storm (mother, deceased), Marygay Jewel Dinkins (aunt), \"Bones\" (cousin), Evelyn Richards (mother-in-law, deceased), Nathaniel Richards (father-in-law), Cassandra Richards (Warlord, mother-in-law, deceased), unnamed child of Nathaniel Richards (brother-in-law), Tara Richards (Huntara, sister-in-law), Kristoff Vernard (alleged brother-in-law), Lyja (sister-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/invisible-woman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/invisible-woman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/invisible-woman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/invisible-woman.jpg"
   }
 }

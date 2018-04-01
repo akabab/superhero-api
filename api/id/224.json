@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly All-Star Squadron, Justice Society of America, Justice League International, Black Lantern Corps",
     "relatives": "Inza Cramer (wife), Sven Nelson (father, deceased), Celestine Babcock (mother), Kent Nelson, Jr. (son), Aaron Babcock (uncle), Kent V. Nelson (grand-nephew), Laryn Nelson (great grand-niece)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/doctor-fate.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-fate.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-fate.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-fate.jpg"
   }
 }

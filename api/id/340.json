@@ -43,7 +43,9 @@
     "groupAffiliation": "Flash Family, Teen Titans, formerly Legion of Super-Heroes, Young Justice",
     "relatives": "Don Allen (father), Meloni Thawne (mother), Barry Allen (grandfather), Iris West-Allen (grandmother), President Thawne (grandfather), Captain Boomerang (Owen Mercer) (half-brother), Allen Family"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/impulse.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/impulse.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/impulse.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/impulse.jpg"
   }
 }

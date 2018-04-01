@@ -44,7 +44,9 @@
     "groupAffiliation": "Team Arrow",
     "relatives": "Moira Queen (mother, deceased), Robert Queen (foster father, deceased), Walter Steele (step-father, formerly), Malcolm Merlyn (biological father), Oliver Queen (Green Arrow, half-brother), Tommy Merlyn (half-brother, deceased), William Clayton (nephew)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/thea-queen.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/thea-queen.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/thea-queen.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thea-queen.jpg"
   }
 }

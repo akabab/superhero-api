@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "Darth Sidious (Master)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/darth-maul.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/darth-maul.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/darth-maul.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/darth-maul.jpg"
   }
 }

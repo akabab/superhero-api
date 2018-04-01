@@ -43,7 +43,9 @@
     "groupAffiliation": "ally of the Asgardians, Thor Corps, Star Masters",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/beta-ray-bill.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/beta-ray-bill.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/beta-ray-bill.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/beta-ray-bill.jpg"
   }
 }

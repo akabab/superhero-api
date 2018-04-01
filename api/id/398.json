@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Han Solo (Father), Princess Leia (Mother), Luke Skywalker (Uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/kylo-ren.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/kylo-ren.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/kylo-ren.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kylo-ren.jpg"
   }
 }

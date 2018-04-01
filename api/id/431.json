@@ -46,7 +46,9 @@
     "groupAffiliation": "-",
     "relatives": "Libra (Gustav Brandt) (father), Lau Brandt (mother), Cotati possessing Jacques Duquesne (husband), Quoi (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mantis.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mantis.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mantis.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mantis.jpg"
   }
 }

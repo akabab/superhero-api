@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/brundlefly.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/brundlefly.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/brundlefly.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/brundlefly.jpg"
   }
 }

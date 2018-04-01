@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spider-girl.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-girl.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-girl.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-girl.jpg"
   }
 }

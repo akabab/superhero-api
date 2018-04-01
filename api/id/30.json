@@ -48,7 +48,9 @@
     "groupAffiliation": "Avengers Academy, Secret Avengers; formerly Mighty Avengers, Avengers (founding member), Defenders, Future Iron Man's Team",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ant-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ant-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ant-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ant-man.jpg"
   }
 }

@@ -46,7 +46,9 @@
     "groupAffiliation": "New Avengers, Heroes for Hire, Inc., Secret Defenders, Defenders, Misty Knight, Luke Cage",
     "relatives": "Wendell Rand-K'ai (father, deceased), Heather Duncan Rand (mother, deceased), Yu-Ti (adopted uncle), Miranda Rand-K'ai (half-sister), Lord Tuan (adopted paternal grandfather, deceased), Lady Ming (adopted paternal grandmother, deceased), Thomas Duncan (maternal grandfather)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/iron-fist.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/iron-fist.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/iron-fist.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/iron-fist.jpg"
   }
 }

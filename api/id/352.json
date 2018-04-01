@@ -43,7 +43,9 @@
     "groupAffiliation": "Secret Intelligence Service, MI6, C.I.A., Royal Navy",
     "relatives": "Andrew Bond (father), Monique Delacroix (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/james-bond.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/james-bond.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/james-bond.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/james-bond.jpg"
   }
 }

@@ -44,7 +44,9 @@
     "groupAffiliation": "Incredible Family",
     "relatives": "Helen Parr (Elastigirl, wife), Violet Parr(Violet, daughter), Dashiell Parr (Dash, son), Jack-jack (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mr-incredible.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mr-incredible.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mr-incredible.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mr-incredible.jpg"
   }
 }

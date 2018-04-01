@@ -50,7 +50,9 @@
     "groupAffiliation": "Shadow Mob; former head of the Gladiators and the Cairo?s Thieves Quarter",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/shadow-king.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/shadow-king.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/shadow-king.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/shadow-king.jpg"
   }
 }

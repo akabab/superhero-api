@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly: United States Army",
     "relatives": "Nathan Hunt (Father), Margaret Hunt (Mother), Donald Hunt (Uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ethan-hunt.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ethan-hunt.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ethan-hunt.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ethan-hunt.jpg"
   }
 }

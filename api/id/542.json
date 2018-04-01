@@ -43,7 +43,9 @@
     "groupAffiliation": "Teen Titans, formerly Sentinels of Magic",
     "relatives": "Trigon (father), Angela Roth (mother, deceased), Gluttony, Greed, Lust, Wrath, Envy, Sloth (half-brothers, status unknown)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/raven.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/raven.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/raven.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/raven.jpg"
   }
 }

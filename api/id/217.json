@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/demogoblin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/demogoblin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/demogoblin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/demogoblin.jpg"
   }
 }

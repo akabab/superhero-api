@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Alejandro (twin brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/maya-herrera.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/maya-herrera.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/maya-herrera.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/maya-herrera.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Brotherhood of Evil, The Society",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/warp.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/warp.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/warp.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/warp.jpg"
   }
 }

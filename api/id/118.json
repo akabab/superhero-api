@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Thunderbolts, Hammer Industries",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/blizzard-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/blizzard-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/blizzard-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blizzard-2.jpg"
   }
 }

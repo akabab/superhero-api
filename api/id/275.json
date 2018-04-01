@@ -43,7 +43,9 @@
     "groupAffiliation": "Guardians of the Galaxy ; formerly Phalanx's Selects, Graces (Leader), Infinity Watch ; United Front ; former minion of Thanos; ally of Adam Warlock and Pip the Troll",
     "relatives": "Thanos (foster father), Thane (foster brother), Unnamed former Symbiote"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/gamora.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/gamora.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/gamora.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gamora.jpg"
   }
 }

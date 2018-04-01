@@ -42,7 +42,9 @@
     "groupAffiliation": "Sinister Six (formerly)",
     "relatives": "Eddie Brock: Carl Brock (father), Jamie Brock (mother), Anne Weying (She-Venom, ex wife, deceased); Venom symbiote: Carnage (bonded to Cletus Kasidy, 1st generation offspring), five forced offspring - one independant (bonded to Donna, last name unrevealed, 1st generation offspring), four forming a composite symbiote (Hybrid (bonded to Scott Washington, 1st generation offspring), Toxin (bonded to Patrick Mulligan, 2nd generation offspring)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/venom.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/venom.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/venom.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/venom.jpg"
   }
 }

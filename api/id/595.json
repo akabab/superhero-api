@@ -42,7 +42,9 @@
     "groupAffiliation": "Black Cat's Gang, Fact Channel News; formerly Spider-Army, partner of Spider-Man, Ezekiel Sims",
     "relatives": "Albert Moon. Sr. (father, estranged), unnamed mother (estranged), Albert Moon, Jr. (brother, estranged), Spider-Man (Peter Parker, bit by same spider)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/silk.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/silk.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/silk.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/silk.jpg"
   }
 }

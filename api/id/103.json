@@ -42,7 +42,9 @@
     "groupAffiliation": "Justice League of America (current), formerly Presidential Cabinet, The Outsiders (sporadically), Batman's Brother Eye attack group",
     "relatives": "Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/black-lightning.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-lightning.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-lightning.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-lightning.jpg"
   }
 }

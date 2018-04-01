@@ -47,7 +47,9 @@
     "groupAffiliation": "Formerly The Quintets, The Joker, Poison Ivy, Secret Six",
     "relatives": "Barry Quinzel (brother), Sharon Quinzel (mother), Nick Quinzel (father), Jenny Quinzel (niece), Nicky Quinzel (nephew)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/harley-quinn.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/harley-quinn.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/harley-quinn.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/harley-quinn.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Living Tribunal (creation)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/one-above-all-omni.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/one-above-all-omni.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/one-above-all-omni.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/one-above-all-omni.jpg"
   }
 }

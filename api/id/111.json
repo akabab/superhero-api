@@ -43,7 +43,9 @@
     "groupAffiliation": "Underground Legion",
     "relatives": "Tantalus (father); Nirvana (mother); Pelops (brother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/blackwulf.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/blackwulf.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/blackwulf.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blackwulf.jpg"
   }
 }

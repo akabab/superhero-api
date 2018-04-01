@@ -48,7 +48,9 @@
     "groupAffiliation": "Formerly Utopians, X-Men (New Charles Xavier School member), X-Force, X-Men, Nextwave, The Underground, Genoshan Mutates, New Mutants, X-Terminators (founding member), X-Factor (trainee), Fallen Angels, Beyonder (associate)",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/boom-boom.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/boom-boom.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/boom-boom.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/boom-boom.jpg"
   }
 }

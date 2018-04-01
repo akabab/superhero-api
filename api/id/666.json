@@ -42,7 +42,9 @@
     "groupAffiliation": "Villains for Hire, Lethal Legion, Dr. Dorcas; Masters of Evil; Namor's Deep Six; Attuma's Deep Six; Offenders",
     "relatives": "Diane Newell (sister); Mara (wife, deceased); Walter Newell (brother-in-law);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/tiger-shark.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/tiger-shark.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/tiger-shark.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/tiger-shark.jpg"
   }
 }

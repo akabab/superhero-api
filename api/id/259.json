@@ -44,7 +44,9 @@
     "groupAffiliation": "New Warriors Reservist, Avengers Reservist, and Former Hellion and student of the White Queen",
     "relatives": "Bartholomew Jones (father), Nana (grandmother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/firestar.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/firestar.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/firestar.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestar.jpg"
   }
 }

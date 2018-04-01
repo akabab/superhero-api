@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Stephanie Powell (wife), Daphne Powell (duaghter) and JJ Powell (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jim-powell.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jim-powell.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jim-powell.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jim-powell.jpg"
   }
 }

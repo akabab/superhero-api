@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly, Injustice Society, Injustice League, the Society, Infinity, Inc; Injustice Unlimited, Black Lantern Corps",
     "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/solomon-grundy.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/solomon-grundy.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/solomon-grundy.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/solomon-grundy.jpg"
   }
 }

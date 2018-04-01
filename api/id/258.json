@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Nova Corps, Guardians of the Galaxy (in an alternate future)",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/firelord.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/firelord.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/firelord.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/firelord.jpg"
   }
 }

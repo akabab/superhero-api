@@ -44,7 +44,9 @@
     "groupAffiliation": "Bureau for Paranormal Research and Defense",
     "relatives": "Edith Howard (wife, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/abe-sapien.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/abe-sapien.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/abe-sapien.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/abe-sapien.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Bob Bishop (Father)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/elle-bishop.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/elle-bishop.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/elle-bishop.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/elle-bishop.jpg"
   }
 }

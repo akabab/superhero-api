@@ -44,7 +44,9 @@
     "groupAffiliation": "X-Men, formerly agent of S.T.R.I.K.E., ally of R.C.X., partner of Captain U.K.",
     "relatives": "John Braddock (ancestor, possibly grandfather); Sir James Braddock (father, deceased); Lady Elizabeth Braddock (mother, deceased); Brian Braddock (Captain Britain) (twin brother); Jamie Braddock (brother, deceased); Meggan Braddock (sister-in-law);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/psylocke.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/psylocke.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/psylocke.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/psylocke.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Jim Powell and Stephanie Powell (parents), Daphne Powell (sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jj-powell.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jj-powell.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jj-powell.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jj-powell.jpg"
   }
 }

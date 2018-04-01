@@ -46,7 +46,9 @@
     "groupAffiliation": "-",
     "relatives": "Virginia Gray (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sylar.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sylar.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sylar.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sylar.jpg"
   }
 }

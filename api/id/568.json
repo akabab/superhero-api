@@ -53,7 +53,9 @@
     "groupAffiliation": "Avengers; formerly founding member of Avengers West Coast and first chairman, Thunderbolts, S.H.I.E.L.D. (unofficial), Chain Gang 421-011, Shadows, Great Lakes Avengers, Cross Technological Enterprises, Defenders, Carson Carnival of Traveling Wonders, Ti",
     "relatives": "Harold Barton (father), Edith Barton (mother), Charles Bernard \"Barney\" Barton (brother), Barbara Morse 'Bobbi' Barton (Mockingbird, wife), Brett Barton (ancestor), Mack Barton (ancestor); all deceased"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/no-portrait.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/no-portrait.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/no-portrait.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/no-portrait.jpg"
   }
 }

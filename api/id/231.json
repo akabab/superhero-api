@@ -44,7 +44,9 @@
     "groupAffiliation": "Formerly Carnage Family; Magus' doppelgangers; operative of Demogoblin",
     "relatives": "Anthropomorpho (creator); Hellspawn, Moonshade, many other doppelgangers (brethren)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/doppelganger.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/doppelganger.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/doppelganger.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doppelganger.jpg"
   }
 }

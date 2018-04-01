@@ -42,7 +42,9 @@
     "groupAffiliation": "Legion of Super-Heroes, formerly the Wanderers",
     "relatives": "Unnamd parents, Garth Ranzz (Lightning Lad, twin brother); Mekt Ranzz (older brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/light-lass.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/light-lass.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/light-lass.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/light-lass.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Warlock (son, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/magus.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/magus.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/magus.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/magus.jpg"
   }
 }

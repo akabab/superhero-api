@@ -45,7 +45,9 @@
     "groupAffiliation": "X-Men (New Charles Xavier School member), X-Men (Past) (tutor); formerly X-Men, Murder Circus (brainwashed), Lights (liaison), Paladins Squad, S.H.I.E.L.D., Gladiators, Excalibur (founding member), New Mutants, Knights of Wundagore",
     "relatives": "Kate (maternal great-grandmother), Samuel Prydeman (paternal grandfather, deceased), Chava Rosanoff (paternal great-aunt, deceased), Mr. Rosanoff (paternal great-uncle, apparently deceased), Nina (aunt), Carmen Pryde (father, deceased), Theresa Pryde (mother), Kenny (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/shadowcat.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/shadowcat.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/shadowcat.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/shadowcat.jpg"
   }
 }

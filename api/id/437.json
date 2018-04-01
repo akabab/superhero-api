@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Maury Parkman (father), Janice Parkman (ex-wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/matt-parkman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/matt-parkman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/matt-parkman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/matt-parkman.jpg"
   }
 }

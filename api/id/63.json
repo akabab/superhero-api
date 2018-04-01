@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "James Gordon (father) ? Barbara Eileen (mother) ? James Gordon, Jr. (brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/batgirl-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/batgirl-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/batgirl-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/batgirl-2.jpg"
   }
 }

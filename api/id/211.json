@@ -47,7 +47,9 @@
     "groupAffiliation": "Formerly Excalibur, X-Babies (guardian), Mojoverse Rebellion, X-Men, Cat's Laughing, Gladiators",
     "relatives": "Bella Blaire (paternal grandmother), Carter Blaire (father, deceased), Katherine Blaire-Brown (Barbara London, mother), Nicholas Brown (step-father), Lois London (half-sister), Longshot (husband)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/dazzler.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/dazzler.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/dazzler.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dazzler.jpg"
   }
 }

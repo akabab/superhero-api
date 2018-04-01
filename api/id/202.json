@@ -44,7 +44,9 @@
     "groupAffiliation": "formerly Loners, New Warriors, Avengers West Coast (reservist), Secret Defenders (founder)",
     "relatives": "Michael Powell (father), Grace Powell (mother), Jonathon and Jason Powell (brothers)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/darkhawk.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/darkhawk.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/darkhawk.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/darkhawk.jpg"
   }
 }

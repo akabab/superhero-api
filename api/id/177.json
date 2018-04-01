@@ -44,7 +44,9 @@
     "groupAffiliation": "Justice Society of America",
     "relatives": "Hank Heywood, Sr. (Commander Steel, grandfather, deceased) ? Hank Heywood, Jr. (uncle, deceased) ? Hank Heywood III (Steel, cousin, deceased) ? Kirk Heywood (brother, deceased), Nicole (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/citizen-steel.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/citizen-steel.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/citizen-steel.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/citizen-steel.jpg"
   }
 }

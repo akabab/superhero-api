@@ -43,7 +43,9 @@
     "groupAffiliation": "Titans, Justice League of America, formerly Outsiders, Teen Titans, Checkmate, Central Bureau of Investigations",
     "relatives": "Roy William Harper, Sr. (father, deceased); Brave Bow (adoptive father, deceased); Oliver \"Ollie\" Queen (Green Arrow - adoptive father); Jim Harper (Guardian- great-uncle); Lian Harper (daughter), Vandal Savage (ancestor)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/red-arrow.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-arrow.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-arrow.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-arrow.jpg"
   }
 }

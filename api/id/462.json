@@ -46,7 +46,9 @@
     "groupAffiliation": "World Counterterrorism Agency; formerly Secret Avengers, New Avengers, West Coast Avengers, Avengers, Great Lakes Avengers, S.H.I.E.L.D.; partner of Hawkeye; associate of Dr. Wilma Calvin",
     "relatives": "Susan Morse (mother); Ben Morse (brother); Hawkeye (Clint Barton) (ex-husband)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mockingbird.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mockingbird.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mockingbird.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mockingbird.jpg"
   }
 }

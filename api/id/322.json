@@ -43,7 +43,9 @@
     "groupAffiliation": "Abe Sapien, Liz Sherman, Roger the Homunculus, Savage Dragon, the Goon, Batman, Starman, Ghost, Painkiller Jane, Lobster Johnson, Torch of Liberty",
     "relatives": "Catherine Tanner-Tremaine (mother, deceased), two unnamed maternal half-siblings (deceased), Professor Trevor Bruttenholm (foster father)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hellboy.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hellboy.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hellboy.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hellboy.jpg"
   }
 }

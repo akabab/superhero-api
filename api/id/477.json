@@ -42,7 +42,9 @@
     "groupAffiliation": "Former member of the Fantastic Four, Frightful Four, Unlimited Class Wrestling Federation, Thunderiders",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ms-marvel-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ms-marvel-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ms-marvel-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ms-marvel-2.jpg"
   }
 }

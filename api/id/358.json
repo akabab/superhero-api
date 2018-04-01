@@ -42,7 +42,9 @@
     "groupAffiliation": "Witches, Legion of the Night",
     "relatives": "Andrew Jackson Kale (brother, deceased), Joshua Kale (grandfather, deceased), Naomi Kale (aunt), Johnny Blaze ( Ghost Rider ), Barbara and Daniel Ketch (cousins); Illyana Kale, Noble and pastor Kale, Magdalena (ancestors)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jennifer-kale.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jennifer-kale.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jennifer-kale.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jennifer-kale.jpg"
   }
 }

@@ -49,7 +49,9 @@
     "groupAffiliation": "-",
     "relatives": "Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/azazel.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/azazel.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/azazel.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/azazel.jpg"
   }
 }

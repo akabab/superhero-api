@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "Sira Baz (sister), Farid Amar (nephew), Nazir Amar (brother in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/simon-baz.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/simon-baz.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/simon-baz.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/simon-baz.jpg"
   }
 }

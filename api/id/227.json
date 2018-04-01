@@ -51,7 +51,9 @@
     "groupAffiliation": "X-Men; formerly X-Force; 198; X-Corporation; The Underground; X-Force; Six Pack",
     "relatives": "Beatrice (mother), Lazarus (brother), Milo Thurman (husband, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/domino.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/domino.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/domino.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/domino.jpg"
   }
 }

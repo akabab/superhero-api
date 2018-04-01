@@ -43,7 +43,9 @@
     "groupAffiliation": "(current) X-Factor Investigations, (former) X-Factor, New Mutants, Hellions, Excalibur",
     "relatives": "Reverand Craig (father), Moira MacTaggert (surrogate mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/wolfsbane.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/wolfsbane.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/wolfsbane.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wolfsbane.jpg"
   }
 }

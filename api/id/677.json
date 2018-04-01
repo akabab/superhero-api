@@ -42,7 +42,9 @@
     "groupAffiliation": "Inhuman Royal Family, Universal Inhumans, Royal Guard, New Inhuman Elite; formerly Shi'ar Army Elite Corps & Imperial Guard[citation needed], Namor's Deep Six",
     "relatives": "Mander, Azur (parents, deceased), Karnak (brother, deceased), Magnar, Zeta (paternal grandparents), Kobar, La (maternal grandparents), Rynda (paternal aunt), Ambur (maternal aunt) ,Black Bolt, Maximus, Medusa, Crystal (cousins)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/triton.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/triton.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/triton.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/triton.jpg"
   }
 }

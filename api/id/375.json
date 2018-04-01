@@ -42,7 +42,9 @@
     "groupAffiliation": "Former member of X-Men, former member of S.H.I.E.L.D.",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/junkpile.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/junkpile.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/junkpile.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/junkpile.jpg"
   }
 }

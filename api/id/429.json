@@ -44,7 +44,9 @@
     "groupAffiliation": "Ravencroft Insitute Staff, Avengers Support Crew, NASA, USAF",
     "relatives": "J. Jonah (father), Joan (mother, deceased), Marla Madison (stepmother), David (paternal grandfather, presumed deceased), Betty (paternal grandmother, presumed deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/man-wolf.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/man-wolf.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/man-wolf.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-wolf.jpg"
   }
 }

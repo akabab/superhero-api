@@ -42,7 +42,9 @@
     "groupAffiliation": "Justice League International,Posse; Teen Titans",
     "relatives": "Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/blue-beetle-3.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/blue-beetle-3.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/blue-beetle-3.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blue-beetle-3.jpg"
   }
 }

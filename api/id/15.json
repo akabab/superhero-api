@@ -44,7 +44,9 @@
     "groupAffiliation": "Gentek, The Infected",
     "relatives": "Dana Mercer (sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/alex-mercer.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/alex-mercer.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/alex-mercer.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alex-mercer.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Rapture (Armando Ramon, brother), Dante Ramon (brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/vibe.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/vibe.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/vibe.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vibe.jpg"
   }
 }

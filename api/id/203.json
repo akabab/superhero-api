@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Julie Hastings (girlfriend)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/darkman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/darkman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/darkman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/darkman.jpg"
   }
 }

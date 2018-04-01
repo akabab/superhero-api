@@ -42,7 +42,9 @@
     "groupAffiliation": "Cosmic Beings",
     "relatives": "Eternity (\"Father\")"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/abraxas.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/abraxas.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/abraxas.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/abraxas.jpg"
   }
 }

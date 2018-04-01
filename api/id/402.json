@@ -42,7 +42,9 @@
     "groupAffiliation": "198; formerly Generation X, Daydreamers, Morlocks, X-Factor (trainee)",
     "relatives": "Annalee (foster mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/leech.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/leech.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/leech.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/leech.jpg"
   }
 }

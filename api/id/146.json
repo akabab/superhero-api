@@ -42,7 +42,9 @@
     "groupAffiliation": "Excalibur, Morlocks, Gene Nation",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/callisto.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/callisto.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/callisto.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/callisto.jpg"
   }
 }

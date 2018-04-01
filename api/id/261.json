@@ -45,7 +45,9 @@
     "groupAffiliation": "Firestorm Matrix, Justice League,formerly Black Lantern Corps, Power Company, White Lantern Corps",
     "relatives": "Edward Raymond (father); Elaine Rockwell (mother, deceased); Felicity Smoak-Raymond (stepmother); Richard Dare (grandfather)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/firestorm-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/firestorm-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/firestorm-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestorm-2.jpg"
   }
 }

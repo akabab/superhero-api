@@ -42,7 +42,9 @@
     "groupAffiliation": "X-Factor Investigations (formerly) X-Factor, Fallen Angels, X-Corps, X-Corporation",
     "relatives": "Dr. Daniel Madrox (father, deceased), Joan Madrox (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/multiple-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/multiple-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/multiple-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/multiple-man.jpg"
   }
 }

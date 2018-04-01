@@ -45,7 +45,9 @@
     "groupAffiliation": "Formerly the Secret Society of Super Villains",
     "relatives": "Professor Ivo (creator), Kid Amazo (cyborg offspring)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/amazo.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/amazo.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/amazo.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/amazo.jpg"
   }
 }

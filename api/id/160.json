@@ -44,7 +44,9 @@
     "groupAffiliation": "The Planeteers",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-planet.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-planet.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-planet.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-planet.jpg"
   }
 }

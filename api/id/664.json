@@ -42,7 +42,9 @@
     "groupAffiliation": "(At time of death) Avengers; (Formerly) Legion of the Unliving, Thor Corps",
     "relatives": "Marcy Masterson Steele (wife, divorced), Kevin Masterson (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/thunderstrike.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/thunderstrike.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/thunderstrike.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thunderstrike.jpg"
   }
 }

@@ -47,7 +47,9 @@
     "groupAffiliation": "New X-Men, formerly Xavier Institute Student Body, The Facility",
     "relatives": "Sarah Kinney (surrogate mother, deceased), James Howlett (Wolverine, genetic progenitor)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/x-23.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/x-23.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/x-23.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/x-23.jpg"
   }
 }

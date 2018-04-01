@@ -45,7 +45,9 @@
     "groupAffiliation": "Heralds of Galactus; formerly God Squad",
     "relatives": "Galan (\"father\"), Galacta (daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/galactus.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/galactus.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/galactus.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/galactus.jpg"
   }
 }

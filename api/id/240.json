@@ -42,7 +42,9 @@
     "groupAffiliation": "Justice League of America, Justice League Europe, Super Buddies, Outsiders, Croatoans, Black Lantern Corps",
     "relatives": "Sue Dibny (wife, deceased); Ken Dibny (brother); Jake Dibny (uncle); Jim (uncle-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/elongated-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/elongated-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/elongated-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/elongated-man.jpg"
   }
 }

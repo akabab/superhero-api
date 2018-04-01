@@ -44,7 +44,9 @@
     "groupAffiliation": "Guardians of the Galaxy; Formerly Star-Lord's unnamed commando team",
     "relatives": "Lylla (mate)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/rocket-raccoon.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/rocket-raccoon.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/rocket-raccoon.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rocket-raccoon.jpg"
   }
 }

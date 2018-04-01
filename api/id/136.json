@@ -42,7 +42,9 @@
     "groupAffiliation": "Lex Luthor",
     "relatives": "Vril Dox II (son), Brainiac 5 (descendant)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/brainiac.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/brainiac.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/brainiac.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/brainiac.jpg"
   }
 }

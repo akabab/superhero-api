@@ -43,7 +43,9 @@
     "groupAffiliation": "Sinestro Corps, Weaponers of Qward, Thunderers of Qward, Shadow Demons",
     "relatives": "Monitor (\"brother\"), The Monitors"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/anti-monitor.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/anti-monitor.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/anti-monitor.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/anti-monitor.jpg"
   }
 }

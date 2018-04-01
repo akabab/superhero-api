@@ -47,7 +47,9 @@
     "groupAffiliation": "Green Lantern Corps, New Guardians, formerly Challengers From Beyond, Sinestro Corps, Justice League of America, Blue Lantern Corps, Titans",
     "relatives": "Aaron Rayner (father), Maura Rayner (mother, deceased), Zachary Rayner (uncle, deceased), Roderick \"Snowy\" Rayner (grandfather, deceased), unnamed maternal great-grandfather (deceased), Kathleen (aunt), Cary Wren (descendant)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/kyle-rayner.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/kyle-rayner.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/kyle-rayner.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kyle-rayner.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Incredible Family (genetic member), National Supers Agency (ties), Edna Mode (receives costumes and gadgets from her), Frozone (long-time friend)",
     "relatives": "Robert Parr(Mr Incredible, father), Helen Parr (Elastigirl, mother), Violet Parr(Violet, sister), Dashiell Parr (Dash, brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jack-jack.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jack-jack.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jack-jack.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jack-jack.jpg"
   }
 }

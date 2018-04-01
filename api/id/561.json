@@ -44,7 +44,9 @@
     "groupAffiliation": "Batman Family, Batman Incorporated, Justice League; formerly Teen Titans, Outsiders, Bludhaven Police Department, Secret Society of Super-Villains",
     "relatives": "John Grayson (father), Mary Grayson (mother), Bruce Wayne (adoptive father), Damian Wayne (adoptive brother), Jason Todd (adoptive brother), Tim Drake (adoptive brother), Cassandra Cain (adoptive sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/robin-i.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/robin-i.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/robin-i.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-i.jpg"
   }
 }

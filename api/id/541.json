@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Leonardo (brother), Donatello (brother), Michelangelo (brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/raphael.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/raphael.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/raphael.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/raphael.jpg"
   }
 }

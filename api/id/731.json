@@ -42,7 +42,9 @@
     "groupAffiliation": "Secret Society of Super Villains, formerly Keystone Police Department, F.B.I.",
     "relatives": "Ashley Zolomon (ex-wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/zoom.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/zoom.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/zoom.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/zoom.jpg"
   }
 }

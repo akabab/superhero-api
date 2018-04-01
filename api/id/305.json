@@ -44,7 +44,9 @@
     "groupAffiliation": "Green Lantern Corps, Formerly Justice League of America",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/guy-gardner.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/guy-gardner.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/guy-gardner.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/guy-gardner.jpg"
   }
 }

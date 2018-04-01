@@ -42,7 +42,9 @@
     "groupAffiliation": "Affiliation \"Fin Fang Four,\" former ally of the Mandarin, pawn of Doctor Vault, member of starship crew",
     "relatives": "Fraktur (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/fin-fang-foom.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/fin-fang-foom.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/fin-fang-foom.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/fin-fang-foom.jpg"
   }
 }

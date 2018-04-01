@@ -42,7 +42,9 @@
     "groupAffiliation": "Alphas",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/rachel-pirzad.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/rachel-pirzad.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/rachel-pirzad.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rachel-pirzad.jpg"
   }
 }

@@ -48,7 +48,9 @@
     "groupAffiliation": "Formerly Fantastic Four, Secret Avengers, Avengers, Pendragons, Queen's Vengeance, former Fantastic Force financier",
     "relatives": "Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T?Chaka (father, deceased), S'Yan (uncle, deceased), N?Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/black-panther.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-panther.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-panther.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-panther.jpg"
   }
 }

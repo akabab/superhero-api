@@ -47,7 +47,9 @@
     "groupAffiliation": "Formerly Nextwave, X-Force, Genoshan Mutates, New Mutants, X-Terminators, X-Factor (trainee), Fallen Angels",
     "relatives": "Martin Louis Smith (father), Mandy Smith (step-mother), Wanda Jo Bialowsky-Smith (step-mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/boom-boom.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/boom-boom.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/boom-boom.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/boom-boom.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Carnage Family",
     "relatives": "Carnage (adopted husband), Carrion (Malcolm McBride) and Demogoblin (adopted sons), Doppelganger (adopted pet)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/shriek.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/shriek.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/shriek.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/shriek.jpg"
   }
 }

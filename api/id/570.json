@@ -43,7 +43,9 @@
     "groupAffiliation": "Weapon X, Marauders, Brotherhood of Evil Mutants",
     "relatives": "Grayden Creed (son; deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sabretooth.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sabretooth.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sabretooth.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sabretooth.jpg"
   }
 }

@@ -51,7 +51,9 @@
     "groupAffiliation": "Batman Family and the JLA; formerly the Teen Titans, the New Titans, the Titans and the Outsiders",
     "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/nightwing.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/nightwing.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/nightwing.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/nightwing.jpg"
   }
 }

@@ -45,7 +45,9 @@
     "groupAffiliation": "Flash Family, Justice League of America; formerly Blue Lantern Corps",
     "relatives": "Henry and Nora (parents), Malcolm Thawne (twin), Iris West Allen (wife), Wally West (Flash III, nephew), Don and Dawn Allen (son and daughter), Bart Allen (Flash IV, grandson), Jenni Ognats (granddaughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/flash-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-2.jpg"
   }
 }

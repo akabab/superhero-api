@@ -43,7 +43,9 @@
     "groupAffiliation": "Marvel Family, formerly Outsiders and Teen Titans.",
     "relatives": "parents, deceased, Jacob Freeman (granfather, deceased), Timothy Karnes (Sabbac, foster brother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-marvel-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-marvel-2.jpg"
   }
 }

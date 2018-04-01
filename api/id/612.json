@@ -43,7 +43,9 @@
     "groupAffiliation": "Eighth Circle of Hell; formerly (as Al Simmons) CIA (U.S. Security Service), U.S. Secret Service, U.S. Marine Corps",
     "relatives": "Wanda (widow), Cyan (widow's daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spawn.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spawn.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spawn.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spawn.jpg"
   }
 }

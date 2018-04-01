@@ -42,7 +42,9 @@
     "groupAffiliation": "Rogues; formerly Secret Society of Super-Villains, Legion of Doom",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/heat-wave.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/heat-wave.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/heat-wave.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/heat-wave.jpg"
   }
 }

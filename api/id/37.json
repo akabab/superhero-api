@@ -42,7 +42,9 @@
     "groupAffiliation": "Aquaman Family; formerly Black Lantern Corps, Sentinels of Magic, Teen Titans",
     "relatives": "Cerdian (son), Dolphin (wife), Berra (mother), Thar (father), Slizzath (uncle) Donna (grand-daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/aqualad.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/aqualad.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/aqualad.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/aqualad.jpg"
   }
 }

@@ -44,7 +44,9 @@
     "groupAffiliation": "Formerly Brotherhood Of Mutants, Excalibur, X-Men, former agent of Onslaught and Sledge",
     "relatives": "Ronald Rankin (father, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mimic.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mimic.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mimic.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mimic.jpg"
   }
 }

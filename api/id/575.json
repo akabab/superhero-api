@@ -42,7 +42,9 @@
     "groupAffiliation": "Liberty League, Chicago Police Department, Special Operations Strikeforce (S.O.S.)",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/savage-dragon.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/savage-dragon.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/savage-dragon.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/savage-dragon.jpg"
   }
 }

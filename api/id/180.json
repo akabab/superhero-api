@@ -42,7 +42,9 @@
     "groupAffiliation": "Cloak and Dagger, New Warriors, Marvel Knights",
     "relatives": "Smokin' Joe (rumored grandfather)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/cloak.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/cloak.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/cloak.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cloak.jpg"
   }
 }

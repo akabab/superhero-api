@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Leonard Skivorski (father); Ricky Myers (son);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/docsamson.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/docsamson.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/docsamson.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/docsamson.jpg"
   }
 }

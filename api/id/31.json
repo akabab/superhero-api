@@ -43,7 +43,9 @@
     "groupAffiliation": "Ant-Man Security Solutions; formerly Future Foundation (leader), Fantastic Four (leader), Defenders, Avengers, Heroes For Hire, Stark Industries",
     "relatives": "Cassandra Eleanor Lang (daughter), Ruth (sister), Carl (brother-in-law), Peggy Rae (ex-wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ant-man-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ant-man-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ant-man-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ant-man-2.jpg"
   }
 }

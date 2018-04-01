@@ -43,7 +43,9 @@
     "groupAffiliation": "Infinity Watch, (as the Magus) head of Universal Church of Truth in an alternate future",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/warlock.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/warlock.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/warlock.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/warlock.jpg"
   }
 }

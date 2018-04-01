@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/destroyer.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/destroyer.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/destroyer.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/destroyer.jpg"
   }
 }

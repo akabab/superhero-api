@@ -42,7 +42,9 @@
     "groupAffiliation": "Secret Society of Super-Villains",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/killer-croc.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/killer-croc.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/killer-croc.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/killer-croc.jpg"
   }
 }

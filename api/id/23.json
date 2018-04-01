@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "Kathy (sister), Connor (son), Twilight (\"child\")"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/angel-liam.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/angel-liam.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/angel-liam.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/angel-liam.jpg"
   }
 }

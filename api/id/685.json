@@ -42,7 +42,9 @@
     "groupAffiliation": "(former) Outer Circle of Enforcers II, Factor Three, Fallen Angels",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/vanisher.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/vanisher.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/vanisher.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vanisher.jpg"
   }
 }

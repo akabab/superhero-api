@@ -42,7 +42,9 @@
     "groupAffiliation": "\"Clean City\"; formerly Stryfe; X-Men; X.S.E. (Storm's team); X-Treme X-Men; X.S.E. (Hecate'e's team); The Twelve",
     "relatives": "Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bishop.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bishop.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bishop.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bishop.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Fantastic Four",
     "relatives": "Nathaniai (father), Evelyn (mother, deceased), Susan Storm - Invisible Woman (wife), Franklin (son), Johnny Storm - Human Torch (brother-inlaw), Cassandra (stepmother, deceased), Immortus (father's descendant, see Immortus, Kang, Rama-Tut)."
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mr-fantastic.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mr-fantastic.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mr-fantastic.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mr-fantastic.jpg"
   }
 }

@@ -43,7 +43,9 @@
     "groupAffiliation": "Justice Society of America, Justice League Europe, Infinity, Inc., Sovereign Seven",
     "relatives": "Zor-L (father, deceased), Allura (mother, deceased), Jor-L (uncle, deceased), Lora (aunt, deceased), Kal-L (Earth-Two Superman, cousin and adopted father, deceased), Earth-Two Lois Lane (adopted mother, deceased), Equinox (son, deceased), Kara Zor-El (alternate universe version)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/power-girl.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/power-girl.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/power-girl.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/power-girl.jpg"
   }
 }

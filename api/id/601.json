@@ -46,7 +46,9 @@
     "groupAffiliation": "Sinestro Corps, formerly Green Lantern Corps, Secret Society, Injustice League",
     "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sinestro.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sinestro.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sinestro.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sinestro.jpg"
   }
 }

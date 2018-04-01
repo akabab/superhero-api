@@ -45,7 +45,9 @@
     "groupAffiliation": "Slaughter Lords (leader); formerly Galactic Council, ruler of the Spartoi Empire",
     "relatives": "Eson (father, deceased), Peter Quill (Star-Lord, son), Victoria (daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mister-knife.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-knife.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-knife.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-knife.jpg"
   }
 }

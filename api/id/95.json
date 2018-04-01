@@ -45,7 +45,9 @@
     "groupAffiliation": "None; Formerly the Black Marvel Family, Society of Villains, Injustice Society, Justice Society of America",
     "relatives": "Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/black-adam.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-adam.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-adam.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-adam.jpg"
   }
 }

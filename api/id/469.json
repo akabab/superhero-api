@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Nana Dawson (Grandmother), Damon (brother), DL Hawkins (cousin), Niki Sanders (cousin-in-law once removed), Micah Sanders (second cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/monica-dawson.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/monica-dawson.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/monica-dawson.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/monica-dawson.jpg"
   }
 }

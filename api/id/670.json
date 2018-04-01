@@ -42,7 +42,9 @@
     "groupAffiliation": "198; (formerly) Brotherhood of Evil Mutants, Misfits; (formerly) associate of Gideon, Emma Frost",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/toad.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/toad.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/toad.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/toad.jpg"
   }
 }

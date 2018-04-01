@@ -43,7 +43,9 @@
     "groupAffiliation": "Batman Family, Batman Incorporated, Justice League, Outsiders, Wayne Enterprises, Club of Heroes, formerly White Lantern Corps, Sinestro Corps",
     "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/batman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/batman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/batman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/batman.jpg"
   }
 }

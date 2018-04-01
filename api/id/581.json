@@ -43,7 +43,9 @@
     "groupAffiliation": "Avengers (Osborn's team); formerly Thunderbolts, Masters of Evil, \"Spider-Man Revenge League\"; Sinister Twelve; formerly partners with Mister Hyde and Delilah",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/scorpion.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/scorpion.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/scorpion.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/scorpion.jpg"
   }
 }

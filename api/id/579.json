@@ -46,7 +46,9 @@
     "groupAffiliation": "None, Formerly Avengers, Avengers West Coast, Force Works, Queen's Vengeance, Secret Defenders, Lady Liberators, Brotherhood of Evil Mutants",
     "relatives": "Pietro (Quicksilver, twin brother), Magnus (Magneto, father), Magda Lehnsherr (mother, deceased), Anya (half-sister, deceased), Lorna Dane (Polaris, half-sister), Vision (estranged husband), Django Maximoff (foster father, deceased), Marya Maximoff (foster mother, deceased), Crystal (sister-in-law), Luna (niece), Tommy & Billy (reincarnated sons), Talia Wagner (Nocturne, alternate reality daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/scarlet-witch.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/scarlet-witch.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/scarlet-witch.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarlet-witch.jpg"
   }
 }

@@ -44,7 +44,9 @@
     "groupAffiliation": "Galactic Council, Annihilators; formerly Imperial Guard; possibly Heralds of Galactus",
     "relatives": "Kubark (Kid Gladiator) (son), Xenith (The Strontian) (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/gladiator.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/gladiator.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/gladiator.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gladiator.jpg"
   }
 }

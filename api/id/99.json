@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Heroes for Hire",
     "relatives": "Walter Hardy (father, deceased), Lydia Hardy (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/black-cat.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-cat.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-cat.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-cat.jpg"
   }
 }

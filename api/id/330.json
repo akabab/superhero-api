@@ -47,7 +47,9 @@
     "groupAffiliation": "X-Men, formerly Cable",
     "relatives": "Louise Spalding (mother, deceased), unknown biological father, Mrs. Spalding (maternal grandmother), Cable (adoptive father, deceased), Hope (adoptive mother, deceased), Cyclops (adoptive grandfather), Red Queen / Phoenix (adoptive grandmothers, deceased?), X-Man (adoptive uncle), Marvel Girl (adoptive aunt), Havok (adoptive granduncle), Vulcan (adoptive granduncle, deceased), Deathbird (adoptive grandaunt)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hope-summers.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hope-summers.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hope-summers.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hope-summers.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "The Watchers, Friend and Ally of the Fantastic Four, among other Earth heroes",
     "relatives": "Ikor (father); Aron (nephew); Qyre, Zoma (cousins)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/uatu-watcher.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/uatu-watcher.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/uatu-watcher.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/uatu-watcher.jpg"
   }
 }

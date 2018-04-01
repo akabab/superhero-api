@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Liz Allen-Osborn (Wife,) Norman III (son,)Norman Osborn II - Green Goblin (father)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/green-goblin-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/green-goblin-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/green-goblin-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/green-goblin-2.jpg"
   }
 }

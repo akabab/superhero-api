@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Weapon X, Weapon Plus, Team X, Cell Six, former bodyguard of Psi-Borg, former agent of Major Barrington",
     "relatives": "Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/agent-zero.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/agent-zero.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/agent-zero.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-zero.jpg"
   }
 }

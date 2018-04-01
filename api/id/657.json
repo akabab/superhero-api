@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Crimebusters, Minutemen",
     "relatives": "Silk Spectre (Laurel \"Laurie\" Juspeczyk) (daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/comedian.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/comedian.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/comedian.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/comedian.jpg"
   }
 }

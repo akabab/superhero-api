@@ -43,7 +43,9 @@
     "groupAffiliation": "Justice League Task Force, Extreme Justice",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/maxima.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/maxima.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/maxima.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/maxima.jpg"
   }
 }

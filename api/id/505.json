@@ -43,7 +43,9 @@
     "groupAffiliation": "Birds of Prey, Batman Family, Seven Soldiers of Victory, Suicide Squad, Justice League",
     "relatives": "Roger C. Gordon (father, deceased); Thelma (mother, deceased); James Gordon (uncle/adoptive father); Barbara Eileen Gordon (aunt/adoptive mother); James Gordon Jr. (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/oracle_dc.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/oracle_dc.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/oracle_dc.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/oracle_dc.jpg"
   }
 }

@@ -45,7 +45,9 @@
     "groupAffiliation": "United Nations Space Command, Navy",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/master-chief.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/master-chief.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/master-chief.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/master-chief.jpg"
   }
 }

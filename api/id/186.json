@@ -51,7 +51,9 @@
     "groupAffiliation": "Weapon X/Weapon Plus and Six Pack (as Copycat), X-Force and New Mutants (as Domino)",
     "relatives": "Burt Carlysle (father, deceased), Dorothy Carlysle (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/copycat.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/copycat.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/copycat.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/copycat.jpg"
   }
 }

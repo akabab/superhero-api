@@ -42,7 +42,9 @@
     "groupAffiliation": "Sinister Six formerly Emissaries of Evil, Frightful Four and Sinister Twelve",
     "relatives": "Norma Lynn Dillon (ex-wife), Jonathan Dillon (father, deceased), Anita Dillon (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/electro.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/electro.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/electro.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/electro.jpg"
   }
 }

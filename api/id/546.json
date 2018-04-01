@@ -46,7 +46,9 @@
     "groupAffiliation": "formerly Batman Family, Teen Titans",
     "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/red-hood.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-hood.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-hood.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-hood.jpg"
   }
 }

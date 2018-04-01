@@ -43,7 +43,9 @@
     "groupAffiliation": "X-Men, formerly: Xavier Institute Student Body, New X-Men",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/armor.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/armor.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/armor.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/armor.jpg"
   }
 }

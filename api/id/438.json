@@ -43,7 +43,9 @@
     "groupAffiliation": "(As Maverick) Formerly Gene Nation, Cable?s Underground; (as Bolt) formerly New Warriors",
     "relatives": "Robert Bradley (Frank Johnson, father), Marion Bradley (Rose Johnson, mother), Catherine Bradley (Jennifer Johnson, sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/maverick.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/maverick.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/maverick.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/maverick.jpg"
   }
 }

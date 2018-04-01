@@ -42,7 +42,9 @@
     "groupAffiliation": "Injustice Gang, Injustice League, Society of Supervillains",
     "relatives": "Casey and Elaine Griggs (foster parents, deceased),\nLena Luthor (sister pre-Crisis; daughter post-Crisis),\nElizabeth Perske (ex-wife),\nPerry J. White Jr. (son, deceased),\nContessa Erica Alexandra del Portenza (wife, assumed deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/lex-luthor.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/lex-luthor.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/lex-luthor.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/lex-luthor.jpg"
   }
 }

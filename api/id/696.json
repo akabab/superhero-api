@@ -44,7 +44,9 @@
     "groupAffiliation": "Incredible Family, National Supers Agency",
     "relatives": "Robert Parr (Mr Incredible, father), Helen Parr (Elastigirl, mother), Dashiel Parr(Dash, brother), Jack-jack (brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/violet.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/violet.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/violet.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/violet.jpg"
   }
 }

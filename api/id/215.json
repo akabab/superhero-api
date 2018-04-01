@@ -42,7 +42,9 @@
     "groupAffiliation": "Former member of the CIA, Project: Alpha-Mech, US Army, ally of Godwulf's Redeemers",
     "relatives": "Janice (Wife, seperated), Richard (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/deathlok.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/deathlok.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/deathlok.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathlok.jpg"
   }
 }

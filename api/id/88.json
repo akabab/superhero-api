@@ -42,7 +42,9 @@
     "groupAffiliation": "New Mutants, Ani-Mate",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bird-brain.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bird-brain.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bird-brain.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bird-brain.jpg"
   }
 }

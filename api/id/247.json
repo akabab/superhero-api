@@ -42,7 +42,9 @@
     "groupAffiliation": "Evil Deadpool Corps",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/evil-deadpool.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/evil-deadpool.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/evil-deadpool.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/evil-deadpool.jpg"
   }
 }

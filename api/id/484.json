@@ -43,7 +43,9 @@
     "groupAffiliation": "Formerly Council of Three, New Warriors, Fantastic Four, Soldiers of Misfortune, Water Children",
     "relatives": "Namora (mother); Talan (father, deceased); Namor, Byrrah, Dara, Arkus (first cousins once removed); Fen (great-aunt, deceased); Thakorr (great-grandfather, deceased); Korra (great-grandmother, presumed deceased); large extended family; Betty Prentiss (legal guardian, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/namorita.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/namorita.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/namorita.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/namorita.jpg"
   }
 }

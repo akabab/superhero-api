@@ -44,7 +44,9 @@
     "groupAffiliation": "Flash Family, Justice League of America, Titans; formerly Teen Titans",
     "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (Flash II, uncle), Linda Park West (wife), Jai and Iris West (twin children)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/flash-3.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-3.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-3.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-3.jpg"
   }
 }

@@ -46,7 +46,9 @@
     "groupAffiliation": "Mighty Avengers, Avengers, S.H.I.E.L.D.; partner of Redwing; formerly Heroes For Hire, partner of Captain America, Secret Avengers, S.H.I.E.L.D. Super-Agents (leader), Defenders, ally of Secret Warriors , Defenders for a Day",
     "relatives": "Paul Wilson (father, deceased); Darlene Wilson (mother, deceased); Sarah Wilson (sister), Gideon Wilson (brother); Jim Wilson (nephew, deceased); Jody Casper (nephew)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/falcon.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/falcon.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/falcon.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/falcon.jpg"
   }
 }

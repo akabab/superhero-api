@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "DL Hawkins (husband), Hal Sanders (father), Micah Sanders (son), Jessica Sanders (sister,deceased), Monica Dawson (cousin-in-law), Damon Dawson (cousin-in-law), Paulette Hawkins (mother-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/niki-sanders.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/niki-sanders.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/niki-sanders.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/niki-sanders.jpg"
   }
 }

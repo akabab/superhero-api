@@ -43,7 +43,9 @@
     "groupAffiliation": "X-Factor Investigations; rebel forces on his homeworld; formerly Exiles; X-Men",
     "relatives": "Arize (creator), Alison Blaire (Dazzler) (wife), Gaveedra Seven (Shatterstar) (alleged son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/longshot.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/longshot.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/longshot.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/longshot.jpg"
   }
 }

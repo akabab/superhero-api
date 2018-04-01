@@ -42,7 +42,9 @@
     "groupAffiliation": "Alphas",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bill-harken.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bill-harken.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bill-harken.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bill-harken.jpg"
   }
 }

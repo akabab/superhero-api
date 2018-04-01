@@ -42,7 +42,9 @@
     "groupAffiliation": "Generation X",
     "relatives": "Stan Thomas (father), Ida Thomas (mother), Kim Ho Twae (adopted sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/synch.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/synch.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/synch.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/synch.jpg"
   }
 }

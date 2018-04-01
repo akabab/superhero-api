@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Alien Queen (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/alien.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/alien.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/alien.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alien.jpg"
   }
 }

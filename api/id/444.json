@@ -45,7 +45,9 @@
     "groupAffiliation": "Aquaman Family; formerly Red Lantern Corps",
     "relatives": "Aquaman (husband); Aquababy (son, deceased); A.J. (son); Siren (Hila, twin sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mera.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mera.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mera.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mera.jpg"
   }
 }

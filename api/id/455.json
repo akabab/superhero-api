@@ -43,7 +43,9 @@
     "groupAffiliation": "Teen Titans",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/miss-martian.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/miss-martian.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/miss-martian.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/miss-martian.jpg"
   }
 }

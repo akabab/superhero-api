@@ -56,7 +56,9 @@
     "groupAffiliation": "none; Formerly: partner of Black Widow (Natasha Romanoff), Defenders, S.H.I.E.L.D., Marvel Knights, Secret Avengers (Civil War), Hand leader.",
     "relatives": "Jonathan \"Battling Jack\" Murdock (Father, deceased), Maggie Murdock (aka Sister Maggie, Mother), Milla Donovan (ex-wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/daredevil.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/daredevil.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/daredevil.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/daredevil.jpg"
   }
 }

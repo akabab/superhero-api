@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Deborah Watts Mason (wife, deceased), Rick Mason (aka Agent, son, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/tinkerer.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/tinkerer.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/tinkerer.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/tinkerer.jpg"
   }
 }

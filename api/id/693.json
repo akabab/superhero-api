@@ -42,7 +42,9 @@
     "groupAffiliation": "Alpha Flight",
     "relatives": "Guardian, husband"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/vindicator.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/vindicator.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/vindicator.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vindicator.jpg"
   }
 }

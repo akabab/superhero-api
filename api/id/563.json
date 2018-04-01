@@ -45,7 +45,9 @@
     "groupAffiliation": "Teen Titans, Batman Family, Batman Inc., Wayne Enterprises; formerly Young Justice",
     "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Jason Todd (Robin II, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/robin-iii.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/robin-iii.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/robin-iii.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-iii.jpg"
   }
 }

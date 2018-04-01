@@ -42,7 +42,9 @@
     "groupAffiliation": "Acolytes, formerly Alliance of Evil; temporarily X-Men while controlled by Jean Grey, Femizons",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/frenzy.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/frenzy.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/frenzy.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/frenzy.jpg"
   }
 }

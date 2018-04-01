@@ -47,7 +47,9 @@
     "groupAffiliation": "Thunderbolts, formerly Revengers, Defenders (New Jersey Initiative team), Masters of Evil, Maggia, Grim Reaper's Lethal Legion, Mandarin's Minions, Emissaries of Evil; former partner of Citizen V (Dallas Riordan) and Swordsman, Count Nefaria's Lethal Legi",
     "relatives": "Unidentified parents (deceased), Carl (brother, deceased), Conrad (brother), Lindy (sister, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/atlas-josten.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/atlas-josten.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/atlas-josten.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/atlas-josten.jpg"
   }
 }

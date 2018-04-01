@@ -44,7 +44,9 @@
     "groupAffiliation": "(formerly) The Sinister Six",
     "relatives": "Nikolai & Anna Makarova Kravinoff (parents, deceased), Dmitri Smerdyakov (Chameleon, half-brother), Vladimir Kravinoff (Grim Hunter, son, deceased), Aloysha \"Al\" Kravinoff (Kraven II, son), Ned Tannengarden (son, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/kraven-1.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/kraven-1.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/kraven-1.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kraven-1.jpg"
   }
 }

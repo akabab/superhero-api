@@ -46,7 +46,9 @@
     "groupAffiliation": "formerly Thunderbolts, Masters of Evil, Sinister Syndicate, Justin Hammer's Hit Squad, Maggia, Sinister Seven, Commission on Superhuman Activities, Defenders impersonators, Burton Canyon Police Department",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mach-4.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mach-4.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mach-4.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mach-4.jpg"
   }
 }

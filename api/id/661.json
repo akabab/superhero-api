@@ -42,7 +42,9 @@
     "groupAffiliation": "X-Men, formerly US Marine Corp",
     "relatives": "Unidentified grandfather (deceased), Neal Proudstar (father, deceased), Maria Proudstar (mother, deceased), James Proudstar (Warpath, brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/thunderbird.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/thunderbird.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/thunderbird.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thunderbird.jpg"
   }
 }

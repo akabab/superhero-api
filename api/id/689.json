@@ -42,7 +42,9 @@
     "groupAffiliation": "Thunderbolts; formerly (as Scorpion) Masters of Evil, \"Spider-Man Revenge League\"; (as Venom) Sinister Twelve",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/venom-3.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/venom-3.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/venom-3.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/venom-3.jpg"
   }
 }

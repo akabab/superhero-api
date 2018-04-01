@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Black Lantern Corps, Legion of Super-Villains, Sinestro Corps",
     "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/superboy-prime.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/superboy-prime.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/superboy-prime.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/superboy-prime.jpg"
   }
 }

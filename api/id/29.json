@@ -43,7 +43,9 @@
     "groupAffiliation": "Sometime ally of Blastaar",
     "relatives": "Annihilus is a series of clonal scions"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/annihilus.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/annihilus.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/annihilus.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/annihilus.jpg"
   }
 }

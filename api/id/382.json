@@ -51,7 +51,9 @@
     "groupAffiliation": "-",
     "relatives": "Mrs. Levin (mother), Devlin Levin (alternate future son), Ben Tennyson (Ben 10, best friend), Harvey Hackett (Stepfather), Gwen Tennyson(girlfriend)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/kevin-11.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/kevin-11.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/kevin-11.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kevin-11.jpg"
   }
 }

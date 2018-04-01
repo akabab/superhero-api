@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/two-face.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/two-face.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/two-face.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/two-face.jpg"
   }
 }

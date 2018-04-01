@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly New Warriors; Special Class",
     "relatives": "Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/tempest.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/tempest.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/tempest.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/tempest.jpg"
   }
 }

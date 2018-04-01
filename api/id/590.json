@@ -43,7 +43,9 @@
     "groupAffiliation": "Frightful Four; formerly Fantastic Four, Unlimited Class Wrestling Federation, Thunderiders",
     "relatives": "Jack Ventura (father, deceased), Mrs. Ventura (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/she-thing.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/she-thing.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/she-thing.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/she-thing.jpg"
   }
 }

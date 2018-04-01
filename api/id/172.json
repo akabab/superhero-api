@@ -43,7 +43,9 @@
     "groupAffiliation": "Villainy Inc",
     "relatives": "Claudia Rich (cousin), Debi Domaine (niece)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/cheetah-1.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/cheetah-1.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/cheetah-1.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cheetah-1.jpg"
   }
 }

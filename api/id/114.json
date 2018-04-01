@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Roy \"Daddy Libido\" Washington (father), Angel \"Sexy Mutha\" Depres (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bling!.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bling!.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bling!.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bling!.jpg"
   }
 }

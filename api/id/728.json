@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Utgard-Loki, Loki, and the race of Frost Giants (descendants)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ymir.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ymir.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ymir.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ymir.jpg"
   }
 }

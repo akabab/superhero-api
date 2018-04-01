@@ -44,7 +44,9 @@
     "groupAffiliation": "Justice League of America, formerly; Suicide Squad, Teen Titans",
     "relatives": "Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/atom-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/atom-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/atom-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/atom-2.jpg"
   }
 }

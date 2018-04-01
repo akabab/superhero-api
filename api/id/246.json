@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Justice League of America, Spirit Squad",
     "relatives": "Belial (father), Raan va Daath (mother), Merlin (half Brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/etrigan.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/etrigan.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/etrigan.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/etrigan.jpg"
   }
 }

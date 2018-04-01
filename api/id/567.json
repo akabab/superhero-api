@@ -46,7 +46,9 @@
     "groupAffiliation": "X-Men, formerly X-Treme Sanctions Executive, X-Treme X-Men, Brotherhood of Evil Mutants",
     "relatives": "Owen (father), Priscilla (mother), Carrie (aunt), Raven Darkh?lme (Mystique, foster mother), Kurt Wagner (Nightcrawler, foster brother), Graydon Creed (foster brother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/rogue.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/rogue.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/rogue.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rogue.jpg"
   }
 }

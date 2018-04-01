@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Suicide Squad, Checkmate, Ultramarines, Birds of Prey, Justice League of America",
     "relatives": "Reverend Richard Jiwe (father, deceased), Jeanne-Mari Jiwe (mother, deceased), General Mustapha Maksai (uncle, deceased), Tantu (ancestor)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/vixen.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/vixen.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/vixen.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vixen.jpg"
   }
 }

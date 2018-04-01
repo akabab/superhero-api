@@ -42,7 +42,9 @@
     "groupAffiliation": "Serpent Squad, Serpent Society, BAD Girls",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/black-mamba.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-mamba.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-mamba.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-mamba.jpg"
   }
 }

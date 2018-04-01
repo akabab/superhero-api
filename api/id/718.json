@@ -46,7 +46,9 @@
     "groupAffiliation": "Teen Titans, Young Justice, Themyscira",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/wonder-girl-iii.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/wonder-girl-iii.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/wonder-girl-iii.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wonder-girl-iii.jpg"
   }
 }

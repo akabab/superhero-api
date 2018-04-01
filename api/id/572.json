@@ -44,7 +44,9 @@
     "groupAffiliation": "(Formerly) Sinister Twelve, the Sinister Six, the Frightful Four, the Outlaws and the Wild Pack, reserve member of the Avengers",
     "relatives": "Mrs. Baker (mother), unidentified cousin"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sandman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sandman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sandman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sandman.jpg"
   }
 }

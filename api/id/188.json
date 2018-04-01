@@ -42,7 +42,9 @@
     "groupAffiliation": "Serpent Society",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/cottonmouth.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/cottonmouth.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/cottonmouth.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cottonmouth.jpg"
   }
 }

@@ -46,7 +46,9 @@
     "groupAffiliation": "Formerly Horsemen of Death, Osborn's Avengers, Mighty Avengers, New Avengers, partner of Scout",
     "relatives": "Lindy Reynolds (wife, deceased), Mrs. Reynolds (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sentry.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sentry.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sentry.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sentry.jpg"
   }
 }

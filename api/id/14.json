@@ -44,7 +44,9 @@
     "groupAffiliation": "Justice Society of America; Formerly Checkmate; the Sentinels of Magic; Formerly All-Star Squadron",
     "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/alan-scott.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/alan-scott.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/alan-scott.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alan-scott.jpg"
   }
 }

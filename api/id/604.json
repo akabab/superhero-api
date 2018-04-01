@@ -42,7 +42,9 @@
     "groupAffiliation": "(Current) X-Factor (former) Ally of Black Tom and the Juggernaut, Fallen Angels, X-Force",
     "relatives": "Sean Cassidy (Banshee, father), Maeve Rourke (mother, deceased), Black Tom Cassidy (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/siryn.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/siryn.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/siryn.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/siryn.jpg"
   }
 }

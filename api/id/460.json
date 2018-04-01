@@ -53,7 +53,9 @@
     "groupAffiliation": "Marauders (founder), Nasty Boys (founder); formerly Weapon X, Third Reich",
     "relatives": "Rebecca Essex (wife, deceased), Adam Stanislaus Essex (son, deceased), N2 (creation, deceased), Madelyne Pryor (creation, deceased), Claudine Renko (clone \"daughter\")"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mister-sinister.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-sinister.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-sinister.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-sinister.jpg"
   }
 }

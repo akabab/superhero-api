@@ -43,7 +43,9 @@
     "groupAffiliation": "Black Lantern Corps, Teen Titans, Hawk and Dove, Titans West",
     "relatives": "Don Hall (brother, deceased), Irwin Hall (father), Rae Penfield (mother), James Penfield (uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hawk.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hawk.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hawk.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawk.jpg"
   }
 }

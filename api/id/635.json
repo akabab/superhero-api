@@ -43,7 +43,9 @@
     "groupAffiliation": "Reserve member of the Justice League of America",
     "relatives": "Mrs. Irons (mother, deceased), Mr. Irons (father, deceased), Maternal Grandmother (deceased), maternal grandfather (deceased), Butter (grandfather), Bess (grandmother, deceased), Clay Irons (brother), Jemahl Irons (nephew), Blondell Irons (sister-in-law), Natasha Irons (Starlight, niece), Paco (nephew), Tyke (former foster nephew)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/steel.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/steel.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/steel.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/steel.jpg"
   }
 }

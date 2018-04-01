@@ -42,7 +42,9 @@
     "groupAffiliation": "God Squad; formerly Alpha Flight, Eskimo Gods, Royal Canadian Mounted Police, The Flight",
     "relatives": "Hodiak (grandfather), Nelvanna (mother), Richard Lawrence Easton (father, deceased), Michael Twoyoungmen (Shaman, foster father), Douglas Thompson (husband, deceased), unnamed son (deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/snowbird.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/snowbird.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/snowbird.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/snowbird.jpg"
   }
 }

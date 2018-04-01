@@ -44,7 +44,9 @@
     "groupAffiliation": "Justice League; formerly Teen Titans, Titans, Titans East, New Teen Titans",
     "relatives": "Silas Stone (father), Elinore Stone (mother), Tucker Stone (grandfather), Maude Stone (grandmother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/cyborg.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/cyborg.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/cyborg.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cyborg.jpg"
   }
 }

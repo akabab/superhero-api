@@ -47,7 +47,9 @@
     "groupAffiliation": "Clan Akkaba, employer of Apocalypse's Horsemen, Dark Riders, former employer of the Alliance of Evil, 198",
     "relatives": "Baal of the Crimson Sands (adopted father, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/apocalypse.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/apocalypse.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/apocalypse.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/apocalypse.jpg"
   }
 }

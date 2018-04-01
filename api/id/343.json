@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly X-Men, Young X-Men",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ink.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ink.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ink.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ink.jpg"
   }
 }

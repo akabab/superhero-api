@@ -47,7 +47,9 @@
     "groupAffiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
     "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/catwoman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/catwoman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/catwoman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/catwoman.jpg"
   }
 }

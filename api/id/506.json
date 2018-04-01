@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Isis (Sister, deceased), Black Adam (Brother-in-Law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/osiris.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/osiris.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/osiris.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/osiris.jpg"
   }
 }

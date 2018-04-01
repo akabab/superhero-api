@@ -43,7 +43,9 @@
     "groupAffiliation": "Black Widow (partner), Nick Fury (employer); formerly Avengers, New Avengers, Invaders, Kid Commandos, Liberty Legion, Young Allies, Crazy S.U.E.S., Captain America (partner), Falcon (partner)",
     "relatives": "George M. Barnes (father, deceased), Winifred C. Barnes (mother, deceased), Rebecca P. Barnes Proctor (sister), Ida (aunt, presumed deceased), Mr. Proctor (brother-in-law), unidentified niece and nephew, Scott Proctor (grandnephew), Kimberly Proctor (grandniece)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/winter-soldier.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/winter-soldier.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/winter-soldier.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/winter-soldier.jpg"
   }
 }

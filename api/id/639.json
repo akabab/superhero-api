@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/stormtrooper.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/stormtrooper.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/stormtrooper.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/stormtrooper.jpg"
   }
 }

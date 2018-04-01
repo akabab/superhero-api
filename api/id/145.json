@@ -49,7 +49,9 @@
     "groupAffiliation": "X-Force, (former) X-Men, Clan Askani, Clan Chosen, Six Pack (formerly Wild Pack II)",
     "relatives": "Scott Summers (Cyclops, father), Madelyne Pryor-Summers (Goblin Queen, mother, deceased), Jean Grey (Phoenix, stepmother), Alexander Summers (Havok, uncle), Christopher Summers (Corsair, paternal grandfather), Katherine Anne Summers (paternal grandmother, deceased), Philip Summers (great-grandfather), Deborah Summers (great-grandmother), Jenskot (Aliya, wife, deceased), Tyler (Genesis, son, deceased), Stryfe (clone, deceased), Gabriel Summers (Vulcan, uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/cable.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/cable.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/cable.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cable.jpg"
   }
 }

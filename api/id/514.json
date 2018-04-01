@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/penguin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/penguin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/penguin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/penguin.jpg"
   }
 }

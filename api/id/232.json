@@ -47,7 +47,9 @@
     "groupAffiliation": "Lords of the Splinter Realms, Lords of the Netherworlds; allied with Umar, Loki, Doctor Doom, Underchild, others",
     "relatives": "Sinifer (parent/genitor), Umar (sister), Clea (niece), Doctor Strange (nephew-in-law), Satannish (alleged offspring)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/dormammu.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/dormammu.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/dormammu.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dormammu.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Quicksilver (Pietro Maximoff, father), Magneto (grandfather), Crystal (mother), Scarlet Witch, (aunt), Polaris (aunt)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/luna.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/luna.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/luna.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/luna.jpg"
   }
 }

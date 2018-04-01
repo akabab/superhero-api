@@ -42,7 +42,9 @@
     "groupAffiliation": "Superman Revenge Squad; Bizarros of Bizarro World; former associate of the Secret Society of Super-Villains; Joker League of Anarchy; former partner of Batzarro",
     "relatives": "Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bizarro.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bizarro.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bizarro.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bizarro.jpg"
   }
 }

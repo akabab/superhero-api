@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Mera (twin sister), Aquaman (brother-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/siren.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/siren.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/siren.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/siren.jpg"
   }
 }

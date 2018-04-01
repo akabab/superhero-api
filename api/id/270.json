@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Mary Storm (wife, deceased), Susan Storm Richards (Invisible Woman, daughter), Jonathan Storm (Human Torch, son), Franklin Richards (grandson), Reed Richards (Mister Fantastic, son-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/franklin-storm.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/franklin-storm.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/franklin-storm.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/franklin-storm.jpg"
   }
 }

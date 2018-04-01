@@ -42,7 +42,9 @@
     "groupAffiliation": "Warriors of the Great Web; formerly Mary Janes, Spider-Army",
     "relatives": "George Stacy (father), Helen Stacy (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spider-gwen.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-gwen.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-gwen.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-gwen.jpg"
   }
 }

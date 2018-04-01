@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spock.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spock.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spock.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spock.jpg"
   }
 }

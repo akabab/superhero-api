@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Hit-Girl (daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/big-daddy.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/big-daddy.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/big-daddy.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/big-daddy.jpg"
   }
 }

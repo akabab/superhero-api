@@ -45,7 +45,9 @@
     "groupAffiliation": "Squadron Supreme, (Formerly) Star Masters, ally of Exiles",
     "relatives": "Mr. and Mrs. Hamilton (foster parents)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hyperion.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hyperion.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hyperion.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hyperion.jpg"
   }
 }

@@ -46,7 +46,9 @@
     "groupAffiliation": "Underground Avengers (formerly Daredevil's Unnamed Super-Hero Team), Secret Defenders, Heroes for Hire, Nightwing Restorations, Fantastic Four, Defenders, Bloods",
     "relatives": "Jessica Jones (wife), James Leonard Lucas (father), Esther (mother, deceased), James Jr. (Coldfire, brother), unnamed daughter"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/luke-cage.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/luke-cage.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/luke-cage.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/luke-cage.jpg"
   }
 }

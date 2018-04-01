@@ -42,7 +42,9 @@
     "groupAffiliation": "The FBI; formerly the Justice League of America; the All-Star Squadron and the Freedom Fighters",
     "relatives": "Offspring (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/plastic-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/plastic-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/plastic-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/plastic-man.jpg"
   }
 }

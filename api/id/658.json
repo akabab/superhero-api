@@ -44,7 +44,9 @@
     "groupAffiliation": "Fantastic Four formerly Avengers West Coast, Unlimited Class Wrestling Federation, Thunderiders",
     "relatives": "Daniel (father, deceased), Elsie (mother, deceased), Daniel Jr. (brother, deceased), Jacob ('Jake,' uncle), Alyce (aunt, deceased), Pentunia ('Penny,' aunt, Jacob's second wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/thing.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/thing.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/thing.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thing.jpg"
   }
 }

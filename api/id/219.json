@@ -42,7 +42,9 @@
     "groupAffiliation": "Syndicate, formerly Bloods",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/willis-stryker.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/willis-stryker.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/willis-stryker.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/willis-stryker.jpg"
   }
 }

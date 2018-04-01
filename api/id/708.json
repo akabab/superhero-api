@@ -42,7 +42,9 @@
     "groupAffiliation": "Avengers",
     "relatives": "Vernon Van Dyne (father, deceased), unnamed mother (deceased), Henry \"Hank\" Pym (ex-husband)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/wasp.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/wasp.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/wasp.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wasp.jpg"
   }
 }

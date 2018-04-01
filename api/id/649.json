@@ -43,7 +43,9 @@
     "groupAffiliation": "Skynet",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/t-1000.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/t-1000.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/t-1000.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/t-1000.jpg"
   }
 }

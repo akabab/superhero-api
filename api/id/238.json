@@ -42,7 +42,9 @@
     "groupAffiliation": "S.H.I.E.L.D.; formerly Thunderbolts, Hand, Chaste, Heroes For Hire, Code Red, partner of Daredevil and Deadpool",
     "relatives": "Hugo Kostas Natchios (father, deceased), Christina Natchios (mother, deceased), Orestez Natchios (older brother), Demetrios Natchios (Uncle), Alexia Natchios (Aunt)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/elektra.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/elektra.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/elektra.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/elektra.jpg"
   }
 }

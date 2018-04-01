@@ -42,7 +42,9 @@
     "groupAffiliation": "Heralds of Galactus ; Formerly United Front",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/stardust.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/stardust.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/stardust.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/stardust.jpg"
   }
 }

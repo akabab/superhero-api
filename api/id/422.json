@@ -43,7 +43,9 @@
     "groupAffiliation": "Avengers",
     "relatives": "Dr. Able Stack, 'father'"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/machine-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/machine-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/machine-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/machine-man.jpg"
   }
 }

@@ -49,7 +49,9 @@
     "groupAffiliation": "Asgardians, Council of Godheads",
     "relatives": "Buri (Tiwaz) (paternal grandfather), Bolthorn (maternal grandfather), Bor Burison (father, deceased), Bestla (mother), Mimir Burison (paternal uncle), Njord (paternal uncle), Vili, Ve, Cul (brothers), Frigga (wife), Freyr (father-in-law), Gullveig (sister-in-law), Thor (son by Jord), Vidar (son by Grid), Balder (son by Frigga), Tyr, Hermod (allegedly sons by Frigga), Angela (daughter by Frigga), Laussa (daughter by Frigga and Surtur), Loki (foster son), Hoder (nephew), Skadi (niece)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/odin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/odin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/odin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/odin.jpg"
   }
 }

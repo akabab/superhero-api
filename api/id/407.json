@@ -43,7 +43,9 @@
     "groupAffiliation": "Legion of Super-Heroes",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/lightning-lad.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/lightning-lad.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/lightning-lad.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/lightning-lad.jpg"
   }
 }

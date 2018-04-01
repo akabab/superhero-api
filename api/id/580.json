@@ -42,7 +42,9 @@
     "groupAffiliation": "Hells Kitchen Mob; formerly Sinister Seven, allied with Silvermane",
     "relatives": "Vincent Coll (grandfather, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/scorpia.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/scorpia.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/scorpia.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/scorpia.jpg"
   }
 }

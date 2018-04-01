@@ -44,7 +44,9 @@
     "groupAffiliation": "Leader of The Hand, leader of a coalition of East Coast non-Maggia criminal organizations; former director of Las Vegas HYDRA faction.",
     "relatives": "Anatoly Fyskov (ancestor); Vanessa Fisk (wife, deceased); Rose (Richard Fisk) (son, deceased);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/kingpin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/kingpin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/kingpin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kingpin.jpg"
   }
 }

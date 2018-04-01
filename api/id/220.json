@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Niki Sanders (wife), Micah Sanders (son), Paulette Hawkins (mother), Monica Dawson (cousin), Damon Dawson (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/dl-hawkins.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/dl-hawkins.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/dl-hawkins.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dl-hawkins.jpg"
   }
 }

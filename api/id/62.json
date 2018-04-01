@@ -42,7 +42,9 @@
     "groupAffiliation": "Captain America, Pro-Registration forces",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bentam.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bentam.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bentam.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bentam.jpg"
   }
 }

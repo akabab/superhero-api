@@ -46,7 +46,9 @@
     "groupAffiliation": "Guardians of the Galaxy, Unnamed Kree covert ops team, formerly Galactic Council, Howling Commandos",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/groot.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/groot.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/groot.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/groot.jpg"
   }
 }

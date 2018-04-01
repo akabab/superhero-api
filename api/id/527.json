@@ -45,7 +45,9 @@
     "groupAffiliation": "Formerly X-Men (founder; formerly teacher & leader), Illuminati, Genoshan Excalibur, Brotherhood of Evil Mutants (leader), Cadre K, Generation X (founder), Starjammers, The Twelve, New Mutants (founder, teacher & leader), United States Army, X-Corporation",
     "relatives": "Brian Xavier (father, deceased), Sharon Xavier (mother, deceased), Cassandra Nova (sister), Kurt Marko (stepfather, deceased), Cain Marko (Juggernaut, stepbrother), Lilandra (ex-wife), David Charles Haller (Legion, son, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/professor-x.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/professor-x.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/professor-x.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/professor-x.jpg"
   }
 }

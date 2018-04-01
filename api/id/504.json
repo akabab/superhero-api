@@ -48,7 +48,9 @@
     "groupAffiliation": "-",
     "relatives": "Professor Charles Xavier (fusee, deceased); Magneto (fusee)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/onslaught.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/onslaught.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/onslaught.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/onslaught.jpg"
   }
 }

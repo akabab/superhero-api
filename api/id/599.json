@@ -43,7 +43,9 @@
     "groupAffiliation": "The Secret Avengers, formerly reserve member of the Avengers",
     "relatives": "Jaime Santiago (father), Peliali (mother), Edwin Jarvis (\"uncle\")"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/silverclaw.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/silverclaw.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/silverclaw.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/silverclaw.jpg"
   }
 }

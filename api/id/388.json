@@ -47,7 +47,9 @@
     "groupAffiliation": "Green Lantern Corps; formerly New Guardians, Justice League International",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/kilowog.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/kilowog.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/kilowog.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kilowog.jpg"
   }
 }

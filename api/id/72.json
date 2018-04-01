@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Wild Pack, Bold Urban Commandos (Buckies), former partner of U.S.Agent, operative of the Commission on Superhuman Activities",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/battlestar.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/battlestar.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/battlestar.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/battlestar.jpg"
   }
 }

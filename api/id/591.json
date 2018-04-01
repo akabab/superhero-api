@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Masters of Evil, Sinister Syndicate, Sinister Seven, Sinister Twelve",
     "relatives": "Mr. & Mrs. Schultz (parents)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/shocker.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/shocker.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/shocker.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/shocker.jpg"
   }
 }

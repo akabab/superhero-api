@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Mercedes Merced (wife), Jeanne Foucault (Finesse, alleged daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/taskmaster.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/taskmaster.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/taskmaster.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/taskmaster.jpg"
   }
 }

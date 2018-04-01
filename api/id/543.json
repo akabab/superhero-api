@@ -42,7 +42,9 @@
     "groupAffiliation": "Freedom Fighters, formerly Justice League of America, Justice League Task Force, Young Justice, JSA Reserves, Forgotten Heroes, Justice League Internationa",
     "relatives": "Happy Terrill (father), Nadine Terrill (mother), Joshua Terrill (Spitfire, brother), Thomas Terrill (uncle/foster father, deceased), Hank Terrill (cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ray.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ray.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ray.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ray.jpg"
   }
 }

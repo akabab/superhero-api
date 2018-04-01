@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Purple Children (leader and father), Villains for Hire, Hood's gang, partner of Electro, his own band of criminals",
     "relatives": "Melanie Killgrave (ex-wife); Persuasion (Kara Killgrave) (daughter); Joe (son); Shallah (daughter); Connor (son); Jamie (son); Unnamed daughter"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/purple-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/purple-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/purple-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/purple-man.jpg"
   }
 }

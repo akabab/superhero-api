@@ -43,7 +43,9 @@
     "groupAffiliation": "Forgotten Villains, Sentinels of Magic, Shadowpact, Suicide Squad",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/enchantress.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/enchantress.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/enchantress.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/enchantress.jpg"
   }
 }

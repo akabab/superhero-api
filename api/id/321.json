@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Loki (father), Thor (Uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hela.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hela.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hela.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hela.jpg"
   }
 }

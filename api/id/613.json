@@ -48,7 +48,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spectre.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spectre.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spectre.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spectre.jpg"
   }
 }

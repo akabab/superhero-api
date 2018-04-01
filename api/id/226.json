@@ -46,7 +46,9 @@
     "groupAffiliation": "Defenders, underground Avengers; formerly the Order, Midnight Sons; former disciple of the Ancient One",
     "relatives": "Eugene (father, deceased), Beverly (mother, deceased), Victor (Khiron, brother, apparently deceased), Donna (sister, deceased), Clea (wife, estranged), Umar (mother-in-law), Orini (father-in-law), Dormammu (uncle-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/doctor-strange.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-strange.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-strange.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-strange.jpg"
   }
 }

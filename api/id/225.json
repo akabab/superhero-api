@@ -49,7 +49,9 @@
     "groupAffiliation": "Thunderbolts Army; Former leader of the Sinister Six and the Masters of Evil V; Former partner of Green Goblin",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/doctor-octopus.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-octopus.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-octopus.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-octopus.jpg"
   }
 }

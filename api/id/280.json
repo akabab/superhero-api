@@ -42,7 +42,9 @@
     "groupAffiliation": "Quentin Carnival Formerly Midnight Sons, Legion of Monsters, The Champions",
     "relatives": "Barton (father, deceased), Clara (mother, deceased), Craig \"Crash\" Simpson (stepfather, deceased), Mona Simpson (stepmother, deceased), Roxanne Simpson (wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ghost-rider.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ghost-rider.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ghost-rider.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ghost-rider.jpg"
   }
 }

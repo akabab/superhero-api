@@ -44,7 +44,9 @@
     "groupAffiliation": "Initiative; formerly: Sentinel Squad O*N*E, Office of National Emergency (O*N*E), Crew, Secret Defenders, Worldwatch, Stark Enterprises, Force Works, West Coast Avengers, U.S. Marine Corps",
     "relatives": "David Rhodes (father), Roberta Rhodes (mother), Jeanette Rhodes (sister, deceased), Josh (uncle, last name unrevealed), unnamed alleged son"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/war-machine.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/war-machine.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/war-machine.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/war-machine.jpg"
   }
 }

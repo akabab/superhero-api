@@ -47,7 +47,9 @@
     "groupAffiliation": "Secret Avengers; formerly: US Marine Corps, Central Intelligence Agency (CIA), partner of Jean-Paul du Champ, partner of Raoul Bushman, partner of Midnight, West Coast Avengers, Marvel Knights, Defenders",
     "relatives": "Shadowknight (Randall Spector) (brother, deceased), Elias (father, deceased), Seth Phalkon (alleged great-great-grandfather)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/moon-knight.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/moon-knight.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/moon-knight.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/moon-knight.jpg"
   }
 }

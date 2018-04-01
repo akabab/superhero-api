@@ -42,7 +42,9 @@
     "groupAffiliation": "Corsairs",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/quill.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/quill.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/quill.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/quill.jpg"
   }
 }

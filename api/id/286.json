@@ -46,7 +46,9 @@
     "groupAffiliation": "Former ally of X-Men, partner of N'Astirh",
     "relatives": "Mister Sinister (creator), Jean Grey (Phoenix, genetic template), Scott Summers (Cyclops, husband), Nathan Christopher Summers (Cable, son), Christopher Summers (Corsair, father-in-law), Alex Summers (Havok, brother-in-law)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/goblin-queen.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/goblin-queen.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/goblin-queen.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/goblin-queen.jpg"
   }
 }

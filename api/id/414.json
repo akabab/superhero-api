@@ -50,7 +50,9 @@
     "groupAffiliation": "Asgardians, Karnilla, Enchantress, Skurge the Executioner, Cobra, Mister Hyde, Absorbing Man, Igron, Tyr, Lorelei, Hela, Ulik, Frost Giants, Storm Giants (former), Dormammu, \"Acts of Vengeance\" prime movers (Dr. Doom, Magneto, Red Skull, Mandari",
     "relatives": "Laufey (father, deceased), Farbauti (mother, deceased), Sigyn (wife, deceased), Odin (foster father, deceased), Frigga (foster mother, deceased), Thor, Vidar (foster brothers, deceased), Hela,Fenris (Wolf), Jordmungand (Midgard Serpent) (children, deceased), Arkin (cousin, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/loki.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/loki.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/loki.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/loki.jpg"
   }
 }

@@ -45,7 +45,9 @@
     "groupAffiliation": "Heavy Mettle; (formerly) Masters of Evil, Skeleton Crew, Circus of Crime; (formerly) division leader of Hydra",
     "relatives": "Silvio Manfredi (Silvermane, father), Caterina Manfredi (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/blackwing.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/blackwing.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/blackwing.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blackwing.jpg"
   }
 }

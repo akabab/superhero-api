@@ -43,7 +43,9 @@
     "groupAffiliation": "Secret Avengers (Black OPS Unit Formerly,The Avengers, Secret Avengers (Civil War), New Avengers, formerly The Invaders, Secret Defenders The Redeemers; formerly partner of Bucky, Golden Girl, Rick Jones, Falcon, Demolition-Man and Nomad (Jack Monroe)",
     "relatives": "Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-america.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-america.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-america.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-america.jpg"
   }
 }

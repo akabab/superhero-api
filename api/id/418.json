@@ -44,7 +44,9 @@
     "groupAffiliation": "Alliance to Restore the Republic, Jedi Order, Alliance of Free Planets, Bright Tree Village, New Republic, New Jedi Order",
     "relatives": "Darth Vader (father), Princes Leia (Sister), Yoda (Master), Obi-Wan Kenobi (Master)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/luke-skywalker.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/luke-skywalker.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/luke-skywalker.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/luke-skywalker.jpg"
   }
 }

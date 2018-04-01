@@ -43,7 +43,9 @@
     "groupAffiliation": "Galactic Heroes",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/space-ghost.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/space-ghost.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/space-ghost.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/space-ghost.jpg"
   }
 }

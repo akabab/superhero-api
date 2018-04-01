@@ -42,7 +42,9 @@
     "groupAffiliation": "Ally of Spider-Man and Black Cat",
     "relatives": "Gina Mulligan (wife), Edward Mulligan (son), Mr. Mulligan (father), Mrs. Mulligan (mother), Carnage (\"father\"), Venom (\"grandfather\")"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/toxin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/toxin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/toxin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/toxin.jpg"
   }
 }

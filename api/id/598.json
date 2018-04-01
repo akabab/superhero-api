@@ -42,7 +42,9 @@
     "groupAffiliation": "Former member of Defenders, former member of the Star Masters",
     "relatives": "Jartran Radd (father, deceased), Elmar Radd (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/silver-surfer.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/silver-surfer.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/silver-surfer.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/silver-surfer.jpg"
   }
 }

@@ -43,7 +43,9 @@
     "groupAffiliation": "Omega Flight, formerly Commission on Superhuman Activities , Freedom Force , Avengers , Secret Defenders , Force Works , Queen?s Vengeance , West Coast Avengers, Secret Avengers (Civil War)",
     "relatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/arachne.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/arachne.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/arachne.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/arachne.jpg"
   }
 }

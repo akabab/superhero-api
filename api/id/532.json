@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Freedom Force, Brotherhood of Evil Mutants",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/pyro.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/pyro.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/pyro.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/pyro.jpg"
   }
 }

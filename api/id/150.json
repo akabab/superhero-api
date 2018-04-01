@@ -44,7 +44,9 @@
     "groupAffiliation": "Justice League, Extreme Justice, Super Buddies, Living Assault Weapons, Monarch's Army, United States Air Force",
     "relatives": "Angela Adam Eiling (wife, deceased), Peggy Eiling (daughter), Randy Eiling (son), Bette Sans Souci (ex-wife, divorced)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/captain-atom.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-atom.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-atom.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-atom.jpg"
   }
 }

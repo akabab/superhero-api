@@ -47,7 +47,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/godzilla.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/godzilla.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/godzilla.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/godzilla.jpg"
   }
 }

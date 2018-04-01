@@ -42,7 +42,9 @@
     "groupAffiliation": "Alphas",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/gary-bell.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/gary-bell.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/gary-bell.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gary-bell.jpg"
   }
 }

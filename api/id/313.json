@@ -47,7 +47,9 @@
     "groupAffiliation": "Avengers, Thunderbolts, Avengers West Coast, Great Lakes Avengers, Shadows, Chain Gang, former partner of the Black Widow",
     "relatives": "Harold Barton (father, deceased), Edith Barton (mother, deceased), Bernard Barton (brother, deceased), Barbara Morse (wife, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hawkeye.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hawkeye.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hawkeye.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkeye.jpg"
   }
 }

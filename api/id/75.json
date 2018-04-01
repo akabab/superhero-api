@@ -47,7 +47,9 @@
     "groupAffiliation": "Secret Avengers, S.W.O.R.D.; formerly X-Men (founding member); X-Club (founding member); Initiative; 198; X-Treme X-Men; Acolytes (while mind-controlled); Queen's Vengeance; X-Factor/X-Terminators (founding member); Rejects; Defenders, Avengers",
     "relatives": "Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/beast.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/beast.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/beast.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/beast.jpg"
   }
 }

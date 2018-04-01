@@ -42,7 +42,9 @@
     "groupAffiliation": "Stane International",
     "relatives": "Zebediah (father, deceased), unnamed mother (deceased), Ezekiel Stane (son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/iron-monger.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/iron-monger.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/iron-monger.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/iron-monger.jpg"
   }
 }

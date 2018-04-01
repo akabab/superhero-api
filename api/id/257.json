@@ -44,7 +44,9 @@
     "groupAffiliation": "Catholic Church; formerly the Rangers, provisional member of the Avengers West Coast, Queen's Vengeance",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/firebird.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/firebird.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/firebird.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/firebird.jpg"
   }
 }

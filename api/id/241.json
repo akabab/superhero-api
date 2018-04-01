@@ -43,7 +43,9 @@
     "groupAffiliation": "Active member of the X-Men, Instructor for Generation X, The Inner Circle of the Hellfire Club",
     "relatives": "Winston Frost (father), Hazel Frost (mother), Christian Frost (brother) Adrienne Frost (sister, deceased,) Cordelia Frost (sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/emma-frost.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/emma-frost.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/emma-frost.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/emma-frost.jpg"
   }
 }

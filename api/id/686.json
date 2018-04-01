@@ -54,7 +54,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/vegeta.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/vegeta.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/vegeta.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vegeta.jpg"
   }
 }

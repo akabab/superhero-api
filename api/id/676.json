@@ -44,7 +44,9 @@
     "groupAffiliation": "Legion of Super-Heroes",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/triplicate-girl.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/triplicate-girl.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/triplicate-girl.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/triplicate-girl.jpg"
   }
 }

@@ -45,7 +45,9 @@
     "groupAffiliation": "Secret Avengers, SHIELD (both incarnations); formerly Team Valkyrie, C.I.A., liaison to MI-5, O.S.S., Howling Commandos, U.S. Army",
     "relatives": "Jack Fury (father, deceased);\nunnamed mother;\nunnamed stepmother (deceased);\nDawn Fury (half-sister);\nJake Fury (half-brother);\nMikel Fury (son, deceased);\nJerry Sapristi (cousin);\nTina Sapristi (cousin by marriage);\nErnesto, Pietro, Giovanni, Maria, Rosa and Gabriella (1st cousins once removed);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/nick-fury.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/nick-fury.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/nick-fury.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/nick-fury.jpg"
   }
 }

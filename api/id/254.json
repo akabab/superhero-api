@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Morlocks, X-Force, Mutant Liberation Front",
     "relatives": "Mr. Callasantos (father, first name unrevealed, deceased), Marcella Callasantos (mother, deceased), Lucia Callasantos (Thornn, sister), Matteo Callasantos (brother, deceased), Carolina Callasantos (sister, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/feral.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/feral.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/feral.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/feral.jpg"
   }
 }

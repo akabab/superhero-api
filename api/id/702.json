@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Humbert Carpenter (uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/walrus.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/walrus.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/walrus.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/walrus.jpg"
   }
 }

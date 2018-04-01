@@ -42,7 +42,9 @@
     "groupAffiliation": "Formerly Thunderbolts (as Blackheath), Crime Wave, Defenders (Villains) , New Enforcers, former associate of the Maggia under Count Nefaria, ally of Wizard.",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/plantman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/plantman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/plantman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/plantman.jpg"
   }
 }

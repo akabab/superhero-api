@@ -42,7 +42,9 @@
     "groupAffiliation": "formerly Justice Society of America, formerally United States Marine Corps",
     "relatives": "Franklin Delano Roosevelt (great-grandfather, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/magog.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/magog.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/magog.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/magog.jpg"
   }
 }

@@ -46,7 +46,9 @@
     "groupAffiliation": "formerly (Parliament of Trees; Parliament of Stones, Parliament of Flames, Parliament of Waves, and Parliament of Vapors), The Parliament of Worlds",
     "relatives": "Larry Holland (father, deceased); Alice Holland (mother, deceased); Edward Holland (brother); Linda Holland (first wife, deceased); Abigail Holland (second wife); Tef? Holland (daughter); Gregori Arcane (father-in-law, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/swamp-thing.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/swamp-thing.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/swamp-thing.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/swamp-thing.jpg"
   }
 }

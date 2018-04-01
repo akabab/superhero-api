@@ -42,7 +42,9 @@
     "groupAffiliation": "Young Allies; Formerly Great Lakes Initiative, Heavy Hitters",
     "relatives": "Richard Willis (father), Mary Willis (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/gravity.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/gravity.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/gravity.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gravity.jpg"
   }
 }

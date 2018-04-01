@@ -43,7 +43,9 @@
     "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
     "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/match.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/match.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/match.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/match.jpg"
   }
 }

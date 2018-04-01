@@ -45,7 +45,9 @@
     "groupAffiliation": "X-Men (Team Wolverine); formerly Marauders, Horsemen of Apocalypse, Chevaliers, X-Treme X-Men, Thieves & Unified Guild's of New Orleans, Crimson Pirates",
     "relatives": "Jean-Luc LeBeau (father), Belladonna (aka Bella Donna Boudreaux) (wife, separated)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/gambit.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/gambit.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/gambit.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gambit.jpg"
   }
 }

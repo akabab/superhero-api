@@ -42,7 +42,9 @@
     "groupAffiliation": "Magnum Force (leader), agent of Apocalypse; former agent of They Who Wield Power",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/moses-magnum.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/moses-magnum.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/moses-magnum.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/moses-magnum.jpg"
   }
 }

@@ -43,7 +43,9 @@
     "groupAffiliation": "Morlocks; Formerly: X-Men",
     "relatives": "Mr. Daniels (father), Vivian Munroe-Daniels (mother), Storm (maternal aunt)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spyke.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spyke.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spyke.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spyke.jpg"
   }
 }

@@ -45,7 +45,9 @@
     "groupAffiliation": "Avengers, Mighty Avengers, Olympic Pantheon; Warhawks",
     "relatives": "Zeus (father), Hera (mother), Enyo (wife), Deimos, Phobos, Alexander (sons), Neptune, Pluto (uncles), Demeter, Hestia (aunts), Hephaestus (brother), Apollo, Dionysus, Hercules, Hermes(half-brothers), Artemis, Pallas Athena, Venus, (half-sisters)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/ares.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/ares.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/ares.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ares.jpg"
   }
 }

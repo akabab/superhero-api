@@ -45,7 +45,9 @@
     "groupAffiliation": "Formerly New Avengers, Daily Bugle, Alias Investigations",
     "relatives": "unnamed mother (deceased); Dave Cambell (father, deceased); Phillip Cambell (brother, deceased); unnamed adoptive mother; unnamed adoptive father; unnamed adoptive sister; Jenny (adoptive aunt); Luke Cage (husband); Danielle Cage (daughter);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jessica-jones.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jessica-jones.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jessica-jones.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jessica-jones.jpg"
   }
 }

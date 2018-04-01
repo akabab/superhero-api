@@ -42,7 +42,9 @@
     "groupAffiliation": "Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers, Fantastic Four, Heroes for Hire",
     "relatives": "Bruce Banner (Hulk, cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/she-hulk.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/she-hulk.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/she-hulk.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/she-hulk.jpg"
   }
 }

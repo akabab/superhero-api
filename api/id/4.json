@@ -43,7 +43,9 @@
     "groupAffiliation": "former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten",
     "relatives": "Nadia Dornova Blonsky (wife, separated)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/abomination.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/abomination.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/abomination.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/abomination.jpg"
   }
 }

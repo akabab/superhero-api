@@ -52,7 +52,9 @@
     "groupAffiliation": "Was once in a merged form with the Molecule Man but is no longer merged with him.",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/beyonder.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/beyonder.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/beyonder.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/beyonder.jpg"
   }
 }

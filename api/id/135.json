@@ -43,7 +43,9 @@
     "groupAffiliation": "Alpha Flight, Gamma Flight, Zodiac, Team_Weapon_X",
     "relatives": "Scramble (Lionel Jeffries, brother, deceased), Diamond Lil (wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/box-4.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/box-4.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/box-4.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/box-4.jpg"
   }
 }

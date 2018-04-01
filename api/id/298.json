@@ -43,7 +43,9 @@
     "groupAffiliation": "Justice League Reserve, Connor Hawke, Mia Dearden,  Arsenal, Green Arrows of the World, Black Canary, Green Lantern Hal Jordan, Shado, Eddie Fyers, Justice League Elite, Seven Soldiers of Victory, All-Star Squadron",
     "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/green-arrow.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/green-arrow.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/green-arrow.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/green-arrow.jpg"
   }
 }

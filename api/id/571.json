@@ -42,7 +42,9 @@
     "groupAffiliation": "Excalibur, formerly X-Men, X-Treme Sanctions Executive, X-Treme X-Men, Hellfire Club",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/sage.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/sage.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/sage.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sage.jpg"
   }
 }

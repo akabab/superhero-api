@@ -42,7 +42,9 @@
     "groupAffiliation": "Black Marvel Family",
     "relatives": "Amon Tomaz (brother, deceased), Black Adam (husband)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/isis.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/isis.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/isis.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/isis.jpg"
   }
 }

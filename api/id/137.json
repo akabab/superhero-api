@@ -42,7 +42,9 @@
     "groupAffiliation": "Legion of Super-Heroes",
     "relatives": "Unnamed mother, Brainiac (ancestor)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/brainiac-5.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/brainiac-5.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/brainiac-5.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/brainiac-5.jpg"
   }
 }

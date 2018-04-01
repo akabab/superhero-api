@@ -43,7 +43,9 @@
     "groupAffiliation": "Former ally of the original Masters of Evil, former member of the East Coast Avengers, current member of the West Coast Avengers",
     "relatives": "Sanford (father, deceased) Martha (mother), Eric (alias the Grim Reaper, brother, deceased), Vision II ('brother')"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/wonder-man.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/wonder-man.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/wonder-man.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wonder-man.jpg"
   }
 }

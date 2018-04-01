@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "Sara Cruz (sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jessica-cruz.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jessica-cruz.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jessica-cruz.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jessica-cruz.jpg"
   }
 }

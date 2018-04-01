@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Niki Sanders (Mother), DL Hawkins (Father), Paulette Hawkins (paternal grandmother), Hal Sanders (maternal grandfather), Nana Dawson (Guardian)\nNana Dawson (Great-aunt), Monica Dawson (Cousin), Damon Dawson (Cousin)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/micah-sanders.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/micah-sanders.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/micah-sanders.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/micah-sanders.jpg"
   }
 }

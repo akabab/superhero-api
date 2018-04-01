@@ -45,7 +45,9 @@
     "groupAffiliation": "-",
     "relatives": "Boka (wife, separated), Gorbzil Mammit (son), Sam Simeon (grandson)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/gorilla-grodd.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/gorilla-grodd.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/gorilla-grodd.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gorilla-grodd.jpg"
   }
 }

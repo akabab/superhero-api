@@ -41,7 +41,9 @@
     "groupAffiliation": "Cloak and Dagger, Defenders, League of Losers, Marvel Knights, New Warriors, Secret Avengers",
     "relatives": "Melissa Bowen (mother), unnamed father, Phillip Carlisle (stepfather), Father Michael Bowen (uncle)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/dagger.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/dagger.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/dagger.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dagger.jpg"
   }
 }

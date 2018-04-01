@@ -42,7 +42,9 @@
     "groupAffiliation": "Suicide Squad, The Secret Society of Super Villains",
     "relatives": "King Snake (father)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/bane.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/bane.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/bane.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bane.jpg"
   }
 }

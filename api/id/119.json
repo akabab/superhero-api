@@ -42,7 +42,9 @@
     "groupAffiliation": "X-Cell, formerly X-Corps, Magneto's army, Brotherhood Of Evil Mutants, Freedom Force, Factor Three, former partner of Unus",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/blob.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/blob.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/blob.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blob.jpg"
   }
 }

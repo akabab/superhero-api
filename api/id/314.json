@@ -42,7 +42,9 @@
     "groupAffiliation": "Young Avengers, partner of Hawkeye (Clint Barton); formerly Secret Avengers",
     "relatives": "Derek Bishop (father); Eleanor Bishop (mother, deceased); Susan Bishop (sister);"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hawkeye-2.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hawkeye-2.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hawkeye-2.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkeye-2.jpg"
   }
 }

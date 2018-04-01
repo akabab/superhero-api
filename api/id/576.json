@@ -42,7 +42,9 @@
     "groupAffiliation": "Injustice Gang",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/scarecrow.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/scarecrow.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/scarecrow.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarecrow.jpg"
   }
 }

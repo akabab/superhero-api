@@ -45,7 +45,9 @@
     "groupAffiliation": "X-Men (founding member); X-Force; Mutantes Sans Fronti?res; Hellfire Club; formerly X-Club (founding member); Death's champions; Secret Defenders; X-Factor/X-Terminators (founding member); Horsemen of Apocalypse; Defenders; Champions of Los Angeles (fou",
     "relatives": "Wallace Worthington (paternal ancestor, deceased), Warren Worthington Sr. (paternal grandfather, deceased), Warren Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burt Worthington (paternal uncle), Mimi (maternal aunt), unnamed distant cousin"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/archangel.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/archangel.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/archangel.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/archangel.jpg"
   }
 }

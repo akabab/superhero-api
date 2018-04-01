@@ -44,7 +44,9 @@
     "groupAffiliation": "Formerly Alaskan-based Initiative agent, Lady Liberators, Avengers, Defenders, Legion of the Unliving",
     "relatives": "Joshua Walker (father), Dorothy Walker (mother, deceased), Sophia (maternal aunt), Bea (step-mother), Mickey Walker (brother), Robert \"Buzz\" Baxter (aka Mad-Dog, ex-husband), Daimon Hellstrom (aka Hellstorm, ex-husband), Percy Walker"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hellcat.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hellcat.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hellcat.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hellcat.jpg"
   }
 }

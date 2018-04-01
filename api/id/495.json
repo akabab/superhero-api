@@ -42,7 +42,9 @@
     "groupAffiliation": "None, formerly Hydra, Xavier Institute Faculty/Alpha Squadron (teacher/advisor), X-Men, Alpha Flight, Front de Lib?ration du Qu?bec/Cell Combattre",
     "relatives": "Jean-Baptiste Beaubier (father, deceased), unnamed mother (deceased), Louis Martin (adoptive father, deceased), unnamed adoptive mother (deceased), Jeanne-Marie Beaubier (Aurora, sister), Joanne Beaubier (adopted daughter, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/northstar.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/northstar.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/northstar.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/northstar.jpg"
   }
 }

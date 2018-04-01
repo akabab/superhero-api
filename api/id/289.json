@@ -48,7 +48,9 @@
     "groupAffiliation": "Saiyajin, Son family, Z-Fighters",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/goku.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/goku.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/goku.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/goku.jpg"
   }
 }

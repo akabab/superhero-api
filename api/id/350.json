@@ -42,7 +42,9 @@
     "groupAffiliation": "Avengers, Defenders for a Day",
     "relatives": "Philip (father, deceased), Marie (mother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/jack-of-hearts.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/jack-of-hearts.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/jack-of-hearts.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jack-of-hearts.jpg"
   }
 }

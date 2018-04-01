@@ -42,7 +42,9 @@
     "groupAffiliation": "The Injustice League, formerly The Society, Villainy, Inc., The Legion of Doom",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/giganta.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/giganta.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/giganta.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/giganta.jpg"
   }
 }

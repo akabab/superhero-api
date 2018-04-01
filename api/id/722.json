@@ -42,7 +42,9 @@
     "groupAffiliation": "Ally and companion of the Fantastic Four",
     "relatives": "Will Wingfoot (father, deceased), Chief Silent Fox (grandfather, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/wyatt-wingfoot.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/wyatt-wingfoot.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/wyatt-wingfoot.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wyatt-wingfoot.jpg"
   }
 }

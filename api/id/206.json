@@ -42,7 +42,9 @@
     "groupAffiliation": "(at death)X-Corps (formerly) Champions, Winter Guard, Soviet Super Soldiers",
     "relatives": "Nicolai Krylenko a.k.a. Vanguard (brother), Sergi Krylov a.k.a. The Presence (father), Marya Krylova (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/darkstar.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/darkstar.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/darkstar.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/darkstar.jpg"
   }
 }

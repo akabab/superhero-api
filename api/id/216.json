@@ -44,7 +44,9 @@
     "groupAffiliation": "The Society, Titans; Formerly Tartarus, The Injustice League",
     "relatives": "Wade LaFarge (Ravager III, half-brother, deceased), Adeline Kane (ex-wife, deceased), Grant Wilson (Ravager I, son, deceased), Joseph Wilson (Jericho, son), Rose Wilson (Ravager IV, daughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/deathstroke.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/deathstroke.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/deathstroke.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathstroke.jpg"
   }
 }

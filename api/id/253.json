@@ -42,7 +42,9 @@
     "groupAffiliation": "Phantom Zone Criminals",
     "relatives": "Hu-Ul (father, presumably deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/faora.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/faora.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/faora.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/faora.jpg"
   }
 }

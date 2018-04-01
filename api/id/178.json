@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "Adoptive parents: Sandra Bennet, Noah Bennet, Biological parents: Meredith Gordon, Nathan Petrelli, Younger adoptive brother: Lyle Bennet,  Younger half brothers: Simon Petrelli, Monty Petrelli"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/clair-bennet.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/clair-bennet.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/clair-bennet.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/clair-bennet.jpg"
   }
 }

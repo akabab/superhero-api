@@ -42,7 +42,9 @@
     "groupAffiliation": "Batman Family, Outsiders",
     "relatives": "Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/alfred-pennyworth.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/alfred-pennyworth.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/alfred-pennyworth.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alfred-pennyworth.jpg"
   }
 }

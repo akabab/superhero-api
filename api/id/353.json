@@ -43,7 +43,9 @@
     "groupAffiliation": "Federation, Starfleet",
     "relatives": "Winona Kirk (mother), George Kirk (father), George Samuel Kirk (brother), Michele Suzanne Kirk (sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/james-t-kirk.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/james-t-kirk.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/james-t-kirk.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/james-t-kirk.jpg"
   }
 }

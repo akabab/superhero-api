@@ -42,7 +42,9 @@
     "groupAffiliation": "Crimebusters",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/rorschach.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/rorschach.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/rorschach.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rorschach.jpg"
   }
 }

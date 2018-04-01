@@ -42,7 +42,9 @@
     "groupAffiliation": "Batman Family (unofficially), D.E.O, Unknowns",
     "relatives": "Jacob Kane (father), Gabi Kane (mother; deceased), Beth Kane (twin sister), Mary Elizabeth \"Bette\" Kane (cousin), Catherine Hamilton-Kane (stepmother), Philip Kane (uncle), Kane Family"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/batwoman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/batwoman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/batwoman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/batwoman.jpg"
   }
 }

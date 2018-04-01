@@ -42,7 +42,9 @@
     "groupAffiliation": "Suicide Squad, formerly Bomb Squad, Extreme Justice",
     "relatives": "Nathaniel Adam (Captain Atom,husband), Margaret Eiling (step-daughter), Randall Eiling (step-son)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/plastique.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/plastique.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/plastique.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/plastique.jpg"
   }
 }

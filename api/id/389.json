@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/king-kong.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/king-kong.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/king-kong.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/king-kong.jpg"
   }
 }

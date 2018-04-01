@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "Johnny G (father)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/red-mist.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-mist.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-mist.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-mist.jpg"
   }
 }

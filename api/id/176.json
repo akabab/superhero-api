@@ -42,7 +42,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/chuck-norris.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/chuck-norris.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/chuck-norris.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/chuck-norris.jpg"
   }
 }

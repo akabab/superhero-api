@@ -44,7 +44,9 @@
     "groupAffiliation": "Justice Society of America",
     "relatives": "Barbara Whitmore-Dugan (mother); Sam Kurtis (father, deceased); Pat Dugan (S.T.R.I.P.E., Stepfather); Mike Dugan (stepbrother); Patricia Dugan (sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/stargirl.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/stargirl.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/stargirl.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/stargirl.jpg"
   }
 }

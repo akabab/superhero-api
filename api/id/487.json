@@ -42,7 +42,9 @@
     "groupAffiliation": "Graces, United Front, former leader of a mercenary band",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/nebula.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/nebula.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/nebula.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/nebula.jpg"
   }
 }

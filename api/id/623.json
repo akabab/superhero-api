@@ -45,7 +45,9 @@
     "groupAffiliation": "Former agent of HYDRA",
     "relatives": "Jonathan (father, deceased), Merriem (mother, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/spider-woman.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-woman.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-woman.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-woman.jpg"
   }
 }

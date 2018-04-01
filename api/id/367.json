@@ -42,7 +42,9 @@
     "groupAffiliation": "Justice League Dark, Justice League",
     "relatives": "Thomas Constantine (father, deceased), Cheryl Constantine (sister, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/john-constantine.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/john-constantine.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/john-constantine.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/john-constantine.jpg"
   }
 }

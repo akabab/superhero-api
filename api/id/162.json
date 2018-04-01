@@ -43,7 +43,9 @@
     "groupAffiliation": "Maximum Carnage: (Carrion, Shriek, Demogoblin, Doppelganger)",
     "relatives": "Venom (\"father\"); Shriek (\"wife\"); Hybrid, Lasher, Phage, Riot (\"brothers\"); Agony, Scream (\"sisters\"); Carrion, Demogoblin, Doppelganger, Toxin (\"sons\"); Scorn (\"Daughter\")"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/carnage.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/carnage.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/carnage.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/carnage.jpg"
   }
 }

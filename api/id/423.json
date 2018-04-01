@@ -46,7 +46,9 @@
     "groupAffiliation": "Currently None, formerly Brotherhood of Evil Mutants I and II, X-Men, teacher of the New Mutants, Lords Cardinal of the Hellfire Club, leader of the Acolytes",
     "relatives": "Magda (wife, deceased), Anya (daughter, deceased), Pietro Maximoff (Quicksilver, son), Wanda Maximoff (Scarlet Witch, daughter), Lorna Dane (Polaris, daughter), Joseph (clone, deceased), Luna (granddaughter)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/magneto.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/magneto.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/magneto.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/magneto.jpg"
   }
 }

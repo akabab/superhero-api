@@ -43,7 +43,9 @@
     "groupAffiliation": "Fantastic Four",
     "relatives": "Susan Richards - Invisible Woman (sister), Franklin Richards (nephew), Reed Richards - Mister Fantastic (brother-in-law) Lyja (ex-wife)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/human-torch.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/human-torch.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/human-torch.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/human-torch.jpg"
   }
 }

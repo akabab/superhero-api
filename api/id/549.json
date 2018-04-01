@@ -46,7 +46,9 @@
     "groupAffiliation": "Teen Titans, Batman Family, Batman Inc., Wayne Enterprises; formerly Young Justice",
     "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (adoptive father), Damian Wayne (adoptive brother), Dick Grayson (adoptive brother), Jason Todd (adoptive brother), Cassandra Cain (adoptive sister)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/red-robin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-robin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-robin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-robin.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "Former member of the Masters of Evil, Fearsome Foursome, and Frightful Four; Former ally of Solarr, Molecule Man, and Doctor Doom",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/klaw.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/klaw.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/klaw.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/klaw.jpg"
   }
 }

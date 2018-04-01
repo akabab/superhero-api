@@ -43,7 +43,9 @@
     "groupAffiliation": "-",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/adam-monroe.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/adam-monroe.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/adam-monroe.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/adam-monroe.jpg"
   }
 }

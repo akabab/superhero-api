@@ -44,7 +44,9 @@
     "groupAffiliation": "X-Men, formerly X.S.E., Mutant Liberation Front, X-Treme X-Men, X-Corporation, X-Force, New Mutants, Hellions, Hellfire Club",
     "relatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/cannonball.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/cannonball.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/cannonball.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cannonball.jpg"
   }
 }

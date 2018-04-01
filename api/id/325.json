@@ -52,7 +52,9 @@
     "groupAffiliation": "Formerly God Squad, Council of Godheads, Olympia Corp., Mighty Avengers, Renegades, Secret Avengers, Avengers, Champions of Los Angeles, Defenders, Heroes for Hire, Damage Control, Olympian Gods, Argonauts, Defenders for a Day",
     "relatives": "-"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/hercules.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/hercules.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/hercules.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hercules.jpg"
   }
 }

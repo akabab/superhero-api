@@ -46,7 +46,9 @@
     "groupAffiliation": "current CEO of Prometheus Corporation; has employed the Avatars, Living Laser, Power Man, Swordsman, Enchantress, Executioner, Sandman, and Ladykiller.",
     "relatives": "Unidentified father, mother, paternal aunt (all deceased). Mei-Ling (fianc?e, deceased), Temujin (son), Genghis Khan (alleged ancestor, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/mandarin.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/mandarin.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/mandarin.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mandarin.jpg"
   }
 }

@@ -42,7 +42,9 @@
     "groupAffiliation": "X-Men (Team Cyclops), Security Recon; formerly X-Force (Strike Team), X-Corporation, X-Force, New Mutants, Hellions",
     "relatives": "Thunderbird (John Proudstar, brother, deceased), Maria Proudstar (mother, deceased), Neal Proudstar (father, deceased)"
   },
-  "image": {
-    "url": "https://akabab.github.io/superhero-api/api/images/sm/warpath.jpg"
+  "images": {
+    "small": "https://akabab.github.io/superhero-api/api/images/sm/warpath.jpg",
+    "medium": "https://akabab.github.io/superhero-api/api/images/md/warpath.jpg",
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/warpath.jpg"
   }
 }
