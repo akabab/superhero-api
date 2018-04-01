@@ -10,6 +10,8 @@ Multiple universes superheroes open-source REST API
 
 ## Builder
 
+> ! api folder is generated, it's useless editing it, check builder sources instead
+
 Clone project
 ```
 git clone https://github.com/akabab/superhero-api.git
