@@ -32,7 +32,7 @@ eg. [`/all.json`](https://akabab.github.io/superhero-api/api/all.json)
 GET superhero complete informations by id
 
 eg. [`/id/1.json`](https://akabab.github.io/superhero-api/api/id/1.json)
-```
+```json
 {
   "id": 1,
   "name": "A-Bomb",
@@ -89,7 +89,7 @@ eg. [`/id/1.json`](https://akabab.github.io/superhero-api/api/id/1.json)
 GET superhero powerstats by id
 
 eg. [`/powerstats/1.json`](https://akabab.github.io/superhero-api/api/powerstats/1.json)
-```
+```json
 {
   "intelligence": 38,
   "strength": 100,
@@ -104,7 +104,7 @@ eg. [`/powerstats/1.json`](https://akabab.github.io/superhero-api/api/powerstats
 GET superhero appearance by id
 
 eg. [`/appearance/1.json`](https://akabab.github.io/superhero-api/api/appearance/1.json)
-```
+```json
 {
   "gender": "Male",
   "race": "Human",
@@ -125,7 +125,7 @@ eg. [`/appearance/1.json`](https://akabab.github.io/superhero-api/api/appearance
 GET superhero biography by id
 
 eg. [`/biography/1.json`](https://akabab.github.io/superhero-api/api/biography/1.json)
-```
+```json
 {
   "fullName": "Richard Milhouse Jones",
   "alterEgos": "No alter egos found.",
@@ -143,7 +143,7 @@ eg. [`/biography/1.json`](https://akabab.github.io/superhero-api/api/biography/1
 GET superhero connections by id
 
 eg. [`/connections/1.json`](https://akabab.github.io/superhero-api/api/connections/1.json)
-```
+```json
 {
   "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
   "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
@@ -154,7 +154,7 @@ eg. [`/connections/1.json`](https://akabab.github.io/superhero-api/api/connectio
 GET superhero work by id
 
 eg. [`/work/1.json`](https://akabab.github.io/superhero-api/api/work/1.json)
-```
+```json
 {
   "occupation": "Musician, adventurer, author; formerly talk show host",
   "base": "-"
