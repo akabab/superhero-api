@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/citizen-steel.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/citizen-steel.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/citizen-steel.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/citizen-steel.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/citizen-steel.jpg"
   }
 }

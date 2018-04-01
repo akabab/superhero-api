@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/parademon.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/parademon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/parademon.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/parademon.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/parademon.jpg"
   }
 }

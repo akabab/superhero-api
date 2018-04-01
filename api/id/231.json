@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/doppelganger.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/doppelganger.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doppelganger.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doppelganger.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/doppelganger.jpg"
   }
 }

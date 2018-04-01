@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/isis.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/isis.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/isis.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/isis.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/isis.jpg"
   }
 }

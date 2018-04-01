@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/match.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/match.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/match.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/match.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/match.jpg"
   }
 }

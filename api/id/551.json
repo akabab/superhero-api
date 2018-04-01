@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/red-tornado.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/red-tornado.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-tornado.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-tornado.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/red-tornado.jpg"
   }
 }

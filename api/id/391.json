@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/kingpin.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/kingpin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kingpin.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kingpin.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/kingpin.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/general-zod.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/general-zod.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/general-zod.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/general-zod.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/general-zod.jpg"
   }
 }

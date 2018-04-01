@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/aurora.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/aurora.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/aurora.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/aurora.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/aurora.jpg"
   }
 }

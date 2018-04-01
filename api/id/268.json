@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/forge.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/forge.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/forge.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/forge.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/forge.jpg"
   }
 }

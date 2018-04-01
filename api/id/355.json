@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/jason-bourne.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/jason-bourne.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jason-bourne.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jason-bourne.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/jason-bourne.jpg"
   }
 }

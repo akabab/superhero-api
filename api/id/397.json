@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/kyle-rayner.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/kyle-rayner.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kyle-rayner.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kyle-rayner.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/kyle-rayner.jpg"
   }
 }

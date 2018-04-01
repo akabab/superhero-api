@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/indiana-jones.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/indiana-jones.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/indiana-jones.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/indiana-jones.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/indiana-jones.jpg"
   }
 }

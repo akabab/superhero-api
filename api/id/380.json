@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/kathryne-janeway.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/kathryne-janeway.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kathryne-janeway.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kathryne-janeway.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/kathryne-janeway.jpg"
   }
 }

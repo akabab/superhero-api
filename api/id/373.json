@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/judge-dredd.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/judge-dredd.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/judge-dredd.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/judge-dredd.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/judge-dredd.jpg"
   }
 }

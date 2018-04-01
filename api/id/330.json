@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hope-summers.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hope-summers.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hope-summers.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hope-summers.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hope-summers.jpg"
   }
 }

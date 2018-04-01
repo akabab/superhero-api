@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/firestorm.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/firestorm.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestorm.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestorm.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/firestorm.jpg"
   }
 }

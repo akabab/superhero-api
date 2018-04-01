@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/blackout.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/blackout.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/blackout.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blackout.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/blackout.jpg"
   }
 }

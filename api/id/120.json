@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/bloodaxe.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/bloodaxe.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bloodaxe.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bloodaxe.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/bloodaxe.jpg"
   }
 }

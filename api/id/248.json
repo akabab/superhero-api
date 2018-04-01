@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/evilhawk.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/evilhawk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/evilhawk.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/evilhawk.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/evilhawk.jpg"
   }
 }

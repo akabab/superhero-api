@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/alan-scott.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/alan-scott.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/alan-scott.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alan-scott.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/alan-scott.jpg"
   }
 }

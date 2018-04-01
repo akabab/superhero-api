@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/thundra.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/thundra.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thundra.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thundra.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/thundra.jpg"
   }
 }

@@ -53,6 +53,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/red-skull.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/red-skull.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-skull.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-skull.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/red-skull.jpg"
   }
 }

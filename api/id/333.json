@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/human-torch.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/human-torch.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/human-torch.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/human-torch.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/human-torch.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ethan-hunt.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ethan-hunt.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ethan-hunt.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ethan-hunt.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ethan-hunt.jpg"
   }
 }

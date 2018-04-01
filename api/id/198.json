@@ -44,6 +44,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/dagger.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/dagger.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dagger.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dagger.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/dagger.jpg"
   }
 }

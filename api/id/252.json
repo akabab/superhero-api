@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/fallen-one-2.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/fallen-one-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/fallen-one-2.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/fallen-one-2.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/fallen-one-2.jpg"
   }
 }

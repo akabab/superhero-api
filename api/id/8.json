@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/adam-strange.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/adam-strange.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/adam-strange.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/adam-strange.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/adam-strange.jpg"
   }
 }

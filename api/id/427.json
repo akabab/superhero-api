@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/man-bat.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/man-bat.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-bat.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-bat.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/man-bat.jpg"
   }
 }

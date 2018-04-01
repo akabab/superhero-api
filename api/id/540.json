@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/rambo.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/rambo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rambo.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rambo.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/rambo.jpg"
   }
 }

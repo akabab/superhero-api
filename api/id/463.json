@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/modok.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/modok.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/modok.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/modok.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/modok.jpg"
   }
 }

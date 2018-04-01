@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/moon-knight.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/moon-knight.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/moon-knight.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/moon-knight.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/moon-knight.jpg"
   }
 }

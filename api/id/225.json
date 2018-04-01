@@ -52,6 +52,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-octopus.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-octopus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-octopus.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-octopus.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/doctor-octopus.jpg"
   }
 }

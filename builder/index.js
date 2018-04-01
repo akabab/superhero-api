@@ -37,10 +37,10 @@ const buildImages = () => {}
 const buildIndex = heroes => {
   const index = `# Superheroes index
 
-| id | name | INT | STR | SPD | DUR | POW | CMB |
-| -- | ---- | --- | --- | --- | --- | --- | --- |
+|    | id | name | INT | STR | SPD | DUR | POW | CMB |
+| -- | -- | ---- | --- | --- | --- | --- | --- | --- |
 ${heroes
-  .map(h =>`| ${h.id} | ${h.name} | ${Object.values(h.powerstats).join(' | ')} |`)
+  .map(h =>`| ![X](${h.images.thumb}) | ${h.id} | ${h.name} | ${Object.values(h.powerstats).join(' | ')} |`)
   .join('\n')}
 `
   writeFile(path.join(apiFolderPath, 'readme.md'), index)

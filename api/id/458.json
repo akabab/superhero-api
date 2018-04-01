@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-knife.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-knife.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-knife.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-knife.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/mister-knife.jpg"
   }
 }

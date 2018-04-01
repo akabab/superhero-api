@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/clock-king.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/clock-king.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/clock-king.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/clock-king.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/clock-king.jpg"
   }
 }

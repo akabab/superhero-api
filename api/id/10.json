@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/agent-bob.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/agent-bob.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-bob.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-bob.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/agent-bob.jpg"
   }
 }

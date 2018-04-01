@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/shatterstar.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/shatterstar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/shatterstar.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/shatterstar.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/shatterstar.jpg"
   }
 }

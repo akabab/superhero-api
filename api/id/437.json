@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/matt-parkman.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/matt-parkman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/matt-parkman.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/matt-parkman.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/matt-parkman.jpg"
   }
 }

@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/dazzler.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/dazzler.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dazzler.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dazzler.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/dazzler.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/invisible-woman.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/invisible-woman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/invisible-woman.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/invisible-woman.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/invisible-woman.jpg"
   }
 }

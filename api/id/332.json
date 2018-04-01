@@ -52,6 +52,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hulk.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hulk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hulk.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hulk.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hulk.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/brainiac.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/brainiac.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/brainiac.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/brainiac.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/brainiac.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/han-solo.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/han-solo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/han-solo.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/han-solo.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/han-solo.jpg"
   }
 }

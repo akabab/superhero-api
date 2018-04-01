@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/nina-theroux.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/nina-theroux.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nina-theroux.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/nina-theroux.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/nina-theroux.jpg"
   }
 }

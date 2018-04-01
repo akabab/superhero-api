@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/katniss-everdeen.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/katniss-everdeen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/katniss-everdeen.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/katniss-everdeen.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/katniss-everdeen.jpg"
   }
 }

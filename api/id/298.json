@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/green-arrow.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/green-arrow.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/green-arrow.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/green-arrow.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/green-arrow.jpg"
   }
 }

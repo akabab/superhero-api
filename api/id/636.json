@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/stephanie-powell.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/stephanie-powell.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/stephanie-powell.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/stephanie-powell.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/stephanie-powell.jpg"
   }
 }

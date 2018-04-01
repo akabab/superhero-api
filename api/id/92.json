@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/bishop.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/bishop.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bishop.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bishop.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/bishop.jpg"
   }
 }

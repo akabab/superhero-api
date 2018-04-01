@@ -51,6 +51,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/spectre.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/spectre.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spectre.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/spectre.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/spectre.jpg"
   }
 }

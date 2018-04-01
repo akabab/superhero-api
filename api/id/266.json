@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-3.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-3.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-3.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/flash-3.jpg"
   }
 }

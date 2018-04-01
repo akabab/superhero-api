@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/bill-harken.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/bill-harken.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bill-harken.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bill-harken.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/bill-harken.jpg"
   }
 }

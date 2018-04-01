@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/iron-fist.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/iron-fist.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/iron-fist.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/iron-fist.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/iron-fist.jpg"
   }
 }

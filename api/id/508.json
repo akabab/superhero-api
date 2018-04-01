@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ozymandias-watchmen.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ozymandias-watchmen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ozymandias-watchmen.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ozymandias-watchmen.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ozymandias-watchmen.jpg"
   }
 }

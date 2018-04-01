@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/magog.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/magog.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/magog.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/magog.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/magog.jpg"
   }
 }

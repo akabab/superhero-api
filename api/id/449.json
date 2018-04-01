@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/micah-sanders.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/micah-sanders.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/micah-sanders.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/micah-sanders.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/micah-sanders.jpg"
   }
 }

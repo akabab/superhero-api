@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/alfred-pennyworth.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/alfred-pennyworth.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/alfred-pennyworth.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alfred-pennyworth.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/alfred-pennyworth.jpg"
   }
 }

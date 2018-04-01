@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/niki-sanders.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/niki-sanders.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/niki-sanders.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/niki-sanders.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/niki-sanders.jpg"
   }
 }

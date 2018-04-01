@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/jolt.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/jolt.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jolt.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jolt.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/jolt.jpg"
   }
 }

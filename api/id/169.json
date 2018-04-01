@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/chamber.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/chamber.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/chamber.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/chamber.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/chamber.jpg"
   }
 }

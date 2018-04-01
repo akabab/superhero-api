@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/godzilla.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/godzilla.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/godzilla.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/godzilla.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/godzilla.jpg"
   }
 }

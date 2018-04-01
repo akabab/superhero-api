@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/goblin-queen.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/goblin-queen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/goblin-queen.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/goblin-queen.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/goblin-queen.jpg"
   }
 }

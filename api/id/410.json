@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/living-tribunal.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/living-tribunal.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/living-tribunal.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/living-tribunal.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/living-tribunal.jpg"
   }
 }

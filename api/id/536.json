@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/quicksilver.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/quicksilver.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/quicksilver.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/quicksilver.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/quicksilver.jpg"
   }
 }

@@ -51,6 +51,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/sauron-lotr.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/sauron-lotr.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sauron-lotr.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sauron-lotr.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/sauron-lotr.jpg"
   }
 }

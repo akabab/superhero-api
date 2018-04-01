@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/galactus.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/galactus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/galactus.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/galactus.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/galactus.jpg"
   }
 }

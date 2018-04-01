@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/master-chief.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/master-chief.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/master-chief.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/master-chief.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/master-chief.jpg"
   }
 }

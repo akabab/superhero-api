@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/sylar.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/sylar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sylar.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sylar.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/sylar.jpg"
   }
 }

@@ -54,6 +54,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/domino.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/domino.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/domino.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/domino.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/domino.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/nightcrawler.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/nightcrawler.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nightcrawler.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/nightcrawler.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/nightcrawler.jpg"
   }
 }

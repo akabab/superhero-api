@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/man-wolf.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/man-wolf.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-wolf.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-wolf.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/man-wolf.jpg"
   }
 }

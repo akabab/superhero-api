@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/thunderstrike.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/thunderstrike.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thunderstrike.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thunderstrike.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/thunderstrike.jpg"
   }
 }

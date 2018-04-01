@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/cyborg-superman.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/cyborg-superman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cyborg-superman.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/cyborg-superman.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/cyborg-superman.jpg"
   }
 }

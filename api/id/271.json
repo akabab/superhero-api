@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/frenzy.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/frenzy.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/frenzy.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/frenzy.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/frenzy.jpg"
   }
 }

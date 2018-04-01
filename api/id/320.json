@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/heat-wave.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/heat-wave.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/heat-wave.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/heat-wave.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/heat-wave.jpg"
   }
 }

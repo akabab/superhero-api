@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ben-10.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ben-10.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ben-10.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ben-10.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ben-10.jpg"
   }
 }

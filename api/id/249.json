@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/exodus.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/exodus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/exodus.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/exodus.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/exodus.jpg"
   }
 }

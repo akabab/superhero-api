@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/jubilee.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/jubilee.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jubilee.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jubilee.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/jubilee.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/plastic-man.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/plastic-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/plastic-man.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/plastic-man.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/plastic-man.jpg"
   }
 }

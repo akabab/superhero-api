@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/tigra.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/tigra.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/tigra.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/tigra.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/tigra.jpg"
   }
 }

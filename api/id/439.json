@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/maxima.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/maxima.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/maxima.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/maxima.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/maxima.jpg"
   }
 }

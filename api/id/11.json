@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/agent-zero.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/agent-zero.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-zero.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-zero.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/agent-zero.jpg"
   }
 }

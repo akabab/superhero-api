@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/abe-sapien.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/abe-sapien.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/abe-sapien.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/abe-sapien.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/abe-sapien.jpg"
   }
 }

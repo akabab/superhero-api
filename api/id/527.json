@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/professor-x.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/professor-x.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/professor-x.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/professor-x.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/professor-x.jpg"
   }
 }

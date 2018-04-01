@@ -57,6 +57,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/vegeta.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/vegeta.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/vegeta.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vegeta.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/vegeta.jpg"
   }
 }

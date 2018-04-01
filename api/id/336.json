@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hybrid.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hybrid.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hybrid.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hybrid.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hybrid.jpg"
   }
 }

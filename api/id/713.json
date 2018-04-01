@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/wildfire.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/wildfire.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wildfire.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wildfire.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/wildfire.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/lex-luthor.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/lex-luthor.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/lex-luthor.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/lex-luthor.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/lex-luthor.jpg"
   }
 }

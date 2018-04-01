@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/black-flash.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/black-flash.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-flash.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-flash.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/black-flash.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/morlun.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/morlun.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/morlun.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/morlun.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/morlun.jpg"
   }
 }

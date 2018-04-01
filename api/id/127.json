@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/boba-fett.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/boba-fett.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/boba-fett.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/boba-fett.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/boba-fett.jpg"
   }
 }

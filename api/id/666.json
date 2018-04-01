@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/tiger-shark.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/tiger-shark.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/tiger-shark.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/tiger-shark.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/tiger-shark.jpg"
   }
 }

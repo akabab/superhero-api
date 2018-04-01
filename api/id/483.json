@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/namora.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/namora.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/namora.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/namora.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/namora.jpg"
   }
 }

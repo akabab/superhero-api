@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/blue-beetle-3.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/blue-beetle-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/blue-beetle-3.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/blue-beetle-3.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/blue-beetle-3.jpg"
   }
 }

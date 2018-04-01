@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/black-manta.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/black-manta.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-manta.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-manta.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/black-manta.jpg"
   }
 }

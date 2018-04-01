@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/daphne-powell.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/daphne-powell.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/daphne-powell.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/daphne-powell.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/daphne-powell.jpg"
   }
 }

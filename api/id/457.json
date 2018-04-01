@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-freeze.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-freeze.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-freeze.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-freeze.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/mister-freeze.jpg"
   }
 }

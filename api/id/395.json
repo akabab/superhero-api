@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/kraven-1.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/kraven-1.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kraven-1.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kraven-1.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/kraven-1.jpg"
   }
 }

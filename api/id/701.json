@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/vulture.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/vulture.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/vulture.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/vulture.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/vulture.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ras-al-ghul.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ras-al-ghul.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ras-al-ghul.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ras-al-ghul.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ras-al-ghul.jpg"
   }
 }

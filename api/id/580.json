@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/scorpia.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/scorpia.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scorpia.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/scorpia.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/scorpia.jpg"
   }
 }

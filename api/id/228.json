@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/donatello.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/donatello.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/donatello.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/donatello.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/donatello.jpg"
   }
 }

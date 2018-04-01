@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/wonder-woman-v2.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/wonder-woman-v2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wonder-woman-v2.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wonder-woman-v2.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/wonder-woman-v2.jpg"
   }
 }

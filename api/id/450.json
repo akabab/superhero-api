@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/michelangelo.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/michelangelo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/michelangelo.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/michelangelo.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/michelangelo.jpg"
   }
 }

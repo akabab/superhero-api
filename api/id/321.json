@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hela.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hela.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hela.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hela.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hela.jpg"
   }
 }

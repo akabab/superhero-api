@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hawkeye.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hawkeye.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkeye.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkeye.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hawkeye.jpg"
   }
 }

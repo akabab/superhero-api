@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/thor.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/thor.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thor.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/thor.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/thor.jpg"
   }
 }

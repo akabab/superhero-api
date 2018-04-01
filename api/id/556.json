@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/rhino.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/rhino.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rhino.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rhino.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/rhino.jpg"
   }
 }

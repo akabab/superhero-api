@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/darth-maul.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/darth-maul.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/darth-maul.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/darth-maul.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/darth-maul.jpg"
   }
 }

@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/scarlet-spider.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/scarlet-spider.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarlet-spider.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarlet-spider.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/scarlet-spider.jpg"
   }
 }

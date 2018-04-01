@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/gary-bell.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/gary-bell.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gary-bell.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gary-bell.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/gary-bell.jpg"
   }
 }

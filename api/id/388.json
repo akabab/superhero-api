@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/kilowog.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/kilowog.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kilowog.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/kilowog.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/kilowog.jpg"
   }
 }

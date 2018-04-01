@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/venom.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/venom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/venom.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/venom.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/venom.jpg"
   }
 }

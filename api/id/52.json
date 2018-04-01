@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/atom-girl.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/atom-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/atom-girl.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/atom-girl.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/atom-girl.jpg"
   }
 }

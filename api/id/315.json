@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hawkgirl.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hawkgirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkgirl.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkgirl.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hawkgirl.jpg"
   }
 }

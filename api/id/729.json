@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/yoda.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/yoda.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/yoda.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/yoda.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/yoda.jpg"
   }
 }

@@ -51,6 +51,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/beast-boy.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/beast-boy.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/beast-boy.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/beast-boy.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/beast-boy.jpg"
   }
 }

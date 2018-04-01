@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-mxyzptlk.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-mxyzptlk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-mxyzptlk.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-mxyzptlk.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/mister-mxyzptlk.jpg"
   }
 }

@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/annihilus.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/annihilus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/annihilus.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/annihilus.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/annihilus.jpg"
   }
 }

@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/crystal.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/crystal.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/crystal.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/crystal.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/crystal.jpg"
   }
 }

@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/hal-jordan.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/hal-jordan.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hal-jordan.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/hal-jordan.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/hal-jordan.jpg"
   }
 }

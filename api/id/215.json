@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/deathlok.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/deathlok.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathlok.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathlok.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/deathlok.jpg"
   }
 }

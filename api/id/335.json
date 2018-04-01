@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/husk.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/husk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/husk.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/husk.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/husk.jpg"
   }
 }

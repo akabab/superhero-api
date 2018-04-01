@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/harley-quinn.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/harley-quinn.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/harley-quinn.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/harley-quinn.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/harley-quinn.jpg"
   }
 }

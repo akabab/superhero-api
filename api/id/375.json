@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/junkpile.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/junkpile.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/junkpile.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/junkpile.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/junkpile.jpg"
   }
 }

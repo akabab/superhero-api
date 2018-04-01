@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/predator.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/predator.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/predator.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/predator.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/predator.jpg"
   }
 }

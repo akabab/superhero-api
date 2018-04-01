@@ -57,6 +57,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/legion.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/legion.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/legion.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/legion.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/legion.jpg"
   }
 }

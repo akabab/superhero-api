@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/utgard-loki.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/utgard-loki.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/utgard-loki.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/utgard-loki.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/utgard-loki.jpg"
   }
 }

@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ultragirl.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ultragirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ultragirl.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ultragirl.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ultragirl.jpg"
   }
 }

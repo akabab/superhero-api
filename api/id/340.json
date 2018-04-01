@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/impulse.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/impulse.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/impulse.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/impulse.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/impulse.jpg"
   }
 }

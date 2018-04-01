@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/naruto.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/naruto.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/naruto.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/naruto.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/naruto.jpg"
   }
 }

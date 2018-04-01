@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/gambit.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/gambit.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gambit.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/gambit.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/gambit.jpg"
   }
 }

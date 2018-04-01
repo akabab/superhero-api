@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/jack-jack.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/jack-jack.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jack-jack.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jack-jack.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/jack-jack.jpg"
   }
 }

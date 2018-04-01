@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ink.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ink.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ink.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ink.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ink.jpg"
   }
 }

@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/black-knight-3.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/black-knight-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-knight-3.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-knight-3.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/black-knight-3.jpg"
   }
 }

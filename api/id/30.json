@@ -51,6 +51,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ant-man.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ant-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ant-man.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ant-man.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ant-man.jpg"
   }
 }

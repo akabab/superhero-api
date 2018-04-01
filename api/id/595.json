@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/silk.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/silk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/silk.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/silk.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/silk.jpg"
   }
 }

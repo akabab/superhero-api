@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/magneto.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/magneto.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/magneto.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/magneto.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/magneto.jpg"
   }
 }

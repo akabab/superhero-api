@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/mr-fantastic.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/mr-fantastic.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mr-fantastic.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mr-fantastic.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/mr-fantastic.jpg"
   }
 }

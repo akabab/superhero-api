@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/mysterio.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/mysterio.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mysterio.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/mysterio.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/mysterio.jpg"
   }
 }

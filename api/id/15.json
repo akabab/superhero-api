@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/alex-mercer.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/alex-mercer.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/alex-mercer.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/alex-mercer.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/alex-mercer.jpg"
   }
 }

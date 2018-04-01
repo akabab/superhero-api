@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/absorbing-man.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/absorbing-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/absorbing-man.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/absorbing-man.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/absorbing-man.jpg"
   }
 }

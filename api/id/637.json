@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/steppenwolf.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/steppenwolf.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/steppenwolf.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/steppenwolf.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/steppenwolf.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/shadow-lass.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/shadow-lass.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/shadow-lass.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/shadow-lass.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/shadow-lass.jpg"
   }
 }

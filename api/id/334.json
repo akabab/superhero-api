@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/huntress.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/huntress.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/huntress.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/huntress.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/huntress.jpg"
   }
 }

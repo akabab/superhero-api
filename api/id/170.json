@@ -54,6 +54,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/chameleon.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/chameleon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/chameleon.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/chameleon.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/chameleon.jpg"
   }
 }

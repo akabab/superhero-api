@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/dr-manhattan.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/dr-manhattan.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dr-manhattan.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/dr-manhattan.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/dr-manhattan.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/elastigirl.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/elastigirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/elastigirl.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/elastigirl.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/elastigirl.jpg"
   }
 }

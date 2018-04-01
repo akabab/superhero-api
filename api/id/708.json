@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/wasp.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/wasp.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wasp.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/wasp.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/wasp.jpg"
   }
 }

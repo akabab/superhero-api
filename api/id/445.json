@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/metallo.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/metallo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/metallo.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/metallo.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/metallo.jpg"
   }
 }

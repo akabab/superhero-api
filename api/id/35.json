@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/apocalypse.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/apocalypse.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/apocalypse.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/apocalypse.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/apocalypse.jpg"
   }
 }

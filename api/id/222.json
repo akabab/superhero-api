@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-doom.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-doom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-doom.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-doom.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/doctor-doom.jpg"
   }
 }

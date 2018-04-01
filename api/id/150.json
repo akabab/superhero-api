@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-atom.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-atom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-atom.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-atom.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/captain-atom.jpg"
   }
 }

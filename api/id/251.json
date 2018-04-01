@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/falcon.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/falcon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/falcon.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/falcon.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/falcon.jpg"
   }
 }

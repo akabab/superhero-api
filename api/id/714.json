@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/winter-soldier.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/winter-soldier.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/winter-soldier.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/winter-soldier.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/winter-soldier.jpg"
   }
 }

@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/sasquatch.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/sasquatch.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sasquatch.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/sasquatch.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/sasquatch.jpg"
   }
 }

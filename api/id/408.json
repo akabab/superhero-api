@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/lightning-lord.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/lightning-lord.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/lightning-lord.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/lightning-lord.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/lightning-lord.jpg"
   }
 }

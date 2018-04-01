@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/robin-v.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/robin-v.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-v.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-v.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/robin-v.jpg"
   }
 }

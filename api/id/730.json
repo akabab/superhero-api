@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/zatanna.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/zatanna.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/zatanna.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/zatanna.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/zatanna.jpg"
   }
 }

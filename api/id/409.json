@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/living-brain.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/living-brain.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/living-brain.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/living-brain.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/living-brain.jpg"
   }
 }

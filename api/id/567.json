@@ -49,6 +49,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/rogue.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/rogue.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rogue.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/rogue.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/rogue.jpg"
   }
 }

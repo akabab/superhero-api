@@ -54,6 +54,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/copycat.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/copycat.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/copycat.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/copycat.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/copycat.jpg"
   }
 }

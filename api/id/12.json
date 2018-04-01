@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/air-walker.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/air-walker.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/air-walker.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/air-walker.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/air-walker.jpg"
   }
 }

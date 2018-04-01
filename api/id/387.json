@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/killer-frost-snow.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/killer-frost-snow.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/killer-frost-snow.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/killer-frost-snow.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/killer-frost-snow.jpg"
   }
 }

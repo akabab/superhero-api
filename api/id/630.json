@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/star-lord.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/star-lord.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/star-lord.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/star-lord.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/star-lord.jpg"
   }
 }

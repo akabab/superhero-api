@@ -53,6 +53,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/deadpool.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/deadpool.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deadpool.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/deadpool.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/deadpool.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/two-face.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/two-face.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/two-face.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/two-face.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/two-face.jpg"
   }
 }

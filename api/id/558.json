@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/riddler.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/riddler.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/riddler.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/riddler.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/riddler.jpg"
   }
 }

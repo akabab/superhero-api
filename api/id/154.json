@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-hindsight.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-hindsight.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-hindsight.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-hindsight.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/captain-hindsight.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/klaw.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/klaw.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/klaw.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/klaw.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/klaw.jpg"
   }
 }

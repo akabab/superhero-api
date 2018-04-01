@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-fate.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-fate.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-fate.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-fate.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/doctor-fate.jpg"
   }
 }

@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/angel-liam.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/angel-liam.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/angel-liam.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/angel-liam.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/angel-liam.jpg"
   }
 }

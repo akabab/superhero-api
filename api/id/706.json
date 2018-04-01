@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/warp.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/warp.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/warp.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/warp.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/warp.jpg"
   }
 }

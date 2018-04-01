@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/firebird.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/firebird.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/firebird.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/firebird.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/firebird.jpg"
   }
 }

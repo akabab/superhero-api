@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/bullseye.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/bullseye.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bullseye.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/bullseye.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/bullseye.jpg"
   }
 }

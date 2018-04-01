@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/catwoman.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/catwoman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/catwoman.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/catwoman.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/catwoman.jpg"
   }
 }

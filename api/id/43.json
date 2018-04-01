@@ -48,6 +48,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ares.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ares.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ares.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ares.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ares.jpg"
   }
 }

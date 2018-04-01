@@ -54,6 +54,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/nightwing.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/nightwing.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nightwing.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/nightwing.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/nightwing.jpg"
   }
 }

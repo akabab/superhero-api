@@ -46,6 +46,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/carnage.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/carnage.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/carnage.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/carnage.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/carnage.jpg"
   }
 }

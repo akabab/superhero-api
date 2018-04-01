@@ -47,6 +47,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/deathstroke.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/deathstroke.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathstroke.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathstroke.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/deathstroke.jpg"
   }
 }

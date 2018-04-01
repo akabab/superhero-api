@@ -50,6 +50,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/polaris.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/polaris.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/polaris.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/polaris.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/polaris.jpg"
   }
 }

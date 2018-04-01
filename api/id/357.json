@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/jean-luc-picard.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/jean-luc-picard.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jean-luc-picard.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/jean-luc-picard.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/jean-luc-picard.jpg"
   }
 }

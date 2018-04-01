@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/azrael.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/azrael.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/azrael.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/azrael.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/azrael.jpg"
   }
 }

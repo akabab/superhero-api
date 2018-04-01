@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/ego.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/ego.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ego.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/ego.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/ego.jpg"
   }
 }

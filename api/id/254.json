@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/feral.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/feral.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/feral.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/feral.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/feral.jpg"
   }
 }

@@ -45,6 +45,7 @@
   "images": {
     "small": "https://akabab.github.io/superhero-api/api/images/sm/etrigan.jpg",
     "medium": "https://akabab.github.io/superhero-api/api/images/md/etrigan.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/etrigan.jpg"
+    "large": "https://akabab.github.io/superhero-api/api/images/lg/etrigan.jpg",
+    "thumb": "https://akabab.github.io/superhero-api/api/images/thumb/etrigan.jpg"
   }
 }
