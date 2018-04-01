@@ -164,13 +164,14 @@ eg. [`/work/1.json`](https://akabab.github.io/superhero-api/api/work/1.json)
 ## Images
 GET superhero image
 
-3 sizes of images based on main url just by changing 2 letters {sm, md, lg}
+- Thumb (~32x48)
+[`/images/thumbs/a-bomb.jpg`](https://akabab.github.io/superhero-api/api/images/thumbs/a-bomb.jpg)
 
-- Small (165x240)
-`/images/sm/a-bomb.jpg`
+- Small (~165x240)
+[`/images/sm/a-bomb.jpg`](https://akabab.github.io/superhero-api/api/images/sm/a-bomb.jpg)
 
-- Medium (240x320)
-`/images/md/a-bomb.jpg`
+- Medium (~240x320)
+[`/images/md/a-bomb.jpg`](https://akabab.github.io/superhero-api/api/images/md/a-bomb.jpg)
 
-- Large (480x640)
-`/images/lg/a-bomb.jpg`
+- Large (~480x640)
+[`/images/lg/a-bomb.jpg`](https://akabab.github.io/superhero-api/api/images/lg/a-bomb.jpg)

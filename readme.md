@@ -6,7 +6,7 @@ Multiple universes superheroes open-source REST API
 
 ## API
 - [documentation](api)
-- [glossary](api/glossary.md)
+- [glossary](api/glossary)
 
 ## Builder
 
