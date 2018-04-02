@@ -2,29 +2,29 @@ const fs = require('fs-extra')
 const path = require('path')
 const { promisify } = require('util')
 
-const heroes = require('./sources/superheroes.json')
-  .filter(h => !Object.values(h.powerstats).includes(null))
-  // Filter only thoses will powerstats non nulls
+const writeFile = promisify(fs.writeFile)
 
-const folders = [
-  { name: 'id', getter: h => h },
-  { name: 'powerstats', getter: h => h.powerstats },
-  { name: 'appearance', getter: h => h.appearance },
-  { name: 'biography', getter: h => h.biography },
-  { name: 'connections', getter: h => h.connections },
-  { name: 'work', getter: h => h.work },
-]
+const heroes = require('./sources/superheroes.json')
 
 const apiFolderPath = 'api'
 
-const writeFile = promisify(fs.writeFile)
+const endpoints = [
+  { name: 'id', getBody: h => h },
+  { name: 'powerstats', getBody: h => h.powerstats },
+  { name: 'appearance', getBody: h => h.appearance },
+  { name: 'biography', getBody: h => h.biography },
+  { name: 'connections', getBody: h => h.connections },
+  { name: 'work', getBody: h => h.work },
+]
 
-const buildFolder = async ({ name, getter }) => {
-  await fs.ensureDir(path.join(apiFolderPath, name))
 
-  heroes.forEach(hero => {
-    const filepath = path.join(apiFolderPath, name, `${hero.id}.json`)
-    const body = getter(hero)
+
+const buildEntries = hero => {
+  const filename = `${hero.id}.json`
+
+  endpoints.forEach(({ name, getBody }) => {
+    const filepath = path.join(apiFolderPath, name, filename)
+    const body = getBody(hero)
 
     writeFile(filepath, JSON.stringify(body, null, 2))
       .catch(err => console.log(err))
@@ -45,17 +45,82 @@ ${heroes
   writeFile('api/glossary.md', glossary)
 }
 
-const rebuild = async () => {
+const getHeroHealth = hero => {
+  const health = []
+
+  if (Object.values(hero.powerstats).includes(null)) {
+    health.push('missing powerstats values')
+  }
+
+  if (hero.images.thumb.split('/')[7] === 'no-portrait.jpg') {
+    health.push('missing image')
+  }
+
+  // fullname, race, gender
+
+  return health
+}
+
+const getDuplicates = heroes => {
+  const duplicates = []
+
+  heroes.forEach((hero, i, heroes) => {
+    if (heroes.map(h => h.name).indexOf(hero.name) !== i
+      && !duplicates.includes(hero.name)) {
+      duplicates.push(hero.name)
+    }
+  })
+
+  return duplicates
+}
+
+const buildGlossaryX = heroes => {
+  const glossary = `# Superheroes glossaryX
+
+|    | id | name | issues |
+| -- | -- | ---- | ------ |
+${heroes
+  .map(h =>`| ${getHeroHealth(h).length ? '😰' : '😀'} | ${h.id} | ${h.name} | ${getHeroHealth(h).map(h => `- ${h}`).join('<br/>')} |`)
+  .join('\n')}
+
+
+### Duplicates
+
+| name |
+| ---- |
+${getDuplicates(heroes).map(h => `| ${h} |`).join('\n')}
+`
+  writeFile('api/glossaryX.md', glossary)
+}
+
+const ensureFoldersStructure = async () => {
   await fs.ensureDir(apiFolderPath)
   await fs.emptyDir(apiFolderPath)
+
+  for (const endpoint of endpoints) {
+    await fs.ensureDir(path.join(apiFolderPath, endpoint.name))
+  }
+}
+
+// Filter only thoses will powerstats non nulls
+const filterValidHeroes = heroes => heroes
+  .filter(h => !Object.values(h.powerstats).includes(null))
+
+const rebuild = async () => {
+  await ensureFoldersStructure()
+
   await fs.copy('.backup/images', 'api/images')
   await fs.copy('builder/sources/documentation.md', 'api/readme.md')
 
-  buildGlossary(heroes)
+  buildGlossaryX(heroes)
 
-  writeFile('api/all.json', JSON.stringify(heroes, null, 2))
+  const validHeroes = filterValidHeroes(heroes)
 
-  folders.map(buildFolder)
+  buildGlossary(validHeroes)
+
+  writeFile('api/all.json', JSON.stringify(validHeroes, null, 2))
+
+  validHeroes.forEach(buildEntries)
 
   console.log('build successful')
 }

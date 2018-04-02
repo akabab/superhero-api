@@ -36,6 +36,8 @@ You can contribute by:
 - suggest new heroes with a complete JSON object
 - ..
 
+Check the [glossaryX](api/glossaryX) for needed contributions
+
 **Fork & PR** 
 
 ---
