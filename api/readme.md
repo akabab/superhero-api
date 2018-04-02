@@ -1,8 +1,8 @@
-# superhero-api
+# API
 
 Multiple universes superheroes open-source REST API
 
-## API References
+## References
 - [glossary](glossary)
 
 ### base url

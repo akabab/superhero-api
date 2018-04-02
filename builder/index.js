@@ -97,10 +97,10 @@ const getDuplicates = heroes => {
 const buildGlossaryX = heroes => {
   const glossary = `# Superheroes glossaryX
 
-|    | id | name | issues |
-| -- | -- | ---- | ------ |
+|    |    | id | name | issues |
+| -- | -- | -- | ---- | ------ |
 ${heroes
-  .map(h =>`| ${getHeroHealth(h).length ? '😰' : '😀'} | ${h.id} | ${h.name} | ${getHeroHealth(h).map(h => `- ${h}`).join('<br/>')} |`)
+  .map(h =>`| ${getHeroHealth(h).length ? '😰' : '😀'} | ![](${h.images.small.split('/api/')[1]}) | ${h.id} | ${h.name} | ${getHeroHealth(h).map(h => `- ${h}`).join('<br/>')} |`)
   .join('\n')}
 
 
