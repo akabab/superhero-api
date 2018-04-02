@@ -4,7 +4,7 @@ const { promisify } = require('util')
 
 const writeFile = promisify(fs.writeFile)
 
-const heroes = require('./sources/superheroes.json')
+const sourceHeroes = require('./sources/superheroes.json')
 
 const apiFolderPath = 'api'
 
@@ -33,8 +33,8 @@ const buildEntries = hero => {
 
 const buildImages = () => {}
 
-const buildGlossary = heroes => {
-  const glossary = `# Superheroes glossary
+const buildGlossaryPage = heroes => {
+  const glossary = `# Superhero Glossary
 
 |    | id | name | INT | STR | SPD | DUR | POW | CMB |
 | -- | -- | ---- | --- | --- | --- | --- | --- | --- |
@@ -94,13 +94,30 @@ const getDuplicates = heroes => {
   return duplicates
 }
 
-const buildGlossaryX = heroes => {
-  const glossary = `# Superheroes glossaryX
+const healthStatus = hero => {
+  if (hero.health.length === 0) return '😎'
+  if ([1,2].includes(hero.health.length)) return '🙂'
+  if ([3,4].includes(hero.health.length)) return '😰'
+  if (hero.health.length > 4) return '🤢'
+}
+
+const buildCareCenterPage = heroes => {
+  heroes = heroes.map(h => ({ ...h, health: getHeroHealth(h) }))
+
+  const carecenter = `# Superhero Care Center
+
+- [duplicates](#duplicates)
+
+### Care Center Status
+- 😎 ${heroes.filter(h => h.health.length === 0).length} feeling good!
+- 🙂 ${heroes.filter(h => [1,2].includes(h.health.length)).length} in good shape
+- 😰 ${heroes.filter(h => [3,4].includes(h.health.length)).length} not so well
+- 🤢 ${heroes.filter(h => h.health.length > 4).length} having a bad time
 
 |    |    | id | name | issues |
 | -- | -- | -- | ---- | ------ |
 ${heroes
-  .map(h =>`| ${getHeroHealth(h).length ? '😰' : '😀'} | ![](${h.images.small.split('/api/')[1]}) | ${h.id} | ${h.name} | ${getHeroHealth(h).map(h => `- ${h}`).join('<br/>')} |`)
+  .map(h =>`| ${healthStatus(h)} | ![](${h.images.small.split('/api/')[1]}) | ${h.id} | ${h.name} | ${h.health.map(h => `- ${h}`).join('<br/>')} |`)
   .join('\n')}
 
 
@@ -110,7 +127,7 @@ ${heroes
 | ---- |
 ${getDuplicates(heroes).map(h => `| ${h} |`).join('\n')}
 `
-  writeFile('api/glossaryX.md', glossary)
+  writeFile('api/carecenter.md', carecenter)
 }
 
 const ensureFoldersStructure = async () => {
@@ -132,11 +149,11 @@ const rebuild = async () => {
   await fs.copy('.backup/images', 'api/images')
   await fs.copy('builder/sources/documentation.md', 'api/readme.md')
 
-  buildGlossaryX(heroes)
+  buildCareCenterPage(sourceHeroes)
 
-  const validHeroes = filterValidHeroes(heroes)
+  const validHeroes = filterValidHeroes(sourceHeroes)
 
-  buildGlossary(validHeroes)
+  buildGlossaryPage(validHeroes)
 
   writeFile('api/all.json', JSON.stringify(validHeroes, null, 2))
 

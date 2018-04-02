@@ -1,4 +1,4 @@
-# Superheroes glossary
+# Superhero Glossary
 
 |    | id | name | INT | STR | SPD | DUR | POW | CMB |
 | -- | -- | ---- | --- | --- | --- | --- | --- | --- |
