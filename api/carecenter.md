@@ -1,12 +1,12 @@
 # Superhero Care Center
 
-- [duplicates](#duplicates)
+- **17** [duplicates](#duplicates)
 
 ### Care Center Status
-- 😎 97 feeling good!
-- 🙂 212 in good shape
-- 😰 144 not so well
-- 🤢 275 having a bad time
+- 😎 **97** feeling good!
+- 🙂 **212** in good shape
+- 😰 **144** not so well
+- 🤢 **275** having a bad time
 
 |    |    | id | name | issues |
 | -- | -- | -- | ---- | ------ |

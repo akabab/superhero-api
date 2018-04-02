@@ -104,15 +104,17 @@ const healthStatus = hero => {
 const buildCareCenterPage = heroes => {
   heroes = heroes.map(h => ({ ...h, health: getHeroHealth(h) }))
 
+  const duplicates = getDuplicates(heroes)
+
   const carecenter = `# Superhero Care Center
 
-- [duplicates](#duplicates)
+- **${duplicates.length}** [duplicates](#duplicates)
 
 ### Care Center Status
-- 😎 ${heroes.filter(h => h.health.length === 0).length} feeling good!
-- 🙂 ${heroes.filter(h => [1,2].includes(h.health.length)).length} in good shape
-- 😰 ${heroes.filter(h => [3,4].includes(h.health.length)).length} not so well
-- 🤢 ${heroes.filter(h => h.health.length > 4).length} having a bad time
+- 😎 **${heroes.filter(h => h.health.length === 0).length}** feeling good!
+- 🙂 **${heroes.filter(h => [1,2].includes(h.health.length)).length}** in good shape
+- 😰 **${heroes.filter(h => [3,4].includes(h.health.length)).length}** not so well
+- 🤢 **${heroes.filter(h => h.health.length > 4).length}** having a bad time
 
 |    |    | id | name | issues |
 | -- | -- | -- | ---- | ------ |
@@ -125,7 +127,7 @@ ${heroes
 
 | name |
 | ---- |
-${getDuplicates(heroes).map(h => `| ${h} |`).join('\n')}
+${duplicates.map(h => `| ${h} |`).join('\n')}
 `
   writeFile('api/carecenter.md', carecenter)
 }
