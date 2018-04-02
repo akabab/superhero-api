@@ -6,7 +6,7 @@ Multiple universes superheroes open-source REST API
 
 ## API
 - [documentation](api)
-- [glossary](api/glossary)
+- [glossary](api/glossary.md)
 
 ## Builder
 
@@ -36,7 +36,7 @@ You can contribute by:
 - suggest new heroes with a complete JSON object
 - ..
 
-Check the [Care Center](api/carecenter) for needed contributions
+Check the [Care Center](api/carecenter.md) for needed contributions
 
 **Fork & PR** 
 
