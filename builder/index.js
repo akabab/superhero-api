@@ -45,18 +45,38 @@ ${heroes
   writeFile('api/glossary.md', glossary)
 }
 
+const isObject = o => o && typeof o === 'object' && !Array.isArray(o)
+const missingKeys = (object, keys = [], k = '') => {
+  for (const [key, value] of Object.entries(object)) {
+    const rest = k.length ? '.' + key : key
+
+    if (isObject(value)) {
+      missingKeys(value, keys, k + rest)
+      continue
+    }
+
+    if ([undefined, null, '', '-', ' - '].includes(value)) {
+      keys.push(k + rest)
+    }
+  }
+
+  return keys
+}
+
 const getHeroHealth = hero => {
   const health = []
 
-  if (Object.values(hero.powerstats).includes(null)) {
-    health.push('missing powerstats values')
-  }
+  // if (Object.values(hero.powerstats).includes(null)) {
+  //   health.push('missing powerstats values')
+  // }
 
   if (hero.images.thumb.split('/')[7] === 'no-portrait.jpg') {
     health.push('missing image')
   }
 
-  // fullname, race, gender
+  missingKeys(hero).forEach(k => {
+    health.push(`missing ${k}`)
+  })
 
   return health
 }
