@@ -2,6 +2,8 @@ const fs = require('fs-extra')
 const path = require('path')
 const { promisify } = require('util')
 
+const { buildDocumentation } = require('./sources/documentation')
+
 const writeFile = promisify(fs.writeFile)
 
 const sourceHeroes = require('./sources/superheroes.json')
@@ -16,8 +18,6 @@ const endpoints = [
   { name: 'connections', getBody: h => h.connections },
   { name: 'work', getBody: h => h.work },
 ]
-
-
 
 const buildEntries = hero => {
   const filename = `${hero.id}.json`
@@ -146,16 +146,18 @@ const filterValidHeroes = heroes => heroes
   .filter(h => !Object.values(h.powerstats).includes(null))
 
 const rebuild = async () => {
+  const validHeroes = filterValidHeroes(sourceHeroes)
+
   await ensureFoldersStructure()
 
   await fs.copy('.backup/images', 'api/images')
-  await fs.copy('builder/sources/documentation.md', 'api/readme.md')
 
-  buildCareCenterPage(sourceHeroes)
-
-  const validHeroes = filterValidHeroes(sourceHeroes)
+  const documentation = buildDocumentation({ endpoints, heroes: validHeroes })
+  writeFile('api/readme.md', documentation)
 
   buildGlossaryPage(validHeroes)
+
+  buildCareCenterPage(sourceHeroes)
 
   writeFile('api/all.json', JSON.stringify(validHeroes, null, 2))
 

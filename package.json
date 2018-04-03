@@ -1,6 +1,6 @@
 {
   "name": "superhero-api",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "",
   "dependencies": {
@@ -9,7 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node builder"
+    "build": "node builder",
+    "release": "node builder && git add . && git commit -m \"Release version $npm_package_version\" && git tag -a v$npm_package_version -m \"Version $npm_package_version\""
   },
   "repository": {
     "type": "git",
