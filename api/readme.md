@@ -3,10 +3,15 @@
 Multiple universes superheroes open-source REST API
 
 ## References
-- [glossary](glossary)
+- [glossary](glossary.md)
 
 ### base url
 `https://akabab.github.io/superhero-api/api/`
+
+or cached CDN (faster)
+
+`https://cdn.rawgit.com/akabab/superhero-api/0.1/api/`
+
 
 ### [routes](#routes-1)
 - [`/all.json`](#alljson)
