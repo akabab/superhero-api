@@ -11,7 +11,7 @@ Multiple universes superheroes open-source REST API
 
 or cached CDN (faster)
 
-`https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api`
+`https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api`
 
 
 ### [routes](#routes-1)
@@ -32,12 +32,12 @@ or cached CDN (faster)
 ##### `/all.json`
 GET all superheroes in a single JSON file
 
-eg. [`/all.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/all.json)
+eg. [`/all.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/all.json)
 
 ##### `/id`
 GET superhero complete informations by id
 
-eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/id/1.json)
+eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/id/1.json)
 ```json
 {
   "id": 1,
@@ -95,7 +95,7 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/id/1.js
 ##### `/powerstats`
 GET superhero powerstats by id
 
-eg. [`/powerstats/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/powerstats/1.json)
+eg. [`/powerstats/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/powerstats/1.json)
 ```json
 {
   "intelligence": 38,
@@ -110,7 +110,7 @@ eg. [`/powerstats/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api
 ##### `/appearance`
 GET superhero appearance by id
 
-eg. [`/appearance/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/appearance/1.json)
+eg. [`/appearance/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/appearance/1.json)
 ```json
 {
   "gender": "Male",
@@ -131,7 +131,7 @@ eg. [`/appearance/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api
 ##### `/biography`
 GET superhero biography by id
 
-eg. [`/biography/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/biography/1.json)
+eg. [`/biography/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/biography/1.json)
 ```json
 {
   "fullName": "Richard Milhouse Jones",
@@ -149,7 +149,7 @@ eg. [`/biography/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/
 ##### `/connections`
 GET superhero connections by id
 
-eg. [`/connections/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/connections/1.json)
+eg. [`/connections/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/connections/1.json)
 ```json
 {
   "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
@@ -160,7 +160,7 @@ eg. [`/connections/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/ap
 ##### `/work`
 GET superhero work by id
 
-eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/work/1.json)
+eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/work/1.json)
 ```json
 {
   "occupation": "Musician, adventurer, author; formerly talk show host",
@@ -173,13 +173,13 @@ eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/work/
 GET superhero image
 
 - Thumb (~32x48)
-[`/images/thumbs/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/images/thumbs/a-bomb.jpg)
+[`/images/thumbs/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/thumbs/a-bomb.jpg)
 
 - Small (~165x240)
-[`/images/sm/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/images/sm/a-bomb.jpg)
+[`/images/sm/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/a-bomb.jpg)
 
 - Medium (~240x320)
-[`/images/md/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/images/md/a-bomb.jpg)
+[`/images/md/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/a-bomb.jpg)
 
 - Large (~480x640)
-[`/images/lg/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.0/api/images/lg/a-bomb.jpg)
+[`/images/lg/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/a-bomb.jpg)
