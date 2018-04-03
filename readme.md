@@ -12,20 +12,27 @@ Multiple universes superheroes open-source REST API
 
 > ! api folder is generated, it's useless editing it, check builder sources instead
 
-Clone project
+#### Clone project
 ```
 git clone https://github.com/akabab/superhero-api.git
 cd superhero-api
 ```
 
-Install dependencies
+#### Install dependencies
 ```
 npm install
 ```
 
-Build API
+#### Build API
 ```
 npm run build
+```
+
+#### Release a new version
+
+Edit package.json version then run `release` script
+```
+npm run release
 ```
 
 ## Contribute
