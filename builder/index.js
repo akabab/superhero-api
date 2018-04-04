@@ -16,10 +16,30 @@ const writeFile = promisify(fs.writeFile)
 const rename = promisify(fs.rename)
 
 
+const imageUrl = (k, slug) => `${cdnBaseUrl}/images/${k}/${slug}.jpg`
+
+const prepareHeroes = heroes => {
+  heroes.forEach(async h => {
+    const slug = await fs.pathExists(`builder/sources/images/${h.slug}.jpg`)
+      ? h.slug
+      : 'no-portrait'
+
+    h.images = {
+      'xs': imageUrl('xs', slug),
+      'sm': imageUrl('sm', slug),
+      'md': imageUrl('md', slug),
+      'lg': imageUrl('lg', slug)
+    }
+  })
+
+  return heroes
+}
+
 const loadHeroes = dir => readDir(dir)
   .then(files => files.map(file => `./${dir}/${file}`))
   .then(files => Promise.all(files.map(f => fs.readJson(f))))
   .then(heroes => heroes.sort((a, b) => a.id - b.id))
+  .then(prepareHeroes)
 
 // Filter only thoses will powerstats non nulls
 const filterValidHeroes = heroes => heroes
