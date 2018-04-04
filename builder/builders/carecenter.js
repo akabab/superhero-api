@@ -44,13 +44,9 @@ const getDuplicates = heroes => {
 const getHeroHealth = hero => {
   const health = []
 
-  // if (Object.values(hero.powerstats).includes(null)) {
-  //   health.push('missing powerstats values')
-  // }
-
-  // if (hero.images.thumb.split('/')[7] === 'no-portrait.jpg') {
-  //   health.push('missing image')
-  // }
+  if (hero.images.xs.split('/')[7] === 'no-portrait.jpg') {
+    health.push('missing image')
+  }
 
   missingKeys(hero).forEach(k => {
     health.push(`missing ${k}`)
