@@ -87,12 +87,12 @@ ${JSON.stringify(heroes[0].work, null, 2)}
 GET superhero image
 
 - Thumb (~32x48)
-[\`/images/thumbs/a-bomb.jpg\`](${cdnBaseUrl}/images/thumbs/a-bomb.jpg)
+[\`/images/xs/a-bomb.jpg\`](${cdnBaseUrl}/images/xs/a-bomb.jpg)
 
-- Small (~165x240)
+- Small (~160x240)
 [\`/images/sm/a-bomb.jpg\`](${cdnBaseUrl}/images/sm/a-bomb.jpg)
 
-- Medium (~240x320)
+- Medium (~320x480)
 [\`/images/md/a-bomb.jpg\`](${cdnBaseUrl}/images/md/a-bomb.jpg)
 
 - Large (~480x640)
