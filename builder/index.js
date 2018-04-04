@@ -77,6 +77,12 @@ const ensureFoldersStructure = async () => {
   }
 }
 
+const rebuildImages = async () => {
+  await buildImages()
+
+  fs.copy('api/images', '.backup/images')
+}
+
 const rebuild = async () => {
   const heroes = await loadHeroes('builder/sources/superheroes')
 
@@ -84,9 +90,7 @@ const rebuild = async () => {
 
   await ensureFoldersStructure()
 
-  await buildImages()
-
-  fs.copy('api/images', '.backup/images')
+  fs.copy('.backup/images', 'api/images')
 
   writeFile('api/readme.md', documentation({ endpoints, heroes: validHeroes }))
 
