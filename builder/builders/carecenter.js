@@ -73,7 +73,7 @@ const carecenter = heroes => {
 |    |    | id | name | issues |
 | -- | -- | -- | ---- | ------ |
 ${heroes
-  .map(h =>`| ${healthStatus(h)} | ![](${cdnBaseUrl}/sm/${h.slug}.jpg) | ${h.id} | ${h.name} | ${h.health.map(h => `- ${h}`).join('<br/>')} |`)
+  .map(h =>`| ${healthStatus(h)} | ![](${h.images.sm}) | ${h.id} | ${h.name} | ${h.health.map(h => `- ${h}`).join('<br/>')} |`)
   .join('\n')}
 
 
