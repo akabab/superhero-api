@@ -44,9 +44,9 @@
     "relatives": "Thunderbird (John Proudstar, brother, deceased), Maria Proudstar (mother, deceased), Neal Proudstar (father, deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/707-warpath.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/707-warpath.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/707-warpath.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/707-warpath.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/707-warpath.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/707-warpath.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/707-warpath.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/707-warpath.jpg"
   }
 }

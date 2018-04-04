@@ -44,9 +44,9 @@
     "relatives": "Bruce Banner (Hulk, cousin)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/589-she-hulk.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/589-she-hulk.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/589-she-hulk.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/589-she-hulk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/589-she-hulk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/589-she-hulk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/589-she-hulk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/589-she-hulk.jpg"
   }
 }

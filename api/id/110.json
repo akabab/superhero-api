@@ -47,9 +47,9 @@
     "relatives": "Silvio Manfredi (Silvermane, father), Caterina Manfredi (mother, deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/110-blackwing.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/110-blackwing.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/110-blackwing.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/110-blackwing.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/110-blackwing.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/110-blackwing.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/110-blackwing.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/110-blackwing.jpg"
   }
 }

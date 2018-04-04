@@ -47,9 +47,9 @@
     "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Jason Todd (Robin II, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/563-robin-iii.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/563-robin-iii.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/563-robin-iii.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/563-robin-iii.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/563-robin-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/563-robin-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/563-robin-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/563-robin-iii.jpg"
   }
 }

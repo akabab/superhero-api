@@ -49,9 +49,9 @@
     "relatives": "Joseph (father's clone/paternal uncle, deceased), Magneto (father), Magda Lehnsherr (step-mother, deceased), Zaladane (sister, status uncertain), Anya Lehnsherr (paternal half-sister, deceased), Scarlet Witch (paternal half-sister), Quicksilver (paternal half-brother), Nightcrawler (half-brother-in-law), Vision (half-brother-in-law), Crystal (half-sister-in-law), Nocturne (half-niece), Speed (half-nephew), Wiccan (half-nephew), Luna Maximoff (half-niece)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/523-polaris.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/523-polaris.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/523-polaris.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/523-polaris.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/523-polaris.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/523-polaris.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/523-polaris.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/523-polaris.jpg"
   }
 }

@@ -47,9 +47,9 @@
     "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/528-professor-zoom.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/528-professor-zoom.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/528-professor-zoom.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/528-professor-zoom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/528-professor-zoom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/528-professor-zoom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/528-professor-zoom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/528-professor-zoom.jpg"
   }
 }

@@ -44,9 +44,9 @@
     "relatives": "Mary Storm (wife, deceased), Susan Storm Richards (Invisible Woman, daughter), Jonathan Storm (Human Torch, son), Franklin Richards (grandson), Reed Richards (Mister Fantastic, son-in-law)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/270-franklin-storm.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/270-franklin-storm.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/270-franklin-storm.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/270-franklin-storm.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/270-franklin-storm.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/270-franklin-storm.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/270-franklin-storm.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/270-franklin-storm.jpg"
   }
 }

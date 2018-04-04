@@ -48,9 +48,9 @@
     "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/551-red-tornado.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/551-red-tornado.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/551-red-tornado.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/551-red-tornado.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/551-red-tornado.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/551-red-tornado.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/551-red-tornado.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/551-red-tornado.jpg"
   }
 }

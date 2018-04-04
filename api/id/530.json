@@ -63,9 +63,9 @@
     "relatives": "Maria Castle (Wife, deceased), Christie Castle (Daughter, deceased), Frank Castle Junior (Son, deceased), Mario Castle (Father, deceased), Louisa Castle (Mother, deceased), Rocco Castiglione (Uncle, deceased), Esmerelda Castiglione (Aunt, deceased), Michael Castle (Brother, stillborn, deceased)."
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/530-punisher.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/530-punisher.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/530-punisher.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/530-punisher.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/530-punisher.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/530-punisher.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/530-punisher.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/530-punisher.jpg"
   }
 }

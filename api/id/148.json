@@ -46,9 +46,9 @@
     "relatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/148-cannonball.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/148-cannonball.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/148-cannonball.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/148-cannonball.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/148-cannonball.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/148-cannonball.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/148-cannonball.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/148-cannonball.jpg"
   }
 }

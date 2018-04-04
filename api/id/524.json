@@ -45,9 +45,9 @@
     "relatives": "Zor-L (father, deceased), Allura (mother, deceased), Jor-L (uncle, deceased), Lora (aunt, deceased), Kal-L (Earth-Two Superman, cousin and adopted father, deceased), Earth-Two Lois Lane (adopted mother, deceased), Equinox (son, deceased), Kara Zor-El (alternate universe version)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/524-power-girl.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/524-power-girl.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/524-power-girl.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/524-power-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/524-power-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/524-power-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/524-power-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/524-power-girl.jpg"
   }
 }

@@ -52,9 +52,9 @@
     "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Anti-Venom Symbiote (former symbiote, uncle and former brother, deceased), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/672-toxin.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/672-toxin.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/672-toxin.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/672-toxin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/672-toxin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/672-toxin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/672-toxin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/672-toxin.jpg"
   }
 }

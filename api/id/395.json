@@ -46,9 +46,9 @@
     "relatives": "Nikolai & Anna Makarova Kravinoff (parents, deceased), Dmitri Smerdyakov (Chameleon, half-brother), Vladimir Kravinoff (Grim Hunter, son, deceased), Aloysha \"Al\" Kravinoff (Kraven II, son), Ned Tannengarden (son, deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/395-kraven-the-hunter.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/395-kraven-the-hunter.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/395-kraven-the-hunter.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/395-kraven-the-hunter.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/395-kraven-the-hunter.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/395-kraven-the-hunter.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/395-kraven-the-hunter.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/395-kraven-the-hunter.jpg"
   }
 }

@@ -46,9 +46,9 @@
     "relatives": "John Braddock (ancestor, possibly grandfather); Sir James Braddock (father, deceased); Lady Elizabeth Braddock (mother, deceased); Brian Braddock (Captain Britain) (twin brother); Jamie Braddock (brother, deceased); Meggan Braddock (sister-in-law);"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/529-psylocke.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/529-psylocke.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/529-psylocke.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/529-psylocke.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/529-psylocke.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/529-psylocke.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/529-psylocke.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/529-psylocke.jpg"
   }
 }

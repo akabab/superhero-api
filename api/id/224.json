@@ -44,9 +44,9 @@
     "relatives": "Inza Cramer (wife), Sven Nelson (father, deceased), Celestine Babcock (mother), Kent Nelson, Jr. (son), Aaron Babcock (uncle), Kent V. Nelson (grand-nephew), Laryn Nelson (great grand-niece)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/224-doctor-fate.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/224-doctor-fate.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/224-doctor-fate.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/224-doctor-fate.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/224-doctor-fate.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/224-doctor-fate.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/224-doctor-fate.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/224-doctor-fate.jpg"
   }
 }

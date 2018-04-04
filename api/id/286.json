@@ -48,9 +48,9 @@
     "relatives": "Mister Sinister (creator), Jean Grey (Phoenix, genetic template), Scott Summers (Cyclops, husband), Nathan Christopher Summers (Cable, son), Christopher Summers (Corsair, father-in-law), Alex Summers (Havok, brother-in-law)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/286-goblin-queen.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/286-goblin-queen.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/286-goblin-queen.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/286-goblin-queen.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/286-goblin-queen.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/286-goblin-queen.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/286-goblin-queen.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/286-goblin-queen.jpg"
   }
 }

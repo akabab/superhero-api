@@ -45,9 +45,9 @@
     "relatives": "Werner von Doom (father, deceased), Cynthia von Doom (mother, deceased); Kang the Conqueror, his counterparts, and offspring (alleged descendants), Kristoff Vernard (Doctor Doom II, adopted son), Dr Bob Doom (distant cousin), Boris (unofficially adoptive father/guardian), Valeria von Doom (daughter from alternate universe; became baby of Susan Richards and is now called Valeria Richards)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/222-doctor-doom.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/222-doctor-doom.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/222-doctor-doom.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/222-doctor-doom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/222-doctor-doom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/222-doctor-doom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/222-doctor-doom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/222-doctor-doom.jpg"
   }
 }

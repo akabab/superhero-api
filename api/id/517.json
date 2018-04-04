@@ -45,9 +45,9 @@
     "relatives": "Rachel Summers (daughter from an alternate universe), X-Man (son from an alternate universe), Cyclops (ex-husband), Havok (former brother-in-law), Corsair (former father-in-law), Madelyne Pryor (clone), Cable (adoptive/biological son), Stryfe (cloned biological son), Genesis (grandson)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/517-phoenix.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/517-phoenix.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/517-phoenix.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/517-phoenix.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/517-phoenix.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/517-phoenix.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/517-phoenix.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/517-phoenix.jpg"
   }
 }

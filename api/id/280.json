@@ -44,9 +44,9 @@
     "relatives": "Barton (father, deceased), Clara (mother, deceased), Craig \"Crash\" Simpson (stepfather, deceased), Mona Simpson (stepmother, deceased), Roxanne Simpson (wife)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/280-ghost-rider.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/280-ghost-rider.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/280-ghost-rider.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/280-ghost-rider.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/280-ghost-rider.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/280-ghost-rider.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/280-ghost-rider.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/280-ghost-rider.jpg"
   }
 }

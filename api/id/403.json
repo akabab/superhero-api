@@ -56,9 +56,9 @@
     "relatives": "Charles Graymalkin (paternal collateral ancestor), Marcia Graymalkin (paternal collateral ancestor), Jonas Graymalkin (paternal collateral ancestor), Brian Xavier (paternal grandfather), Sharon Xavier (paternal grandmother), Kurt Marko (paternal step-grandfather), Cain Marko (paternal step-uncle), Cassandra Nova Xavier (paternal aunt), Charles Xavier (father), Gabrielle Haller (mother), Daniel Shomron (stepfather), Xavier Family (paternal relatives), Ruth Aldine (lover/current body)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/403-legion.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/403-legion.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/403-legion.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/403-legion.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/403-legion.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/403-legion.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/403-legion.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/403-legion.jpg"
   }
 }

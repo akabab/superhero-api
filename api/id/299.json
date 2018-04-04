@@ -53,9 +53,9 @@
     "relatives": "Alton Osborn, Sr. (paternal great-grandfather, deceased);Alton Osborn, Jr. (paternal grandfather, deceased);Amberson Osborn (father, deceased);Emily Osborn (wife, deceased);Gabriel Stacy (son);Sarah Stacy (daughter);Harry Osborn (Green Goblin II, son);Liz Allan (ex-daughter-in-law);Normie Osborn (grandson);Stanley Osborn (grandson);"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/299-green-goblin.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/299-green-goblin.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/299-green-goblin.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/299-green-goblin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/299-green-goblin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/299-green-goblin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/299-green-goblin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/299-green-goblin.jpg"
   }
 }

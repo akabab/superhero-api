@@ -44,9 +44,9 @@
     "relatives": "Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/115-blink.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/115-blink.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/115-blink.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/115-blink.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/115-blink.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/115-blink.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/115-blink.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/115-blink.jpg"
   }
 }

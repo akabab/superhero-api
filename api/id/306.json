@@ -46,9 +46,9 @@
     "relatives": "Martin H. \"Marty\" Jordan (father, deceased), Jessica Jordan (mother, deceased), Jim Jordan (younger brother), Jack Jordan (older brother, deceased), Jan Jordan (sister-in-law, deceased), Helen Jordan (neice), Larry Jordan (Air Wave I - cousin, deceased), Hal Jordan (Air Wave II - cousin)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/306-hal-jordan.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/306-hal-jordan.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/306-hal-jordan.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/306-hal-jordan.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/306-hal-jordan.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/306-hal-jordan.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/306-hal-jordan.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/306-hal-jordan.jpg"
   }
 }

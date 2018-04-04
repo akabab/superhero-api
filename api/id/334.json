@@ -46,9 +46,9 @@
     "relatives": "Giuseppe Bertinelli (great-grandfather; deceased), Alfredo Bertinelli (grandfather; deceased), Franco Bertinelli (father; deceased), Maria Panessa Bertinelli (mother; deceased), Santo Cassamento (biological father; deceased), Pino Bertinelli (brother; deceased), Freddy Caldone (cousin; deceased), Tomaso Panessa (uncle), Graziella Panessa (aunt), Monica Simonetta Panessa (cousin), Claudio Panessa (cousin; deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/334-huntress.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/334-huntress.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/334-huntress.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/334-huntress.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/334-huntress.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/334-huntress.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/334-huntress.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/334-huntress.jpg"
   }
 }

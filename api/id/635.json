@@ -45,9 +45,9 @@
     "relatives": "Mrs. Irons (mother, deceased), Mr. Irons (father, deceased), Maternal Grandmother (deceased), maternal grandfather (deceased), Butter (grandfather), Bess (grandmother, deceased), Clay Irons (brother), Jemahl Irons (nephew), Blondell Irons (sister-in-law), Natasha Irons (Starlight, niece), Paco (nephew), Tyke (former foster nephew)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/635-steel.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/635-steel.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/635-steel.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/635-steel.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/635-steel.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/635-steel.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/635-steel.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/635-steel.jpg"
   }
 }

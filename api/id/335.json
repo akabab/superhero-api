@@ -44,9 +44,9 @@
     "relatives": "Thomas Zebulon Guthrie (father,deceased),Lucinda Guthrie (mother),Samuel Zachery Guthrie (brother,Cannonball),Joshua 'Jay' Guthrie (brother,Icarus),Joella Guthrie (sister),Elizabeth Guthrie (sister),Melody Guthrie (sister),Jeb Guthrie (brother),Lewis Guth"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/335-husk.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/335-husk.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/335-husk.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/335-husk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/335-husk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/335-husk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/335-husk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/335-husk.jpg"
   }
 }

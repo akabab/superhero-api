@@ -46,9 +46,9 @@
     "relatives": "Joshua Walker (father), Dorothy Walker (mother, deceased), Sophia (maternal aunt), Bea (step-mother), Mickey Walker (brother), Robert \"Buzz\" Baxter (aka Mad-Dog, ex-husband), Daimon Hellstrom (aka Hellstorm, ex-husband), Percy Walker"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/323-hellcat.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/323-hellcat.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/323-hellcat.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/323-hellcat.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/323-hellcat.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/323-hellcat.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/323-hellcat.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/323-hellcat.jpg"
   }
 }

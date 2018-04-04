@@ -46,9 +46,9 @@
     "relatives": "Miles Warren (creator), Peter Parker (Spider-Man, genetic template), Ben Reilly (Scarlet Spider, fellow clone, deceased), Spidercide (fellow clone, allegedly deceased), Guardian (fellow clone, deceased), Jack (fellow clone, deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/578-scarlet-spider-ii.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/578-scarlet-spider-ii.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/578-scarlet-spider-ii.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/578-scarlet-spider-ii.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/578-scarlet-spider-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/578-scarlet-spider-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/578-scarlet-spider-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/578-scarlet-spider-ii.jpg"
   }
 }

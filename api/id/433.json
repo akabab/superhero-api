@@ -48,9 +48,9 @@
     "relatives": "Scott Summers (Cyclops, alternate timeline father, deceased in own time), Jean Grey-Summers (Phoenix, alternate timeline mother, deceased in own time), Alex Summers (Havok, alternate timeline uncle), Franklin Richards (alternate future husband), Jonathan Reed Richards (Hyperstorm, alternate future son), David Richards (alternate future son)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/433-marvel-girl.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/433-marvel-girl.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/433-marvel-girl.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/433-marvel-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/433-marvel-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/433-marvel-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/433-marvel-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/433-marvel-girl.jpg"
   }
 }

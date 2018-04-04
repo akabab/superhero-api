@@ -47,9 +47,9 @@
     "relatives": "Jack Fury (father, deceased);\nunnamed mother;\nunnamed stepmother (deceased);\nDawn Fury (half-sister);\nJake Fury (half-brother);\nMikel Fury (son, deceased);\nJerry Sapristi (cousin);\nTina Sapristi (cousin by marriage);\nErnesto, Pietro, Giovanni, Maria, Rosa and Gabriella (1st cousins once removed);"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/489-nick-fury.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/489-nick-fury.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/489-nick-fury.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/489-nick-fury.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/489-nick-fury.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/489-nick-fury.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/489-nick-fury.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/489-nick-fury.jpg"
   }
 }

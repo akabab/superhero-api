@@ -44,9 +44,9 @@
     "relatives": "Nathaniai (father), Evelyn (mother, deceased), Susan Storm - Invisible Woman (wife), Franklin (son), Johnny Storm - Human Torch (brother-inlaw), Cassandra (stepmother, deceased), Immortus (father's descendant, see Immortus, Kang, Rama-Tut)."
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/456-mister-fantastic.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/456-mister-fantastic.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/456-mister-fantastic.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/456-mister-fantastic.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/456-mister-fantastic.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/456-mister-fantastic.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/456-mister-fantastic.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/456-mister-fantastic.jpg"
   }
 }

@@ -45,9 +45,9 @@
     "relatives": "Michael Saunders (father, deceased); Trina Saunders (mother, deceased); Cyril \"Speed\" Saunders (grandfather); Mia Saunders (daughter); Shiera Hall (Hawkgirl, great-aunt, deceased); Carter Hall (Hawkman, great-uncle); Hector Hall (Dr. Fate, 2nd cousin); Northwind (cousin through adoption); Hippolyta Hall (Fury, cousin through marriage); Sandman (Daniel Hall, 3rd cousin), Death, Destiny, Destruction, Delirium, Desire (3rd cousins)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/315-hawkgirl.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/315-hawkgirl.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/315-hawkgirl.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/315-hawkgirl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/315-hawkgirl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/315-hawkgirl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/315-hawkgirl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/315-hawkgirl.jpg"
   }
 }
