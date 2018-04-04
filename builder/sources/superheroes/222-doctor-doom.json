@@ -1,0 +1,47 @@
+{
+  "id": 222,
+  "name": "Doctor Doom",
+  "slug": "222-doctor-doom",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 32,
+    "speed": 20,
+    "durability": 100,
+    "power": 100,
+    "combat": 84
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "415 lb",
+      "187 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Victor von Doom",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Master",
+      "Invincible Man"
+    ],
+    "placeOfBirth": "Haasenstadt, Latveria",
+    "firstAppearance": "Fantastic Four #5 (July 1962)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Monarch",
+    "base": "Castle Doom, Doomstadt, Latveria"
+  },
+  "connections": {
+    "groupAffiliation": "Future Foundation; Formerly Cabal, Knights of the Atomic Table, Acts of Vengeance Prime Movers, partner of Namor, employer of the Terrible Trio, Fantastic Four (leader)",
+    "relatives": "Werner von Doom (father, deceased), Cynthia von Doom (mother, deceased); Kang the Conqueror, his counterparts, and offspring (alleged descendants), Kristoff Vernard (Doctor Doom II, adopted son), Dr Bob Doom (distant cousin), Boris (unofficially adoptive father/guardian), Valeria von Doom (daughter from alternate universe; became baby of Susan Richards and is now called Valeria Richards)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 142,
+  "name": "Bumblebee",
+  "slug": "142-bumblebee",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 28,
+    "speed": 25,
+    "durability": 10,
+    "power": 47,
+    "combat": 35
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Karen Beecher",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teen Titans #45",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "San Francisco, California"
+  },
+  "connections": {
+    "groupAffiliation": "Doom Patrol, S.T.A.R. Labs, Formerly Teen Titans",
+    "relatives": "Mal Duncan (husband)"
+  }
+}

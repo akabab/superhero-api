@@ -1,0 +1,47 @@
+{
+  "id": 545,
+  "name": "Red Arrow",
+  "slug": "545-red-arrow",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 16,
+    "speed": 25,
+    "durability": 20,
+    "power": 23,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "185 lb",
+      "83 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Roy Harper",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Arsenal",
+      "Speedy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(as Speedy) More Fun Comics # 73(Nov. 1941); (as Arsenal) The New Titans # 99 (July 1993); (as Red Arrow) Justice League of America Vol. 2 # 7 (May 2007)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer; intelligence agent; musician",
+    "base": "The Hall & JLA Watchtower; New York City; formerly Titans Tower, Station Markovia, and Gabriel's Horn"
+  },
+  "connections": {
+    "groupAffiliation": "Titans, Justice League of America, formerly Outsiders, Teen Titans, Checkmate, Central Bureau of Investigations",
+    "relatives": "Roy William Harper, Sr. (father, deceased); Brave Bow (adoptive father, deceased); Oliver \"Ollie\" Queen (Green Arrow - adoptive father); Jim Harper (Guardian- great-uncle); Lian Harper (daughter), Vandal Savage (ancestor)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 345,
+  "name": "Iron Fist",
+  "slug": "345-iron-fist",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 33,
+    "durability": 50,
+    "power": 95,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Danny Rand",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Daredevil",
+      "Daniel Thomas Rand",
+      "the Living Weapon",
+      "Young Dragon",
+      "Danny Rand"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Marvel Premiere #15 (May 1974)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer; formerly co-owner of Rand-Meachum, Inc., bodyguard, private investigator, research assistant, warrior",
+    "base": "New York"
+  },
+  "connections": {
+    "groupAffiliation": "New Avengers, Heroes for Hire, Inc., Secret Defenders, Defenders, Misty Knight, Luke Cage",
+    "relatives": "Wendell Rand-K'ai (father, deceased), Heather Duncan Rand (mother, deceased), Yu-Ti (adopted uncle), Miranda Rand-K'ai (half-sister), Lord Tuan (adopted paternal grandfather, deceased), Lady Ming (adopted paternal grandmother, deceased), Thomas Duncan (maternal grandfather)"
+  }
+}

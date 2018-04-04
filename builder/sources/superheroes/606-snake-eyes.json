@@ -1,0 +1,46 @@
+{
+  "id": 606,
+  "name": "Snake-Eyes",
+  "slug": "606-snake-eyes",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Animal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Xanthian Boulder Crusher"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Marvel Team-Up Annual Vol 1 #7 October, 1984",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

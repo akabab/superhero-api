@@ -1,0 +1,46 @@
+{
+  "id": 262,
+  "name": "Fixer",
+  "slug": "262-fixer",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Paul Norbert Ebersol",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Fixer"
+    ],
+    "placeOfBirth": "Dayton, Ohio",
+    "firstAppearance": "(as Fixer) STRANGE TALES #141",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Criminal inventor",
+    "base": "Mount Charteris"
+  },
+  "connections": {
+    "groupAffiliation": "formerly Thunderbolts, Redeemers",
+    "relatives": "No known relatives"
+  }
+}

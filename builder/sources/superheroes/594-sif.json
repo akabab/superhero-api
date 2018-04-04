@@ -1,0 +1,49 @@
+{
+  "id": 594,
+  "name": "Sif",
+  "slug": "594-sif",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 90,
+    "speed": 67,
+    "durability": 80,
+    "power": 100,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Asgardian",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "425 lb",
+      "191 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Sif",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lady Sif",
+      "Erika Velez",
+      "Mrs. Chambers",
+      "Sybil"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Journey into Mystery #102 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Broxton/Asgard; Formerly New York City"
+  },
+  "connections": {
+    "groupAffiliation": "The Gods of Asgard",
+    "relatives": "Heimdall (brother)"
+  }
+}

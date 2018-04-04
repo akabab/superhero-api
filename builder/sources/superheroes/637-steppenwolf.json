@@ -1,0 +1,46 @@
+{
+  "id": 637,
+  "name": "Steppenwolf",
+  "slug": "637-steppenwolf",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 100,
+    "speed": 83,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "New God",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "203 lb",
+      "91 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Steppenwulf"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The New Gods #7",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

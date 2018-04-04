@@ -1,0 +1,58 @@
+{
+  "id": 638,
+  "name": "Storm",
+  "slug": "638-storm",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 47,
+    "durability": 30,
+    "power": 88,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "127 lb",
+      "57 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Ororo Munroe",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ororo Iqadi T'Challa",
+      "Queen Ororo",
+      "Ororo Komo Wakandas,White Queen",
+      "Weather Witch",
+      "Windrider",
+      "Goddess",
+      "Mistress of the Elements",
+      "Princess of N'Dare",
+      "High Priestess Windrider",
+      "Goddess",
+      "Mistress of the Elements",
+      "Princess of N'Dare",
+      "High Priestess"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Xavier Institute, Salem Center, Westchester County, New York State"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men (Jean Grey School member, leader); formerly X-Force (Strike Team); Murder Circus (brainwashed), Extinction Team, Avengers[3], Fantastic Four, X.S.E., X-Treme X-Men, Tokyo Arena, The Twelve, Seven Brides of Set, Hellfire Club (Inner Circle), Morlocks",
+    "relatives": "Ayesha of Balobedu (ancestor), Ashake of Egypt (ancestor), Ashake of Mero? (ancestor), unnamed ancestor, Harriet Munroe (paternal grandmother), unnamed paternal grandfather, unnamed maternal grandmother, David Munroe (father, deceased), N'Dar? Munroe (mother, deceased), Ainet (unofficial foster mother), Achmed El Gib?r (unofficial foster father), Colonel Shetani (maternal uncle), unnamed paternal aunt (deceased), David Munroe, Jr. (cousin), Munroe Family (relatives), Black Panther (T'Challa) (ex-husband, marriage annulled)"
+  }
+}

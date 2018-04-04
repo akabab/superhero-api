@@ -1,0 +1,46 @@
+{
+  "id": 589,
+  "name": "She-Hulk",
+  "slug": "589-she-hulk",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 100,
+    "speed": 42,
+    "durability": 100,
+    "power": 40,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "700 lb",
+      "315 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Green"
+  },
+  "biography": {
+    "fullName": "Jennifer Walters",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jade Giantess"
+    ],
+    "placeOfBirth": "Los Angeles, California",
+    "firstAppearance": "She-Hulk (Vol. 1) #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Lawyer, Magistra of the Living Tribunal",
+    "base": "Law offices of Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers Mansion; Baxter Building, Four Freedoms Plaza"
+  },
+  "connections": {
+    "groupAffiliation": "Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers, Fantastic Four, Heroes for Hire",
+    "relatives": "Bruce Banner (Hulk, cousin)"
+  }
+}

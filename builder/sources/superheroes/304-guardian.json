@@ -1,0 +1,50 @@
+{
+  "id": 304,
+  "name": "Guardian",
+  "slug": "304-guardian",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 45,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "James Hudson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Weapon Alpha",
+      "Antiguard",
+      "Vindicator",
+      "Mac",
+      "Jimmy"
+    ],
+    "placeOfBirth": "London, Ontario, Canada",
+    "firstAppearance": "X-Men Vol.1  #109 (as Weapon Alpha)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Engineer, government agent, adventurer",
+    "base": "Ottawa, Canada"
+  },
+  "connections": {
+    "groupAffiliation": "Alpha Flight",
+    "relatives": "Vindicator II (Heather Hudson), wife"
+  }
+}

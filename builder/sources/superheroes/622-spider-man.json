@@ -1,0 +1,46 @@
+{
+  "id": 622,
+  "name": "Spider-Man",
+  "slug": "622-spider-man",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 58,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'2",
+      "157 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Miles Morales",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spiderman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Ultimate Comics Fallout #4 (October, 2011)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Student, adventurer, vigilante",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

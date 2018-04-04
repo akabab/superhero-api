@@ -1,0 +1,46 @@
+{
+  "id": 691,
+  "name": "Vertigo II",
+  "slug": "691-vertigo-ii",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6'",
+      "168 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Silver"
+  },
+  "biography": {
+    "fullName": "-",
+    "alterEgos": "Blaquesmith",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "The Savage Land",
+    "firstAppearance": "MARVEL FANFARE #1",
+    "publisher": "Blaquesmith",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Assassin",
+    "base": "Formerly the Savage Land, now mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Former member of the Savage Land Mutates, later a member of the Marauders",
+    "relatives": "-"
+  }
+}

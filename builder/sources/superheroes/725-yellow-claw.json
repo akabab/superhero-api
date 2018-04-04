@@ -1,0 +1,46 @@
+{
+  "id": 725,
+  "name": "Yellow Claw",
+  "slug": "725-yellow-claw",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "210 lb",
+      "95 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Claw"
+    ],
+    "placeOfBirth": "Somewhere in mainland China",
+    "firstAppearance": "(historical) YELLOW CLAW #1; (modern) (telepathic 'voice' of Yellow Claw) STRANGE TALES #160, (robot Yellow Claw) STRANGE TALES # 161, (actual Yellow Claw)CAPTAIN AMERICA #164",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Would-be conqueror",
+    "base": "Various hidden bases throughout the world"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

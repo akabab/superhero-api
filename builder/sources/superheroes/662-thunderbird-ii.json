@@ -1,0 +1,46 @@
+{
+  "id": 662,
+  "name": "Thunderbird II",
+  "slug": "662-thunderbird-ii",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "James Proudstar",
+    "alterEgos": "Warpath",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Warpath",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

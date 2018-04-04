@@ -1,0 +1,48 @@
+{
+  "id": 148,
+  "name": "Cannonball",
+  "slug": "148-cannonball",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 28,
+    "speed": 67,
+    "durability": 99,
+    "power": 94,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "181 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Samuel Zachery Guthrie",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Formerly Samson Guthry",
+      "Sam Guthrie",
+      "Jet-Ass"
+    ],
+    "placeOfBirth": "Cumberland County, Kentucky",
+    "firstAppearance": "Marvel Graphic Novel #4 (1982)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, peacekeeper, former student, mercenary, miner",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, formerly X.S.E., Mutant Liberation Front, X-Treme X-Men, X-Corporation, X-Force, New Mutants, Hellions, Hellfire Club",
+    "relatives": "Thomas Zebulon (father, deceased), Lucinda (mother), Lucas Bartholemew (uncle), Paige (Husk, sister), Joshua \"Jay\" (Icarus, brother, deceased), Joelle (sister), Elizabeth (sister), Melody (Aero, sister), Jebediah (brother), Lewis (brother), two other unnamed siblings, Ray Jr. (adopted brother)"
+  }
+}

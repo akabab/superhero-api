@@ -1,0 +1,46 @@
+{
+  "id": 607,
+  "name": "Snowbird",
+  "slug": "607-snowbird",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 32,
+    "speed": 27,
+    "durability": 42,
+    "power": 70,
+    "combat": 52
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'10'",
+      "178 cm"
+    ],
+    "weight": [
+      "108 lb",
+      "49 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Narya",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Anne McKenzie-Thompson"
+    ],
+    "placeOfBirth": "Near Resolute Bay, Northwest Territories, Canada",
+    "firstAppearance": "Uncanny X-Men #120",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Goddess, adventurer, former records officer",
+    "base": "formerly Department H"
+  },
+  "connections": {
+    "groupAffiliation": "God Squad; formerly Alpha Flight, Eskimo Gods, Royal Canadian Mounted Police, The Flight",
+    "relatives": "Hodiak (grandfather), Nelvanna (mother), Richard Lawrence Easton (father, deceased), Michael Twoyoungmen (Shaman, foster father), Douglas Thompson (husband, deceased), unnamed son (deceased)"
+  }
+}

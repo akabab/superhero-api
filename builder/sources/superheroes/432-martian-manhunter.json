@@ -1,0 +1,48 @@
+{
+  "id": 432,
+  "name": "Martian Manhunter",
+  "slug": "432-martian-manhunter",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 95,
+    "speed": 92,
+    "durability": 100,
+    "power": 100,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Martian",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "J'onn J'onzz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "ohn Jones; J'Onn J'Onzz (alternate spelling); Big Green Buddy; J.J.; Jolly Green Giant; Light to the Light; Manhunter; Manhunter from Mars; Son of Mars; Bronze Wraith",
+      "Bloodwynd",
+      "many others"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Detective Comics #225 (1955)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Darkstars, Justice League of Aliens, Justice League Of America, Justice League Task Force, Justice League Unlimited, Martians, Outsiders",
+    "relatives": "M'yrnn J'onzz (father, deceased); Sha'sheen J'onzz (mother, deceased); M'yri'ah (wife, deceased); K'hym (daughter, deceased); Ma'alefa'ak (twin brother); D'all (father-in-law, deceased); J'ahrl J'onzz (ancestor, deceased)"
+  }
+}

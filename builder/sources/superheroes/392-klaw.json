@@ -1,0 +1,46 @@
+{
+  "id": 392,
+  "name": "Klaw",
+  "slug": "392-klaw",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 38,
+    "speed": 33,
+    "durability": 100,
+    "power": 62,
+    "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "216 lb",
+      "97 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Ulysses Klaw",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Vlaardingen, Netherlands",
+    "firstAppearance": "Fantastic Four #53 (August, 1966)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Criminal, former Scientist",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Former member of the Masters of Evil, Fearsome Foursome, and Frightful Four; Former ally of Solarr, Molecule Man, and Doctor Doom",
+    "relatives": "-"
+  }
+}

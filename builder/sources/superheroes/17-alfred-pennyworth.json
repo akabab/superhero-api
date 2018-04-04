@@ -1,0 +1,46 @@
+{
+  "id": 17,
+  "name": "Alfred Pennyworth",
+  "slug": "17-alfred-pennyworth",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 17,
+    "durability": 10,
+    "power": 7,
+    "combat": 55
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "160 lb",
+      "72 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Alfred Thaddeus Crane Pennyworth",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Alfred Beagle"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #16 (April, 1943)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Butler; Caretaker, former Actor; Field Medic; Government Agent",
+    "base": "Wayne Manor; Batcave; Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Outsiders",
+    "relatives": "Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
+  }
+}

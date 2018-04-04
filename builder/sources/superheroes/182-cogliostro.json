@@ -1,0 +1,48 @@
+{
+  "id": 182,
+  "name": "Cogliostro",
+  "slug": "182-cogliostro",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Cain",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nicholas Cogliostro",
+      "Cog",
+      "The Count"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Spawn #9",
+    "publisher": "Image Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

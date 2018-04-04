@@ -1,0 +1,46 @@
+{
+  "id": 359,
+  "name": "Jesse Quick",
+  "slug": "359-jesse-quick",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 42,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Jesse Chambers",
+    "alterEgos": "Liberty Belle II",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Liberty Belle II",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

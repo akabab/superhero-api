@@ -1,0 +1,46 @@
+{
+  "id": 385,
+  "name": "Kid Flash II",
+  "slug": "385-kid-flash-ii",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 47,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Bartholomew Allen II",
+    "alterEgos": "Flash IV, Impulse",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Flash IV",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

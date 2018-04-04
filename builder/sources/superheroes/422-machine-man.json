@@ -1,0 +1,47 @@
+{
+  "id": 422,
+  "name": "Machine Man",
+  "slug": "422-machine-man",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 32,
+    "speed": 35,
+    "durability": 84,
+    "power": 51,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "6'",
+      "183 cm"
+    ],
+    "weight": [
+      "850 lb",
+      "383 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "X-51, Aaron Stack",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sir McHinery",
+      "Mister Machine.Machine Man"
+    ],
+    "placeOfBirth": "Central City, California",
+    "firstAppearance": "First appearance unknown",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Insurance Investigator",
+    "base": "Garvin's Garage, Queens, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Avengers",
+    "relatives": "Dr. Able Stack, 'father'"
+  }
+}

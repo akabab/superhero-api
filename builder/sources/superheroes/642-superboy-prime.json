@@ -1,0 +1,46 @@
+{
+  "id": 642,
+  "name": "Superboy-Prime",
+  "slug": "642-superboy-prime",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Kryptonian",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black / Blue"
+  },
+  "biography": {
+    "fullName": "Kal-El",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper"
+    ],
+    "placeOfBirth": "Krypton (Earth-Prime)",
+    "firstAppearance": "DC Comics Presents #87 (November, 1985)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Black Lantern Corps, Legion of Super-Villains, Sinestro Corps",
+    "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
+  }
+}

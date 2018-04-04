@@ -1,0 +1,46 @@
+{
+  "id": 490,
+  "name": "Nightcrawler",
+  "slug": "490-nightcrawler",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 10,
+    "speed": 47,
+    "durability": 14,
+    "power": 76,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'9'",
+      "175 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Indigo"
+  },
+  "biography": {
+    "fullName": "Kurt Wagner",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Somewhere in the Bavarian Alps",
+    "firstAppearance": "GIANT-SIZE X-MEN #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Teacher",
+    "base": "Xavier Institute for Higher Learning, Salem Center, Westchester County, New York (former) Muir Island, Scotland; Braddock Lighthouse"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, formerly Excalibur",
+    "relatives": "Eric Wagner (father, deceased), Margali Szardos (foster mother), Jimaine Szardos (Daytripper, alias Amanda Sefton, foster sister), Stefan Szardos (foster brother, deceased), Mystique (mother), Graydon Creed (half-brother, deceased)."
+  }
+}

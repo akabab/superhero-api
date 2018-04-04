@@ -1,0 +1,49 @@
+{
+  "id": 274,
+  "name": "Gambit",
+  "slug": "274-gambit",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 23,
+    "durability": 28,
+    "power": 55,
+    "combat": 84
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "179 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Remy Etienne LeBeau",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Death",
+      "Le Diable Blanc",
+      "formerly Robert Lord",
+      "Cajun"
+    ],
+    "placeOfBirth": "New Orleans, Louisiana",
+    "firstAppearance": "(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Utopia, San Francisco Bay, California; Xavier Institute, Salem Center, Westchester County, New York; New Orleans; Paris; Cairo; Illinois",
+    "base": "(current) Xavier Institute, Salem Center, Westchester County, New York; (former) New Orleans, Louisiana; Paris, France; Cairo, Illinois;"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men (Team Wolverine); formerly Marauders, Horsemen of Apocalypse, Chevaliers, X-Treme X-Men, Thieves & Unified Guild's of New Orleans, Crimson Pirates",
+    "relatives": "Jean-Luc LeBeau (father), Belladonna (aka Bella Donna Boudreaux) (wife, separated)"
+  }
+}

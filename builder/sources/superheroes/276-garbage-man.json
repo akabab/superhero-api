@@ -1,0 +1,46 @@
+{
+  "id": 276,
+  "name": "Garbage Man",
+  "slug": "276-garbage-man",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 82,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Richard Ethan Morse",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Richard Morse"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Weird Worlds #1 (2011)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

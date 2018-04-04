@@ -1,0 +1,49 @@
+{
+  "id": 40,
+  "name": "Archangel",
+  "slug": "40-archangel",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 13,
+    "speed": 58,
+    "durability": 64,
+    "power": 35,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "150 lb",
+      "68 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Warren Kenneth Worthington III",
+    "alterEgos": "Angel",
+    "aliases": [
+      "War",
+      "Dark Angel",
+      "Death",
+      "Avenging Angel"
+    ],
+    "placeOfBirth": "Centerport, Long Island, New York",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Angel",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Chairman & principal stockholder of Worthington Industries, Multi-Millionaire, Heir, former terrorist",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men (founding member); X-Force; Mutantes Sans Fronti?res; Hellfire Club; formerly X-Club (founding member); Death's champions; Secret Defenders; X-Factor/X-Terminators (founding member); Horsemen of Apocalypse; Defenders; Champions of Los Angeles (fou",
+    "relatives": "Wallace Worthington (paternal ancestor, deceased), Warren Worthington Sr. (paternal grandfather, deceased), Warren Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burt Worthington (paternal uncle), Mimi (maternal aunt), unnamed distant cousin"
+  }
+}

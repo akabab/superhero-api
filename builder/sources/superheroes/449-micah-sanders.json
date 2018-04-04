@@ -1,0 +1,46 @@
+{
+  "id": 449,
+  "name": "Micah Sanders",
+  "slug": "449-micah-sanders",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 8,
+    "speed": 12,
+    "durability": 14,
+    "power": 57,
+    "combat": 14
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Micah Sanders",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "MicahSanders500"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Elementary school student",
+    "base": "New Orleans, LA"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Niki Sanders (Mother), DL Hawkins (Father), Paulette Hawkins (paternal grandmother), Hal Sanders (maternal grandfather), Nana Dawson (Guardian)\nNana Dawson (Great-aunt), Monica Dawson (Cousin), Damon Dawson (Cousin)"
+  }
+}

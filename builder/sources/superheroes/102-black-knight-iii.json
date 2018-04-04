@@ -1,0 +1,48 @@
+{
+  "id": 102,
+  "name": "Black Knight III",
+  "slug": "102-black-knight-iii",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 8,
+    "durability": 70,
+    "power": 43,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Dane Whitman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Pendragon",
+      "Gann Josin",
+      "Eobar Garrington"
+    ],
+    "placeOfBirth": "Gloucester, Massachusetts",
+    "firstAppearance": "Avengers #47 (1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, scientist; former crusader",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "MI-13; formerly Avengers, Masters of Evil (as a mole), Excalibur, Heroes for Hire, Ultraforce (in the Ultraverse), Defenders, Knights of Wundagore, Queen's Vengeance, King Richard's Army",
+    "relatives": "Nathan Garrett (Black Knight II, uncle, deceased); Sir Percy of Scandia (Black Knight), Sir Raston, Eobar Garrington (Black Knights of past eras, ancestors, deceased); Lady Rosamund, Edward, Geoffrey (ancestral relations, presumed deceased); Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay (distant ancestral relations)"
+  }
+}

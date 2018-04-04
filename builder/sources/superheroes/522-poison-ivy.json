@@ -1,0 +1,46 @@
+{
+  "id": 522,
+  "name": "Poison Ivy",
+  "slug": "522-poison-ivy",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 14,
+    "speed": 21,
+    "durability": 40,
+    "power": 100,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Pamela Isley",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Seattle, Washington",
+    "firstAppearance": "Batman #181 (June 1966)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Criminal, Botanist",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Injustice Gang, Suicide Squad, Harley Quinn, Secret Society of Super Villains, Joker League of Anarchy",
+    "relatives": "-"
+  }
+}

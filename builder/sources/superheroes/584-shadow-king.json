@@ -1,0 +1,54 @@
+{
+  "id": 584,
+  "name": "Shadow King",
+  "slug": "584-shadow-king",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 12,
+    "speed": 27,
+    "durability": 100,
+    "power": 100,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "330 lb",
+      "149 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Amahl Farouk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Professor X",
+      "Ananasi",
+      "Amahl Farouk",
+      "Evil One",
+      "Master of the Games; he also impersonated the following mind-controlled subjects (in chronological order): Alexander Flynn",
+      "Karma",
+      "Cypher",
+      "Jacob Reisz",
+      "Donald Pierce and probably others"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men #117 (1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "The Astral Plane; Formerly Cairo, Egypt."
+  },
+  "connections": {
+    "groupAffiliation": "Shadow Mob; former head of the Gladiators and the Cairo?s Thieves Quarter",
+    "relatives": "-"
+  }
+}

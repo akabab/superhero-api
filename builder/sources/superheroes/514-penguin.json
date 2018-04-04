@@ -1,0 +1,46 @@
+{
+  "id": 514,
+  "name": "Penguin",
+  "slug": "514-penguin",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 12,
+    "durability": 28,
+    "power": 30,
+    "combat": 45
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'2",
+      "157 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Oswald Chesterfield Cobblepot",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "DETECTIVE COMICS #58 (December, 1941)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Trader",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Miranda Cobblepot (Aunt), Miranda (Mother, deceased), Father (deceased)"
+  }
+}

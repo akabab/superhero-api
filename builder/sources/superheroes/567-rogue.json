@@ -1,0 +1,50 @@
+{
+  "id": 567,
+  "name": "Rogue",
+  "slug": "567-rogue",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 12,
+    "durability": 28,
+    "power": 80,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Brown / White"
+  },
+  "biography": {
+    "fullName": "Anna Marie",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Anna Raven",
+      "Doctor Kellogg",
+      "Mutate 9602",
+      "Irene Adler",
+      "Miss Smith"
+    ],
+    "placeOfBirth": "Caldecott County, Mississippi",
+    "firstAppearance": "Avengers Annual #10 (1981)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, former mechanic, waitress, terrorist",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, formerly X-Treme Sanctions Executive, X-Treme X-Men, Brotherhood of Evil Mutants",
+    "relatives": "Owen (father), Priscilla (mother), Carrie (aunt), Raven Darkh?lme (Mystique, foster mother), Kurt Wagner (Nightcrawler, foster brother), Graydon Creed (foster brother, deceased)"
+  }
+}

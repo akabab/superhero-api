@@ -1,0 +1,46 @@
+{
+  "id": 271,
+  "name": "Frenzy",
+  "slug": "271-frenzy",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 53,
+    "speed": 35,
+    "durability": 100,
+    "power": 38,
+    "combat": 52
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "6'11",
+      "211 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Joanna Cargill",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Factor Vol 1 #4",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Mercenary",
+    "base": "Mobile; formerly Avalon in Earth orbit; Genosha; California"
+  },
+  "connections": {
+    "groupAffiliation": "Acolytes, formerly Alliance of Evil; temporarily X-Men while controlled by Jean Grey, Femizons",
+    "relatives": "-"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 103,
+  "name": "Black Lightning",
+  "slug": "103-black-lightning",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 11,
+    "speed": 53,
+    "durability": 28,
+    "power": 70,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Jefferson Pierce",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Black Lightning #1 (April 1977)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.",
+    "base": "Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League of America (current), formerly Presidential Cabinet, The Outsiders (sporadically), Batman's Brother Eye attack group",
+    "relatives": "Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 256,
+  "name": "Fin Fang Foom",
+  "slug": "256-fin-fang-foom",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 81,
+    "speed": 23,
+    "durability": 100,
+    "power": 75,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Kakarantharaian",
+    "height": [
+      "32'0",
+      "975 cm"
+    ],
+    "weight": [
+      "40000 lb",
+      "18 tons"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation)"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "New York, formerly Valley of the Sleeping Dragon in China"
+  },
+  "connections": {
+    "groupAffiliation": "Affiliation \"Fin Fang Four,\" former ally of the Mandarin, pawn of Doctor Vault, member of starship crew",
+    "relatives": "Fraktur (cousin)"
+  }
+}

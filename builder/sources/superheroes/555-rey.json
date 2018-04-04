@@ -1,0 +1,46 @@
+{
+  "id": 555,
+  "name": "Rey",
+  "slug": "555-rey",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 8,
+    "speed": 21,
+    "durability": 10,
+    "power": 87,
+    "combat": 35
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'57",
+      "297 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Hazel",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Jakku",
+    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "publisher": "George Lucas",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Scavenger",
+    "base": "Jakku"
+  },
+  "connections": {
+    "groupAffiliation": "Resistence",
+    "relatives": "-"
+  }
+}

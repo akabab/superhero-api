@@ -1,0 +1,46 @@
+{
+  "id": 461,
+  "name": "Mister Zsasz",
+  "slug": "461-mister-zsasz",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 22,
+    "speed": 33,
+    "durability": 28,
+    "power": 18,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Victor Zsasz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mr Zsasz"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Serial Killer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

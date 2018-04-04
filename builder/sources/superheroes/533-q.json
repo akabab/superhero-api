@@ -1,0 +1,46 @@
+{
+  "id": 533,
+  "name": "Q",
+  "slug": "533-q",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 12,
+    "speed": 17,
+    "durability": 100,
+    "power": 100,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Q",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Q Continuum"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "alignment": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 687,
+  "name": "Venom",
+  "slug": "687-venom",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 57,
+    "speed": 65,
+    "durability": 84,
+    "power": 86,
+    "combat": 84
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "260 lb",
+      "117 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Strawberry Blond"
+  },
+  "biography": {
+    "fullName": "Eddie Brock",
+    "alterEgos": "Anti-Venom, Toxin",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "(as alien costume) Secret Wars #8, (behind the scenes) Web of Spider-Man #18, (actual appearance) Amazing Spider-Man #300",
+    "publisher": "Anti-Venom",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Vigilante; former journalist for the Daily Globe, government operative",
+    "base": "New York, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Sinister Six (formerly)",
+    "relatives": "Eddie Brock: Carl Brock (father), Jamie Brock (mother), Anne Weying (She-Venom, ex wife, deceased); Venom symbiote: Carnage (bonded to Cletus Kasidy, 1st generation offspring), five forced offspring - one independant (bonded to Donna, last name unrevealed, 1st generation offspring), four forming a composite symbiote (Hybrid (bonded to Scott Washington, 1st generation offspring), Toxin (bonded to Patrick Mulligan, 2nd generation offspring)"
+  }
+}

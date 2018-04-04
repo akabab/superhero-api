@@ -1,0 +1,49 @@
+{
+  "id": 713,
+  "name": "Wildfire",
+  "slug": "713-wildfire",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 32,
+    "speed": 23,
+    "durability": 100,
+    "power": 77,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Drake Burroughs",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "ERG-1",
+      "Atom'x",
+      "Randall Burroughs",
+      "Jahr-Drake Nigle"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Legion of Super-Heroes",
+    "relatives": "-"
+  }
+}

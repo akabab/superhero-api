@@ -1,0 +1,47 @@
+{
+  "id": 705,
+  "name": "Warlock",
+  "slug": "705-warlock",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 36,
+    "speed": 79,
+    "durability": 95,
+    "power": 71,
+    "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2'",
+      "188 cm"
+    ],
+    "weight": [
+      "240 lb",
+      "108 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Adam Warlock",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Him",
+      "(in an alternate future) the Magus"
+    ],
+    "placeOfBirth": "The Beehive, Shard Island, Atlantic Ocean",
+    "firstAppearance": "Fantastic Four #66",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Avenger, savior of worlds",
+    "base": "Counter-Earth, later mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Infinity Watch, (as the Magus) head of Universal Church of Truth in an alternate future",
+    "relatives": "-"
+  }
+}

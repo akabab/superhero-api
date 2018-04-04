@@ -1,0 +1,46 @@
+{
+  "id": 239,
+  "name": "Elle Bishop",
+  "slug": "239-elle-bishop",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 8,
+    "speed": 12,
+    "durability": 42,
+    "power": 63,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cindy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S02E05 - Fight or Flight",
+    "publisher": "NBC - Heroes",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Agent of the Company",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Bob Bishop (Father)"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 442,
+  "name": "Meltdown",
+  "slug": "442-meltdown",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 12,
+    "durability": 42,
+    "power": 62,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Tabitha Smith",
+    "alterEgos": "Boom-Boom",
+    "aliases": [
+      "Boom-Boom",
+      "Boomer",
+      "Meltdown",
+      "Mutate #35",
+      "Time Bomb",
+      "Nancy Forrester"
+    ],
+    "placeOfBirth": "Roanoke, Virginia",
+    "firstAppearance": "-",
+    "publisher": "Boom-Boom",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, former student, thief",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Nextwave, X-Force, Genoshan Mutates, New Mutants, X-Terminators, X-Factor (trainee), Fallen Angels",
+    "relatives": "Martin Louis Smith (father), Mandy Smith (step-mother), Wanda Jo Bialowsky-Smith (step-mother)"
+  }
+}

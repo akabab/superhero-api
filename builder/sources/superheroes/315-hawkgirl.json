@@ -1,0 +1,47 @@
+{
+  "id": 315,
+  "name": "Hawkgirl",
+  "slug": "315-hawkgirl",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 28,
+    "speed": 53,
+    "durability": 99,
+    "power": 96,
+    "combat": 72
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Kendra Saunders",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Chay-Ara; Sheila Carr; Lady Celia Penbrook",
+      "Kate Manser; Shiera Sanders"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "JSA Secret Files #1 (August 1999)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Film School Student, Temp Curator of the Stonechat Museum",
+    "base": "St. Roch, Louisiana, JLA Watchtower; formerly Manhattan, New York (as a member of the JSA)"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League of America, formerly a member of the JSA, Birds of Prey",
+    "relatives": "Michael Saunders (father, deceased); Trina Saunders (mother, deceased); Cyril \"Speed\" Saunders (grandfather); Mia Saunders (daughter); Shiera Hall (Hawkgirl, great-aunt, deceased); Carter Hall (Hawkman, great-uncle); Hector Hall (Dr. Fate, 2nd cousin); Northwind (cousin through adoption); Hippolyta Hall (Fury, cousin through marriage); Sandman (Daniel Hall, 3rd cousin), Death, Destiny, Destruction, Delirium, Desire (3rd cousins)"
+  }
+}

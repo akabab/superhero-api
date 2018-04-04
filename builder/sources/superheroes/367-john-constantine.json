@@ -1,0 +1,46 @@
+{
+  "id": 367,
+  "name": "John Constantine",
+  "slug": "367-john-constantine",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 8,
+    "durability": 40,
+    "power": 54,
+    "combat": 65
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "John Constantine",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hellblazer"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League Dark, Justice League",
+    "relatives": "Thomas Constantine (father, deceased), Cheryl Constantine (sister, deceased)"
+  }
+}

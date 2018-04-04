@@ -1,0 +1,51 @@
+{
+  "id": 397,
+  "name": "Kyle Rayner",
+  "slug": "397-kyle-rayner",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 90,
+    "speed": 50,
+    "durability": 60,
+    "power": 100,
+    "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Kyle Rayner",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ion",
+      "Kyle Vasquez",
+      "Parallax",
+      "Torch Bearer",
+      "Honor Guard",
+      "The Last Green Lantern"
+    ],
+    "placeOfBirth": "North Hollywood, Los Angeles, California",
+    "firstAppearance": "Green Lantern Vol 3 #48",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Green Lantern, Adventurer, Artist",
+    "base": "Oa,formerly New York City, Los Angeles"
+  },
+  "connections": {
+    "groupAffiliation": "Green Lantern Corps, New Guardians, formerly Challengers From Beyond, Sinestro Corps, Justice League of America, Blue Lantern Corps, Titans",
+    "relatives": "Aaron Rayner (father), Maura Rayner (mother, deceased), Zachary Rayner (uncle, deceased), Roderick \"Snowy\" Rayner (grandfather, deceased), unnamed maternal great-grandfather (deceased), Kathleen (aunt), Cary Wren (descendant)"
+  }
+}

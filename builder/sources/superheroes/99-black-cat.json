@@ -1,0 +1,46 @@
+{
+  "id": 99,
+  "name": "Black Cat",
+  "slug": "99-black-cat",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 16,
+    "speed": 33,
+    "durability": 10,
+    "power": 23,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Felicia Hardy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Felicity Harmon"
+    ],
+    "placeOfBirth": "Queens, New York",
+    "firstAppearance": "Amazing Spider-Man #194 (July, 1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Cat burglar; Private investigator, founder of Cat's Eye Investigations.",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Heroes for Hire",
+    "relatives": "Walter Hardy (father, deceased), Lydia Hardy (mother)"
+  }
+}

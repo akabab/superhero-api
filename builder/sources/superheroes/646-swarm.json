@@ -1,0 +1,46 @@
+{
+  "id": 646,
+  "name": "Swarm",
+  "slug": "646-swarm",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 18,
+    "speed": 50,
+    "durability": 90,
+    "power": 38,
+    "combat": 35
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "104 lb",
+      "47 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Fritz von Meyer",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Champions #14 (July, 1977)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Ph.D. in toxicology & entomology",
+    "base": "Formerly South Africa"
+  },
+  "connections": {
+    "groupAffiliation": "Leader of the All-New Sinister Six; formerly Exterminators, Nazi Party",
+    "relatives": "-"
+  }
+}

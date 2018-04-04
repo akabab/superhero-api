@@ -1,0 +1,47 @@
+{
+  "id": 50,
+  "name": "Atom",
+  "slug": "50-atom",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "150 lb",
+      "68 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Albert Pratt",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Little Superman",
+      "the Mighty Mite"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "All American Comics #19",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Retired Professor of Nuclear Physics",
+    "base": "GBS Building, Gotham City (former) Calvin College on Earth-Two"
+  },
+  "connections": {
+    "groupAffiliation": "formerly Justice Society of America; formerly All-Star Squadron",
+    "relatives": "Mary James (wife, deceased), Grant Albert Emerson (Damage, son), Albert Rothstein (aka Nuklon / Atom-Smasher, godson)"
+  }
+}

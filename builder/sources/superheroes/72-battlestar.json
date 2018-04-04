@@ -1,0 +1,46 @@
+{
+  "id": 72,
+  "name": "Battlestar",
+  "slug": "72-battlestar",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 53,
+    "speed": 35,
+    "durability": 74,
+    "power": 48,
+    "combat": 74
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "295 lb",
+      "133 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Lemar Hoskins",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bucky"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "Captain America #323 (1986); (as Bucky)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former wrestler, federal operative",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Wild Pack, Bold Urban Commandos (Buckies), former partner of U.S.Agent, operative of the Commission on Superhuman Activities",
+    "relatives": "-"
+  }
+}

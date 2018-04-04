@@ -1,0 +1,48 @@
+{
+  "id": 169,
+  "name": "Chamber",
+  "slug": "169-chamber",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 10,
+    "speed": 20,
+    "durability": 80,
+    "power": 57,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "140 lb",
+      "63 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Jonothon Evan Starsmore",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Decibel",
+      "Jono",
+      "Jono Hex"
+    ],
+    "placeOfBirth": "United Kingdom",
+    "firstAppearance": "Generation X #1 (November, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Utopia; formerly New Warriors HQ; Xavier Institute for Higher Learning, Salem Center, Westchester County, New York; Massachusetts Academy, Snow Valley, Massachusetts"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men; formerly New Warriors; Clan Akkaba; Weapon X; Generation X",
+    "relatives": "-"
+  }
+}

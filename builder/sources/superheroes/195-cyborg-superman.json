@@ -1,0 +1,48 @@
+{
+  "id": 195,
+  "name": "Cyborg Superman",
+  "slug": "195-cyborg-superman",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 93,
+    "speed": 92,
+    "durability": 100,
+    "power": 100,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Cyborg",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Henry Henshaw",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Grandmaster of the Manhunters",
+      "Herald of the Anti-Monitor",
+      "Alpha-Prime of the Alpha Lanterns"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Adventures of Superman #466 (May, 1990)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601"
+  },
+  "connections": {
+    "groupAffiliation": "Alpha Lantern Corps, Manhunters, Warworld, formerly Apokolips and Sinestro Corps",
+    "relatives": "Terri Henshaw (wife, deceased)"
+  }
+}

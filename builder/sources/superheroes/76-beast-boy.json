@@ -1,0 +1,52 @@
+{
+  "id": 76,
+  "name": "Beast Boy",
+  "slug": "76-beast-boy",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 28,
+    "speed": 50,
+    "durability": 70,
+    "power": 79,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "150 lb",
+      "68 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Green"
+  },
+  "biography": {
+    "fullName": "Garfield Mark Logan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Changeling",
+      "Beast-Brat",
+      "Green Jeans",
+      "Salad-head",
+      "Sprout",
+      "Tork",
+      "Craig Logan"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Doom Patrol #99 (November, 1965)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Struggling Actor",
+    "base": "Prague; formerly Hollywood, California; formerly Manhattan, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Teen Titans; former member of the original Doom Patrol, Titans West",
+    "relatives": "Mark Logan (father, deceased), Marie Logan (mother, deceased), Steve Dayton/Mento (adoptive father), Rita Farr/Elasti-Girl (adoptive mother), Matt Logan (cousin)"
+  }
+}

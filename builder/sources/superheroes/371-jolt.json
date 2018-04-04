@@ -1,0 +1,47 @@
+{
+  "id": 371,
+  "name": "Jolt",
+  "slug": "371-jolt",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 12,
+    "speed": 27,
+    "durability": 32,
+    "power": 31,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "109 lb",
+      "49 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Helen Takahama",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Holly Tsuruta",
+      "Hallie Shimosato"
+    ],
+    "placeOfBirth": "Ojai, California",
+    "firstAppearance": "Thunderbolts #1 (1997)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Young Allies; formerly Redeemers, Thunderbolts",
+    "relatives": "Robert (father, deceased), Jane (mother, deceased)"
+  }
+}

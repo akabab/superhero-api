@@ -1,0 +1,51 @@
+{
+  "id": 165,
+  "name": "Catwoman",
+  "slug": "165-catwoman",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 11,
+    "speed": 33,
+    "durability": 28,
+    "power": 27,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Selina Kyle",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Cat",
+      "Irena Dubrovna",
+      "Elva Barr",
+      "Sadie Kelowski",
+      "Madame Moderne",
+      "Marguerite Tone"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "Detective Comics #569",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Thief",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Outsiders; formerly Birds of Prey, Injustice League, Secret Society of Super-Villains",
+    "relatives": "Brian Kyle (father, deceased), Maria Kyle (mother, deceased), Maggie Kyle (sister), Helena Kyle (daughter)"
+  }
+}

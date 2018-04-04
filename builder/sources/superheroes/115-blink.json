@@ -1,0 +1,46 @@
+{
+  "id": 115,
+  "name": "Blink",
+  "slug": "115-blink",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 8,
+    "speed": 20,
+    "durability": 28,
+    "power": 77,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Magenta"
+  },
+  "biography": {
+    "fullName": "Clarice Ferguson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Bahamas",
+    "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, freedom fighter",
+    "base": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Black Rome, Necrosha"
+  },
+  "connections": {
+    "groupAffiliation": "New Mutants; formerly X-Men, Selene's Inner Circle",
+    "relatives": "Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 581,
+  "name": "Scorpion",
+  "slug": "581-scorpion",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 52,
+    "speed": 60,
+    "durability": 85,
+    "power": 49,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'11",
+      "211 cm"
+    ],
+    "weight": [
+      "689 lb",
+      "310 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "MacDonald Gargan",
+    "alterEgos": "Venom III",
+    "aliases": [
+      "Venom",
+      "Spider-Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #19 (1964)",
+    "publisher": "Venom III",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "U.S. government agent; former professional criminal, assassin, private detective",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Avengers (Osborn's team); formerly Thunderbolts, Masters of Evil, \"Spider-Man Revenge League\"; Sinister Twelve; formerly partners with Mister Hyde and Delilah",
+    "relatives": "-"
+  }
+}

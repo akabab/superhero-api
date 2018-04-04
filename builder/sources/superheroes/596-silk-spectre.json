@@ -1,0 +1,46 @@
+{
+  "id": 596,
+  "name": "Silk Spectre",
+  "slug": "596-silk-spectre",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Sally Juspeczyk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sally Jupiter"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Watchmen, Minutemen",
+    "relatives": "Silk Spectre II (daughter)"
+  }
+}

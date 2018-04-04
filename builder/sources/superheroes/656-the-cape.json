@@ -1,0 +1,46 @@
+{
+  "id": 656,
+  "name": "The Cape",
+  "slug": "656-the-cape",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 23,
+    "durability": 32,
+    "power": 22,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Vince Faraday",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cape"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Cape S01E01 (2011)",
+    "publisher": null,
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Trip Faraday (son), Dana Thompson-Faraday (wife)"
+  }
+}

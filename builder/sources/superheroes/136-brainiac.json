@@ -1,0 +1,46 @@
+{
+  "id": 136,
+  "name": "Brainiac",
+  "slug": "136-brainiac",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 95,
+    "speed": 63,
+    "durability": 90,
+    "power": 60,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Vril Dox",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Milton Fine"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Action Comics #242 (July 1958)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Lex Luthor",
+    "relatives": "Vril Dox II (son), Brainiac 5 (descendant)"
+  }
+}

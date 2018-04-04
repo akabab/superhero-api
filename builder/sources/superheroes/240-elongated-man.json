@@ -1,0 +1,46 @@
+{
+  "id": 240,
+  "name": "Elongated Man",
+  "slug": "240-elongated-man",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 10,
+    "speed": 33,
+    "durability": 90,
+    "power": 44,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "178 lb",
+      "80 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Ralph Dibny",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Alvin Burgson; Molder"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #112 (1960)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Detective",
+    "base": "Opal City, Central City"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League of America, Justice League Europe, Super Buddies, Outsiders, Croatoans, Black Lantern Corps",
+    "relatives": "Sue Dibny (wife, deceased); Ken Dibny (brother); Jake Dibny (uncle); Jim (uncle-in-law)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 471,
+  "name": "Moonstone",
+  "slug": "471-moonstone",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 67,
+    "speed": 47,
+    "durability": 52,
+    "power": 74,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Karla Sofen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Meteorite",
+      " Kate Sorenson"
+    ],
+    "placeOfBirth": "Van Nuys, California",
+    "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "former Adventurer, Psychiatrist",
+    "base": "formerly Mount Charteris; Four Freedoms Plaza"
+  },
+  "connections": {
+    "groupAffiliation": "Dark Avengers, Formerly; Thunderbolts, Femizons, Masters of Evil, Doctor Faustus, the Corporation, former partner of Blackout (Marcus Daniels)",
+    "relatives": "Karl August Sofen (father), Marion Sofen (mother), unnamed maternal grandparents (only mentioned )"
+  }
+}

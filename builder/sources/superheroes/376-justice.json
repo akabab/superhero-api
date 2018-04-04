@@ -1,0 +1,50 @@
+{
+  "id": 376,
+  "name": "Justice",
+  "slug": "376-justice",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 10,
+    "speed": 33,
+    "durability": 70,
+    "power": 55,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Hazel",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Vance Astrovik",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Marvel Boy",
+      "Manglin' John Mahoney",
+      "Astounding Astrovik",
+      "Superhuman Penitentiary Prisoner 344678",
+      "\"Super Tights\""
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Giant-Size Defenders #5 (July, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Mobile, formerly New Warriors and Avengers Headquarters, Camp Hammond"
+  },
+  "connections": {
+    "groupAffiliation": "New Warriors; formerly Avengers Academy, Initiative, partner of Firestar, Avengers, Triune Understanding, Unlimited Class Wrestling Federation, Taskmaster's Circus, Secret Avengers (Civil War)",
+    "relatives": "Jerzy Astroyevicht (aka Jerry Astrovik; paternal grandfather); Katerina Astroyevicht (aka Katerina Astrovik; paternal grandmother); Arnold Astrovik (father, deceased); Norma Astrovik (mother);"
+  }
+}

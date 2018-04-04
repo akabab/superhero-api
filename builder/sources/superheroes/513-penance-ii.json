@@ -1,0 +1,47 @@
+{
+  "id": 513,
+  "name": "Penance II",
+  "slug": "513-penance-ii",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 20,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'",
+      "183 cm"
+    ],
+    "weight": [
+      "197 lb",
+      "89 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Robert Baldwin",
+    "alterEgos": "Speedball",
+    "aliases": [
+      "Formerly Speedball",
+      "Masked Marvel"
+    ],
+    "placeOfBirth": "Springdale, Connecticut",
+    "firstAppearance": "(as Speedball) Amazing Spider-Man Annual #22 (1988); (as Penance) Civil War: Front Line #10 (2007)",
+    "publisher": "Speedball",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Government operative; former adventurer, reality TV star, student, television show intern, engineering intern, lab worker",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Thunderbolts; formerly New Warriors",
+    "relatives": "Justin Baldwin (father), Madeline Naylor (mother)"
+  }
+}

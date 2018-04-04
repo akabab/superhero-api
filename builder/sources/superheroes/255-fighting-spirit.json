@@ -1,0 +1,47 @@
+{
+  "id": 255,
+  "name": "Fighting Spirit",
+  "slug": "255-fighting-spirit",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Carol Carter",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Yankette",
+      "Fighting Yank II"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "SMASH HQ, Antarctica, Earth; New Lancaster"
+  },
+  "connections": {
+    "groupAffiliation": "Fighting Yank I, SMASH",
+    "relatives": "Bruce Carter (father)"
+  }
+}

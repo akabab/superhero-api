@@ -1,0 +1,46 @@
+{
+  "id": 61,
+  "name": "Banshee",
+  "slug": "61-banshee",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 10,
+    "speed": 58,
+    "durability": 40,
+    "power": 63,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Strawberry Blond"
+  },
+  "biography": {
+    "fullName": "Sean Cassidy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Death"
+    ],
+    "placeOfBirth": "Cassidy Keep, Ireland",
+    "firstAppearance": "X-Men #28 (January, 1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor",
+    "base": "Muir Island, off the coast of Scotland. formerly Massachusetts Academy; Xavier Institute"
+  },
+  "connections": {
+    "groupAffiliation": "Currently X-Corps, formerly Generation X, Factor Three, X-Men",
+    "relatives": "Maeve Rourke Cassidy (wife, deceased), Thomas (Black Tom, cousin), Theresa Rourke (Siryn, daughter)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 257,
+  "name": "Firebird",
+  "slug": "257-firebird",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 8,
+    "speed": 40,
+    "durability": 14,
+    "power": 100,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'5'",
+      "165 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Bonita Juarez",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pajaro Del Fuego",
+      "La Espirita",
+      "Firemaiden"
+    ],
+    "placeOfBirth": "Buena Vista, New Mexico",
+    "firstAppearance": "INCREDIBLE HULK Vol. 2 #265",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Social worker, adventurer",
+    "base": "New Mexico"
+  },
+  "connections": {
+    "groupAffiliation": "Catholic Church; formerly the Rangers, provisional member of the Avengers West Coast, Queen's Vengeance",
+    "relatives": "-"
+  }
+}

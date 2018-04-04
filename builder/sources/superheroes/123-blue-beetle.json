@@ -1,0 +1,46 @@
+{
+  "id": 123,
+  "name": "Blue Beetle",
+  "slug": "123-blue-beetle",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Daniel Garrett",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Daniel Garret (spelling variation)"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Mystery Men Comics #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Archaeologist; professor of archaeology",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Danielle Garrett (granddaughter)"
+  }
+}

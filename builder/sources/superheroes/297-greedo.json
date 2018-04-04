@@ -1,0 +1,46 @@
+{
+  "id": 297,
+  "name": "Greedo",
+  "slug": "297-greedo",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 13,
+    "durability": 15,
+    "power": 31,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Rodian",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Purple",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Greedo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Rodia",
+    "firstAppearance": "-",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Bounty Hunter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

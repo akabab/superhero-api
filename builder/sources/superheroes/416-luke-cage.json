@@ -1,0 +1,50 @@
+{
+  "id": 416,
+  "name": "Luke Cage",
+  "slug": "416-luke-cage",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 63,
+    "speed": 29,
+    "durability": 95,
+    "power": 44,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "425 lb",
+      "191 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Luke Cage",
+    "alterEgos": "Power Man",
+    "aliases": [
+      "Carl Lucas",
+      "Power Man",
+      "Mark Lucas",
+      "Hero for Hire",
+      "Ace of Spades"
+    ],
+    "placeOfBirth": "Harlem, New York City",
+    "firstAppearance": "Hero for Hire #1 (1972)",
+    "publisher": "Power Man",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, bar owner, bodyguard, mercenary; formerly theater owner, private investigator, various odd jobs",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Underground Avengers (formerly Daredevil's Unnamed Super-Hero Team), Secret Defenders, Heroes for Hire, Nightwing Restorations, Fantastic Four, Defenders, Bloods",
+    "relatives": "Jessica Jones (wife), James Leonard Lucas (father), Esther (mother, deceased), James Jr. (Coldfire, brother), unnamed daughter"
+  }
+}

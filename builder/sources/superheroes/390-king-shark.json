@@ -1,0 +1,46 @@
+{
+  "id": 390,
+  "name": "King Shark",
+  "slug": "390-king-shark",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 88,
+    "speed": 50,
+    "durability": 90,
+    "power": 86,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Animal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Nanaue",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superboy Vol 4 #0",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Professional Criminal",
+    "base": "Honolulu, Hawaii"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

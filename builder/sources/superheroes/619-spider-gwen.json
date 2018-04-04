@@ -1,0 +1,46 @@
+{
+  "id": 619,
+  "name": "Spider-Gwen",
+  "slug": "619-spider-gwen",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 55,
+    "speed": 63,
+    "durability": 70,
+    "power": 66,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Gwen Stacy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Woman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Edge of Spider-Verse #2",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Warriors of the Great Web; formerly Mary Janes, Spider-Army",
+    "relatives": "George Stacy (father), Helen Stacy (mother, deceased)"
+  }
+}

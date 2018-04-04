@@ -1,0 +1,46 @@
+{
+  "id": 96,
+  "name": "Black Bolt",
+  "slug": "96-black-bolt",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 67,
+    "speed": 100,
+    "durability": 84,
+    "power": 100,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Inhuman",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "210 lb",
+      "95 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Blackagar Boltagon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Attilan, Atlantic Ocean",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "King of the Inhumans",
+    "base": "Attilan, Blue Area of the Moon"
+  },
+  "connections": {
+    "groupAffiliation": "Universal Inhumans; Inhuman Royal Family; formerly Illuminati",
+    "relatives": "Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
+  }
+}

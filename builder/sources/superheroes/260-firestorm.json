@@ -1,0 +1,46 @@
+{
+  "id": 260,
+  "name": "Firestorm",
+  "slug": "260-firestorm",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 53,
+    "speed": 58,
+    "durability": 56,
+    "power": 100,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Jason Rusch",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Nuclear Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Firestorm (Volume 3) #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "University student; former food server at Bryson's Family Treat; former mascot at Ho-Ho Charlie's Chicken Shack; former intern at S.T.A.R. Labs",
+    "base": "Detroit, Michigan"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League of America, formerly Lexcorp",
+    "relatives": "Alvin Rusch (father)"
+  }
+}

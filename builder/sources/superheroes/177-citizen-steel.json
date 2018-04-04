@@ -1,0 +1,48 @@
+{
+  "id": 177,
+  "name": "Citizen Steel",
+  "slug": "177-citizen-steel",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 95,
+    "speed": 33,
+    "durability": 100,
+    "power": 23,
+    "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "378 lb",
+      "170 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Nathan Heywood",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Buckeye",
+      "Uncle Nate",
+      "Uncle Nathan"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, former Professional Football Player",
+    "base": "Battery Park, New York City, formerly Franklin County, Ohio"
+  },
+  "connections": {
+    "groupAffiliation": "Justice Society of America",
+    "relatives": "Hank Heywood, Sr. (Commander Steel, grandfather, deceased) ? Hank Heywood, Jr. (uncle, deceased) ? Hank Heywood III (Steel, cousin, deceased) ? Kirk Heywood (brother, deceased), Nicole (cousin)"
+  }
+}

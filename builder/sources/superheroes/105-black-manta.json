@@ -1,0 +1,48 @@
+{
+  "id": 105,
+  "name": "Black Manta",
+  "slug": "105-black-manta",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 28,
+    "speed": 50,
+    "durability": 60,
+    "power": 76,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "205 lb",
+      "92 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "David",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Devil Ray",
+      "Scourge of the Seven Seas",
+      "Yellow Lantern"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Aquaman #35 (August, 1967)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 715,
+  "name": "Wiz Kid",
+  "slug": "715-wiz-kid",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "4'7'",
+      "140 cm"
+    ],
+    "weight": [
+      "87 lb",
+      "39 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Takashi Matsuya",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "X-TERMINATORS # 1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Student",
+    "base": "Saint Simons Academy, New Hampshire"
+  },
+  "connections": {
+    "groupAffiliation": "X-Terminators",
+    "relatives": "Unnamed parents deceased"
+  }
+}

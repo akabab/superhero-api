@@ -1,0 +1,46 @@
+{
+  "id": 510,
+  "name": "Paul Blart",
+  "slug": "510-paul-blart",
+  "powerstats": {
+    "intelligence": 8,
+    "strength": 11,
+    "speed": 21,
+    "durability": 50,
+    "power": 7,
+    "combat": 5
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "260 lb",
+      "117 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Paul Blart",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mall Cop"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Sony Pictures",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

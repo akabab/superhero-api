@@ -1,0 +1,46 @@
+{
+  "id": 495,
+  "name": "Northstar",
+  "slug": "495-northstar",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 18,
+    "speed": 83,
+    "durability": 56,
+    "power": 65,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "185 lb",
+      "83 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Jean-Paul Beaubier",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jean-Paul Martin"
+    ],
+    "placeOfBirth": "Montreal, Qu?bec, Canada",
+    "firstAppearance": "X-Men #120 (1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former terrorist, adventurer, teacher, businessman, novelist, professional skier, trapeze artist, thief",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "None, formerly Hydra, Xavier Institute Faculty/Alpha Squadron (teacher/advisor), X-Men, Alpha Flight, Front de Lib?ration du Qu?bec/Cell Combattre",
+    "relatives": "Jean-Baptiste Beaubier (father, deceased), unnamed mother (deceased), Louis Martin (adoptive father, deceased), unnamed adoptive mother (deceased), Jeanne-Marie Beaubier (Aurora, sister), Joanne Beaubier (adopted daughter, deceased)"
+  }
+}

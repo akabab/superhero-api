@@ -1,0 +1,56 @@
+{
+  "id": 325,
+  "name": "Hercules",
+  "slug": "325-hercules",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 100,
+    "speed": 46,
+    "durability": 85,
+    "power": 89,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Demi-God",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "325 lb",
+      "146 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Heracles",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Herc",
+      "The Lion of Olympus",
+      "The Defender of Olympus",
+      "The Scion of Olympus",
+      "Prince of Power",
+      "Alcaeus",
+      "Herakles",
+      "Herc",
+      "Harry Cleese",
+      "Victor Tegler",
+      "Agent 74"
+    ],
+    "placeOfBirth": "Thebes, Greece",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Olympian God of Strength and Labor, later Olympian God of Heroes",
+    "base": "Brooklyn; formerly Infinite Avengers Mansion, Mount Olympus, Avengers Mansion, Hydrobase"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly God Squad, Council of Godheads, Olympia Corp., Mighty Avengers, Renegades, Secret Avengers, Avengers, Champions of Los Angeles, Defenders, Heroes for Hire, Damage Control, Olympian Gods, Argonauts, Defenders for a Day",
+    "relatives": "-"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 529,
+  "name": "Psylocke",
+  "slug": "529-psylocke",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 33,
+    "speed": 25,
+    "durability": 40,
+    "power": 100,
+    "combat": 90
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "155 lb",
+      "70 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Purple"
+  },
+  "biography": {
+    "fullName": "Elizabeth Braddock",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Betsy",
+      "Captain Britain",
+      "Lady Mandarin"
+    ],
+    "placeOfBirth": "Braddock Manor, England",
+    "firstAppearance": "Captain Britain #8 (December, 1976) / New Mutants Annual #2 (October, 1986) (US)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, formerly a STRIKE operative, fashion model",
+    "base": "Xavier Institute, Salem Center, Westchester County, New York formerly Braddock Manor, United Kingdom; Australian Outback"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, formerly agent of S.T.R.I.K.E., ally of R.C.X., partner of Captain U.K.",
+    "relatives": "John Braddock (ancestor, possibly grandfather); Sir James Braddock (father, deceased); Lady Elizabeth Braddock (mother, deceased); Brian Braddock (Captain Britain) (twin brother); Jamie Braddock (brother, deceased); Meggan Braddock (sister-in-law);"
+  }
+}

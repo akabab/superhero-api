@@ -1,0 +1,46 @@
+{
+  "id": 342,
+  "name": "Indigo",
+  "slug": "342-indigo",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 63,
+    "speed": 50,
+    "durability": 50,
+    "power": 100,
+    "combat": 50
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Alien",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Purple"
+  },
+  "biography": {
+    "fullName": "Iroque",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Indigo-1"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
+  "work": {
+    "occupation": "Leader of the Indigo Tribe",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Indigo Tribe; formerly the New Guardians",
+    "relatives": "-"
+  }
+}

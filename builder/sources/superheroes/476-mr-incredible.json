@@ -1,0 +1,48 @@
+{
+  "id": 476,
+  "name": "Mr Incredible",
+  "slug": "476-mr-incredible",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 83,
+    "speed": 33,
+    "durability": 95,
+    "power": 29,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "350 lb",
+      "158 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Robert Parr",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mr. I",
+      "The Hero's Hero",
+      "Bob Parr"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Incredible Family",
+    "relatives": "Helen Parr (Elastigirl, wife), Violet Parr(Violet, daughter), Dashiell Parr (Dash, son), Jack-jack (son)"
+  }
+}

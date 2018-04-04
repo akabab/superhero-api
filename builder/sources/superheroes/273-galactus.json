@@ -1,0 +1,49 @@
+{
+  "id": 273,
+  "name": "Galactus",
+  "slug": "273-galactus",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 83,
+    "durability": 100,
+    "power": 100,
+    "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Cosmic Entity",
+    "height": [
+      "28'9",
+      "876 cm"
+    ],
+    "weight": [
+      "36400 lb",
+      "16 tons"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Galan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Maker",
+      "Devourer of Worlds",
+      "Eater-of-Worlds",
+      "Ravager of Worlds"
+    ],
+    "placeOfBirth": "(Galan) Taa; (Galactus) the Cosmic Egg",
+    "firstAppearance": "Fantastic Four #48 (March 1966)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "work": {
+    "occupation": "Planet Devourer, Third Force of the Universe - balance between Eternity and Death, Nullifying Abraxas' Influence on the Multiverse, Third Face of the Living Tribunal - representing Equity",
+    "base": "Worldship (aka Taa II); though he is generally mobile throughout the universe via his spherical starship in search of suitable planets to consume."
+  },
+  "connections": {
+    "groupAffiliation": "Heralds of Galactus; formerly God Squad",
+    "relatives": "Galan (\"father\"), Galacta (daughter)"
+  }
+}

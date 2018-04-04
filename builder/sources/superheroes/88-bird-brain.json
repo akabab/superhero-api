@@ -1,0 +1,46 @@
+{
+  "id": 88,
+  "name": "Bird-Brain",
+  "slug": "88-bird-brain",
+  "powerstats": {
+    "intelligence": 25,
+    "strength": 10,
+    "speed": 35,
+    "durability": 28,
+    "power": 21,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bird-Boy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The New Mutants #56 (October, 1987)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "New Mutants, Ani-Mate",
+    "relatives": "-"
+  }
+}

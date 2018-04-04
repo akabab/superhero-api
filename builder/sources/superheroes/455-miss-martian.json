@@ -1,0 +1,47 @@
+{
+  "id": 455,
+  "name": "Miss Martian",
+  "slug": "455-miss-martian",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 85,
+    "speed": 58,
+    "durability": 100,
+    "power": 100,
+    "combat": 45
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "M'gann M'orzz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Megan Morse; M'Gann M'Orzz (alternate spelling); Martian Girlhunter; Martian Manhunter (Titans Tomorrow alias)",
+      "Star-Spangled Kid"
+    ],
+    "placeOfBirth": "Mars",
+    "firstAppearance": "Teen Titans Vol 3 #37 (August, 2006)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer",
+    "base": "Arizona; San Francisco, California; formerly the Tanami Desert, Australia"
+  },
+  "connections": {
+    "groupAffiliation": "Teen Titans",
+    "relatives": "-"
+  }
+}

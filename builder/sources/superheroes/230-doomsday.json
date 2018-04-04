@@ -1,0 +1,46 @@
+{
+  "id": 230,
+  "name": "Doomsday",
+  "slug": "230-doomsday",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 100,
+    "speed": 67,
+    "durability": 100,
+    "power": 100,
+    "combat": 90
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Alien",
+    "height": [
+      "8'0",
+      "244 cm"
+    ],
+    "weight": [
+      "915 lb",
+      "412 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Doomsday",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Ultimate Lifeform"
+    ],
+    "placeOfBirth": "Krypton",
+    "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Destroyer",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Secret Society of Super Villains, Suicide Squad, Apokolips",
+    "relatives": "-"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 562,
+  "name": "Robin II",
+  "slug": "562-robin-ii",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 11,
+    "speed": 27,
+    "durability": 28,
+    "power": 28,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Jason Todd",
+    "alterEgos": "Red Hood",
+    "aliases": [
+      "Red Hood",
+      "Red Robin",
+      "Batman",
+      "Nightwing",
+      "Wingman",
+      "Jaybird",
+      "Arkham Knight"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Detective Comics #524",
+    "publisher": "Red Hood",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Teen Titans, Challengers from Beyond",
+    "relatives": "Willis Todd (father), Sheila Haywood (mother), Catherine Todd (step-mother), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Timothy Drake (Robin III, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
+  }
+}

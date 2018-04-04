@@ -1,0 +1,47 @@
+{
+  "id": 340,
+  "name": "Impulse",
+  "slug": "340-impulse",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 10,
+    "speed": 100,
+    "durability": 60,
+    "power": 74,
+    "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "145 lb",
+      "65 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Auburn"
+  },
+  "biography": {
+    "fullName": "Bartholomew Allen II",
+    "alterEgos": "Flash IV, Kid Flash II",
+    "aliases": [
+      "Flash IV",
+      "Kid Flash II"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
+    "publisher": "Flash IV",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Student",
+    "base": "San Francisco, formerly Los Angeles, Keystone City, Manchester, Alabama"
+  },
+  "connections": {
+    "groupAffiliation": "Flash Family, Teen Titans, formerly Legion of Super-Heroes, Young Justice",
+    "relatives": "Don Allen (father), Meloni Thawne (mother), Barry Allen (grandfather), Iris West-Allen (grandmother), President Thawne (grandfather), Captain Boomerang (Owen Mercer) (half-brother), Allen Family"
+  }
+}

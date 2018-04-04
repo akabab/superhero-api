@@ -1,0 +1,47 @@
+{
+  "id": 499,
+  "name": "Offspring",
+  "slug": "499-offspring",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 10,
+    "speed": 35,
+    "durability": 99,
+    "power": 100,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Luke O'Brian",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ernie McDunnagh",
+      "Plastic Lad"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

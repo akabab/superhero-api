@@ -1,0 +1,52 @@
+{
+  "id": 106,
+  "name": "Black Panther",
+  "slug": "106-black-panther",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 16,
+    "speed": 30,
+    "durability": 60,
+    "power": 41,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "T'Challa",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mr. Okonkwo",
+      "The Man Without Fear",
+      "Luke Charles",
+      "Black Leopard",
+      "the Client",
+      "Coal Tiger",
+      "has impersonated Daredevil and others on occasion"
+    ],
+    "placeOfBirth": "Wakanda, Africa",
+    "firstAppearance": "Fantastic Four Vol. 1 #52 (1966)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "King and Chieftain of Wakanda, scientist; former school teacher",
+    "base": "Wakanda, Mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Fantastic Four, Secret Avengers, Avengers, Pendragons, Queen's Vengeance, former Fantastic Force financier",
+    "relatives": "Bashenga (paternal ancestor, deceased), Azzuri the Wise (paternal grandfather, deceased), Nanali (paternal grandmother, deceased), Chanda (paternal grandfather, presumably deceased), T?Chaka (father, deceased), S'Yan (uncle, deceased), N?Yami (mother, deceased), Ramonda (stepmother), Hunter (adopted brother), Jakarra (half-brother), Shuri (sister), Ororo Munroe (wife), Joshua Itobo, Ishanta, Zuni, M'Koni, T'Shan (cousins), Wheeler (cousin by marriage, deceased), Billy Wheeler (1st cousin once removed)"
+  }
+}

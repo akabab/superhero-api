@@ -1,0 +1,47 @@
+{
+  "id": 326,
+  "name": "Hiro Nakamura",
+  "slug": "326-hiro-nakamura",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 15,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Hiro Nakamura",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jotaro Kujo",
+      "Takezo Kensei"
+    ],
+    "placeOfBirth": "Tokyo, Japan",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Office worker",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Kaito Nakamura (deceased), Ishi Nakamura (deceased), Kimiko Nakamura (older sister)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 335,
+  "name": "Husk",
+  "slug": "335-husk",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 63,
+    "speed": 35,
+    "durability": 78,
+    "power": 48,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "128 lb",
+      "58 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Paige Elisabeth Guthrie",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hayseed"
+    ],
+    "placeOfBirth": "Cumberland, Kentucky",
+    "firstAppearance": "Rom Annual #3 (November, 1984)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer; formerly student, activist",
+    "base": "Base of operations unknown; formerly Xavier Institute, Salem Center, Westchester County, New York"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, X-Corp, Generation X",
+    "relatives": "Thomas Zebulon Guthrie (father,deceased),Lucinda Guthrie (mother),Samuel Zachery Guthrie (brother,Cannonball),Joshua 'Jay' Guthrie (brother,Icarus),Joella Guthrie (sister),Elizabeth Guthrie (sister),Melody Guthrie (sister),Jeb Guthrie (brother),Lewis Guth"
+  }
+}

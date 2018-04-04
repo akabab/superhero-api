@@ -1,0 +1,49 @@
+{
+  "id": 586,
+  "name": "Shadowcat",
+  "slug": "586-shadowcat",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 8,
+    "speed": 21,
+    "durability": 25,
+    "power": 69,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Hazel",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Kitty Pryde",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kitty Pryde",
+      "Ariel",
+      "Sprite",
+      "Cat"
+    ],
+    "placeOfBirth": "Deerfield, Illinois",
+    "firstAppearance": "X-Men #129 (January, 1980)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Teacher, Adventurer, former student",
+    "base": "Xavier Insitute for Higher Learning, Salem Center, New York, formerly Muir Island off the coast of Scotland, formerly Excalibur's Lighthouse, formerly Braddock Manor, England"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men (New Charles Xavier School member), X-Men (Past) (tutor); formerly X-Men, Murder Circus (brainwashed), Lights (liaison), Paladins Squad, S.H.I.E.L.D., Gladiators, Excalibur (founding member), New Mutants, Knights of Wundagore",
+    "relatives": "Kate (maternal great-grandmother), Samuel Prydeman (paternal grandfather, deceased), Chava Rosanoff (paternal great-aunt, deceased), Mr. Rosanoff (paternal great-uncle, apparently deceased), Nina (aunt), Carmen Pryde (father, deceased), Theresa Pryde (mother), Kenny (cousin)"
+  }
+}

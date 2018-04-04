@@ -1,0 +1,46 @@
+{
+  "id": 587,
+  "name": "Shang-Chi",
+  "slug": "587-shang-chi",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 12,
+    "speed": 30,
+    "durability": 50,
+    "power": 29,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Shang-Chi",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Special Marvel Edition #15 (December, 1973)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "MI-5, MI-6, \"Marvel Knights\", Heroes For Hire, Freelance Restorations, Si-Fan, Secret Avengers",
+    "relatives": "Fu Manchu, father; unnamed mother; Fah Lo Suee, (half-sister); Whispering Shadow (half-brother, deceased)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 436,
+  "name": "Match",
+  "slug": "436-match",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 95,
+    "speed": 83,
+    "durability": 85,
+    "power": 100,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Kent Connor",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Superboy",
+      "Superman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Titans East, the Agenda, Project Cadmus",
+    "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
+  }
+}

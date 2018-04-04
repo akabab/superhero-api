@@ -1,0 +1,46 @@
+{
+  "id": 320,
+  "name": "Heat Wave",
+  "slug": "320-heat-wave",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 17,
+    "durability": 45,
+    "power": 27,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "179 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Mick Rory",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rory Calhoun"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #140 (November, 1963)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Professional Criminal",
+    "base": "Central City"
+  },
+  "connections": {
+    "groupAffiliation": "Rogues; formerly Secret Society of Super-Villains, Legion of Doom",
+    "relatives": "-"
+  }
+}

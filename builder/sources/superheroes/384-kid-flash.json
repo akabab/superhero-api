@@ -1,0 +1,46 @@
+{
+  "id": 384,
+  "name": "Kid Flash",
+  "slug": "384-kid-flash",
+  "powerstats": {
+    "intelligence": 25,
+    "strength": 4,
+    "speed": 92,
+    "durability": 42,
+    "power": 20,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Wallace Rudolph West",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kid Lantern"
+    ],
+    "placeOfBirth": "Blue Valley, Nebraska",
+    "firstAppearance": "Flash #110 (January, 1960)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Flash Family, Teen Titans, New Teen Titans",
+    "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (uncle), Linda Park West (wife), Jai and Iris West (twin children)"
+  }
+}

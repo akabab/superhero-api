@@ -1,0 +1,49 @@
+{
+  "id": 294,
+  "name": "Gorilla Grodd",
+  "slug": "294-gorilla-grodd",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 53,
+    "speed": 33,
+    "durability": 70,
+    "power": 100,
+    "combat": 65
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Gorilla",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "600 lb",
+      "270 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Grodd",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "William Dawson",
+      "King Grodd",
+      "Gorilla Grodd",
+      "Grodd-Son"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #106 (May, 1959)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Gorilla City, Africa"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Boka (wife, separated), Gorbzil Mammit (son), Sam Simeon (grandson)"
+  }
+}

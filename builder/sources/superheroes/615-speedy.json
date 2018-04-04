@@ -1,0 +1,48 @@
+{
+  "id": 615,
+  "name": "Speedy",
+  "slug": "615-speedy",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 6,
+    "speed": 33,
+    "durability": 20,
+    "power": 26,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Thea Queen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Thea Merlyn",
+      "Mia",
+      "Red Arrow"
+    ],
+    "placeOfBirth": "Starling City",
+    "firstAppearance": "Arrow (TV Series) - \"Pilot\"",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Nightclub Owner",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Team Arrow",
+    "relatives": "Moira Queen (mother, deceased), Robert Queen (foster father, deceased), Walter Steele (step-father, formerly), Malcolm Merlyn (biological father), Oliver Queen (Green Arrow, half-brother), Tommy Merlyn (half-brother, deceased), William Clayton (nephew)"
+  }
+}

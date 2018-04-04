@@ -1,0 +1,50 @@
+{
+  "id": 329,
+  "name": "Hollow",
+  "slug": "329-hollow",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Monet St. Croix",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Penace",
+      "M",
+      "Monet St. Croix",
+      "Penny",
+      "Yvette"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Generation X #1 (1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Massachusetts Academy; Phil Urich's aprtment"
+  },
+  "connections": {
+    "groupAffiliation": "Generation X, The Loners",
+    "relatives": "M, Emplate, St. Croix Twins"
+  }
+}

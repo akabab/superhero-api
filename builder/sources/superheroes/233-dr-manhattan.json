@@ -1,0 +1,47 @@
+{
+  "id": 233,
+  "name": "Dr Manhattan",
+  "slug": "233-dr-manhattan",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 100,
+    "speed": 42,
+    "durability": 100,
+    "power": 100,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Cosmic",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Jonathan Osterman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jon Osterman",
+      "Doctor Manhattan"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Watchmen #1 (September, 1986)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Scientist",
+    "base": "New York City; formerly Mars"
+  },
+  "connections": {
+    "groupAffiliation": "Watchmen, Crimebusters",
+    "relatives": "-"
+  }
+}

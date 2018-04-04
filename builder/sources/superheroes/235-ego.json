@@ -1,0 +1,46 @@
+{
+  "id": 235,
+  "name": "Ego",
+  "slug": "235-ego",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 80,
+    "speed": 83,
+    "durability": 99,
+    "power": 71,
+    "combat": 28
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Ego",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Living Planet"
+    ],
+    "placeOfBirth": "The Black Galaxy",
+    "firstAppearance": "THOR #132",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Inapplicable",
+    "base": "Mobile"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Inapplicable"
+  }
+}

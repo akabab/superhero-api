@@ -1,0 +1,46 @@
+{
+  "id": 535,
+  "name": "Question",
+  "slug": "535-question",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 14,
+    "speed": 27,
+    "durability": 35,
+    "power": 20,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "185 lb",
+      "83 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Charles Victor Szasz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Vic Sage"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former Television Investigative Journalist",
+    "base": "Hub City; Chicago, Gotham City, Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly L.A.W., JLA, Black Lantern Corps",
+    "relatives": "-"
+  }
+}

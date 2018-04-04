@@ -1,0 +1,46 @@
+{
+  "id": 163,
+  "name": "Cat",
+  "slug": "163-cat",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 90,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Shirlee Bryant",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "The Cat #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Model",
+    "base": "Chicago, Illinois"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

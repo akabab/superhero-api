@@ -1,0 +1,46 @@
+{
+  "id": 508,
+  "name": "Ozymandias",
+  "slug": "508-ozymandias",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 18,
+    "speed": 33,
+    "durability": 20,
+    "power": 49,
+    "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Adrian Veidt",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The World's Smartest Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Watchmen #1",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly The Crimebusters",
+    "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
+  }
+}

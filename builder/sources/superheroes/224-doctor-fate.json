@@ -1,0 +1,46 @@
+{
+  "id": 224,
+  "name": "Doctor Fate",
+  "slug": "224-doctor-fate",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 16,
+    "speed": 25,
+    "durability": 80,
+    "power": 100,
+    "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "197 lb",
+      "89 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Kent Nelson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nabu"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "More Fun Comics #55 (May, 1940)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Tower of Fate, Salem, Massachusetts"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly All-Star Squadron, Justice Society of America, Justice League International, Black Lantern Corps",
+    "relatives": "Inza Cramer (wife), Sven Nelson (father, deceased), Celestine Babcock (mother), Kent Nelson, Jr. (son), Aaron Babcock (uncle), Kent V. Nelson (grand-nephew), Laryn Nelson (great grand-niece)"
+  }
+}

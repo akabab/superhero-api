@@ -1,0 +1,47 @@
+{
+  "id": 628,
+  "name": "Spyke",
+  "slug": "628-spyke",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 12,
+    "speed": 17,
+    "durability": 60,
+    "power": 48,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "185 lb",
+      "83 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Evan Daniels",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Porcupine",
+      "Armadillo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Morlocks; Formerly: X-Men",
+    "relatives": "Mr. Daniels (father), Vivian Munroe-Daniels (mother), Storm (maternal aunt)"
+  }
+}

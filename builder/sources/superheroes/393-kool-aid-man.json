@@ -1,0 +1,46 @@
+{
+  "id": 393,
+  "name": "Kool-Aid Man",
+  "slug": "393-kool-aid-man",
+  "powerstats": {
+    "intelligence": 25,
+    "strength": 18,
+    "speed": 8,
+    "durability": 10,
+    "power": 9,
+    "combat": 14
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pitcher Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "As Pitcher-Man in 1954",
+    "publisher": null,
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

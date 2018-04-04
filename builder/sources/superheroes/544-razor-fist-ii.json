@@ -1,0 +1,46 @@
+{
+  "id": 544,
+  "name": "Razor-Fist II",
+  "slug": "544-razor-fist-ii",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "260 lb",
+      "117 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Douglas Scott",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Razorfist"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Master of Kung Fu I#105 (October, 1981)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Mercenary, assassin, bodyguard, enforcer",
+    "base": "the House of Razor, unrevealed location. Formerly, Roche's estate, Madripoor. Formerly, Carlton Velcro's mansion on an island in the Marquesas"
+  },
+  "connections": {
+    "groupAffiliation": "S.H.I.E.L.D. Deltite Conspiracy, Leader of a band of followers (Anton, Lulu, Mary, Perkins, Piranha Tots, Samantha, others), Architect, Batroc, Bobcat, Brothers Grimm, Bullet Biker, Crossfire, Death-Throws, Inquisitor, Mad Dog, Roche, Sapphire Styx, Shoc",
+    "relatives": "William Scott (aka Razor-Fist III, brother, deceased)"
+  }
+}

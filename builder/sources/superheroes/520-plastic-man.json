@@ -1,0 +1,46 @@
+{
+  "id": 520,
+  "name": "Plastic Man",
+  "slug": "520-plastic-man",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 63,
+    "speed": 23,
+    "durability": 100,
+    "power": 100,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "178 lb",
+      "80 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Patrick O'Brian",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Police Comics #1 (August, 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Government Agent",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "The FBI; formerly the Justice League of America; the All-Star Squadron and the Freedom Fighters",
+    "relatives": "Offspring (son)"
+  }
+}

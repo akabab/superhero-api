@@ -1,0 +1,47 @@
+{
+  "id": 684,
+  "name": "Valkyrie",
+  "slug": "684-valkyrie",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 94,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "6'3'",
+      "191 cm"
+    ],
+    "weight": [
+      "475 lb",
+      "214 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Brunnhilde (also spelled Brunnhilda)",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barbara Norriss",
+      "Samantha Parrington"
+    ],
+    "placeOfBirth": "Presumably Asgard",
+    "firstAppearance": "(Enchantress in Valkyrie's form) AVENGERS #87, (Samantha Parrington in Valkyrie's form) INCREDIBLE HULK #142, (Brunnhilde in Barbara Norriss's body) DEFENDERS #3, (Brunnhilde in her own body) DEFENDERS #109",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Chooser of the Slain, Adventurer",
+    "base": "Asgard, later New York City area, later Defenders Mansion, Colorado."
+  },
+  "connections": {
+    "groupAffiliation": "Gods at Asgard, Valkyrior, Defenders",
+    "relatives": "-"
+  }
+}

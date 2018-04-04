@@ -1,0 +1,46 @@
+{
+  "id": 341,
+  "name": "Indiana Jones",
+  "slug": "341-indiana-jones",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 10,
+    "speed": 17,
+    "durability": 30,
+    "power": 19,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "176 lb",
+      "79 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Indiana Jones",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Indy"
+    ],
+    "placeOfBirth": "Princeton, New Jersey",
+    "firstAppearance": "Raiders of the Lost Ark (1981)",
+    "publisher": "George Lucas",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Archaeologist",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

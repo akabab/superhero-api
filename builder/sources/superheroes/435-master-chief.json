@@ -1,0 +1,49 @@
+{
+  "id": 435,
+  "name": "Master Chief",
+  "slug": "435-master-chief",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 73,
+    "speed": 35,
+    "durability": 80,
+    "power": 69,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Altered",
+    "height": [
+      "7'",
+      "213 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "John-117",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Blue 1",
+      "Sierra 117",
+      "Spartan 117",
+      "Demon"
+    ],
+    "placeOfBirth": "Elysium City, Eridanus II",
+    "firstAppearance": "-",
+    "publisher": "Microsoft",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Master Chief Petty Officer of the Navy",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "United Nations Space Command, Navy",
+    "relatives": "-"
+  }
+}

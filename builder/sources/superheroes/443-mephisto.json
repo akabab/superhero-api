@@ -1,0 +1,60 @@
+{
+  "id": 443,
+  "name": "Mephisto",
+  "slug": "443-mephisto",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 85,
+    "speed": 35,
+    "durability": 95,
+    "power": 100,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "310 lb",
+      "140 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Satan; Mephistopheles",
+      "Lord of Evil",
+      "Prince of Devils",
+      "Prince of Lies",
+      "Lord of the Lower Depths",
+      "Satan",
+      "Beelzebub",
+      "the Devil",
+      "Maya",
+      "Lucifer",
+      "Nick Scratch",
+      "the Friend",
+      "Legion",
+      "numerous others; impersonated Don Blake",
+      "many others"
+    ],
+    "placeOfBirth": "Hell",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Lord of a realm of Hell",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Hell-lords, Lords of the Splinter Realms; formerly manipulator of the Six-Fingered Hand",
+    "relatives": "Blackheart (son), Mephista (daughter); presumptive relationship to other Hell-lords; quasi-paternal relationship to Mikal Drakonmegas (Hellfire) and Daimon (Hellstorm) and Satana Hellstrom; formerly engaged to unidentified demoness"
+  }
+}

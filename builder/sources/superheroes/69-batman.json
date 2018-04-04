@@ -1,0 +1,50 @@
+{
+  "id": 69,
+  "name": "Batman",
+  "slug": "69-batman",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 40,
+    "speed": 29,
+    "durability": 55,
+    "power": 63,
+    "combat": 90
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Terry McGinnis",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Batman II",
+      "The Tomorrow Knight",
+      "The second Dark Knight",
+      "The Dark Knight of Tomorrow",
+      "Batman Beyond"
+    ],
+    "placeOfBirth": "Gotham City, 25th Century",
+    "firstAppearance": "Batman Beyond #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "21st Century Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Batman Family, Justice League Unlimited",
+    "relatives": "Bruce Wayne (biological father), Warren McGinnis (father, deceased), Mary McGinnis (mother), Matt McGinnis (brother)"
+  }
+}

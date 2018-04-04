@@ -1,0 +1,47 @@
+{
+  "id": 298,
+  "name": "Green Arrow",
+  "slug": "298-green-arrow",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 12,
+    "speed": 35,
+    "durability": 28,
+    "power": 39,
+    "combat": 90
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Oliver Queen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Emerald Archer",
+      "Battling Bowman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "More Fun Comics #73 (November 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Professional Crime-fighter; Multi-Billionaire",
+    "base": "Star City, California; Formerly Seattle, Washington"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League Reserve, Connor Hawke, Mia Dearden,  Arsenal, Green Arrows of the World, Black Canary, Green Lantern Hal Jordan, Shado, Eddie Fyers, Justice League Elite, Seven Soldiers of Victory, All-Star Squadron",
+    "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
+  }
+}

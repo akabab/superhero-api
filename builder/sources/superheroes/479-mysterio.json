@@ -1,0 +1,49 @@
+{
+  "id": 479,
+  "name": "Mysterio",
+  "slug": "479-mysterio",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 10,
+    "speed": 17,
+    "durability": 40,
+    "power": 82,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Quentin Beck",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nicholas Macabes",
+      "Rudolph Hines",
+      "Gerdes",
+      "Doctor Ludwig Rinehart"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "Amazing Spider-Man #13 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Criminal; former Hollywood special effects designer and stunt man",
+    "base": "New York City, New York State (Earth-1610) formerly New York City, New York (Earth-616)"
+  },
+  "connections": {
+    "groupAffiliation": "None; Former Sinister Six",
+    "relatives": "Henrietta Beck (mother), Elmore Beck (father), Vincent (uncle), Maguire Beck (Jack O'Lantern) (cousin)"
+  }
+}

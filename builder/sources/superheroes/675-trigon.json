@@ -1,0 +1,52 @@
+{
+  "id": 675,
+  "name": "Trigon",
+  "slug": "675-trigon",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 99,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lucifer",
+      "Satan,The Devil",
+      "Lord Trigon",
+      "Master Trigon",
+      "King Trigon",
+      "Conqueror of Worlds",
+      "Ruler of the Five Under Realms"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New Teen Titans #5 (March, 1981)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Belial (son), Ruskoff (son), Suge (son), Raven (daughter)"
+  }
+}

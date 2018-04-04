@@ -1,0 +1,47 @@
+{
+  "id": 275,
+  "name": "Gamora",
+  "slug": "275-gamora",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 85,
+    "speed": 42,
+    "durability": 85,
+    "power": 53,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Zen-Whoberian",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Gamora Zen Whoberi Ben Titan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Deadliest Woman In The Universe",
+      "The Most Dangerous Woman in the Galaxy"
+    ],
+    "placeOfBirth": "Planet Zen Whoberi, Silican System, Milky Way",
+    "firstAppearance": "Strange Tales #180 (June, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Assassin, mercenary, adventurer",
+    "base": "C.I.T.T.; formerly Godthab Omega, Monster Island, Sanctuary II and the pocket-dimension within the Soul Gem; Earth-7528"
+  },
+  "connections": {
+    "groupAffiliation": "Guardians of the Galaxy ; formerly Phalanx's Selects, Graces (Leader), Infinity Watch ; United Front ; former minion of Thanos; ally of Adam Warlock and Pip the Troll",
+    "relatives": "Thanos (foster father), Thane (foster brother), Unnamed former Symbiote"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 626,
+  "name": "Spider-Woman IV",
+  "slug": "626-spider-woman-iv",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "128 lb",
+      "58 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Charlotte Witter",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Woman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man Volume 2 #5 (# 446)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Fashion designer, professional criminal",
+    "base": "New York City"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Cassandra Webb (aka Madame Web, grandmother)"
+  }
+}

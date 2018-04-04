@@ -1,0 +1,47 @@
+{
+  "id": 439,
+  "name": "Maxima",
+  "slug": "439-maxima",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 90,
+    "speed": 35,
+    "durability": 56,
+    "power": 81,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "160 lb",
+      "72 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Queen Maxima",
+      "Empress of the Almeracian Empire"
+    ],
+    "placeOfBirth": "Almerac",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Adventurer, Queen of the Almerac Empire",
+    "base": "Imperial Royal Palace"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League Task Force, Extreme Justice",
+    "relatives": "-"
+  }
+}

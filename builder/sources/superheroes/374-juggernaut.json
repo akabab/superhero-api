@@ -1,0 +1,47 @@
+{
+  "id": 374,
+  "name": "Juggernaut",
+  "slug": "374-juggernaut",
+  "powerstats": {
+    "intelligence": 44,
+    "strength": 100,
+    "speed": 42,
+    "durability": 100,
+    "power": 85,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "9'5",
+      "287 cm"
+    ],
+    "weight": [
+      "1900 lb",
+      "855 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Cain Marko",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kuurth",
+      "Captain Universe"
+    ],
+    "placeOfBirth": "Berkeley, California",
+    "firstAppearance": "X-Men #12 (July, 1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
+  "work": {
+    "occupation": "Adventurer formerly Professional criminal, mercenary, soldier",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Worthy, Thunderbolts, X-Men, Excalibur, Black Tom Cassidy (partner), Exemplars, Brotherhood of Evil Mutants, New World Order, Exiles, U.S. Army",
+    "relatives": "Kurt Marko (father, deceased), Marjorie Marko (mother, deceased), Sharon Xavier (step-mother, deceased), Charles Xavier (Professor X, step-brother)"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 107,
+  "name": "Black Widow",
+  "slug": "107-black-widow",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 13,
+    "speed": 33,
+    "durability": 30,
+    "power": 36,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "131 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Auburn"
+  },
+  "biography": {
+    "fullName": "Natasha Romanoff",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Yelena Belova",
+      "Natasha Romanoff",
+      "Natasha",
+      "Tasha",
+      "Madame Natasha",
+      "Nancy Rushman",
+      "Laura Matthers",
+      "Nadine Roman",
+      "\"Oktober\"",
+      "Black Pearl",
+      "Ebon Flame"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Tales of Suspense #52",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Intelligence agent, former ballerina",
+    "base": "Mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Secret Avengers; formerly Thunderbolts (as Yelena Belova), Nick Fury, Mighty Avengers, S.H.I.E.L.D., Avengers, Champions of Los Angeles, Lady Liberators, KGB, \"Marvel Knights\", partner of Daredevil, Hawkeye, Boris Turgenov, Logan",
+    "relatives": "Unnamed parents (presumed deceased); Alexi Shostakov (Red Guardian, estranged husband); Vindiktor (alleged brother, deceased)"
+  }
+}

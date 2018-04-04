@@ -1,0 +1,48 @@
+{
+  "id": 452,
+  "name": "Mimic",
+  "slug": "452-mimic",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 67,
+    "speed": 47,
+    "durability": 56,
+    "power": 79,
+    "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Calvin Montgomery Rankin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cal",
+      "Wolverine",
+      "Calvin Rankin"
+    ],
+    "placeOfBirth": "Passiac, New Jersey",
+    "firstAppearance": "Uncanny X-Men #19",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Brotherhood Of Mutants, Excalibur, X-Men, former agent of Onslaught and Sledge",
+    "relatives": "Ronald Rankin (father, deceased)"
+  }
+}

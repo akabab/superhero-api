@@ -1,0 +1,49 @@
+{
+  "id": 563,
+  "name": "Robin III",
+  "slug": "563-robin-iii",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 11,
+    "speed": 27,
+    "durability": 28,
+    "power": 29,
+    "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Tim Drake",
+    "alterEgos": "Red Robin",
+    "aliases": [
+      "Alvin Draper",
+      "Batman",
+      "Robin",
+      "Timothy Wayne"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #436 (August, 1989)",
+    "publisher": "Red Robin",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "High School Student",
+    "base": "Gotham City; Titans Tower, San Francisco"
+  },
+  "connections": {
+    "groupAffiliation": "Teen Titans, Batman Family, Batman Inc., Wayne Enterprises; formerly Young Justice",
+    "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Jason Todd (Robin II, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
+  }
+}

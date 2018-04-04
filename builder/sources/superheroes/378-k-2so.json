@@ -1,0 +1,47 @@
+{
+  "id": 378,
+  "name": "K-2SO",
+  "slug": "378-k-2so",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "7'0",
+      "213 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kaytoo Esso",
+      "Kay-Tuesso"
+    ],
+    "placeOfBirth": "Galactic Empire",
+    "firstAppearance": "Rogue One: A Star Wars Story (2016)",
+    "publisher": "George Lucas",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

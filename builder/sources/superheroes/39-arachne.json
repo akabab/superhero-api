@@ -1,0 +1,47 @@
+{
+  "id": 39,
+  "name": "Arachne",
+  "slug": "39-arachne",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 48,
+    "speed": 50,
+    "durability": 70,
+    "power": 71,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "140 lb",
+      "63 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Julia Carpenter",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Woman",
+      "Madame Web"
+    ],
+    "placeOfBirth": "Los Angeles, California",
+    "firstAppearance": "Marvel Super Heroes Secret Wars #6",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, fugitive, former government agent",
+    "base": "Mobile; formerly Denver, Colorado; formerly Avengers Compound, Los Angeles, California"
+  },
+  "connections": {
+    "groupAffiliation": "Omega Flight, formerly Commission on Superhuman Activities , Freedom Force , Avengers , Secret Defenders , Force Works , Queen?s Vengeance , West Coast Avengers, Secret Avengers (Civil War)",
+    "relatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
+  }
+}

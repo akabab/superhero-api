@@ -1,0 +1,46 @@
+{
+  "id": 428,
+  "name": "Man-Thing",
+  "slug": "428-man-thing",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 32,
+    "speed": 8,
+    "durability": 100,
+    "power": 100,
+    "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "7'0",
+      "213 cm"
+    ],
+    "weight": [
+      "500 lb",
+      "225 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Dr. Theodore Sallis",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Savage Tales #1 (May, 1971)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Man-Thing's Swamp, Citrusville, Florida"
+  },
+  "connections": {
+    "groupAffiliation": "Thunderbolts, Legion of Monsters, Daydreamers",
+    "relatives": "Ellen Brandt (ex-wife) Job Burke (son)"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": 151,
+  "name": "Captain Britain",
+  "slug": "151-captain-britain",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 77,
+    "speed": 50,
+    "durability": 60,
+    "power": 31,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "257 lb",
+      "116 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Brian Braddock",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Britannic",
+      "Black Bishop",
+      "Jungle Man",
+      "King of Otherworld",
+      "Merlinson"
+    ],
+    "placeOfBirth": "Braddock Manor, England",
+    "firstAppearance": "Captain Britain #1 (October, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, formerly King of Otherworld, scientist",
+    "base": "Lighthouse, Earth Orbit; Starlight Citadel, Otherworld; formerly Braddock Manor; Braddock Lighthouse, England; New York City (during exchange trip, specifically Peter Parker's Manhattan apartment); flat near Thames University, London"
+  },
+  "connections": {
+    "groupAffiliation": "Braddock Academy, Captain Britain Corps, MI-13; formerly Excalibur, Hellfire Club (London Branch), Secret Avengers, Court of Otherworld, Knights of Pendragon's ally, Future Iron Man's Team",
+    "relatives": "John Braddock (ancestor, possibly grandfather), James Braddock, Sr. (father, deceased), Lady Elizabeth Braddock (mother, deceased), James Braddock, Jr. (brother), Elizabeth Braddock (twin sister), Meggan (wife), William Puceanu (father-in-law)"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 566,
+  "name": "Rocket Raccoon",
+  "slug": "566-rocket-raccoon",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 5,
+    "speed": 23,
+    "durability": 28,
+    "power": 28,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Animal",
+    "height": [
+      "4'0",
+      "122 cm"
+    ],
+    "weight": [
+      "55 lb",
+      "25 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Rocket Raccoon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sharpshooting Space Racoon",
+      "Rocky Raccoon",
+      "Ranger Rocket"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Marvel Preview #7 (June, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Law enforcement officer, security guard, member of the Guardians of the Galaxy",
+    "base": "Knowhere; Formerly Hala, mobile aboard the Rakk'n'Ruin Halfworld, Keystone Quadrant"
+  },
+  "connections": {
+    "groupAffiliation": "Guardians of the Galaxy; Formerly Star-Lord's unnamed commando team",
+    "relatives": "Lylla (mate)"
+  }
+}

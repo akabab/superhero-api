@@ -1,0 +1,50 @@
+{
+  "id": 546,
+  "name": "Red Hood",
+  "slug": "546-red-hood",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 12,
+    "speed": 23,
+    "durability": 28,
+    "power": 35,
+    "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Jason Todd",
+    "alterEgos": "Robin II",
+    "aliases": [
+      "Robin",
+      "Red Robin",
+      "Batman",
+      "Nightwing",
+      "Arkham Knight"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #635",
+    "publisher": "Robin II",
+    "alignment": "neutral"
+  },
+  "work": {
+    "occupation": "Mercenary, Vigilante",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "formerly Batman Family, Teen Titans",
+    "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 201,
+  "name": "Daredevil",
+  "slug": "201-daredevil",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 13,
+    "speed": 25,
+    "durability": 35,
+    "power": 61,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
+  },
+  "biography": {
+    "fullName": "Matt Murdock",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Matt",
+      "Jack Batlin",
+      "Kingpin of Crime",
+      "Laurent LeVasseur",
+      "Michael \"Mike\" Murdock",
+      "Scarlet Swashbuckler",
+      "Nameless One",
+      "Kingpin of Hell's Kitchen",
+      "The Man Without Fear",
+      "The Guardian Devil",
+      "DD",
+      "Red",
+      "Hornhead",
+      "Cooper Peyton",
+      "Captain Universe"
+    ],
+    "placeOfBirth": "New York City, New York",
+    "firstAppearance": "Daredevil #1 (April, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, vigilante, Attorney at Law",
+    "base": "Hell's Kitchen, New York, New York, Shadowland (formerly)"
+  },
+  "connections": {
+    "groupAffiliation": "none; Formerly: partner of Black Widow (Natasha Romanoff), Defenders, S.H.I.E.L.D., Marvel Knights, Secret Avengers (Civil War), Hand leader.",
+    "relatives": "Jonathan \"Battling Jack\" Murdock (Father, deceased), Maggie Murdock (aka Sister Maggie, Mother), Milla Donovan (ex-wife)"
+  }
+}

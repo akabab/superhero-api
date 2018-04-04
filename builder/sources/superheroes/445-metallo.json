@@ -1,0 +1,46 @@
+{
+  "id": 445,
+  "name": "Metallo",
+  "slug": "445-metallo",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 53,
+    "speed": 23,
+    "durability": 95,
+    "power": 86,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "John Corben",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superman Vol 2 #1 (January, 1987)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Professional criminal",
+    "base": "Mobile, though he generally operates out of Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "Superman Revenge Squad",
+    "relatives": "-"
+  }
+}

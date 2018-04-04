@@ -1,0 +1,46 @@
+{
+  "id": 118,
+  "name": "Blizzard II",
+  "slug": "118-blizzard-ii",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 27,
+    "durability": 42,
+    "power": 47,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "170 lb",
+      "77 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Donald Gill",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Newark, Delaware",
+    "firstAppearance": "Iron Man #223 (1987)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Adventurer; former mercenary and professional criminal",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Thunderbolts, Hammer Industries",
+    "relatives": "-"
+  }
+}

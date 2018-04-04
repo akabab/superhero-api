@@ -1,0 +1,48 @@
+{
+  "id": 391,
+  "name": "Kingpin",
+  "slug": "391-kingpin",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 18,
+    "speed": 25,
+    "durability": 40,
+    "power": 13,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "450 lb",
+      "203 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "Wilson Grant Fisk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Brain Washer",
+      "Harold Howard",
+      "Wilbur"
+    ],
+    "placeOfBirth": "New York City area",
+    "firstAppearance": "Amazing Spider-Man #50 (July, 1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Criminal organizer and mastermind, president and owner of legitimate businesses",
+    "base": "A penthouse in New York City; formerly Fisk Tower in New York City, a mansion in Westchester County, Las Vegas."
+  },
+  "connections": {
+    "groupAffiliation": "Leader of The Hand, leader of a coalition of East Coast non-Maggia criminal organizations; former director of Las Vegas HYDRA faction.",
+    "relatives": "Anatoly Fyskov (ancestor); Vanessa Fisk (wife, deceased); Rose (Richard Fisk) (son, deceased);"
+  }
+}

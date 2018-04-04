@@ -1,0 +1,53 @@
+{
+  "id": 225,
+  "name": "Doctor Octopus",
+  "slug": "225-doctor-octopus",
+  "powerstats": {
+    "intelligence": 94,
+    "strength": 48,
+    "speed": 33,
+    "durability": 40,
+    "power": 53,
+    "combat": 65
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "245 lb",
+      "110 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Otto Octavius",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Doctor Octopus",
+      "Doc Ock",
+      "The Master Planner",
+      "The Master Programmer",
+      "Peter Benjamin Parker",
+      "Superior Spider-Man",
+      "Venom",
+      "Superior Venom"
+    ],
+    "placeOfBirth": "Schenectady, New York",
+    "firstAppearance": "Amazing Spider-Man #3 (July 1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Former atomic-research consultant, criminal mastermind",
+    "base": "New York City"
+  },
+  "connections": {
+    "groupAffiliation": "Thunderbolts Army; Former leader of the Sinister Six and the Masters of Evil V; Former partner of Green Goblin",
+    "relatives": "-"
+  }
+}

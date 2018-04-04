@@ -1,0 +1,47 @@
+{
+  "id": 500,
+  "name": "Omega Red",
+  "slug": "500-omega-red",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 61,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'11",
+      "211 cm"
+    ],
+    "weight": [
+      "425 lb",
+      "191 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Arkady Gregorivich",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Arkady Rossovich",
+      "Vasyliev Arkady"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Crimelord; former mercenary, KGB agent",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Red Mafia (kingpin); former employee of Sabretooth, The General, Ivan Pushkin, and Matsu'o Tsurayaba; formerly KGB",
+    "relatives": "-"
+  }
+}

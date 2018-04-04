@@ -1,0 +1,48 @@
+{
+  "id": 14,
+  "name": "Alan Scott",
+  "slug": "14-alan-scott",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 80,
+    "speed": 23,
+    "durability": 90,
+    "power": 100,
+    "combat": 32
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "201 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Alan Ladd Wellington Scott",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Green Lantern",
+      "White King",
+      "Sentinal"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "All-American Comics 16 (1940)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Gotham City and New York City; Formerly Capitol City"
+  },
+  "connections": {
+    "groupAffiliation": "Justice Society of America; Formerly Checkmate; the Sentinels of Magic; Formerly All-Star Squadron",
+    "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
+  }
+}

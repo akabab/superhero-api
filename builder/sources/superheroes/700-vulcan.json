@@ -1,0 +1,46 @@
+{
+  "id": 700,
+  "name": "Vulcan",
+  "slug": "700-vulcan",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 56,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Gabriel Summers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kid Vulcan"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly X-Men",
+    "relatives": "Philip Summers (grandfather), Deborah Summers (grandmother), Christopher Summers (Father), Katherine Anne Summers (Mother), Scott Summers (Cyclops, brother), Alexander Summers (Havok, brother), Jean Grey-Summers (Phoenix, sister-in-law, deceased), Madelyne Pryor-Summers (ex-sister-in-law, deceased), Nathan Christopher Summers (Cable, nephew), Aliya Jenskot (niece-in-law, deceased), Tyler Dayspring (Genesis, grandnephew, deceased), Stryfe (clone nephew, deceased), Rachel Summers (Marvel Girl, alternate timeline niece)"
+  }
+}

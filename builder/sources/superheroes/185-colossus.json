@@ -1,0 +1,49 @@
+{
+  "id": 185,
+  "name": "Colossus",
+  "slug": "185-colossus",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 83,
+    "speed": 33,
+    "durability": 100,
+    "power": 45,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "7'5",
+      "226 cm"
+    ],
+    "weight": [
+      "500 lb",
+      "225 kg"
+    ],
+    "eyeColor": "Silver",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Piotr Nikolaievitch Rasputin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pete",
+      "Peter Nicholas",
+      "The Proletarian",
+      "Little Brother"
+    ],
+    "placeOfBirth": "Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "(current) Adventurer, student, (former) Artist",
+    "base": "(current) Professor Charles Xavier's Institute for Higher Learning, Salem Center, Westchester County, New York (former) Muir Isle, Scotland,; a loft in Soho, Manhattan, Ust-Ordynski Collective, Lake Baikal, Siberia, U.S.S.R., X-Men Headquarters in Austra"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men; formerly Excalibur, Acolytes, Defender",
+    "relatives": "Grigory Efimovich Rasputin (great-grandfather, deceased), Elena (great-grandmother, deceased), Ivan Rasputin (great-grand uncle, deceased), Grigory Rasputin (grandfather, deceased), Nikolai Rasputin (father, deceased), Alexandra Rasputina (mother, deceased), Vladimir Rasputin (uncle, deceased), unidentified aunt & uncle (deceased), Illyana Nikolievna Rasputina (Magik, sister, deceased), Mikhail Rasputin (brother), Peter Jr. (son), Larissa Mishchenko (cousin, deceased), Konstantin (cousin, deceased), Klara (cousin, deceased), Dimitriy (cousin, deceased)"
+  }
+}

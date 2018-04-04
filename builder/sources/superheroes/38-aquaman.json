@@ -1,0 +1,51 @@
+{
+  "id": 38,
+  "name": "Aquaman",
+  "slug": "38-aquaman",
+  "powerstats": {
+    "intelligence": 81,
+    "strength": 85,
+    "speed": 79,
+    "durability": 80,
+    "power": 100,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Atlantean",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "325 lb",
+      "146 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Orin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dweller in the Depths",
+      "Swimmer",
+      "Waterbearer",
+      "Mental Man",
+      "Aquaboy",
+      "Water Wraith"
+    ],
+    "placeOfBirth": "Atlantis",
+    "firstAppearance": "More Fun Comics #73 (November, 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
+    "base": "Atlantean Royal Palace; Poseidonis, Atlantis"
+  },
+  "connections": {
+    "groupAffiliation": "Justice League, Aquaman Family, Atlantean Royal Family; formerly Black Lantern Corps, Justice League International, Justice League Detroit, U.N.",
+    "relatives": "Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
+  }
+}

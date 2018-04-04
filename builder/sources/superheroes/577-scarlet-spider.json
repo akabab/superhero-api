@@ -1,0 +1,47 @@
+{
+  "id": 577,
+  "name": "Scarlet Spider",
+  "slug": "577-scarlet-spider",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 53,
+    "speed": 60,
+    "durability": 74,
+    "power": 46,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10'",
+      "178 cm"
+    ],
+    "weight": [
+      "165 lb",
+      "74 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Benjamin Reilly",
+    "alterEgos": "Spider-Carnage",
+    "aliases": [
+      "Spider-Clone",
+      "Spider-Man"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly)",
+    "publisher": "Spider-Carnage",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Crime-fighter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "None; formerly New Warriors",
+    "relatives": "Peter Parker (clone of), May Parker (Aunt), Ben Parker (Uncle)"
+  }
+}

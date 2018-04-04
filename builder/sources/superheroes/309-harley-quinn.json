@@ -1,0 +1,51 @@
+{
+  "id": 309,
+  "name": "Harley Quinn",
+  "slug": "309-harley-quinn",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 12,
+    "speed": 33,
+    "durability": 65,
+    "power": 55,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "140 lb",
+      "63 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Harley Quinn",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Harleen Quinzel",
+      "Harl",
+      "Cupid of Crime",
+      "Jane Wisakedjak",
+      "Elise Archer",
+      "Pumpkin Pooh"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman: Harley Quinn (October, 1999)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Psychiatrist",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly The Quintets, The Joker, Poison Ivy, Secret Six",
+    "relatives": "Barry Quinzel (brother), Sharon Quinzel (mother), Nick Quinzel (father), Jenny Quinzel (niece), Nicky Quinzel (nephew)"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 403,
+  "name": "Legion",
+  "slug": "403-legion",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 100,
+    "speed": 42,
+    "durability": 30,
+    "power": 100,
+    "combat": 75
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Green / Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "David Haller",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jack Wayne",
+      "Cyndi",
+      "Jemail Karami",
+      "Daniel Lucas Haller",
+      "Daniel Haller",
+      "Rodney",
+      "Ian",
+      "Lucas",
+      "Fanya",
+      "Boris",
+      "Zachary",
+      "Sylvester",
+      "God-Mutant"
+    ],
+    "placeOfBirth": "Israel",
+    "firstAppearance": "New Mutants #25 (March, 1985)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, Student",
+    "base": "formerly Ruth Aldine's mind, Utopia, San Francisco Bay, California; Westcliffe, Colorado; \"No-Time\"; Moira MacTaggart's Mutant Research Center, Muir Island, off the coast of Scotland; Haifa; Paris, France"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly X-Men, Muir Island X-Men",
+    "relatives": "Charles Graymalkin (paternal collateral ancestor), Marcia Graymalkin (paternal collateral ancestor), Jonas Graymalkin (paternal collateral ancestor), Brian Xavier (paternal grandfather), Sharon Xavier (paternal grandmother), Kurt Marko (paternal step-grandfather), Cain Marko (paternal step-uncle), Cassandra Nova Xavier (paternal aunt), Charles Xavier (father), Gabrielle Haller (mother), Daniel Shomron (stepfather), Xavier Family (paternal relatives), Ruth Aldine (lover/current body)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 548,
+  "name": "Red Mist",
+  "slug": "548-red-mist",
+  "powerstats": {
+    "intelligence": 25,
+    "strength": 10,
+    "speed": 23,
+    "durability": 14,
+    "power": 20,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Chris Genovese",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Red Mist"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Kick-Ass #5",
+    "publisher": "Icon Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Johnny G (father)"
+  }
+}

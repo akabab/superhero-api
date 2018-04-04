@@ -1,0 +1,47 @@
+{
+  "id": 7,
+  "name": "Adam Monroe",
+  "slug": "7-adam-monroe",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 12,
+    "durability": 100,
+    "power": 100,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Takezo Kensei",
+      "Richard Sanders"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S02E01 - Four Months Later...",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
+    "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

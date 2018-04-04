@@ -1,0 +1,50 @@
+{
+  "id": 269,
+  "name": "Franklin Richards",
+  "slug": "269-franklin-richards",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 80,
+    "speed": 50,
+    "durability": 60,
+    "power": 100,
+    "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "4'8",
+      "142 cm"
+    ],
+    "weight": [
+      "100 lb",
+      "45 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Franklin  Richards",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Franklin Benjamin",
+      "Tattletale",
+      "Psi-Lord",
+      "Ego-Spawn",
+      "Avatar"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "Fantastic Four Annual #6",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Student",
+    "base": "Baxter Building, New York, New York (formerly) Four Freedoms Plaza; Pier 4; Massachusetts Academy"
+  },
+  "connections": {
+    "groupAffiliation": "Future Foundation; formerly Power Pack, Generation X, Daydreamers",
+    "relatives": "Reed Richards (Mister Fantastic, father), Susan Storm Richards (Invisible Woman, mother), Valeria Richards (sister), Jonathan Storm (Human Torch, uncle), Nathaniel Richards (paternal grandfather), Franklin Storm (maternal grandfather, deceased), Evelyn Richards, Mary Storm (grandmothers (paternal and maternal respectively), deceased), Benjamin J. Grimm (Thing, godfather), Alicia Masters (godmother)."
+  }
+}

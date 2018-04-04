@@ -1,0 +1,47 @@
+{
+  "id": 373,
+  "name": "Judge Dredd",
+  "slug": "373-judge-dredd",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 18,
+    "speed": 38,
+    "durability": 50,
+    "power": 52,
+    "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Joseph Dredd",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Dead Man",
+      "Joe"
+    ],
+    "placeOfBirth": "Mega City One",
+    "firstAppearance": "2000 AD no. 2 (5 March 1977)",
+    "publisher": "Rebellion",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Mega-City Judge",
+    "base": "Mega City One"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Rico Dredd (brother), Judge Kraken (clone), Vienna (niece),"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 427,
+  "name": "Man-Bat",
+  "slug": "427-man-bat",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 18,
+    "speed": 50,
+    "durability": 70,
+    "power": 33,
+    "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Robert Kirkland Langstrom",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kirk Langstrom"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "Detective Comics #400 (June, 1970)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
+  "work": {
+    "occupation": "Zoologist",
+    "base": "Gotham City"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Spirit Squad, The Network",
+    "relatives": "Francine Langstrom (wife), Rebecca Elizabeth Langtrom (daughter); Aaron Langstrom (son); Britt Langstrom (sister); Ted Friedel (brother-in-law)"
+  }
+}

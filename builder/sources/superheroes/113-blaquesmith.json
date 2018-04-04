@@ -1,0 +1,46 @@
+{
+  "id": 113,
+  "name": "Blaquesmith",
+  "slug": "113-blaquesmith",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "No Hair"
+  },
+  "biography": {
+    "fullName": "-",
+    "alterEgos": "Vertigo II",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Vertigo II",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Inventor",
+    "base": "Baltimore, Maryland"
+  },
+  "connections": {
+    "groupAffiliation": "Clan Askani/Clan Chosen",
+    "relatives": "-"
+  }
+}

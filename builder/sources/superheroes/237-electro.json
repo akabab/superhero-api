@@ -1,0 +1,46 @@
+{
+  "id": 237,
+  "name": "Electro",
+  "slug": "237-electro",
+  "powerstats": {
+    "intelligence": 69,
+    "strength": 10,
+    "speed": 50,
+    "durability": 56,
+    "power": 67,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "165 lb",
+      "74 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Auburn"
+  },
+  "biography": {
+    "fullName": "Maxwell Dillon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #9 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Professional criminal",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Sinister Six formerly Emissaries of Evil, Frightful Four and Sinister Twelve",
+    "relatives": "Norma Lynn Dillon (ex-wife), Jonathan Dillon (father, deceased), Anita Dillon (mother, deceased)"
+  }
+}

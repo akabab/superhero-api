@@ -1,0 +1,46 @@
+{
+  "id": 724,
+  "name": "X-Man",
+  "slug": "724-x-man",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 53,
+    "speed": 53,
+    "durability": 95,
+    "power": 100,
+    "combat": 84
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Nate Grey",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nate the Great"
+    ],
+    "placeOfBirth": "American Northeast of Earth-295",
+    "firstAppearance": "X-Man #1 (1995)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former shaman, adventurer, freedom fighter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly X-Men, Brotherhood of Mutants, Forge's resistance",
+    "relatives": "Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)"
+  }
+}

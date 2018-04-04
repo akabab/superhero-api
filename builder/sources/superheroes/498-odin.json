@@ -1,0 +1,53 @@
+{
+  "id": 498,
+  "name": "Odin",
+  "slug": "498-odin",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 83,
+    "speed": 67,
+    "durability": 95,
+    "power": 100,
+    "combat": 90
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "6'9",
+      "206 cm"
+    ],
+    "weight": [
+      "650 lb",
+      "293 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Odin Borson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "All-Father,Sky-Father",
+      "Atum-Re",
+      "Woden",
+      "Wotan",
+      "Oden",
+      "Orrin",
+      "Harbard",
+      "King of Asgard"
+    ],
+    "placeOfBirth": "Asgard",
+    "firstAppearance": "Journey into Mystery #85",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Deity, Monarch of Asgard, Asgardian God of the Sky, Wind, Wisdom, Crafts, Time, and the Dead, Warrior",
+    "base": "City of Asgard, Asgard"
+  },
+  "connections": {
+    "groupAffiliation": "Asgardians, Council of Godheads",
+    "relatives": "Buri (Tiwaz) (paternal grandfather), Bolthorn (maternal grandfather), Bor Burison (father, deceased), Bestla (mother), Mimir Burison (paternal uncle), Njord (paternal uncle), Vili, Ve, Cul (brothers), Frigga (wife), Freyr (father-in-law), Gullveig (sister-in-law), Thor (son by Jord), Vidar (son by Grid), Balder (son by Frigga), Tyr, Hermod (allegedly sons by Frigga), Angela (daughter by Frigga), Laussa (daughter by Frigga and Surtur), Loki (foster son), Hoder (nephew), Skadi (niece)"
+  }
+}

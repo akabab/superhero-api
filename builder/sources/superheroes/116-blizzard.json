@@ -1,0 +1,46 @@
+{
+  "id": 116,
+  "name": "Blizzard",
+  "slug": "116-blizzard",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Gregor Shapanka",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jack Frost"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Tales of Suspense #45",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Professional criminal, mercenary, engineer, former scientist",
+    "base": "New York City, New York"
+  },
+  "connections": {
+    "groupAffiliation": "Former employee of Justin Hammer, partner of Blacklash and Melter",
+    "relatives": "-"
+  }
+}

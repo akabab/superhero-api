@@ -1,0 +1,46 @@
+{
+  "id": 248,
+  "name": "Evilhawk",
+  "slug": "248-evilhawk",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 32,
+    "speed": 33,
+    "durability": 70,
+    "power": 85,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Alien",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "235 lb",
+      "106 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Dargin Bokk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Darkhawk #20 (October, 1992)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Crimelord",
+    "base": "(Formerly) planet Luq"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

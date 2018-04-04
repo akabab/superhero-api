@@ -1,0 +1,50 @@
+{
+  "id": 229,
+  "name": "Donna Troy",
+  "slug": "229-donna-troy",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 89,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Amazon",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "140 lb",
+      "63 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Donna Hinckley Stacey Troy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Donna Troy",
+      "Wonder Girl",
+      "Darkstar",
+      "Wonder Woman",
+      "Troia"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Brave and the Bold Vol. 1 #60 (1965)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Titans of Myth, Teen Titans, Darkstars",
+    "relatives": "-"
+  }
+}

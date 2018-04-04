@@ -1,0 +1,47 @@
+{
+  "id": 111,
+  "name": "Blackwulf",
+  "slug": "111-blackwulf",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 28,
+    "speed": 8,
+    "durability": 30,
+    "power": 69,
+    "combat": 25
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Alien",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Lucian",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pelops",
+      "Black Wolf"
+    ],
+    "placeOfBirth": "Armechadon",
+    "firstAppearance": "Thunderstrike #6 (March, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "-"
+  },
+  "work": {
+    "occupation": "Freedom Fighter",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Underground Legion",
+    "relatives": "Tantalus (father); Nirvana (mother); Pelops (brother, deceased)"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 171,
+  "name": "Changeling",
+  "slug": "171-changeling",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 10,
+    "speed": 23,
+    "durability": 42,
+    "power": 64,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Kevin Sidney",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Professor X",
+      "Professor Charles Xavier"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Uncanny X-Men #35 (August, 1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "Former substitute teacher, adventurer, subversive",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly X-Humed, X-Men, Factor Three",
+    "relatives": "-"
+  }
+}

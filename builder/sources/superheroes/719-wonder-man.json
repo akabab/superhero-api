@@ -1,0 +1,47 @@
+{
+  "id": 719,
+  "name": "Wonder Man",
+  "slug": "719-wonder-man",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 100,
+    "speed": 53,
+    "durability": 90,
+    "power": 64,
+    "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "380 lb",
+      "171 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Simon Williams",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Wondie",
+      "JQ-272712-K"
+    ],
+    "placeOfBirth": "Paterson, New Jersey",
+    "firstAppearance": "AVENGERS #9",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former industrialist, now stuntman, actor, adventurer",
+    "base": "Mobile"
+  },
+  "connections": {
+    "groupAffiliation": "Former ally of the original Masters of Evil, former member of the East Coast Avengers, current member of the West Coast Avengers",
+    "relatives": "Sanford (father, deceased) Martha (mother), Eric (alias the Grim Reaper, brother, deceased), Vision II ('brother')"
+  }
+}

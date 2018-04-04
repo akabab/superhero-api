@@ -1,0 +1,46 @@
+{
+  "id": 272,
+  "name": "Frigga",
+  "slug": "272-frigga",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'11'",
+      "180 cm"
+    ],
+    "weight": [
+      "370 lb",
+      "167 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Frigga",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Fricka"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "JOURNEY INTO MYSTERY #92",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Queen of Asgard, goddess of marriage",
+    "base": "Asgard"
+  },
+  "connections": {
+    "groupAffiliation": "Gods of Asgard",
+    "relatives": "Odin (husband), Loki, Thor (foster sons)"
+  }
+}

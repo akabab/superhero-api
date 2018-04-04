@@ -1,0 +1,46 @@
+{
+  "id": 426,
+  "name": "Man of Miracles",
+  "slug": "426-man-of-miracles",
+  "powerstats": {
+    "intelligence": 100,
+    "strength": 100,
+    "speed": 100,
+    "durability": 100,
+    "power": 100,
+    "combat": 100
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Silver"
+  },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mother Of Existence"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Spawn #75",
+    "publisher": "Image Comics",
+    "alignment": "-"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

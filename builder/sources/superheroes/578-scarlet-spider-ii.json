@@ -1,0 +1,48 @@
+{
+  "id": 578,
+  "name": "Scarlet Spider II",
+  "slug": "578-scarlet-spider-ii",
+  "powerstats": {
+    "intelligence": 88,
+    "strength": 55,
+    "speed": 60,
+    "durability": 40,
+    "power": 37,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Clone",
+    "height": [
+      "6'4",
+      "193 cm"
+    ],
+    "weight": [
+      "250 lb",
+      "113 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Kaine Parker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tarantula",
+      "Kaine",
+      "Ara?a Escarlata"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Fugitive",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Miles Warren (creator), Peter Parker (Spider-Man, genetic template), Ben Reilly (Scarlet Spider, fellow clone, deceased), Spidercide (fellow clone, allegedly deceased), Guardian (fellow clone, deceased), Jack (fellow clone, deceased)"
+  }
+}

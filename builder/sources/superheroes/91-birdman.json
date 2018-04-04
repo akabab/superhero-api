@@ -1,0 +1,53 @@
+{
+  "id": 91,
+  "name": "Birdman",
+  "slug": "91-birdman",
+  "powerstats": {
+    "intelligence": null,
+    "strength": 35,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Ray Randal",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bird-Man",
+      "Harvey Birdman",
+      "Ray Randal",
+      "Harvey Birdman Attorney at Law",
+      "Harry",
+      "Henry",
+      "Birdbath",
+      "Bootyliciuos"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Birdman and the Galaxy Trio (1967)",
+    "publisher": "Hanna-Barbera",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "-"
+  }
+}

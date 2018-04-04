@@ -1,0 +1,46 @@
+{
+  "id": 74,
+  "name": "Beak",
+  "slug": "74-beak",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "140 lb",
+      "63 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "White"
+  },
+  "biography": {
+    "fullName": "Barnell Bohusk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Blackwing"
+    ],
+    "placeOfBirth": "Cheverly, Maryland",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly New Warriors, Exiles, Brotherhood Of Mutants, Xavier Institute Student Body",
+    "relatives": "Charles (father), Kathy (mother), Angel Salvadore (wife), Tito (son), Axel (son), Kara (daughter), three unidentified children"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 245,
+  "name": "Ethan Hunt",
+  "slug": "245-ethan-hunt",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 11,
+    "speed": 29,
+    "durability": 30,
+    "power": 26,
+    "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
+  },
+  "biography": {
+    "fullName": "Ethan Hunt",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Madison, Wisconsin, United States of America",
+    "firstAppearance": "-",
+    "publisher": null,
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "IMF Agent, Training Officer (former), Field Agent, Field Team Leader",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly: United States Army",
+    "relatives": "Nathan Hunt (Father), Margaret Hunt (Mother), Donald Hunt (Uncle)"
+  }
+}

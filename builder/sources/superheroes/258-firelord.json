@@ -1,0 +1,46 @@
+{
+  "id": 258,
+  "name": "Firelord",
+  "slug": "258-firelord",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 63,
+    "speed": 75,
+    "durability": 90,
+    "power": 52,
+    "combat": 28
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "6'4'",
+      "193 cm"
+    ],
+    "weight": [
+      "220 lb",
+      "99 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "Yellow"
+  },
+  "biography": {
+    "fullName": "Pyreus Kril",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nova Centurion"
+    ],
+    "placeOfBirth": "Xander, planet in Tranta System, Andromeda Galaxy",
+    "firstAppearance": "THOR Vol. 1 #225",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former starship captain, former herald of Galactus",
+    "base": "Mobile; usually in space"
+  },
+  "connections": {
+    "groupAffiliation": "Formerly Nova Corps, Guardians of the Galaxy (in an alternate future)",
+    "relatives": "-"
+  }
+}

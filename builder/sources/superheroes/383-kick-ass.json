@@ -1,0 +1,46 @@
+{
+  "id": 383,
+  "name": "Kick-Ass",
+  "slug": "383-kick-ass",
+  "powerstats": {
+    "intelligence": 38,
+    "strength": 10,
+    "speed": 23,
+    "durability": 35,
+    "power": 22,
+    "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Dave Lizewski",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kickass"
+    ],
+    "placeOfBirth": "New York City",
+    "firstAppearance": "Kick Ass #1",
+    "publisher": "Icon Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Mother (unnamed, deceased), Father (unnamed)"
+  }
+}

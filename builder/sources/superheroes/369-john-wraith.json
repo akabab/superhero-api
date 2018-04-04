@@ -1,0 +1,50 @@
+{
+  "id": 369,
+  "name": "John Wraith",
+  "slug": "369-john-wraith",
+  "powerstats": {
+    "intelligence": 75,
+    "strength": 12,
+    "speed": 35,
+    "durability": 28,
+    "power": 87,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "John Wraith",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Wraith-Man",
+      "Kestrel",
+      "Expediter",
+      "Guardian",
+      "Vindicator"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Wolverine Vol 2 #60 (September, 1992)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Former Spy, Government Operative, Mercenary, Soldier",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Weapon X Program, Team X, C.I.A.",
+    "relatives": "-"
+  }
+}

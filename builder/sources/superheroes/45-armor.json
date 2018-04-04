@@ -1,0 +1,47 @@
+{
+  "id": 45,
+  "name": "Armor",
+  "slug": "45-armor",
+  "powerstats": {
+    "intelligence": 50,
+    "strength": 63,
+    "speed": 12,
+    "durability": 80,
+    "power": 55,
+    "combat": 54
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'4",
+      "163 cm"
+    ],
+    "weight": [
+      "112 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
+  },
+  "biography": {
+    "fullName": "Hisako Ichiki",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "X-Girl",
+      "Kid"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Astonishing X-Men #4 (2004)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Adventurer, student",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "X-Men, formerly: Xavier Institute Student Body, New X-Men",
+    "relatives": "-"
+  }
+}

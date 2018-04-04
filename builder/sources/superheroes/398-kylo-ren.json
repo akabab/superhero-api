@@ -1,0 +1,46 @@
+{
+  "id": 398,
+  "name": "Kylo Ren",
+  "slug": "398-kylo-ren",
+  "powerstats": {
+    "intelligence": 56,
+    "strength": 44,
+    "speed": 33,
+    "durability": 30,
+    "power": 100,
+    "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Ben Solo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "-",
+    "relatives": "Han Solo (Father), Princess Leia (Mother), Luke Skywalker (Uncle)"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 507,
+  "name": "Overtkill",
+  "slug": "507-overtkill",
+  "powerstats": {
+    "intelligence": null,
+    "strength": null,
+    "speed": null,
+    "durability": null,
+    "power": null,
+    "combat": null
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
+  },
+  "biography": {
+    "fullName": "Nicholas Rocca",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "OvertWar"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Image Comics",
+    "alignment": "bad"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "-"
+  },
+  "connections": {
+    "groupAffiliation": "Mafia, Antonio'Tony Twist' Twistelli, Jason Wynn",
+    "relatives": "-"
+  }
+}

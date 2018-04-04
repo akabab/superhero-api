@@ -1,0 +1,46 @@
+{
+  "id": 98,
+  "name": "Black Canary",
+  "slug": "98-black-canary",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 8,
+    "speed": 33,
+    "durability": 15,
+    "power": 45,
+    "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "128 lb",
+      "58 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Dinah Drake Lance",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash Comics #86 (August, 1947)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "Florist, former private investigator",
+    "base": "Gotham City, Park City"
+  },
+  "connections": {
+    "groupAffiliation": "Justice Society of America",
+    "relatives": "Richard Drake (father), Lawrence Lance (husband), Dinah Laurel Lance (Black Canary, daughter), Oliver Queen (Green Arrow, son-in-law)"
+  }
+}

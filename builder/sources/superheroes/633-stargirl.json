@@ -1,0 +1,48 @@
+{
+  "id": 633,
+  "name": "Stargirl",
+  "slug": "633-stargirl",
+  "powerstats": {
+    "intelligence": 63,
+    "strength": 80,
+    "speed": 25,
+    "durability": 90,
+    "power": 87,
+    "combat": 55
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "137 lb",
+      "62 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
+  },
+  "biography": {
+    "fullName": "Courtney Whitmore",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Star-Spangled Kid",
+      "Star",
+      "Stars"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Stars and S.T.R.I.P.E. #0 (July, 1999)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
+  "work": {
+    "occupation": "-",
+    "base": "Manhattan, New York City; Formerly Beverly Hills, California; later Blue Valley, Nebraska; later Metropolis"
+  },
+  "connections": {
+    "groupAffiliation": "Justice Society of America",
+    "relatives": "Barbara Whitmore-Dugan (mother); Sam Kurtis (father, deceased); Pat Dugan (S.T.R.I.P.E., Stepfather); Mike Dugan (stepbrother); Patricia Dugan (sister)"
+  }
+}
