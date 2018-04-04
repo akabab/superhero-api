@@ -38,7 +38,6 @@ const buildImages = async () => {
   const spin = new Spinner('Building images...', ['⣾','⣽','⣻','⢿','⡿','⣟','⣯','⣷'])
 
   const files = (await readDir('builder/sources/images'))
-    // .filter((f, i) => i < 3)
 
   const cropOptions = flatArray(files.map(prepareCropOptions))
 
