@@ -83,12 +83,6 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/id/1.js
   "connections": {
     "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
     "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
-  },
-  "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/1-a-bomb.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/1-a-bomb.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/1-a-bomb.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/1-a-bomb.jpg"
   }
 }
 ```
@@ -174,12 +168,12 @@ eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/work/
 GET superhero image
 
 - Thumb (~32x48)
-[`/images/thumbs/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/thumbs/a-bomb.jpg)
+[`/images/xs/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/a-bomb.jpg)
 
-- Small (~165x240)
+- Small (~160x240)
 [`/images/sm/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/a-bomb.jpg)
 
-- Medium (~240x320)
+- Medium (~320x480)
 [`/images/md/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/a-bomb.jpg)
 
 - Large (~480x640)
