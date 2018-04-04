@@ -3,7 +3,7 @@ const { version } = require('../../package.json')
 const baseUrl = `https://akabab.github.io/superhero-api/api`
 const cdnBaseUrl = `https://cdn.rawgit.com/akabab/superhero-api/${version}/api`
 
-const buildDocumentation = ({ endpoints, heroes }) => `
+const documentation = ({ endpoints, heroes }) => `
 # API
 
 Multiple universes superheroes open-source REST API
@@ -99,6 +99,4 @@ GET superhero image
 [\`/images/lg/a-bomb.jpg\`](${cdnBaseUrl}/images/lg/a-bomb.jpg)
 `
 
-module.exports = {
-  buildDocumentation
-}
+module.exports = { documentation }
