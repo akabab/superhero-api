@@ -1,6 +1,7 @@
 {
   "id": 298,
   "name": "Green Arrow",
+  "slug": "298-green-arrow",
   "powerstats": {
     "intelligence": 81,
     "strength": 12,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 39,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Oliver Queen",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Emerald Archer",
-      "Battling Bowman"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "More Fun Comics #73 (November 1941)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Oliver Queen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Emerald Archer",
+      "Battling Bowman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "More Fun Comics #73 (November 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Professional Crime-fighter; Multi-Billionaire",
     "base": "Star City, California; Formerly Seattle, Washington"
@@ -44,9 +45,9 @@
     "relatives": "Conner Hawke (son); Robert (son); Cissie King (possible daughter); Roy Harper - Red Arrow (adoptive son); Dinah Laurel Lance (wife); Dinah Drake Lance (mother-in-law, deceased); Larry Lance (father-in-law, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/green-arrow.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/green-arrow.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/green-arrow.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/green-arrow.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/298-green-arrow.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/298-green-arrow.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/298-green-arrow.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/298-green-arrow.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 548,
   "name": "Red Mist",
+  "slug": "548-red-mist",
   "powerstats": {
     "intelligence": 25,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 20,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Chris Genovese",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Red Mist"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Kick-Ass #5",
-    "publisher": "Icon Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Chris Genovese",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Red Mist"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Kick-Ass #5",
+    "publisher": "Icon Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Johnny G (father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-mist.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-mist.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-mist.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/red-mist.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/548-red-mist.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/548-red-mist.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/548-red-mist.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/548-red-mist.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 48,
   "name": "Atlas",
+  "slug": "48-atlas",
   "powerstats": {
     "intelligence": 63,
     "strength": 80,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 98,
     "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Red"
   },
   "biography": {
     "fullName": "Erik Josten",
@@ -25,20 +40,6 @@
     "publisher": "Goliath",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "225 lb",
-      "101 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Red"
-  },
   "work": {
     "occupation": "Adventurer; former professional criminal, mercenary, dock worker, soldier",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Unidentified parents (deceased), Carl (brother, deceased), Conrad (brother), Lindy (sister, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/atlas-josten.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/atlas-josten.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/atlas-josten.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/atlas-josten.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/48-atlas.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/48-atlas.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/48-atlas.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/48-atlas.jpg"
   }
 }

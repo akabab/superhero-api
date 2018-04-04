@@ -1,6 +1,7 @@
 {
   "id": 218,
   "name": "Destroyer",
+  "slug": "218-destroyer",
   "powerstats": {
     "intelligence": 50,
     "strength": 95,
@@ -8,17 +9,6 @@
     "durability": 98,
     "power": 85,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Created in Asgard",
-    "firstAppearance": "Journey into Mystery #118 (1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Created in Asgard",
+    "firstAppearance": "Journey into Mystery #118 (1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/destroyer.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/destroyer.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/destroyer.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/destroyer.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/218-destroyer.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/218-destroyer.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/218-destroyer.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/218-destroyer.jpg"
   }
 }

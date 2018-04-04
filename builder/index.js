@@ -7,6 +7,7 @@ const { version } = require('../package.json')
 const baseUrl = `https://akabab.github.io/superhero-api/api`
 const cdnBaseUrl = `https://cdn.rawgit.com/akabab/superhero-api/${version}/api`
 
+const { buildImages } = require('./builders/images')
 const { documentation } = require('./builders/documentation')
 const { carecenter } = require('./builders/carecenter')
 const { glossary } = require('./builders/glossary')
@@ -14,7 +15,6 @@ const { glossary } = require('./builders/glossary')
 const readDir = promisify(fs.readdir)
 const writeFile = promisify(fs.writeFile)
 const rename = promisify(fs.rename)
-
 
 const imageUrl = (k, slug) => `${cdnBaseUrl}/images/${k}/${slug}.jpg`
 
@@ -68,8 +68,6 @@ const buildEntries = hero => {
   })
 }
 
-const buildImages = () => {}
-
 const ensureFoldersStructure = async () => {
   await fs.ensureDir(apiFolderPath)
   await fs.emptyDir(apiFolderPath)
@@ -80,19 +78,21 @@ const ensureFoldersStructure = async () => {
 }
 
 const rebuild = async () => {
-  const sourceHeroes = await loadHeroes('builder/sources/superheroes')
+  const heroes = await loadHeroes('builder/sources/superheroes')
 
-  const validHeroes = filterValidHeroes(sourceHeroes)
+  const validHeroes = filterValidHeroes(heroes)
 
   await ensureFoldersStructure()
 
-  await fs.copy('.backup/images', 'api/images')
+  await buildImages()
+
+  fs.copy('api/images', '.backup/images')
 
   writeFile('api/readme.md', documentation({ endpoints, heroes: validHeroes }))
 
   writeFile('api/glossary.md', glossary(validHeroes))
 
-  writeFile('api/carecenter.md', carecenter(sourceHeroes))
+  writeFile('api/carecenter.md', carecenter(heroes))
 
   writeFile('api/all.json', JSON.stringify(validHeroes, null, 2))
 

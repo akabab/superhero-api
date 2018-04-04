@@ -1,6 +1,7 @@
 {
   "id": 590,
   "name": "She-Thing",
+  "slug": "590-she-thing",
   "powerstats": {
     "intelligence": 69,
     "strength": 72,
@@ -8,18 +9,6 @@
     "durability": 80,
     "power": 23,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Sharon Ventura",
-    "alterEgos": "Ms Marvel II",
-    "aliases": [
-      "Thing",
-      "Ms Marvel"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Thing #27",
-    "publisher": "Ms Marvel II",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Sharon Ventura",
+    "alterEgos": "Ms Marvel II",
+    "aliases": [
+      "Thing",
+      "Ms Marvel"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Thing #27",
+    "publisher": "Ms Marvel II",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Prisoner, former adventurer, wrestler, stuntwoman, scuba diver, motorcycle performer",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Jack Ventura (father, deceased), Mrs. Ventura (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/she-thing.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/she-thing.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/she-thing.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/she-thing.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/590-she-thing.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/590-she-thing.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/590-she-thing.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/590-she-thing.jpg"
   }
 }

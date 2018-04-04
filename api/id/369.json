@@ -1,6 +1,7 @@
 {
   "id": 369,
   "name": "John Wraith",
+  "slug": "369-john-wraith",
   "powerstats": {
     "intelligence": 75,
     "strength": 12,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 87,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "John Wraith",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "195 lb",
-      "88 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Former Spy, Government Operative, Mercenary, Soldier",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/no-portrait.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/no-portrait.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/no-portrait.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/no-portrait.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/no-portrait.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/no-portrait.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/no-portrait.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/no-portrait.jpg"
   }
 }

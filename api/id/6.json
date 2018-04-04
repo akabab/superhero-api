@@ -1,6 +1,7 @@
 {
   "id": 6,
   "name": "Absorbing Man",
+  "slug": "6-absorbing-man",
   "powerstats": {
     "intelligence": 38,
     "strength": 80,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 98,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'4",
+      "193 cm"
+    ],
+    "weight": [
+      "270 lb",
+      "122 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
   },
   "biography": {
     "fullName": "Carl Creel",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'4",
-      "193 cm"
-    ],
-    "weight": [
-      "270 lb",
-      "122 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "No Hair"
-  },
   "work": {
     "occupation": "Professional criminal; former professional boxer",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Mary MacPherran (Titania) (wife); Jerry Sledge (son); Rockwell \"Rocky\" Davis (Hi-Llite) (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/absorbing-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/absorbing-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/absorbing-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/absorbing-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/6-absorbing-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/6-absorbing-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/6-absorbing-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/6-absorbing-man.jpg"
   }
 }

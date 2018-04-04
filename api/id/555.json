@@ -1,6 +1,7 @@
 {
   "id": 555,
   "name": "Rey",
+  "slug": "555-rey",
   "powerstats": {
     "intelligence": 63,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 10,
     "power": 87,
     "combat": 35
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Jakku",
-    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
-    "publisher": "George Lucas",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Hazel",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Jakku",
+    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "publisher": "George Lucas",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Scavenger",
     "base": "Jakku"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rey.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rey.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rey.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rey.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/555-rey.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/555-rey.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/555-rey.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/555-rey.jpg"
   }
 }

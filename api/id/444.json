@@ -1,6 +1,7 @@
 {
   "id": 444,
   "name": "Mera",
+  "slug": "444-mera",
   "powerstats": {
     "intelligence": 56,
     "strength": 62,
@@ -8,20 +9,6 @@
     "durability": 60,
     "power": 92,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Mera",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Queen of Atlantis",
-      "Aquawoman",
-      "Aquagirl",
-      "Water-Woman"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Aquaman #11 (October, 1963)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Mera",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Queen of Atlantis",
+      "Aquawoman",
+      "Aquagirl",
+      "Water-Woman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Aquaman #11 (October, 1963)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former queen of Atlantis; Former queen of Dimension Aqua",
     "base": "Atlantis"
@@ -46,9 +47,9 @@
     "relatives": "Aquaman (husband); Aquababy (son, deceased); A.J. (son); Siren (Hila, twin sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mera.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mera.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mera.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mera.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/444-mera.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/444-mera.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/444-mera.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/444-mera.jpg"
   }
 }

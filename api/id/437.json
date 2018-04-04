@@ -1,6 +1,7 @@
 {
   "id": 437,
   "name": "Matt Parkman",
+  "slug": "437-matt-parkman",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 59,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Matthew Parkman",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Heroes S01E02 - Don't Look Back",
-    "publisher": "NBC - Heroes",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Matthew Parkman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S01E02 - Don't Look Back",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "NYPD detective",
     "base": "New York, NY; formerly Los Angeles, CA"
@@ -43,9 +44,9 @@
     "relatives": "Maury Parkman (father), Janice Parkman (ex-wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/matt-parkman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/matt-parkman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/matt-parkman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/matt-parkman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/437-matt-parkman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/437-matt-parkman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/437-matt-parkman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/437-matt-parkman.jpg"
   }
 }

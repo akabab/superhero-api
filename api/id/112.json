@@ -1,6 +1,7 @@
 {
   "id": 112,
   "name": "Blade",
+  "slug": "112-blade",
   "powerstats": {
     "intelligence": 63,
     "strength": 28,
@@ -8,19 +9,6 @@
     "durability": 50,
     "power": 40,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Eric Brooks",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Switchblade",
-      "Frank Blade",
-      "Daywalker"
-    ],
-    "placeOfBirth": "Soho, London,England",
-    "firstAppearance": "Tomb of Dracula Vol. 1 #10 (1973)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Eric Brooks",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Switchblade",
+      "Frank Blade",
+      "Daywalker"
+    ],
+    "placeOfBirth": "Soho, London,England",
+    "firstAppearance": "Tomb of Dracula Vol. 1 #10 (1973)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Vampire hunter, former private investigator.",
     "base": "Mobile"
@@ -45,9 +46,9 @@
     "relatives": "Tara Brooks (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/blade.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/blade.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/blade.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/blade.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/112-blade.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/112-blade.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/112-blade.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/112-blade.jpg"
   }
 }

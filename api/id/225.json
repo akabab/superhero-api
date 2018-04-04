@@ -1,6 +1,7 @@
 {
   "id": 225,
   "name": "Doctor Octopus",
+  "slug": "225-doctor-octopus",
   "powerstats": {
     "intelligence": 94,
     "strength": 48,
@@ -8,6 +9,20 @@
     "durability": 40,
     "power": 53,
     "combat": 65
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "245 lb",
+      "110 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Otto Octavius",
@@ -27,20 +42,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'9",
-      "175 cm"
-    ],
-    "weight": [
-      "245 lb",
-      "110 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Former atomic-research consultant, criminal mastermind",
     "base": "New York City"
@@ -50,9 +51,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-octopus.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-octopus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-octopus.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/doctor-octopus.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/225-doctor-octopus.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/225-doctor-octopus.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/225-doctor-octopus.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/225-doctor-octopus.jpg"
   }
 }

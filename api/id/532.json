@@ -1,6 +1,7 @@
 {
   "id": 532,
   "name": "Pyro",
+  "slug": "532-pyro",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 54,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "St. John Allerdyce",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Sydney, Australia",
-    "firstAppearance": "-",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "St. John Allerdyce",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Sydney, Australia",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Former government agent, terrorist, bodyguard, novelist, journalist",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/pyro.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/pyro.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/pyro.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/pyro.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/532-pyro.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/532-pyro.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/532-pyro.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/532-pyro.jpg"
   }
 }

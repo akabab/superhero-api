@@ -1,6 +1,7 @@
 {
   "id": 533,
   "name": "Q",
+  "slug": "533-q",
   "powerstats": {
     "intelligence": 100,
     "strength": 12,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Q",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Q Continuum"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Star Trek",
-    "alignment": "-"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Q",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Q Continuum"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "alignment": "-"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/q.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/q.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/q.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/q.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/533-q.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/533-q.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/533-q.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/533-q.jpg"
   }
 }

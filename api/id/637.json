@@ -1,6 +1,7 @@
 {
   "id": 637,
   "name": "Steppenwolf",
+  "slug": "637-steppenwolf",
   "powerstats": {
     "intelligence": 94,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Steppenwulf"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The New Gods #7",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Steppenwulf"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The New Gods #7",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/steppenwolf.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/steppenwolf.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/steppenwolf.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/steppenwolf.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/637-steppenwolf.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/637-steppenwolf.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/637-steppenwolf.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/637-steppenwolf.jpg"
   }
 }

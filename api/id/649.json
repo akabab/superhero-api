@@ -1,6 +1,7 @@
 {
   "id": 649,
   "name": "T-1000",
+  "slug": "649-t-1000",
   "powerstats": {
     "intelligence": 75,
     "strength": 34,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Cyberdyne Systems Series 1000 Terminator",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "T-1001",
-      "T-1002"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Terminator 2: Judgment Day",
-    "publisher": "Dark Horse Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Cyberdyne Systems Series 1000 Terminator",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "T-1001",
+      "T-1002"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Terminator 2: Judgment Day",
+    "publisher": "Dark Horse Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/t-1000.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/t-1000.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/t-1000.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/t-1000.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/649-t-1000.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/649-t-1000.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/649-t-1000.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/649-t-1000.jpg"
   }
 }

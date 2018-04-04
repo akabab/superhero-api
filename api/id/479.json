@@ -1,6 +1,7 @@
 {
   "id": 479,
   "name": "Mysterio",
+  "slug": "479-mysterio",
   "powerstats": {
     "intelligence": 81,
     "strength": 10,
@@ -8,20 +9,6 @@
     "durability": 40,
     "power": 82,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Quentin Beck",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Nicholas Macabes",
-      "Rudolph Hines",
-      "Gerdes",
-      "Doctor Ludwig Rinehart"
-    ],
-    "placeOfBirth": "New York, New York",
-    "firstAppearance": "Amazing Spider-Man #13 (1964)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Brown",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Quentin Beck",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nicholas Macabes",
+      "Rudolph Hines",
+      "Gerdes",
+      "Doctor Ludwig Rinehart"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "Amazing Spider-Man #13 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Criminal; former Hollywood special effects designer and stunt man",
     "base": "New York City, New York State (Earth-1610) formerly New York City, New York (Earth-616)"
@@ -46,9 +47,9 @@
     "relatives": "Henrietta Beck (mother), Elmore Beck (father), Vincent (uncle), Maguire Beck (Jack O'Lantern) (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mysterio.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mysterio.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mysterio.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mysterio.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/479-mysterio.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/479-mysterio.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/479-mysterio.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/479-mysterio.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 549,
   "name": "Red Robin",
+  "slug": "549-red-robin",
   "powerstats": {
     "intelligence": 81,
     "strength": 11,
@@ -8,6 +9,20 @@
     "durability": 32,
     "power": 29,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Tim Drake",
@@ -24,20 +39,6 @@
     "publisher": "Robin III",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'5",
-      "165 cm"
-    ],
-    "weight": [
-      "125 lb",
-      "56 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "-",
     "base": "Gotham City; Titans Tower, San Francisco"
@@ -47,9 +48,9 @@
     "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (adoptive father), Damian Wayne (adoptive brother), Dick Grayson (adoptive brother), Jason Todd (adoptive brother), Cassandra Cain (adoptive sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-robin.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-robin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-robin.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/red-robin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/549-red-robin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/549-red-robin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/549-red-robin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/549-red-robin.jpg"
   }
 }

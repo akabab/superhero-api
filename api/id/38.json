@@ -1,6 +1,7 @@
 {
   "id": 38,
   "name": "Aquaman",
+  "slug": "38-aquaman",
   "powerstats": {
     "intelligence": 81,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 80,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Atlantean",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "325 lb",
+      "146 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Orin",
@@ -25,20 +40,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Atlantean",
-    "height": [
-      "6'1",
-      "185 cm"
-    ],
-    "weight": [
-      "325 lb",
-      "146 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Protector of the Seas and Oceans, King of Poseidonis",
     "base": "Atlantean Royal Palace; Poseidonis, Atlantis"
@@ -48,9 +49,9 @@
     "relatives": "Koryak (son), Arthur Curry, Jr. (son), A.J. (son), Orm Marius (half-brother), Debbie Perkins (half-sister), Drin (adopted brother), Atlanna (mother), Atlan (father), Atlena (aunt), Porm (adopted mother), Tom Curry (adopted father), Mera (wife), Hila (sister-in-law), Haumond (uncle), Kraken (uncle), Honsu (grandfather), Lorelei (grandmother), Manu (ancestor), Nala (ancestor), Fatima (ancestor), Kalunga (ancestor), Gana (ancestor), Fiona (ancestor), Regin (ancestor), Kordax (ancestor), Bazil (ancestor), Cora (ancestor), Illya (ancestor), Dardanus (ancestor), Alloroc (ancestor), Cole (ancestor), Narmea (ancestor), Orin (ancestor), Loma (ancestor), Shalako (ancestor), Thorvall (ancestor)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/aquaman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/aquaman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/aquaman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/aquaman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/38-aquaman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/38-aquaman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/38-aquaman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/38-aquaman.jpg"
   }
 }

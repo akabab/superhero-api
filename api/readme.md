@@ -42,6 +42,7 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/id/1.js
 {
   "id": 1,
   "name": "A-Bomb",
+  "slug": "1-a-bomb",
   "powerstats": {
     "intelligence": 38,
     "strength": 100,
@@ -49,17 +50,6 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/id/1.js
     "durability": 80,
     "power": 24,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Richard Milhouse Jones",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Rick Jones"
-    ],
-    "placeOfBirth": "Scarsdale, Arizona",
-    "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -75,6 +65,17 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/id/1.js
     "eyeColor": "Yellow",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Richard Milhouse Jones",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rick Jones"
+    ],
+    "placeOfBirth": "Scarsdale, Arizona",
+    "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Musician, adventurer, author; formerly talk show host",
     "base": "-"
@@ -84,10 +85,10 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/id/1.js
     "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/a-bomb.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/a-bomb.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/a-bomb.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/a-bomb.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/1-a-bomb.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/1-a-bomb.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/1-a-bomb.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/1-a-bomb.jpg"
   }
 }
 ```

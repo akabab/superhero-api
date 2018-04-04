@@ -1,6 +1,7 @@
 {
   "id": 355,
   "name": "Jason Bourne",
+  "slug": "355-jason-bourne",
   "powerstats": {
     "intelligence": 88,
     "strength": 12,
@@ -8,17 +9,6 @@
     "durability": 30,
     "power": 26,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Jason Bourne",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": null,
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Jason Bourne",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": null,
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jason-bourne.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jason-bourne.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jason-bourne.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jason-bourne.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/355-jason-bourne.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/355-jason-bourne.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/355-jason-bourne.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/355-jason-bourne.jpg"
   }
 }

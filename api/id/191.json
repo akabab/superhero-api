@@ -1,6 +1,7 @@
 {
   "id": 191,
   "name": "Crystal",
+  "slug": "191-crystal",
   "powerstats": {
     "intelligence": 63,
     "strength": 16,
@@ -8,18 +9,6 @@
     "durability": 14,
     "power": 61,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Crystallia Amaquelin",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Crys",
-      "Exquisite Elemental"
-    ],
-    "placeOfBirth": "Attilan",
-    "firstAppearance": "Fantastic Four #45 (1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Crystallia Amaquelin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Crys",
+      "Exquisite Elemental"
+    ],
+    "placeOfBirth": "Attilan",
+    "firstAppearance": "Fantastic Four #45 (1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Mother, adventuress",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Quelin (father), Ambur (mother), Medusa (sister), Gorgon, Karnak, Triton (cousins), Black Bolt (cousin, brother-in-law), Pietro Maximoff (Quicksilver, estranged husband), Luna (daughter), Ahura (nephew), extensive extended family"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/crystal.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/crystal.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/crystal.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/crystal.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/191-crystal.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/191-crystal.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/191-crystal.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/191-crystal.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 391,
   "name": "Kingpin",
+  "slug": "391-kingpin",
   "powerstats": {
     "intelligence": 75,
     "strength": 18,
@@ -8,19 +9,6 @@
     "durability": 40,
     "power": 13,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Wilson Grant Fisk",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Brain Washer",
-      "Harold Howard",
-      "Wilbur"
-    ],
-    "placeOfBirth": "New York City area",
-    "firstAppearance": "Amazing Spider-Man #50 (July, 1967)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Wilson Grant Fisk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Brain Washer",
+      "Harold Howard",
+      "Wilbur"
+    ],
+    "placeOfBirth": "New York City area",
+    "firstAppearance": "Amazing Spider-Man #50 (July, 1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Criminal organizer and mastermind, president and owner of legitimate businesses",
     "base": "A penthouse in New York City; formerly Fisk Tower in New York City, a mansion in Westchester County, Las Vegas."
@@ -45,9 +46,9 @@
     "relatives": "Anatoly Fyskov (ancestor); Vanessa Fisk (wife, deceased); Rose (Richard Fisk) (son, deceased);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kingpin.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kingpin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kingpin.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kingpin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/391-kingpin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/391-kingpin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/391-kingpin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/391-kingpin.jpg"
   }
 }

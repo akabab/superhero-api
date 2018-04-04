@@ -1,6 +1,7 @@
 {
   "id": 441,
   "name": "Medusa",
+  "slug": "441-medusa",
   "powerstats": {
     "intelligence": 75,
     "strength": 34,
@@ -8,18 +9,6 @@
     "durability": 70,
     "power": 37,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Medusalith Amaquelin Boltagon",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Madam Medusa",
-      "Queen Medusa"
-    ],
-    "placeOfBirth": "Island of Attilan, Atlantic Ocean",
-    "firstAppearance": "Fantastic Four Vol. 1 #36 (1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Medusalith Amaquelin Boltagon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Madam Medusa",
+      "Queen Medusa"
+    ],
+    "placeOfBirth": "Island of Attilan, Atlantic Ocean",
+    "firstAppearance": "Fantastic Four Vol. 1 #36 (1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Queen, Royal interpreter",
     "base": "Attilan"
@@ -44,9 +45,9 @@
     "relatives": "Kobar, La (maternal grandparents), Azur (maternal aunt), Mander (maternal uncle-by-marriage), Quelin (father), Ambur (mother), Crystal (sister), Black Bolt (husband, second cousin), Ahura (son), Karnak (cousin), Triton (cousin), Psynapse (second cousin), Maximus (brother-in-law, second cousin), Ronan the Accuser (brother-in-law), Quicksilver (ex-brother-in-law), Luna (niece)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/medusa.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/medusa.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/medusa.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/medusa.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/441-medusa.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/441-medusa.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/441-medusa.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/441-medusa.jpg"
   }
 }

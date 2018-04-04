@@ -1,6 +1,7 @@
 {
   "id": 718,
   "name": "Wonder Girl",
+  "slug": "718-wonder-girl",
   "powerstats": {
     "intelligence": 75,
     "strength": 90,
@@ -8,6 +9,20 @@
     "durability": 80,
     "power": 39,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Demi-God",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "114 lb",
+      "51 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Cassandra Elizabeth Sandsmark",
@@ -24,20 +39,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Demi-God",
-    "height": [
-      "5'5",
-      "165 cm"
-    ],
-    "weight": [
-      "114 lb",
-      "51 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/wonder-girl-iii.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/wonder-girl-iii.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wonder-girl-iii.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/wonder-girl-iii.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/718-wonder-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/718-wonder-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/718-wonder-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/718-wonder-girl.jpg"
   }
 }

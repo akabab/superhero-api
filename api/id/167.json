@@ -1,6 +1,7 @@
 {
   "id": 167,
   "name": "Century",
+  "slug": "167-century",
   "powerstats": {
     "intelligence": 88,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Force Works #1 (July, 1994)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "White",
     "hairColor": "White"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Force Works #1 (July, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Tracker, adventurer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/century.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/century.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/century.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/century.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/167-century.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/167-century.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/167-century.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/167-century.jpg"
   }
 }

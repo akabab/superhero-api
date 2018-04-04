@@ -1,6 +1,7 @@
 {
   "id": 105,
   "name": "Black Manta",
+  "slug": "105-black-manta",
   "powerstats": {
     "intelligence": 75,
     "strength": 28,
@@ -8,19 +9,6 @@
     "durability": 60,
     "power": 76,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "David",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Devil Ray",
-      "Scourge of the Seven Seas",
-      "Yellow Lantern"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Aquaman #35 (August, 1967)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Black",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "David",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Devil Ray",
+      "Scourge of the Seven Seas",
+      "Yellow Lantern"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Aquaman #35 (August, 1967)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-manta.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-manta.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-manta.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-manta.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/105-black-manta.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/105-black-manta.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/105-black-manta.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/105-black-manta.jpg"
   }
 }

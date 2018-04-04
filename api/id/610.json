@@ -1,6 +1,7 @@
 {
   "id": 610,
   "name": "Songbird",
+  "slug": "610-songbird",
   "powerstats": {
     "intelligence": 75,
     "strength": 36,
@@ -8,19 +9,6 @@
     "durability": 42,
     "power": 55,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Melissa Joan Gold",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Screaming Mimi",
-      "Mimi Schwartz",
-      "Margie Green"
-    ],
-    "placeOfBirth": "Shoshoni, Wyoming",
-    "firstAppearance": "-",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Green",
     "hairColor": "Red / White"
   },
+  "biography": {
+    "fullName": "Melissa Joan Gold",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Screaming Mimi",
+      "Mimi Schwartz",
+      "Margie Green"
+    ],
+    "placeOfBirth": "Shoshoni, Wyoming",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; former criminal and wrestler",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Mimi Gold (mother), Mr. Gold (father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/songbird.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/songbird.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/songbird.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/songbird.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/610-songbird.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/610-songbird.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/610-songbird.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/610-songbird.jpg"
   }
 }

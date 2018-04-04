@@ -1,6 +1,7 @@
 {
   "id": 337,
   "name": "Hydro-Man",
+  "slug": "337-hydro-man",
   "powerstats": {
     "intelligence": 38,
     "strength": 13,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 66,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Morris Bench",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Morrie"
-    ],
-    "placeOfBirth": "Bronx, New York",
-    "firstAppearance": "Amazing Spider-Man #212 (January, 1981)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Morris Bench",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Morrie"
+    ],
+    "placeOfBirth": "Bronx, New York",
+    "firstAppearance": "Amazing Spider-Man #212 (January, 1981)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional Criminal; former crewman of cargo ship",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hydro-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hydro-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hydro-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hydro-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/337-hydro-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/337-hydro-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/337-hydro-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/337-hydro-man.jpg"
   }
 }

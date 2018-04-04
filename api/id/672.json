@@ -1,6 +1,7 @@
 {
   "id": 672,
   "name": "Toxin",
+  "slug": "672-toxin",
   "powerstats": {
     "intelligence": 75,
     "strength": 80,
@@ -8,6 +9,20 @@
     "durability": 85,
     "power": 97,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "260 lb",
+      "117 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Eddie Brock",
@@ -28,20 +43,6 @@
     "publisher": "Anti-Venom",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Symbiote",
-    "height": [
-      "6'3",
-      "191 cm"
-    ],
-    "weight": [
-      "260 lb",
-      "117 kg"
-    ],
-    "eyeColor": "Black",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Vigilante; former symbiote hunter, shelter attendant, government operative, journalist for the Daily Globe",
     "base": "New York, New York"
@@ -51,9 +52,9 @@
     "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Anti-Venom Symbiote (former symbiote, uncle and former brother, deceased), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/toxin-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/toxin-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/toxin-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/toxin-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/672-toxin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/672-toxin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/672-toxin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/672-toxin.jpg"
   }
 }

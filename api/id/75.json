@@ -1,6 +1,7 @@
 {
   "id": 75,
   "name": "Beast",
+  "slug": "75-beast",
   "powerstats": {
     "intelligence": 94,
     "strength": 48,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 43,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "402 lb",
+      "181 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blue"
   },
   "biography": {
     "fullName": "Henry Philip McCoy",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "5'11",
-      "180 cm"
-    ],
-    "weight": [
-      "402 lb",
-      "181 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blue"
-  },
   "work": {
     "occupation": "Biochemist, formerly Xavier Institute for Higher Learning science and math Instructor, mutant activist, college lecturer, researcher, professional wrestler",
     "base": "Xavier Institute, Salem Center, Westchester County, New York"
@@ -48,9 +49,9 @@
     "relatives": "Sadie McCoy (paternal grandmother), Norton McCoy (father), Edna McCoy (mother), Robert McCoy (paternal great-uncle), John McCoy (uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/beast.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/beast.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/beast.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/beast.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/75-beast.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/75-beast.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/75-beast.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/75-beast.jpg"
   }
 }

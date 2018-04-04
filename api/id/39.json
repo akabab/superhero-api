@@ -1,6 +1,7 @@
 {
   "id": 39,
   "name": "Arachne",
+  "slug": "39-arachne",
   "powerstats": {
     "intelligence": 50,
     "strength": 48,
@@ -8,18 +9,6 @@
     "durability": 70,
     "power": 71,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Julia Carpenter",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Spider-Woman",
-      "Madame Web"
-    ],
-    "placeOfBirth": "Los Angeles, California",
-    "firstAppearance": "Marvel Super Heroes Secret Wars #6",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Julia Carpenter",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Woman",
+      "Madame Web"
+    ],
+    "placeOfBirth": "Los Angeles, California",
+    "firstAppearance": "Marvel Super Heroes Secret Wars #6",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, fugitive, former government agent",
     "base": "Mobile; formerly Denver, Colorado; formerly Avengers Compound, Los Angeles, California"
@@ -44,9 +45,9 @@
     "relatives": "Rachel Carpenter (daughter), Walter Cornwall (father), Elizabeth Cornwall (mother), Larry Carpenter (ex-husband, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/arachne.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/arachne.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/arachne.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/arachne.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/39-arachne.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/39-arachne.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/39-arachne.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/39-arachne.jpg"
   }
 }

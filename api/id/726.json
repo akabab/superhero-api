@@ -1,6 +1,7 @@
 {
   "id": 726,
   "name": "Yellowjacket",
+  "slug": "726-yellowjacket",
   "powerstats": {
     "intelligence": 88,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 12,
     "combat": 14
-  },
-  "biography": {
-    "fullName": "Hank Pym",
-    "alterEgos": "Ant-Man, Giant-Man, Goliath, Wasp II",
-    "aliases": [
-      "Hank Pym"
-    ],
-    "placeOfBirth": "Elmsford, New York",
-    "firstAppearance": "(as Pym) TALES TO ASTONISH #27, (as Ant-Man) TALES TO ASTONISH #35, (as Giant-Man) TALES TO ASTONISH #49, (as Goliath) AVENGERS #28, (as Yellowjacket) AVENGERS #59",
-    "publisher": "Ant-Man",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Hank Pym",
+    "alterEgos": "Ant-Man, Giant-Man, Goliath, Wasp II",
+    "aliases": [
+      "Hank Pym"
+    ],
+    "placeOfBirth": "Elmsford, New York",
+    "firstAppearance": "(as Pym) TALES TO ASTONISH #27, (as Ant-Man) TALES TO ASTONISH #35, (as Giant-Man) TALES TO ASTONISH #49, (as Goliath) AVENGERS #28, (as Yellowjacket) AVENGERS #59",
+    "publisher": "Ant-Man",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
     "base": "Avengers Mansion, New York City, New York, (formerly)Avengers Compound, Los Angeles, California"
@@ -43,9 +44,9 @@
     "relatives": "Maria Trovaya (first wife, deceased), Janet Van Dyne a.k.a. The Wasp (second wife, divorced), Ultron (creation, \"son\"), Jocasta (\"first daughter-in-law\"), Alkhema (\"second daughter-in-law\"), Vision (\"grandson\"), Scarlet Witch (former granddaughter-in-law), Victor Mancha (\"grandson\")"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/yellowjacket.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/yellowjacket.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/yellowjacket.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/yellowjacket.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/726-yellowjacket.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/726-yellowjacket.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/726-yellowjacket.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/726-yellowjacket.jpg"
   }
 }

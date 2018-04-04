@@ -1,6 +1,7 @@
 {
   "id": 371,
   "name": "Jolt",
+  "slug": "371-jolt",
   "powerstats": {
     "intelligence": 63,
     "strength": 12,
@@ -8,18 +9,6 @@
     "durability": 32,
     "power": 31,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Helen Takahama",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Holly Tsuruta",
-      "Hallie Shimosato"
-    ],
-    "placeOfBirth": "Ojai, California",
-    "firstAppearance": "Thunderbolts #1 (1997)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Helen Takahama",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Holly Tsuruta",
+      "Hallie Shimosato"
+    ],
+    "placeOfBirth": "Ojai, California",
+    "firstAppearance": "Thunderbolts #1 (1997)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Robert (father, deceased), Jane (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jolt.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jolt.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jolt.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jolt.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/371-jolt.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/371-jolt.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/371-jolt.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/371-jolt.jpg"
   }
 }

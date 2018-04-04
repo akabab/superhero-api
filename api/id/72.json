@@ -1,6 +1,7 @@
 {
   "id": 72,
   "name": "Battlestar",
+  "slug": "72-battlestar",
   "powerstats": {
     "intelligence": 50,
     "strength": 53,
@@ -8,17 +9,6 @@
     "durability": 74,
     "power": 48,
     "combat": 74
-  },
-  "biography": {
-    "fullName": "Lemar Hoskins",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Bucky"
-    ],
-    "placeOfBirth": "Chicago, Illinois",
-    "firstAppearance": "Captain America #323 (1986); (as Bucky)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Lemar Hoskins",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bucky"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "Captain America #323 (1986); (as Bucky)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former wrestler, federal operative",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/battlestar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/battlestar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/battlestar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/battlestar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/72-battlestar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/72-battlestar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/72-battlestar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/72-battlestar.jpg"
   }
 }

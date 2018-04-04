@@ -1,6 +1,7 @@
 {
   "id": 217,
   "name": "Demogoblin",
+  "slug": "217-demogoblin",
   "powerstats": {
     "intelligence": 50,
     "strength": 48,
@@ -8,17 +9,6 @@
     "durability": 35,
     "power": 67,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jason Macendale Jr"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jason Macendale Jr"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Web of Spider-Man #86 (March, 1992)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Demonic Redeemer",
     "base": "New York City"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/demogoblin.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/demogoblin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/demogoblin.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/demogoblin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/217-demogoblin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/217-demogoblin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/217-demogoblin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/217-demogoblin.jpg"
   }
 }

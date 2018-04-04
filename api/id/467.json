@@ -1,6 +1,7 @@
 {
   "id": 467,
   "name": "Molten Man",
+  "slug": "467-molten-man",
   "powerstats": {
     "intelligence": 50,
     "strength": 73,
@@ -8,17 +9,6 @@
     "durability": 84,
     "power": 53,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Mark Raxton",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Amazing Spider-Man #28 (1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Gold",
     "hairColor": "Gold"
   },
+  "biography": {
+    "fullName": "Mark Raxton",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #28 (1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Security guard for Osborn industries, former criminal, lab assistant",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Doris Raxton (mother), Liz Allan Osborn (step-sister), Harry Osborn (Green Goblin II , step-brother-in-law, deceased), Norman Osborn Jr. (Green Goblin I, step-nephew)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/molten-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/molten-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/molten-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/molten-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/467-molten-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/467-molten-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/467-molten-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/467-molten-man.jpg"
   }
 }

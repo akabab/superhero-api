@@ -1,6 +1,7 @@
 {
   "id": 697,
   "name": "Vision",
+  "slug": "697-vision",
   "powerstats": {
     "intelligence": 100,
     "strength": 72,
@@ -8,17 +9,6 @@
     "durability": 95,
     "power": 100,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Vision",
-    "alterEgos": "Anti-Vision, Vision II",
-    "aliases": [
-      "Victor Shade"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
-    "publisher": "Anti-Vision",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Gold",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Vision",
+    "alterEgos": "Anti-Vision, Vision II",
+    "aliases": [
+      "Victor Shade"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Avengers Vol.1 #57, Young Avengers # 4",
+    "publisher": "Anti-Vision",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
@@ -43,9 +44,9 @@
     "relatives": "Wanda Maximoff (Scarlet Witch, ex-wife), Thomas Shepherd (Speed, son), William Kaplan (Wiccan, son), Ultron (\"father\"), Henry Pym (Ant-Man, \"grandfather\"), Pietro Maximoff (Quicksilver, ex-brother-in-law), Erik Magnus Lensher (Magneto, ex-father-in-law), Jocasta (fellow creation, \"sister\"), Simon Williams (Wonder Man, \"brother\"), Victor Mancha (fellow creation, half brother), Alkhema (fellow creation, \"stepmother\")"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/vision.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/vision.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/vision.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/vision.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/697-vision.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/697-vision.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/697-vision.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/697-vision.jpg"
   }
 }

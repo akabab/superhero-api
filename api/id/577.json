@@ -1,6 +1,7 @@
 {
   "id": 577,
   "name": "Scarlet Spider",
+  "slug": "577-scarlet-spider",
   "powerstats": {
     "intelligence": 75,
     "strength": 53,
@@ -8,18 +9,6 @@
     "durability": 74,
     "power": 46,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Benjamin Reilly",
-    "alterEgos": "Spider-Carnage",
-    "aliases": [
-      "Spider-Clone",
-      "Spider-Man"
-    ],
-    "placeOfBirth": "Place of birth unknown",
-    "firstAppearance": "Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly)",
-    "publisher": "Spider-Carnage",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Benjamin Reilly",
+    "alterEgos": "Spider-Carnage",
+    "aliases": [
+      "Spider-Clone",
+      "Spider-Man"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Amazing Spider-Man # 149 (as Spider-Clone); Web of Spider-Man # 117 (as Ben Reilly)",
+    "publisher": "Spider-Carnage",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Crime-fighter",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Peter Parker (clone of), May Parker (Aunt), Ben Parker (Uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/scarlet-spider.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/scarlet-spider.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarlet-spider.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/scarlet-spider.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/577-scarlet-spider.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/577-scarlet-spider.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/577-scarlet-spider.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/577-scarlet-spider.jpg"
   }
 }

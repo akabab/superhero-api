@@ -1,6 +1,7 @@
 {
   "id": 529,
   "name": "Psylocke",
+  "slug": "529-psylocke",
   "powerstats": {
     "intelligence": 63,
     "strength": 33,
@@ -8,19 +9,6 @@
     "durability": 40,
     "power": 100,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Elizabeth Braddock",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Betsy",
-      "Captain Britain",
-      "Lady Mandarin"
-    ],
-    "placeOfBirth": "Braddock Manor, England",
-    "firstAppearance": "Captain Britain #8 (December, 1976) / New Mutants Annual #2 (October, 1986) (US)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Purple"
   },
+  "biography": {
+    "fullName": "Elizabeth Braddock",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Betsy",
+      "Captain Britain",
+      "Lady Mandarin"
+    ],
+    "placeOfBirth": "Braddock Manor, England",
+    "firstAppearance": "Captain Britain #8 (December, 1976) / New Mutants Annual #2 (October, 1986) (US)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, formerly a STRIKE operative, fashion model",
     "base": "Xavier Institute, Salem Center, Westchester County, New York formerly Braddock Manor, United Kingdom; Australian Outback"
@@ -45,9 +46,9 @@
     "relatives": "John Braddock (ancestor, possibly grandfather); Sir James Braddock (father, deceased); Lady Elizabeth Braddock (mother, deceased); Brian Braddock (Captain Britain) (twin brother); Jamie Braddock (brother, deceased); Meggan Braddock (sister-in-law);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/psylocke.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/psylocke.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/psylocke.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/psylocke.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/529-psylocke.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/529-psylocke.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/529-psylocke.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/529-psylocke.jpg"
   }
 }

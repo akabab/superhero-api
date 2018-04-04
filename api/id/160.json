@@ -1,6 +1,7 @@
 {
   "id": 160,
   "name": "Captain Planet",
+  "slug": "160-captain-planet",
   "powerstats": {
     "intelligence": 50,
     "strength": 88,
@@ -8,19 +9,6 @@
     "durability": 80,
     "power": 100,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Captain",
-      "CP",
-      "Planet"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Captain Planet and the Planeteers (TV Series)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Red",
     "hairColor": "Green"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Captain",
+      "CP",
+      "Planet"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Captain Planet and the Planeteers (TV Series)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-planet.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-planet.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-planet.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/captain-planet.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/160-captain-planet.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/160-captain-planet.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/160-captain-planet.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/160-captain-planet.jpg"
   }
 }

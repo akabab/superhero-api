@@ -1,6 +1,7 @@
 {
   "id": 433,
   "name": "Marvel Girl",
+  "slug": "433-marvel-girl",
   "powerstats": {
     "intelligence": 63,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 42,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'7'",
+      "170 cm"
+    ],
+    "weight": [
+      "125 lb",
+      "56 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
   },
   "biography": {
     "fullName": "Rachel Anne Summers",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": null,
-    "height": [
-      "5'7'",
-      "170 cm"
-    ],
-    "weight": [
-      "125 lb",
-      "56 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Red"
-  },
   "work": {
     "occupation": "Adventurer",
     "base": "Xavier Institute of Higher Learning, Salem Center, Westchester County, New York (formerly) Braddock Lighthouse, England"
@@ -47,9 +48,9 @@
     "relatives": "Scott Summers (Cyclops, alternate timeline father, deceased in own time), Jean Grey-Summers (Phoenix, alternate timeline mother, deceased in own time), Alex Summers (Havok, alternate timeline uncle), Franklin Richards (alternate future husband), Jonathan Reed Richards (Hyperstorm, alternate future son), David Richards (alternate future son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/marvel-girl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/marvel-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/marvel-girl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/marvel-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/433-marvel-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/433-marvel-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/433-marvel-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/433-marvel-girl.jpg"
   }
 }

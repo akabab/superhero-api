@@ -1,6 +1,7 @@
 {
   "id": 150,
   "name": "Captain Atom",
+  "slug": "150-captain-atom",
   "powerstats": {
     "intelligence": 81,
     "strength": 93,
@@ -8,19 +9,6 @@
     "durability": 90,
     "power": 100,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Nathaniel Adam",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Monarch",
-      "Allen Adam",
-      "Cameron Scott"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Captain Atom #1",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Silver"
   },
+  "biography": {
+    "fullName": "Nathaniel Adam",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Monarch",
+      "Allen Adam",
+      "Cameron Scott"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Captain Atom #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former Soldier",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Angela Adam Eiling (wife, deceased), Peggy Eiling (daughter), Randy Eiling (son), Bette Sans Souci (ex-wife, divorced)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-atom.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-atom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-atom.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/captain-atom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/150-captain-atom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/150-captain-atom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/150-captain-atom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/150-captain-atom.jpg"
   }
 }

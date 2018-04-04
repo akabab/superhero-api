@@ -1,6 +1,7 @@
 {
   "id": 364,
   "name": "Jim Powell",
+  "slug": "364-jim-powell",
   "powerstats": {
     "intelligence": 38,
     "strength": 38,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 23,
     "combat": 20
-  },
-  "biography": {
-    "fullName": "Jim Powell",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "No Ordinary Family S01E01 (2010)",
-    "publisher": "ABC Studios",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Jim Powell",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Police Sketch Artist",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Stephanie Powell (wife), Daphne Powell (duaghter) and JJ Powell (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jim-powell.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jim-powell.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jim-powell.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jim-powell.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/364-jim-powell.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/364-jim-powell.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/364-jim-powell.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/364-jim-powell.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 140,
   "name": "Buffy",
+  "slug": "140-buffy",
   "powerstats": {
     "intelligence": 63,
     "strength": 28,
@@ -8,6 +9,20 @@
     "durability": 70,
     "power": 48,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'2",
+      "157 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Buffy Anne Summers",
@@ -28,20 +43,6 @@
     "publisher": "Dark Horse Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Human",
-    "height": [
-      "5'2",
-      "157 cm"
-    ],
-    "weight": [
-      "115 lb",
-      "52 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Slayer ; (formerly) Waitress ; DoubleMeat Palace employee ; Sunnydale High Counselor",
     "base": "-"
@@ -51,9 +52,9 @@
     "relatives": "Joyce Summers (mother, deceased) ; Hank Summers (father) ; Dawn Summers (sister) ; Celia (cousin, deceased) ; Arlene (aunt)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/buffy.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/buffy.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/buffy.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/buffy.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/140-buffy.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/140-buffy.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/140-buffy.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/140-buffy.jpg"
   }
 }

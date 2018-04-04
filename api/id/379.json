@@ -1,6 +1,7 @@
 {
   "id": 379,
   "name": "Kang",
+  "slug": "379-kang",
   "powerstats": {
     "intelligence": 100,
     "strength": 48,
@@ -8,6 +9,20 @@
     "durability": 70,
     "power": 100,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Nathaniel Richards",
@@ -27,20 +42,6 @@
     "publisher": "Iron Lad",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "6'3",
-      "191 cm"
-    ],
-    "weight": [
-      "230 lb",
-      "104 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -50,9 +51,9 @@
     "relatives": "Cassandra Richards, their unnamed son, and matriarch of the Eyriennes; Tara Richards, Reed Richards ( Mister Fantastic ), Franklin Richards, Valeria Richards (all ancestors); various Eyriennes (common ancestry); Victor Von Doom (Doctor Doom, alleged ancestor); Ramades (son), Marcus Kang I-XXIII (sons, deceased); Immortus, Iron Lad, and numerous other alternate dimensional counterparts and their offspring"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kang.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kang.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kang.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kang.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/379-kang.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/379-kang.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/379-kang.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/379-kang.jpg"
   }
 }

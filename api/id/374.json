@@ -1,6 +1,7 @@
 {
   "id": 374,
   "name": "Juggernaut",
+  "slug": "374-juggernaut",
   "powerstats": {
     "intelligence": 44,
     "strength": 100,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 85,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Cain Marko",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kuurth",
-      "Captain Universe"
-    ],
-    "placeOfBirth": "Berkeley, California",
-    "firstAppearance": "X-Men #12 (July, 1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Cain Marko",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kuurth",
+      "Captain Universe"
+    ],
+    "placeOfBirth": "Berkeley, California",
+    "firstAppearance": "X-Men #12 (July, 1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Adventurer formerly Professional criminal, mercenary, soldier",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Kurt Marko (father, deceased), Marjorie Marko (mother, deceased), Sharon Xavier (step-mother, deceased), Charles Xavier (Professor X, step-brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/juggernaut.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/juggernaut.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/juggernaut.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/juggernaut.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/374-juggernaut.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/374-juggernaut.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/374-juggernaut.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/374-juggernaut.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 103,
   "name": "Black Lightning",
+  "slug": "103-black-lightning",
   "powerstats": {
     "intelligence": 50,
     "strength": 11,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 70,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Jefferson Pierce",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Black Lightning #1 (April 1977)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Jefferson Pierce",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Black Lightning #1 (April 1977)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Crime Fighter, High School teacher, Former gold-medal-winning Olympic Decathlete, formerly Secretary of Education under Presidents Pete Ross and Lex Luthor.",
     "base": "Chicago, Illinois; Metropolis, The Hall & The JLA Watchtower"
@@ -43,9 +44,9 @@
     "relatives": "Unnamed father (deceased), Lynn Stewart (ex-wife), Joanna Pierce (niece, deceased), Anissa Pierce (Thunder, daughter), Jennifer Pierce (Lightning, daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-lightning.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-lightning.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-lightning.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-lightning.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/103-black-lightning.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/103-black-lightning.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/103-black-lightning.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/103-black-lightning.jpg"
   }
 }

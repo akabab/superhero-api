@@ -1,6 +1,7 @@
 {
   "id": 172,
   "name": "Cheetah",
+  "slug": "172-cheetah",
   "powerstats": {
     "intelligence": 38,
     "strength": 8,
@@ -8,18 +9,6 @@
     "durability": 20,
     "power": 32,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Priscilla Rich",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kay Carlton",
-      "The Cheetah"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Priscilla Rich",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kay Carlton",
+      "The Cheetah"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Wonder Woman Vol1 #6 (Fall 1943)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Claudia Rich (cousin), Debi Domaine (niece)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cheetah-1.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cheetah-1.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cheetah-1.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cheetah-1.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/172-cheetah.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/172-cheetah.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/172-cheetah.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/172-cheetah.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 589,
   "name": "She-Hulk",
+  "slug": "589-she-hulk",
   "powerstats": {
     "intelligence": 81,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 40,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Jennifer Walters",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jade Giantess"
-    ],
-    "placeOfBirth": "Los Angeles, California",
-    "firstAppearance": "She-Hulk (Vol. 1) #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Green"
   },
+  "biography": {
+    "fullName": "Jennifer Walters",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jade Giantess"
+    ],
+    "placeOfBirth": "Los Angeles, California",
+    "firstAppearance": "She-Hulk (Vol. 1) #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Lawyer, Magistra of the Living Tribunal",
     "base": "Law offices of Goodman, Lieber, Kurtzberg, & Holliway; formerly Avengers Mansion; Baxter Building, Four Freedoms Plaza"
@@ -43,9 +44,9 @@
     "relatives": "Bruce Banner (Hulk, cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/she-hulk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/she-hulk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/she-hulk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/she-hulk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/589-she-hulk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/589-she-hulk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/589-she-hulk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/589-she-hulk.jpg"
   }
 }

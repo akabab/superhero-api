@@ -1,6 +1,7 @@
 {
   "id": 676,
   "name": "Triplicate Girl",
+  "slug": "676-triplicate-girl",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 42,
     "power": 44,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Luornu Durgo",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Duo Damsel",
-      "Una",
-      "Triad"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Teen Titans/Legion Special #1",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Purple",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Luornu Durgo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Duo Damsel",
+      "Una",
+      "Triad"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teen Titans/Legion Special #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Earth, 31st century"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/triplicate-girl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/triplicate-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/triplicate-girl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/triplicate-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/676-triplicate-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/676-triplicate-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/676-triplicate-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/676-triplicate-girl.jpg"
   }
 }

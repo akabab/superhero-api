@@ -1,6 +1,7 @@
 {
   "id": 609,
   "name": "Solomon Grundy",
+  "slug": "609-solomon-grundy",
   "powerstats": {
     "intelligence": 9,
     "strength": 93,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 92,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Cyrus Gold",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Marshland Monster"
-    ],
-    "placeOfBirth": "Gotham City",
-    "firstAppearance": "All-American Comics #61 (October, 1944)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Black",
     "hairColor": "White"
   },
+  "biography": {
+    "fullName": "Cyrus Gold",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Marshland Monster"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "All-American Comics #61 (October, 1944)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Unnamed wife (deceased); Karin Rykel (possible descendant, deceased); Chrissie Cavendish (possible descendant)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/solomon-grundy.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/solomon-grundy.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/solomon-grundy.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/solomon-grundy.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/609-solomon-grundy.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/609-solomon-grundy.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/609-solomon-grundy.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/609-solomon-grundy.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 508,
   "name": "Ozymandias",
+  "slug": "508-ozymandias",
   "powerstats": {
     "intelligence": 100,
     "strength": 18,
@@ -8,17 +9,6 @@
     "durability": 20,
     "power": 49,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Adrian Veidt",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The World's Smartest Man"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Watchmen #1",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Adrian Veidt",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The World's Smartest Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Watchmen #1",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Friedrich Werner Veidt (father), Ingrid Renata Veidt (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ozymandias-watchmen.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ozymandias-watchmen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ozymandias-watchmen.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ozymandias-watchmen.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/508-ozymandias.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/508-ozymandias.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/508-ozymandias.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/508-ozymandias.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 518,
   "name": "Plantman",
+  "slug": "518-plantman",
   "powerstats": {
     "intelligence": 63,
     "strength": 60,
@@ -8,17 +9,6 @@
     "durability": 55,
     "power": 61,
     "combat": 25
-  },
-  "biography": {
-    "fullName": "Samuel Smithers",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Blackheath"
-    ],
-    "placeOfBirth": "London, England",
-    "firstAppearance": "Strange Tales #113 (October, 1963)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Grey"
   },
+  "biography": {
+    "fullName": "Samuel Smithers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Blackheath"
+    ],
+    "placeOfBirth": "London, England",
+    "firstAppearance": "Strange Tales #113 (October, 1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional Criminal, formerly Gardner",
     "base": "A submarine somewhere in the Atlantic Ocean, formerly London, United Kingdom"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/plantman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/plantman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/plantman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/plantman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/518-plantman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/518-plantman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/518-plantman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/518-plantman.jpg"
   }
 }

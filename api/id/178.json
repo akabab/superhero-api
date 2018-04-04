@@ -1,6 +1,7 @@
 {
   "id": 178,
   "name": "Claire Bennet",
+  "slug": "178-claire-bennet",
   "powerstats": {
     "intelligence": 38,
     "strength": 9,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 90,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Claire Bennet",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Vivian Lewis",
-      "Claire Butler"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Heroes S01E01",
-    "publisher": "NBC - Heroes",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Claire Bennet",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Vivian Lewis",
+      "Claire Butler"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S01E01",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "High school student, cheerleader",
     "base": "formerly Odessa, TX, Costa Verde, CA"
@@ -44,9 +45,9 @@
     "relatives": "Adoptive parents: Sandra Bennet, Noah Bennet, Biological parents: Meredith Gordon, Nathan Petrelli, Younger adoptive brother: Lyle Bennet,  Younger half brothers: Simon Petrelli, Monty Petrelli"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/clair-bennet.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/clair-bennet.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/clair-bennet.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/clair-bennet.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/178-claire-bennet.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/178-claire-bennet.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/178-claire-bennet.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/178-claire-bennet.jpg"
   }
 }

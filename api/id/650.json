@@ -1,6 +1,7 @@
 {
   "id": 650,
   "name": "T-800",
+  "slug": "650-t-800",
   "powerstats": {
     "intelligence": 75,
     "strength": 34,
@@ -8,17 +9,6 @@
     "durability": 60,
     "power": 73,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Cyberdyne Systems Series 800 Terminator Model 101",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Terminator"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The Terminator (1984)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Cyberdyne Systems Series 800 Terminator Model 101",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Terminator"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Terminator (1984)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Assassin",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/terminator.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/terminator.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/terminator.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/terminator.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/650-t-800.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/650-t-800.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/650-t-800.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/650-t-800.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 353,
   "name": "James T. Kirk",
+  "slug": "353-james-t.-kirk",
   "powerstats": {
     "intelligence": 69,
     "strength": 11,
@@ -8,18 +9,6 @@
     "durability": 30,
     "power": 30,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "James T. Kirk",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jim",
-      "Captain Kirk"
-    ],
-    "placeOfBirth": "Riverside, Iowa, Earth",
-    "firstAppearance": "Star Trek S01E01: The Man Trap",
-    "publisher": "Star Trek",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Hazel",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "James T. Kirk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jim",
+      "Captain Kirk"
+    ],
+    "placeOfBirth": "Riverside, Iowa, Earth",
+    "firstAppearance": "Star Trek S01E01: The Man Trap",
+    "publisher": "Star Trek",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Captain",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Winona Kirk (mother), George Kirk (father), George Samuel Kirk (brother), Michele Suzanne Kirk (sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/james-t-kirk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/james-t-kirk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/james-t-kirk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/james-t-kirk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/353-james-t.-kirk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/353-james-t.-kirk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/353-james-t.-kirk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/353-james-t.-kirk.jpg"
   }
 }

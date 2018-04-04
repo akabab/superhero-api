@@ -1,6 +1,7 @@
 {
   "id": 421,
   "name": "Mach-IV",
+  "slug": "421-mach-iv",
   "powerstats": {
     "intelligence": 75,
     "strength": 36,
@@ -8,6 +9,20 @@
     "durability": 84,
     "power": 60,
     "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Abner Jenkins",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "5'11",
-      "180 cm"
-    ],
-    "weight": [
-      "175 lb",
-      "79 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Adventurer; former master mechanic, professional criminal, mercenary",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mach-4.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mach-4.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mach-4.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mach-4.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/421-mach-iv.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/421-mach-iv.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/421-mach-iv.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/421-mach-iv.jpg"
   }
 }

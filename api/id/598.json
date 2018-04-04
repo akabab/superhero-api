@@ -1,6 +1,7 @@
 {
   "id": 598,
   "name": "Silver Surfer",
+  "slug": "598-silver-surfer",
   "powerstats": {
     "intelligence": 56,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 100,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Norrin Radd",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Zenn-La",
-    "firstAppearance": "Fantastic Four, Vol. 1 #48",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "White",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Norrin Radd",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Zenn-La",
+    "firstAppearance": "Fantastic Four, Vol. 1 #48",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, formerly Galactus' Herald",
     "base": "mobile throughout the universe"
@@ -43,9 +44,9 @@
     "relatives": "Jartran Radd (father, deceased), Elmar Radd (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/silver-surfer.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/silver-surfer.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/silver-surfer.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/silver-surfer.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/598-silver-surfer.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/598-silver-surfer.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/598-silver-surfer.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/598-silver-surfer.jpg"
   }
 }

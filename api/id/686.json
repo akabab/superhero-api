@@ -1,6 +1,7 @@
 {
   "id": 686,
   "name": "Vegeta",
+  "slug": "686-vegeta",
   "powerstats": {
     "intelligence": 81,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 95,
     "power": 100,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Saiyan",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "163 lb",
+      "73 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Vegeta",
@@ -32,20 +47,6 @@
     "publisher": "Shueisha",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Saiyan",
-    "height": [
-      "5'6",
-      "168 cm"
-    ],
-    "weight": [
-      "163 lb",
-      "73 kg"
-    ],
-    "eyeColor": "-",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -55,9 +56,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/vegeta.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/vegeta.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/vegeta.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/vegeta.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/686-vegeta.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/686-vegeta.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/686-vegeta.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/686-vegeta.jpg"
   }
 }

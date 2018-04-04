@@ -1,6 +1,7 @@
 {
   "id": 114,
   "name": "Bling!",
+  "slug": "114-bling!",
   "powerstats": {
     "intelligence": 69,
     "strength": 14,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 52,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Roxanne Washington",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Men #171 (2005)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Roxanne Washington",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men #171 (2005)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Utopia; formerly Graymalkin Industries, San Francisco, California; Xavier Institute, Salem Center, New York State"
@@ -43,9 +44,9 @@
     "relatives": "Roy \"Daddy Libido\" Washington (father), Angel \"Sexy Mutha\" Depres (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bling!.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bling!.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bling!.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bling!.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/114-bling!.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/114-bling!.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/114-bling!.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/114-bling!.jpg"
   }
 }

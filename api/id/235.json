@@ -1,6 +1,7 @@
 {
   "id": 235,
   "name": "Ego",
+  "slug": "235-ego",
   "powerstats": {
     "intelligence": 88,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 99,
     "power": 71,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Ego",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Living Planet"
-    ],
-    "placeOfBirth": "The Black Galaxy",
-    "firstAppearance": "THOR #132",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "-",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Ego",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Living Planet"
+    ],
+    "placeOfBirth": "The Black Galaxy",
+    "firstAppearance": "THOR #132",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Inapplicable",
     "base": "Mobile"
@@ -43,9 +44,9 @@
     "relatives": "Inapplicable"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ego.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ego.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ego.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ego.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/235-ego.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/235-ego.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/235-ego.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/235-ego.jpg"
   }
 }

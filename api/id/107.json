@@ -1,6 +1,7 @@
 {
   "id": 107,
   "name": "Black Widow",
+  "slug": "107-black-widow",
   "powerstats": {
     "intelligence": 75,
     "strength": 13,
@@ -8,6 +9,20 @@
     "durability": 30,
     "power": 36,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "131 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Auburn"
   },
   "biography": {
     "fullName": "Natasha Romanoff",
@@ -30,20 +45,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Human",
-    "height": [
-      "5'7",
-      "170 cm"
-    ],
-    "weight": [
-      "131 lb",
-      "59 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Auburn"
-  },
   "work": {
     "occupation": "Adventurer, Intelligence agent, former ballerina",
     "base": "Mobile"
@@ -53,9 +54,9 @@
     "relatives": "Unnamed parents (presumed deceased); Alexi Shostakov (Red Guardian, estranged husband); Vindiktor (alleged brother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-widow-1.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-widow-1.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-widow-1.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-widow-1.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/107-black-widow.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/107-black-widow.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/107-black-widow.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/107-black-widow.jpg"
   }
 }

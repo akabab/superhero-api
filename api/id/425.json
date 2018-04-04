@@ -1,6 +1,7 @@
 {
   "id": 425,
   "name": "Magus",
+  "slug": "425-magus",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 99,
     "power": 100,
     "combat": 74
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Warlock's Father"
-    ],
-    "placeOfBirth": "Kvch (Technarchy?s home planet)",
-    "firstAppearance": "New Mutants #18 (1984)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Black",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Warlock's Father"
+    ],
+    "placeOfBirth": "Kvch (Technarchy?s home planet)",
+    "firstAppearance": "New Mutants #18 (1984)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Ruler of the Technarchy",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Warlock (son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/magus.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/magus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/magus.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/magus.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/425-magus.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/425-magus.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/425-magus.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/425-magus.jpg"
   }
 }

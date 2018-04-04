@@ -1,6 +1,7 @@
 {
   "id": 344,
   "name": "Invisible Woman",
+  "slug": "344-invisible-woman",
   "powerstats": {
     "intelligence": 88,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 85,
     "power": 93,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Susan Storm Richards",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Invisible Girl"
-    ],
-    "placeOfBirth": "Glenville, Long Island, New York",
-    "firstAppearance": "FANTASTIC FOUR #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Susan Storm Richards",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Invisible Girl"
+    ],
+    "placeOfBirth": "Glenville, Long Island, New York",
+    "firstAppearance": "FANTASTIC FOUR #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Member of the Fantastic Four, financial manager for Fantastic Four Inc, occasional model and actress",
     "base": "Pier Four, New York City"
@@ -43,9 +44,9 @@
     "relatives": "Reed Richards (Mister Fantastic, husband), Franklin Richards (son), Valeria Richards (daughter), Johnny Storm (Human Torch, brother), Franklin Storm (father, deceased), Mary Storm (mother, deceased), Marygay Jewel Dinkins (aunt), \"Bones\" (cousin), Evelyn Richards (mother-in-law, deceased), Nathaniel Richards (father-in-law), Cassandra Richards (Warlord, mother-in-law, deceased), unnamed child of Nathaniel Richards (brother-in-law), Tara Richards (Huntara, sister-in-law), Kristoff Vernard (alleged brother-in-law), Lyja (sister-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/invisible-woman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/invisible-woman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/invisible-woman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/invisible-woman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/344-invisible-woman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/344-invisible-woman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/344-invisible-woman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/344-invisible-woman.jpg"
   }
 }

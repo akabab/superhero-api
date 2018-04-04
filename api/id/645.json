@@ -1,6 +1,7 @@
 {
   "id": 645,
   "name": "Swamp Thing",
+  "slug": "645-swamp-thing",
   "powerstats": {
     "intelligence": 88,
     "strength": 95,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 55
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "No Hair"
   },
   "biography": {
     "fullName": "Alec Holland",
@@ -24,20 +39,6 @@
     "publisher": "DC Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "God / Eternal",
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "No Hair"
-  },
   "work": {
     "occupation": "Planet Elemental, former Biochemist",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "Larry Holland (father, deceased); Alice Holland (mother, deceased); Edward Holland (brother); Linda Holland (first wife, deceased); Abigail Holland (second wife); Tef? Holland (daughter); Gregori Arcane (father-in-law, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/swamp-thing.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/swamp-thing.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/swamp-thing.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/swamp-thing.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/645-swamp-thing.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/645-swamp-thing.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/645-swamp-thing.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/645-swamp-thing.jpg"
   }
 }

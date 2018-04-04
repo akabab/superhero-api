@@ -1,6 +1,7 @@
 {
   "id": 126,
   "name": "Blue Beetle III",
+  "slug": "126-blue-beetle-iii",
   "powerstats": {
     "intelligence": 50,
     "strength": 34,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 100,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Jaime Reyes",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Scooter"
-    ],
-    "placeOfBirth": "Presumed to be El Paso",
-    "firstAppearance": "Infinite Crisis #3 (2006)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jaime Reyes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Scooter"
+    ],
+    "placeOfBirth": "Presumed to be El Paso",
+    "firstAppearance": "Infinite Crisis #3 (2006)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student",
     "base": "El Paso, Texas"
@@ -43,9 +44,9 @@
     "relatives": "Alberto Reyes (father); Bianca Reyes (mother); Milagro Reyes (younger sister); Alejandro Reyes (grandfather, deceased); Elena Leal (maternal grandmother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/blue-beetle-3.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/blue-beetle-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/blue-beetle-3.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/blue-beetle-3.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/126-blue-beetle-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/126-blue-beetle-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/126-blue-beetle-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/126-blue-beetle-iii.jpg"
   }
 }

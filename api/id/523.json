@@ -1,6 +1,7 @@
 {
   "id": 523,
   "name": "Polaris",
+  "slug": "523-polaris",
   "powerstats": {
     "intelligence": 63,
     "strength": 73,
@@ -8,6 +9,20 @@
     "durability": 50,
     "power": 100,
     "combat": 45
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Green"
   },
   "biography": {
     "fullName": "Lorna Dane",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant",
-    "height": [
-      "5'7",
-      "170 cm"
-    ],
-    "weight": [
-      "115 lb",
-      "52 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Green"
-  },
   "work": {
     "occupation": "Adventurer, former U.S. government operative, former graduate student in geophysics",
     "base": "Serval Industries, Virginia; formerly X-Factor Investigations Headquarters, Starjammer; Xavier Institute for Higher Learning, Salem Center, Westchester County, New York; Genosha; X-Factor HQ, Washington D.C., Maryland; Mutant Research Center, Muir Island;"
@@ -48,9 +49,9 @@
     "relatives": "Joseph (father's clone/paternal uncle, deceased), Magneto (father), Magda Lehnsherr (step-mother, deceased), Zaladane (sister, status uncertain), Anya Lehnsherr (paternal half-sister, deceased), Scarlet Witch (paternal half-sister), Quicksilver (paternal half-brother), Nightcrawler (half-brother-in-law), Vision (half-brother-in-law), Crystal (half-sister-in-law), Nocturne (half-niece), Speed (half-nephew), Wiccan (half-nephew), Luna Maximoff (half-niece)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/polaris.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/polaris.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/polaris.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/polaris.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/523-polaris.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/523-polaris.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/523-polaris.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/523-polaris.jpg"
   }
 }

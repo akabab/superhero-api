@@ -1,6 +1,7 @@
 {
   "id": 469,
   "name": "Monica Dawson",
+  "slug": "469-monica-dawson",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 48,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Monica Dawson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Heroes S02E04 - The Kindness of Strangers",
-    "publisher": "NBC - Heroes",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Monica Dawson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S02E04 - The Kindness of Strangers",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Fast food service",
     "base": "New Orleans, LA"
@@ -43,9 +44,9 @@
     "relatives": "Nana Dawson (Grandmother), Damon (brother), DL Hawkins (cousin), Niki Sanders (cousin-in-law once removed), Micah Sanders (second cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/monica-dawson.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/monica-dawson.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/monica-dawson.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/monica-dawson.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/469-monica-dawson.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/469-monica-dawson.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/469-monica-dawson.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/469-monica-dawson.jpg"
   }
 }

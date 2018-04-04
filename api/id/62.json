@@ -1,6 +1,7 @@
 {
   "id": 62,
   "name": "Bantam",
+  "slug": "62-bantam",
   "powerstats": {
     "intelligence": 25,
     "strength": 53,
@@ -8,17 +9,6 @@
     "durability": 54,
     "power": 21,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Roberto Velasquez",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Roberto Velasquez",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Civil War: Front Line #3 (September, 2006)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, boxing trainer, former boxer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bentam.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bentam.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bentam.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bentam.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/62-bantam.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/62-bantam.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/62-bantam.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/62-bantam.jpg"
   }
 }

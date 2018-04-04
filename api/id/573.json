@@ -1,6 +1,7 @@
 {
   "id": 573,
   "name": "Sasquatch",
+  "slug": "573-sasquatch",
   "powerstats": {
     "intelligence": 75,
     "strength": 80,
@@ -8,18 +9,6 @@
     "durability": 56,
     "power": 15,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Walter Langkowski",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Box",
-      "Wanda Langkowski"
-    ],
-    "placeOfBirth": "Edmonton, Alberta, Canada",
-    "firstAppearance": "-",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Red",
     "hairColor": "Orange"
   },
+  "biography": {
+    "fullName": "Walter Langkowski",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Box",
+      "Wanda Langkowski"
+    ],
+    "placeOfBirth": "Edmonton, Alberta, Canada",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, bio-physicist, government operative; former college lecturer, professional football player",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Veronica Langkowsi (ex-wife), unidentified son, Lillian von Loont (Gilded Lily, great-aunt, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sasquatch.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sasquatch.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sasquatch.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sasquatch.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/573-sasquatch.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/573-sasquatch.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/573-sasquatch.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/573-sasquatch.jpg"
   }
 }

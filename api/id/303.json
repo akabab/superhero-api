@@ -1,6 +1,7 @@
 {
   "id": 303,
   "name": "Groot",
+  "slug": "303-groot",
   "powerstats": {
     "intelligence": 75,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 70,
     "power": 100,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Flora Colossus",
+    "height": [
+      "23'0",
+      "701 cm"
+    ],
+    "weight": [
+      "8200 lb",
+      "4 tons"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Groot",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Flora Colossus",
-    "height": [
-      "23'0",
-      "701 cm"
-    ],
-    "weight": [
-      "8200 lb",
-      "4 tons"
-    ],
-    "eyeColor": "Yellow",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "-",
     "base": "Area 13 (the Howling Commandos' base)"
@@ -47,9 +48,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/groot.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/groot.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/groot.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/groot.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/303-groot.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/303-groot.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/303-groot.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/303-groot.jpg"
   }
 }

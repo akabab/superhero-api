@@ -1,6 +1,7 @@
 {
   "id": 206,
   "name": "Darkstar",
+  "slug": "206-darkstar",
   "powerstats": {
     "intelligence": 38,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 79,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Laynia Petrovna",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Tyomni Zvesda"
-    ],
-    "placeOfBirth": "Minks, USSR",
-    "firstAppearance": "Champions #7 (August, 1976)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Laynia Petrovna",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tyomni Zvesda"
+    ],
+    "placeOfBirth": "Minks, USSR",
+    "firstAppearance": "Champions #7 (August, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Occupation unknown",
     "base": "(before death) Paris, France (formerly) Moscow, USSR; Los Angeles, California, United States"
@@ -43,9 +44,9 @@
     "relatives": "Nicolai Krylenko a.k.a. Vanguard (brother), Sergi Krylov a.k.a. The Presence (father), Marya Krylova (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/darkstar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/darkstar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/darkstar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/darkstar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/206-darkstar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/206-darkstar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/206-darkstar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/206-darkstar.jpg"
   }
 }

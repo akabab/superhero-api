@@ -1,6 +1,7 @@
 {
   "id": 439,
   "name": "Maxima",
+  "slug": "439-maxima",
   "powerstats": {
     "intelligence": 75,
     "strength": 90,
@@ -8,18 +9,6 @@
     "durability": 56,
     "power": 81,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Queen Maxima",
-      "Empress of the Almeracian Empire"
-    ],
-    "placeOfBirth": "Almerac",
-    "firstAppearance": "-",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Queen Maxima",
+      "Empress of the Almeracian Empire"
+    ],
+    "placeOfBirth": "Almerac",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Adventurer, Queen of the Almerac Empire",
     "base": "Imperial Royal Palace"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/maxima.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/maxima.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/maxima.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/maxima.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/439-maxima.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/439-maxima.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/439-maxima.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/439-maxima.jpg"
   }
 }

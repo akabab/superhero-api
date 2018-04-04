@@ -1,6 +1,7 @@
 {
   "id": 299,
   "name": "Green Goblin",
+  "slug": "299-green-goblin",
   "powerstats": {
     "intelligence": 100,
     "strength": 48,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 48,
     "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "185 lb",
+      "83 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Auburn"
   },
   "biography": {
     "fullName": "Norman Osborn",
@@ -29,20 +44,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'11",
-      "180 cm"
-    ],
-    "weight": [
-      "185 lb",
-      "83 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Auburn"
-  },
   "work": {
     "occupation": "Professional criminal, owner and president of Osborn Industries",
     "base": "H.A.M.M.E.R. base; formerly Avengers Tower, New York City, New York"
@@ -52,9 +53,9 @@
     "relatives": "Alton Osborn, Sr. (paternal great-grandfather, deceased);Alton Osborn, Jr. (paternal grandfather, deceased);Amberson Osborn (father, deceased);Emily Osborn (wife, deceased);Gabriel Stacy (son);Sarah Stacy (daughter);Harry Osborn (Green Goblin II, son);Liz Allan (ex-daughter-in-law);Normie Osborn (grandson);Stanley Osborn (grandson);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/green-goblin.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/green-goblin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/green-goblin.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/green-goblin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/299-green-goblin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/299-green-goblin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/299-green-goblin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/299-green-goblin.jpg"
   }
 }

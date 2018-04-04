@@ -1,6 +1,7 @@
 {
   "id": 574,
   "name": "Sauron",
+  "slug": "574-sauron",
   "powerstats": {
     "intelligence": 88,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Maiar",
+    "height": [
+      "9'2",
+      "279 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Sauron",
@@ -26,20 +41,6 @@
     "publisher": "J. R. R. Tolkien",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Maiar",
-    "height": [
-      "9'2",
-      "279 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "-",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -49,9 +50,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sauron-lotr.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sauron-lotr.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sauron-lotr.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sauron-lotr.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/574-sauron.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/574-sauron.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/574-sauron.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/574-sauron.jpg"
   }
 }

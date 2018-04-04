@@ -1,6 +1,7 @@
 {
   "id": 542,
   "name": "Raven",
+  "slug": "542-raven",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 70,
     "power": 84,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Rachel Roth",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Pride",
-      "Dark Raven"
-    ],
-    "placeOfBirth": "Azarath",
-    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
-    "publisher": "DC Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Indigo",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Rachel Roth",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pride",
+      "Dark Raven"
+    ],
+    "placeOfBirth": "Azarath",
+    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Adventurer, high school student",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Trigon (father), Angela Roth (mother, deceased), Gluttony, Greed, Lust, Wrath, Envy, Sloth (half-brothers, status unknown)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/raven.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/raven.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/raven.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/raven.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/542-raven.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/542-raven.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/542-raven.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/542-raven.jpg"
   }
 }

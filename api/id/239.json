@@ -1,6 +1,7 @@
 {
   "id": 239,
   "name": "Elle Bishop",
+  "slug": "239-elle-bishop",
   "powerstats": {
     "intelligence": 50,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 63,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Cindy"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Heroes S02E05 - Fight or Flight",
-    "publisher": "NBC - Heroes",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cindy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S02E05 - Fight or Flight",
+    "publisher": "NBC - Heroes",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Agent of the Company",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Bob Bishop (Father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/elle-bishop.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/elle-bishop.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/elle-bishop.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/elle-bishop.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/239-elle-bishop.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/239-elle-bishop.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/239-elle-bishop.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/239-elle-bishop.jpg"
   }
 }

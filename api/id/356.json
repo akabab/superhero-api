@@ -1,6 +1,7 @@
 {
   "id": 356,
   "name": "Jean Grey",
+  "slug": "356-jean-grey",
   "powerstats": {
     "intelligence": 94,
     "strength": 80,
@@ -8,18 +9,6 @@
     "durability": 20,
     "power": 92,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Jean Grey",
-    "alterEgos": "Phoenix, White Phoenix of The Crown",
-    "aliases": [
-      "Redd Dayspring",
-      "Marvel Girl"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Men #1 (September, 1963)",
-    "publisher": "Phoenix",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Jean Grey",
+    "alterEgos": "Phoenix, White Phoenix of The Crown",
+    "aliases": [
+      "Redd Dayspring",
+      "Marvel Girl"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Phoenix",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "Xavier Institute of Higher Learning, Westchester County, New York"
@@ -44,9 +45,9 @@
     "relatives": "Rachel Summers (daughter from an alternate universe), X-Man (son from an alternate universe), Cyclops (ex-husband), Havok (former brother-in-law), Corsair (former father-in-law), Madelyne Pryor (clone), Cable (adoptive/biological son), Stryfe (cloned biological son), Genesis (grandson)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jean-grey-pre-phoenix.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jean-grey-pre-phoenix.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jean-grey-pre-phoenix.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jean-grey-pre-phoenix.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/356-jean-grey.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/356-jean-grey.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/356-jean-grey.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/356-jean-grey.jpg"
   }
 }

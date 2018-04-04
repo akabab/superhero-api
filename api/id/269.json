@@ -1,6 +1,7 @@
 {
   "id": 269,
   "name": "Franklin Richards",
+  "slug": "269-franklin-richards",
   "powerstats": {
     "intelligence": 63,
     "strength": 80,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 100,
     "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "4'8",
+      "142 cm"
+    ],
+    "weight": [
+      "100 lb",
+      "45 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Franklin  Richards",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "4'8",
-      "142 cm"
-    ],
-    "weight": [
-      "100 lb",
-      "45 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Student",
     "base": "Baxter Building, New York, New York (formerly) Four Freedoms Plaza; Pier 4; Massachusetts Academy"
@@ -47,9 +48,9 @@
     "relatives": "Reed Richards (Mister Fantastic, father), Susan Storm Richards (Invisible Woman, mother), Valeria Richards (sister), Jonathan Storm (Human Torch, uncle), Nathaniel Richards (paternal grandfather), Franklin Storm (maternal grandfather, deceased), Evelyn Richards, Mary Storm (grandmothers (paternal and maternal respectively), deceased), Benjamin J. Grimm (Thing, godfather), Alicia Masters (godmother)."
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/franklin-richards.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/franklin-richards.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/franklin-richards.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/franklin-richards.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/269-franklin-richards.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/269-franklin-richards.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/269-franklin-richards.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/269-franklin-richards.jpg"
   }
 }

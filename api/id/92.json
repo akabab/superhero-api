@@ -1,6 +1,7 @@
 {
   "id": 92,
   "name": "Bishop",
+  "slug": "92-bishop",
   "powerstats": {
     "intelligence": 63,
     "strength": 14,
@@ -8,17 +9,6 @@
     "durability": 75,
     "power": 100,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Lucas Bishop",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Archbishop"
-    ],
-    "placeOfBirth": "A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth",
-    "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Lucas Bishop",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Archbishop"
+    ],
+    "placeOfBirth": "A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth",
+    "firstAppearance": "Uncanny X-Men #282 (November, 1991)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "(current) Adventurer, (former) Commander in the XSE (Xavier's Security Enforcers)",
     "base": "Formerly Xavier Institute for Higher Learning, Salem Center, Westchester County, New York"
@@ -43,9 +44,9 @@
     "relatives": "Burnum Bishop (father, deceased), Kadee Bishop (mother, deceased), Shard (sister, deceased), unnamed grandmother, Gateway (great-grandfather), Aliyah Bishop (alternate reality daughter);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bishop.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bishop.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bishop.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bishop.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/92-bishop.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/92-bishop.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/92-bishop.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/92-bishop.jpg"
   }
 }

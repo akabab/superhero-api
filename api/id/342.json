@@ -1,6 +1,7 @@
 {
   "id": 342,
   "name": "Indigo",
+  "slug": "342-indigo",
   "powerstats": {
     "intelligence": 75,
     "strength": 63,
@@ -8,17 +9,6 @@
     "durability": 50,
     "power": 100,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Iroque",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Indigo-1"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
-    "publisher": "DC Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "Purple"
   },
+  "biography": {
+    "fullName": "Iroque",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Indigo-1"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Green Lantern Vol 4 #25 (January, 2008)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Leader of the Indigo Tribe",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/indigo.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/indigo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/indigo.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/indigo.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/342-indigo.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/342-indigo.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/342-indigo.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/342-indigo.jpg"
   }
 }

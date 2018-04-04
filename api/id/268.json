@@ -1,6 +1,7 @@
 {
   "id": 268,
   "name": "Forge",
+  "slug": "268-forge",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 25,
     "combat": 48
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Maker",
-      "Cheyenne"
-    ],
-    "placeOfBirth": "Unrevealed, presumably in the American West",
-    "firstAppearance": "Uncanny X-Men #184",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "-",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Maker",
+      "Cheyenne"
+    ],
+    "placeOfBirth": "Unrevealed, presumably in the American West",
+    "firstAppearance": "Uncanny X-Men #184",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Inventor working for the U.S. government, former soldier",
     "base": "Arlington, Virginia"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/forge.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/forge.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/forge.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/forge.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/268-forge.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/268-forge.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/268-forge.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/268-forge.jpg"
   }
 }

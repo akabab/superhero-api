@@ -1,6 +1,7 @@
 {
   "id": 52,
   "name": "Atom Girl",
+  "slug": "52-atom-girl",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 38,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Salu Digby",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Shrinking Violet"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Black",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Salu Digby",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Shrinking Violet"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "United Planets, 31st century"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/atom-girl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/atom-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/atom-girl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/atom-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/52-atom-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/52-atom-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/52-atom-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/52-atom-girl.jpg"
   }
 }

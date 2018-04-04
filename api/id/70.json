@@ -1,6 +1,7 @@
 {
   "id": 70,
   "name": "Batman",
+  "slug": "70-batman",
   "powerstats": {
     "intelligence": 100,
     "strength": 26,
@@ -8,18 +9,6 @@
     "durability": 50,
     "power": 47,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Bruce Wayne",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Insider",
-      "Matches Malone"
-    ],
-    "placeOfBirth": "Crest Hill, Bristol Township; Gotham County",
-    "firstAppearance": "Detective Comics #27",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "blue",
     "hairColor": "black"
   },
+  "biography": {
+    "fullName": "Bruce Wayne",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Insider",
+      "Matches Malone"
+    ],
+    "placeOfBirth": "Crest Hill, Bristol Township; Gotham County",
+    "firstAppearance": "Detective Comics #27",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Businessman",
     "base": "Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower"
@@ -44,9 +45,9 @@
     "relatives": "Damian Wayne (son), Dick Grayson (adopted son), Tim Drake (adopted son), Jason Todd (adopted son), Cassandra Cain (adopted ward)\nMartha Wayne (mother, deceased), Thomas Wayne (father, deceased), Alfred Pennyworth (former guardian), Roderick Kane (grandfather, deceased), Elizabeth Kane (grandmother, deceased), Nathan Kane (uncle, deceased), Simon Hurt (ancestor), Wayne Family"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/batman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/batman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/batman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/batman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/70-batman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/70-batman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/70-batman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/70-batman.jpg"
   }
 }

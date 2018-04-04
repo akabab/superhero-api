@@ -1,6 +1,7 @@
 {
   "id": 454,
   "name": "Misfit",
+  "slug": "454-misfit",
   "powerstats": {
     "intelligence": 63,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 91,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Charlotte Gage-Radcliffe",
-    "alterEgos": "Batgirl V",
-    "aliases": [
-      "Batgirl"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Birds of Prey #96",
-    "publisher": "Batgirl V",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Charlotte Gage-Radcliffe",
+    "alterEgos": "Batgirl V",
+    "aliases": [
+      "Batgirl"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Birds of Prey #96",
+    "publisher": "Batgirl V",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Dalten Towers, Metropolis"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/misfit.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/misfit.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/misfit.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/misfit.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/454-misfit.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/454-misfit.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/454-misfit.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/454-misfit.jpg"
   }
 }

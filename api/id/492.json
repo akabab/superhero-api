@@ -1,6 +1,7 @@
 {
   "id": 492,
   "name": "Niki Sanders",
+  "slug": "492-niki-sanders",
   "powerstats": {
     "intelligence": 63,
     "strength": 52,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 37,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Nicole Sanders",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jessica",
-      "Gina"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Heroes S01E01 - Genesis",
-    "publisher": "NBC - Heroes",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Nicole Sanders",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jessica",
+      "Gina"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S01E01 - Genesis",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former casino worker and online webcam operator; currently an agent of the Company",
     "base": "Las Vegas, NV"
@@ -44,9 +45,9 @@
     "relatives": "DL Hawkins (husband), Hal Sanders (father), Micah Sanders (son), Jessica Sanders (sister,deceased), Monica Dawson (cousin-in-law), Damon Dawson (cousin-in-law), Paulette Hawkins (mother-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/niki-sanders.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/niki-sanders.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/niki-sanders.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/niki-sanders.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/492-niki-sanders.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/492-niki-sanders.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/492-niki-sanders.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/492-niki-sanders.jpg"
   }
 }

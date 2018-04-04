@@ -1,6 +1,7 @@
 {
   "id": 460,
   "name": "Mister Sinister",
+  "slug": "460-mister-sinister",
   "powerstats": {
     "intelligence": 100,
     "strength": 48,
@@ -8,6 +9,20 @@
     "durability": 90,
     "power": 100,
     "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Altered",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "285 lb",
+      "128 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Nathaniel Essex",
@@ -31,20 +46,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human / Altered",
-    "height": [
-      "6'5",
-      "196 cm"
-    ],
-    "weight": [
-      "285 lb",
-      "128 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Geneticist, Criminal, biologist and mutant-supremacist",
     "base": "Many bases throughout the world including his State Home for Foundlings and the Center for Homo Superior Medical Care."
@@ -54,9 +55,9 @@
     "relatives": "Rebecca Essex (wife, deceased), Adam Stanislaus Essex (son, deceased), N2 (creation, deceased), Madelyne Pryor (creation, deceased), Claudine Renko (clone \"daughter\")"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-sinister.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-sinister.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-sinister.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mister-sinister.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/460-mister-sinister.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/460-mister-sinister.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/460-mister-sinister.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/460-mister-sinister.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 35,
   "name": "Apocalypse",
+  "slug": "35-apocalypse",
   "powerstats": {
     "intelligence": 100,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "7'0",
+      "213 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "En Sabah Nur",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "7'0",
-      "213 cm"
-    ],
-    "weight": [
-      "300 lb",
-      "135 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Student; formerly Conqueror; Scientist",
     "base": "Celestial Ship, mobile"
@@ -48,9 +49,9 @@
     "relatives": "Baal of the Crimson Sands (adopted father, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/apocalypse.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/apocalypse.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/apocalypse.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/apocalypse.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/35-apocalypse.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/35-apocalypse.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/35-apocalypse.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/35-apocalypse.jpg"
   }
 }

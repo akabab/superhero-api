@@ -1,6 +1,7 @@
 {
   "id": 480,
   "name": "Mystique",
+  "slug": "480-mystique",
   "powerstats": {
     "intelligence": 75,
     "strength": 12,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 64,
     "combat": 74
-  },
-  "biography": {
-    "fullName": "Raven Darkholme",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mallory Brickman"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Yellow (without irises)",
     "hairColor": "Red / Orange"
   },
+  "biography": {
+    "fullName": "Raven Darkholme",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mallory Brickman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(as Raven Darkholme) MS. MARVEL #16, (as Mystique) MS. MARVEL #18",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Special operative for Germany and the United States governments, (former) German Freedom Fighter, special operative in the Weapon X Project Team",
     "base": "Arlington, Virginia"
@@ -43,9 +44,9 @@
     "relatives": "Rogue (unofficial foster daughter), Ralph Brickman (husband), Gloria Brickman (daughter), Graydon Creed (son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mystique.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mystique.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mystique.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mystique.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/480-mystique.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/480-mystique.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/480-mystique.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/480-mystique.jpg"
   }
 }

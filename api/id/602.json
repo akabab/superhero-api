@@ -1,6 +1,7 @@
 {
   "id": 602,
   "name": "Siren",
+  "slug": "602-siren",
   "powerstats": {
     "intelligence": 56,
     "strength": 62,
@@ -8,17 +9,6 @@
     "durability": 60,
     "power": 92,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Hila",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Aquaman #22 (August, 1965)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Purple"
   },
+  "biography": {
+    "fullName": "Hila",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Aquaman #22 (August, 1965)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "formely Atlantis"
@@ -43,9 +44,9 @@
     "relatives": "Mera (twin sister), Aquaman (brother-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/siren.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/siren.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/siren.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/siren.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/602-siren.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/602-siren.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/602-siren.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/602-siren.jpg"
   }
 }

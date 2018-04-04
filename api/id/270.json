@@ -1,6 +1,7 @@
 {
   "id": 270,
   "name": "Franklin Storm",
+  "slug": "270-franklin-storm",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 1,
     "power": 0,
     "combat": 10
-  },
-  "biography": {
-    "fullName": "Dr. Franklin Storm",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Franklin Storm was erroneously believed to be the first Invincible Man"
-    ],
-    "placeOfBirth": "Place of birth unknown",
-    "firstAppearance": "FANTASTIC FOUR #31",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "-",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Grey"
   },
+  "biography": {
+    "fullName": "Dr. Franklin Storm",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Franklin Storm was erroneously believed to be the first Invincible Man"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "FANTASTIC FOUR #31",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Surgeon",
     "base": "Inapplicable"
@@ -43,9 +44,9 @@
     "relatives": "Mary Storm (wife, deceased), Susan Storm Richards (Invisible Woman, daughter), Jonathan Storm (Human Torch, son), Franklin Richards (grandson), Reed Richards (Mister Fantastic, son-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/franklin-storm.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/franklin-storm.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/franklin-storm.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/franklin-storm.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/270-franklin-storm.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/270-franklin-storm.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/270-franklin-storm.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/270-franklin-storm.jpg"
   }
 }

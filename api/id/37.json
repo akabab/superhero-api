@@ -1,6 +1,7 @@
 {
   "id": 37,
   "name": "Aqualad",
+  "slug": "37-aqualad",
   "powerstats": {
     "intelligence": 63,
     "strength": 44,
@@ -8,17 +9,6 @@
     "durability": 75,
     "power": 89,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Garth",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Poseidonis, Atlantis",
-    "firstAppearance": "Adventure Comics #269 (February, 1960)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Garth",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Poseidonis, Atlantis",
+    "firstAppearance": "Adventure Comics #269 (February, 1960)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; Magician, former Sidekick",
     "base": "Atlantis"
@@ -43,9 +44,9 @@
     "relatives": "Cerdian (son), Dolphin (wife), Berra (mother), Thar (father), Slizzath (uncle) Donna (grand-daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/aqualad.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/aqualad.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/aqualad.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/aqualad.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/37-aqualad.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/37-aqualad.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/37-aqualad.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/37-aqualad.jpg"
   }
 }

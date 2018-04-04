@@ -1,6 +1,7 @@
 {
   "id": 655,
   "name": "Thanos",
+  "slug": "655-thanos",
   "powerstats": {
     "intelligence": 100,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Thanos",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Mad Titan",
-      "Masterlord",
-      "The Overmaster",
-      "Chins"
-    ],
-    "placeOfBirth": "Titan",
-    "firstAppearance": "Iron Man #55",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Red",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Thanos",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Mad Titan",
+      "Masterlord",
+      "The Overmaster",
+      "Chins"
+    ],
+    "placeOfBirth": "Titan",
+    "firstAppearance": "Iron Man #55",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Conqueror, worshiper of Death",
     "base": "Mobile, formerly Sanctuary II, Titan"
@@ -46,9 +47,9 @@
     "relatives": "A'Lars (father): Sui-San (mother, deceased; Eros (brother);Kronos (paternal Grandfather, deceased); Daina (paternal grandmother, deceased); Zuras (uncle, deceased); Thena (cousin); Gamora (foster daughter);Nebula (alleged granddaughter); Rot (\"child\" by Death);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thanos.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thanos.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thanos.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thanos.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/655-thanos.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/655-thanos.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/655-thanos.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/655-thanos.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 397,
   "name": "Kyle Rayner",
+  "slug": "397-kyle-rayner",
   "powerstats": {
     "intelligence": 69,
     "strength": 90,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 100,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Kyle Rayner",
@@ -25,20 +40,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'11",
-      "180 cm"
-    ],
-    "weight": [
-      "175 lb",
-      "79 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Green Lantern, Adventurer, Artist",
     "base": "Oa,formerly New York City, Los Angeles"
@@ -48,9 +49,9 @@
     "relatives": "Aaron Rayner (father), Maura Rayner (mother, deceased), Zachary Rayner (uncle, deceased), Roderick \"Snowy\" Rayner (grandfather, deceased), unnamed maternal great-grandfather (deceased), Kathleen (aunt), Cary Wren (descendant)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kyle-rayner.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kyle-rayner.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kyle-rayner.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kyle-rayner.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/397-kyle-rayner.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/397-kyle-rayner.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/397-kyle-rayner.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/397-kyle-rayner.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 58,
   "name": "Azrael",
+  "slug": "58-azrael",
   "powerstats": {
     "intelligence": 63,
     "strength": 18,
@@ -8,17 +9,6 @@
     "durability": 20,
     "power": 35,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Michael Washington Lane",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Bat-Devil; Bat-Ghost"
-    ],
-    "placeOfBirth": "Gotham City",
-    "firstAppearance": "Batman #672 (February, 2008)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Michael Washington Lane",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bat-Devil; Bat-Ghost"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "Batman #672 (February, 2008)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former Police Officer, vigilante",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Mitchell Lane (father; deceased), Barbara Lane (mother; deceased), Marion Lane (brother; deceased), Gwendolyn Lane (sister; deceased), Chante Coles (wife; deceased), Henry Mitchell Lane (son; deceased), Jenny Lane (Sister-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/azrael.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/azrael.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/azrael.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/azrael.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/58-azrael.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/58-azrael.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/58-azrael.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/58-azrael.jpg"
   }
 }

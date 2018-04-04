@@ -1,6 +1,7 @@
 {
   "id": 551,
   "name": "Red Tornado",
+  "slug": "551-red-tornado",
   "powerstats": {
     "intelligence": 75,
     "strength": 38,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 100,
     "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "325 lb",
+      "146 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "No Hair"
   },
   "biography": {
     "fullName": "John Smith",
@@ -24,20 +39,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Android",
-    "height": [
-      "6'1",
-      "185 cm"
-    ],
-    "weight": [
-      "325 lb",
-      "146 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "No Hair"
-  },
   "work": {
     "occupation": "-",
     "base": "Happy Harbor, Rhode Island"
@@ -47,9 +48,9 @@
     "relatives": "T.O. Morrow (creator/father),Red Volcano (brother; deceased), Red Inferno (brother; deceased), Red Torpedo (sister; deceased), Tomorrow Woman (\"sister\"), Kathy Sutton (wife), Traya Sutton (adoptive daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-tornado.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-tornado.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-tornado.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/red-tornado.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/551-red-tornado.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/551-red-tornado.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/551-red-tornado.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/551-red-tornado.jpg"
   }
 }

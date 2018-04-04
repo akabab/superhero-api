@@ -1,6 +1,7 @@
 {
   "id": 260,
   "name": "Firestorm",
+  "slug": "260-firestorm",
   "powerstats": {
     "intelligence": 50,
     "strength": 53,
@@ -8,17 +9,6 @@
     "durability": 56,
     "power": 100,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Jason Rusch",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Nuclear Man"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Firestorm (Volume 3) #1",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jason Rusch",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Nuclear Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Firestorm (Volume 3) #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "University student; former food server at Bryson's Family Treat; former mascot at Ho-Ho Charlie's Chicken Shack; former intern at S.T.A.R. Labs",
     "base": "Detroit, Michigan"
@@ -43,9 +44,9 @@
     "relatives": "Alvin Rusch (father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/firestorm.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/firestorm.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestorm.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/firestorm.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/260-firestorm.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/260-firestorm.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/260-firestorm.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/260-firestorm.jpg"
   }
 }

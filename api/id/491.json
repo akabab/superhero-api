@@ -1,6 +1,7 @@
 {
   "id": 491,
   "name": "Nightwing",
+  "slug": "491-nightwing",
   "powerstats": {
     "intelligence": 88,
     "strength": 11,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 36,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Dick Grayson",
@@ -29,20 +44,6 @@
     "publisher": "Batman II",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'10",
-      "178 cm"
-    ],
-    "weight": [
-      "175 lb",
-      "79 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Vigilante and detective, former police officer, former Circus Acrobat",
     "base": "Wayne Tower, Gotham City; formerly the Batcave; formerly Bludhaven; formerly New York City"
@@ -52,9 +53,9 @@
     "relatives": "John Grayson (father, deceased), Mary Grayson (mother, deceased), Bruce Wayne / Batman (adoptive father), Damian Wayne / Robin (foster brother), Jason Todd / Red Hood (adoptive brother), Tim Drake / Red Robin (adoptive brother), Cassandra Cain / Batgirl IV (adoptive sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/nightwing.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/nightwing.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nightwing.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/nightwing.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/491-nightwing.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/491-nightwing.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/491-nightwing.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/491-nightwing.jpg"
   }
 }

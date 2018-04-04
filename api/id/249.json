@@ -1,6 +1,7 @@
 {
   "id": 249,
   "name": "Exodus",
+  "slug": "249-exodus",
   "powerstats": {
     "intelligence": 63,
     "strength": 81,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 100,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Bennet du Paris",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Paris Bennet"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Factor #92 (July, 1993)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Bennet du Paris",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Paris Bennet"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Factor #92 (July, 1993)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Terrorist, would-be conqueror, Former leader of the Acolytes, Crusader",
     "base": "Currently mobile, Formerly Avalon"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/exodus.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/exodus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/exodus.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/exodus.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/249-exodus.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/249-exodus.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/249-exodus.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/249-exodus.jpg"
   }
 }

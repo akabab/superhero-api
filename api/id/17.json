@@ -1,6 +1,7 @@
 {
   "id": 17,
   "name": "Alfred Pennyworth",
+  "slug": "17-alfred-pennyworth",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 10,
     "power": 7,
     "combat": 55
-  },
-  "biography": {
-    "fullName": "Alfred Thaddeus Crane Pennyworth",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Alfred Beagle"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Batman #16 (April, 1943)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Alfred Thaddeus Crane Pennyworth",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Alfred Beagle"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #16 (April, 1943)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Butler; Caretaker, former Actor; Field Medic; Government Agent",
     "base": "Wayne Manor; Batcave; Gotham City"
@@ -43,9 +44,9 @@
     "relatives": "Jarvis Pennyworth (father, deceased), Wilfred Pennyworth (older brother), Daphne Pennyworth (niece); Bruce Wayne (Batman, legal ward)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/alfred-pennyworth.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/alfred-pennyworth.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/alfred-pennyworth.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/alfred-pennyworth.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/17-alfred-pennyworth.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/17-alfred-pennyworth.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/17-alfred-pennyworth.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/17-alfred-pennyworth.jpg"
   }
 }

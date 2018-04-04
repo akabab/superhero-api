@@ -1,6 +1,7 @@
 {
   "id": 242,
   "name": "Enchantress",
+  "slug": "242-enchantress",
   "powerstats": {
     "intelligence": 63,
     "strength": 14,
@@ -8,18 +9,6 @@
     "durability": 60,
     "power": 100,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "June Moone",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Anita Soulfeeda",
-      "Soulsinger"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Strange Adventures #187",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "June Moone",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Anita Soulfeeda",
+      "Soulsinger"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Strange Adventures #187",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Artist; Magician",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/enchantress.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/enchantress.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/enchantress.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/enchantress.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/242-enchantress.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/242-enchantress.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/242-enchantress.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/242-enchantress.jpg"
   }
 }

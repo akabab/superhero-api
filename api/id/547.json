@@ -1,6 +1,7 @@
 {
   "id": 547,
   "name": "Red Hulk",
+  "slug": "547-red-hulk",
   "powerstats": {
     "intelligence": 50,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 85,
     "power": 82,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Thaddeus E. Ross",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Rulk",
-      "Hulk",
-      "Thunderbolt",
-      "General Ross"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
-    "publisher": "Marvel Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Yellow",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Thaddeus E. Ross",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rulk",
+      "Hulk",
+      "Thunderbolt",
+      "General Ross"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Incredible Hulk #1 (May, 1962)(as General Ross), Hulk Vol 2 #1 (March, 2008) (as Red Hulk)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Lieutenant general in US Air Force",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-hulk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-hulk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-hulk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/red-hulk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/547-red-hulk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/547-red-hulk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/547-red-hulk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/547-red-hulk.jpg"
   }
 }

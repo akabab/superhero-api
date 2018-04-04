@@ -1,6 +1,7 @@
 {
   "id": 221,
   "name": "Doc Samson",
+  "slug": "221-doc-samson",
   "powerstats": {
     "intelligence": 75,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 36,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Leonard Samson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Tulsa, Oklahoma",
-    "firstAppearance": "Incredible Hulk #141 (July, 1971)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Green"
   },
+  "biography": {
+    "fullName": "Leonard Samson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Tulsa, Oklahoma",
+    "firstAppearance": "Incredible Hulk #141 (July, 1971)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base",
     "base": "Psychiatrist, teacher, adventurer, former special consultant to Gamma Base"
@@ -43,9 +44,9 @@
     "relatives": "Leonard Skivorski (father); Ricky Myers (son);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/docsamson.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/docsamson.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/docsamson.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/docsamson.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/221-doc-samson.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/221-doc-samson.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/221-doc-samson.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/221-doc-samson.jpg"
   }
 }

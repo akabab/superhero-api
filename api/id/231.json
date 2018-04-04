@@ -1,6 +1,7 @@
 {
   "id": 231,
   "name": "Doppelganger",
+  "slug": "231-doppelganger",
   "powerstats": {
     "intelligence": 8,
     "strength": 63,
@@ -8,19 +9,6 @@
     "durability": 95,
     "power": 69,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Spider-Man Doppelganger",
-      "Spider-Doppelganger",
-      "Mindless One"
-    ],
-    "placeOfBirth": "The Dimension of Manifestations",
-    "firstAppearance": "Infinity War #1 (1992)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "White",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Spider-Man Doppelganger",
+      "Spider-Doppelganger",
+      "Mindless One"
+    ],
+    "placeOfBirth": "The Dimension of Manifestations",
+    "firstAppearance": "Infinity War #1 (1992)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Anthropomorpho (creator); Hellspawn, Moonshade, many other doppelgangers (brethren)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/doppelganger.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/doppelganger.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doppelganger.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/doppelganger.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/231-doppelganger.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/231-doppelganger.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/231-doppelganger.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/231-doppelganger.jpg"
   }
 }

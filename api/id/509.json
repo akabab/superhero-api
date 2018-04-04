@@ -1,6 +1,7 @@
 {
   "id": 509,
   "name": "Parademon",
+  "slug": "509-parademon",
   "powerstats": {
     "intelligence": 9,
     "strength": 28,
@@ -8,17 +9,6 @@
     "durability": 50,
     "power": 53,
     "combat": 25
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Apokalips",
-    "firstAppearance": "New Gods #1",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "-",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Apokalips",
+    "firstAppearance": "New Gods #1",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/parademon.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/parademon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/parademon.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/parademon.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/509-parademon.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/509-parademon.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/509-parademon.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/509-parademon.jpg"
   }
 }

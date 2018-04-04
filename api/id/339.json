@@ -1,6 +1,7 @@
 {
   "id": 339,
   "name": "Iceman",
+  "slug": "339-iceman",
   "powerstats": {
     "intelligence": 63,
     "strength": 32,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "145 lb",
+      "65 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Bobby Drake",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "5'8",
-      "173 cm"
-    ],
-    "weight": [
-      "145 lb",
-      "65 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Adventurer, formerly teacher, accountant, student",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "William Robert Drake (father), Madeline Beatrice Bass Drake (mother), Mary (cousin), Joel (cousin), Anne (aunt)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/iceman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/iceman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/iceman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/iceman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/339-iceman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/339-iceman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/339-iceman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/339-iceman.jpg"
   }
 }

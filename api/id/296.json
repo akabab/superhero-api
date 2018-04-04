@@ -1,6 +1,7 @@
 {
   "id": 296,
   "name": "Gravity",
+  "slug": "296-gravity",
   "powerstats": {
     "intelligence": 50,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 40,
     "power": 69,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Greg Willis",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Protector of the Universe"
-    ],
-    "placeOfBirth": "Sheboygan, Wisconsin",
-    "firstAppearance": "Gravity #1 (August, 2005)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Greg Willis",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Protector of the Universe"
+    ],
+    "placeOfBirth": "Sheboygan, Wisconsin",
+    "firstAppearance": "Gravity #1 (August, 2005)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student",
     "base": "New York City"
@@ -43,9 +44,9 @@
     "relatives": "Richard Willis (father), Mary Willis (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/gravity.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/gravity.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gravity.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/gravity.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/296-gravity.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/296-gravity.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/296-gravity.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/296-gravity.jpg"
   }
 }

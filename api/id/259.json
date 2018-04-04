@@ -1,6 +1,7 @@
 {
   "id": 259,
   "name": "Firestar",
+  "slug": "259-firestar",
   "powerstats": {
     "intelligence": 50,
     "strength": 8,
@@ -8,19 +9,6 @@
     "durability": 55,
     "power": 71,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Angelica Jones",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Angel",
-      "Anj",
-      "Lady Comet"
-    ],
-    "placeOfBirth": "Place of birth unknown",
-    "firstAppearance": "Uncanny X-Men #193 (May, 1985)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Angelica Jones",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Angel",
+      "Anj",
+      "Lady Comet"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Uncanny X-Men #193 (May, 1985)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student",
     "base": "New Warriors Crash Pad, New York City, New York State; Avengers Mansion, New York City, New York State; and formerly Massachusetts Academy, Snow Valley, Massachusetts"
@@ -45,9 +46,9 @@
     "relatives": "Bartholomew Jones (father), Nana (grandmother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/firestar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/firestar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/firestar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/259-firestar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/259-firestar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/259-firestar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/259-firestar.jpg"
   }
 }

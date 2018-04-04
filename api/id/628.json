@@ -1,6 +1,7 @@
 {
   "id": 628,
   "name": "Spyke",
+  "slug": "628-spyke",
   "powerstats": {
     "intelligence": 50,
     "strength": 12,
@@ -8,18 +9,6 @@
     "durability": 60,
     "power": 48,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Evan Daniels",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Porcupine",
-      "Armadillo"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Evan Daniels",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Porcupine",
+      "Armadillo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "\"Speed & Spyke\" (December 9, 2000)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Mr. Daniels (father), Vivian Munroe-Daniels (mother), Storm (maternal aunt)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spyke.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spyke.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spyke.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spyke.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/628-spyke.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/628-spyke.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/628-spyke.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/628-spyke.jpg"
   }
 }

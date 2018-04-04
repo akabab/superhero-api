@@ -1,6 +1,7 @@
 {
   "id": 647,
   "name": "Sylar",
+  "slug": "647-sylar",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 91,
     "combat": 56
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Gabriel Gray",
@@ -24,20 +39,6 @@
     "publisher": "NBC - Heroes",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "-",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "Timepiece restorer",
     "base": "New York, NY"
@@ -47,9 +48,9 @@
     "relatives": "Virginia Gray (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sylar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sylar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sylar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sylar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/647-sylar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/647-sylar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/647-sylar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/647-sylar.jpg"
   }
 }

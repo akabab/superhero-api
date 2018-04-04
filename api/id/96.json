@@ -1,6 +1,7 @@
 {
   "id": 96,
   "name": "Black Bolt",
+  "slug": "96-black-bolt",
   "powerstats": {
     "intelligence": 75,
     "strength": 67,
@@ -8,17 +9,6 @@
     "durability": 84,
     "power": 100,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Blackagar Boltagon",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Attilan, Atlantic Ocean",
-    "firstAppearance": "Fantastic Four #45 (December, 1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Blackagar Boltagon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Attilan, Atlantic Ocean",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "King of the Inhumans",
     "base": "Attilan, Blue Area of the Moon"
@@ -43,9 +44,9 @@
     "relatives": "Medusa (wife and first cousin), Ahura (son), Agon (father, deceased), Rynda(mother, deceased), Maximus (brother), Crystal (sister-in-law), Gorgon, Karnak, Triton (cousins)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-bolt.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-bolt.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-bolt.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-bolt.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/96-black-bolt.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/96-black-bolt.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/96-black-bolt.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/96-black-bolt.jpg"
   }
 }

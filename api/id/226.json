@@ -1,6 +1,7 @@
 {
   "id": 226,
   "name": "Doctor Strange",
+  "slug": "226-doctor-strange",
   "powerstats": {
     "intelligence": 100,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 84,
     "power": 100,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Grey",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Stephen Strange",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "180 lb",
-      "81 kg"
-    ],
-    "eyeColor": "Grey",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Sorcerer Supreme, retired neurosurgeon",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "Eugene (father, deceased), Beverly (mother, deceased), Victor (Khiron, brother, apparently deceased), Donna (sister, deceased), Clea (wife, estranged), Umar (mother-in-law), Orini (father-in-law), Dormammu (uncle-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-strange.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-strange.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-strange.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/doctor-strange.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/226-doctor-strange.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/226-doctor-strange.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/226-doctor-strange.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/226-doctor-strange.jpg"
   }
 }

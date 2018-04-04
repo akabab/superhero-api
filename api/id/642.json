@@ -1,6 +1,7 @@
 {
   "id": 642,
   "name": "Superboy-Prime",
+  "slug": "642-superboy-prime",
   "powerstats": {
     "intelligence": 94,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Kal-El",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper"
-    ],
-    "placeOfBirth": "Krypton (Earth-Prime)",
-    "firstAppearance": "DC Comics Presents #87 (November, 1985)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black / Blue"
   },
+  "biography": {
+    "fullName": "Kal-El",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper"
+    ],
+    "placeOfBirth": "Krypton (Earth-Prime)",
+    "firstAppearance": "DC Comics Presents #87 (November, 1985)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "currently a recreation of Earth-Prime, formerly Qward, Anti-Matter Universe."
@@ -43,9 +44,9 @@
     "relatives": "Jor-El (father; deceased); Lara (mother, deceased); Jerry Kent (adoptive father); Naomi Kent (adoptive mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/superboy-prime.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/superboy-prime.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/superboy-prime.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/superboy-prime.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/642-superboy-prime.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/642-superboy-prime.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/642-superboy-prime.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/642-superboy-prime.jpg"
   }
 }

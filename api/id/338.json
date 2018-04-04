@@ -1,6 +1,7 @@
 {
   "id": 338,
   "name": "Hyperion",
+  "slug": "338-hyperion",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 95,
     "power": 87,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Mark Milton",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mark Milton",
-      "Zhib-Ran",
-      "Mr. Kant",
-      "Marcus Milton"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Avengers #85",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Mark Milton",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mark Milton",
+      "Zhib-Ran",
+      "Mr. Kant",
+      "Marcus Milton"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Avengers #85",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; (Formerly) Cartoonist, government agent",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "Mr. and Mrs. Hamilton (foster parents)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hyperion.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hyperion.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hyperion.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hyperion.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/338-hyperion.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/338-hyperion.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/338-hyperion.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/338-hyperion.jpg"
   }
 }

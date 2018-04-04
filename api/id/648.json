@@ -1,6 +1,7 @@
 {
   "id": 648,
   "name": "Synch",
+  "slug": "648-synch",
   "powerstats": {
     "intelligence": 75,
     "strength": 67,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 74,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Everett Thomas",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Men #36 (1994)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Everett Thomas",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men #36 (1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student",
     "base": "Massachusetts Academy"
@@ -43,9 +44,9 @@
     "relatives": "Stan Thomas (father), Ida Thomas (mother), Kim Ho Twae (adopted sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/synch.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/synch.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/synch.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/synch.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/648-synch.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/648-synch.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/648-synch.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/648-synch.jpg"
   }
 }

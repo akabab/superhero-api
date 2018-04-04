@@ -1,6 +1,7 @@
 {
   "id": 312,
   "name": "Hawk",
+  "slug": "312-hawk",
   "powerstats": {
     "intelligence": 38,
     "strength": 38,
@@ -8,18 +9,6 @@
     "durability": 95,
     "power": 43,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Henry Hall",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Monarch",
-      "Extant"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Showcase #75 (June, 1968)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Red",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Henry Hall",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Monarch",
+      "Extant"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Showcase #75 (June, 1968)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Don Hall (brother, deceased), Irwin Hall (father), Rae Penfield (mother), James Penfield (uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hawk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hawk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hawk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/312-hawk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/312-hawk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/312-hawk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/312-hawk.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 639,
   "name": "Stormtrooper",
+  "slug": "639-stormtrooper",
   "powerstats": {
     "intelligence": 10,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 15,
     "power": 5,
     "combat": 20
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
-    "publisher": "George Lucas",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Star Wars: Episode IV - A New Hope (1977)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/stormtrooper.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/stormtrooper.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/stormtrooper.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/stormtrooper.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/639-stormtrooper.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/639-stormtrooper.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/639-stormtrooper.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/639-stormtrooper.jpg"
   }
 }

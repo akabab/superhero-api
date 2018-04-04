@@ -1,6 +1,7 @@
 {
   "id": 664,
   "name": "Thunderstrike",
+  "slug": "664-thunderstrike",
   "powerstats": {
     "intelligence": 63,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 84,
     "power": 42,
     "combat": 72
-  },
-  "biography": {
-    "fullName": "Eric Kevin Masterson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Thor"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Eric Kevin Masterson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Thor"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(as Masterson) Thor #391; (as Thor) Thor #432; (as Thunderstrike) Thunderstrike #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "(as Thunderstrike) Adventurer, crimefighter, (as Masterson) Architect",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Marcy Masterson Steele (wife, divorced), Kevin Masterson (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thunderstrike.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thunderstrike.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thunderstrike.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thunderstrike.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/664-thunderstrike.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/664-thunderstrike.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/664-thunderstrike.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/664-thunderstrike.jpg"
   }
 }

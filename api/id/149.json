@@ -1,6 +1,7 @@
 {
   "id": 149,
   "name": "Captain America",
+  "slug": "149-captain-america",
   "powerstats": {
     "intelligence": 69,
     "strength": 19,
@@ -8,18 +9,6 @@
     "durability": 55,
     "power": 60,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Steve Rogers",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Nomad",
-      "The Captain"
-    ],
-    "placeOfBirth": "Manhattan, New York City, New York",
-    "firstAppearance": "Captain America Comics #1 (March 1941)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "blue",
     "hairColor": "blond"
   },
+  "biography": {
+    "fullName": "Steve Rogers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nomad",
+      "The Captain"
+    ],
+    "placeOfBirth": "Manhattan, New York City, New York",
+    "firstAppearance": "Captain America Comics #1 (March 1941)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.",
     "base": "New York City"
@@ -44,9 +45,9 @@
     "relatives": "Joseph (father, deceased), Sara (mother, deceased), Ian Zola (Nomad) (adopted son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-america.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-america.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-america.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/captain-america.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/149-captain-america.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/149-captain-america.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/149-captain-america.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/149-captain-america.jpg"
   }
 }

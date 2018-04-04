@@ -1,6 +1,7 @@
 {
   "id": 245,
   "name": "Ethan Hunt",
+  "slug": "245-ethan-hunt",
   "powerstats": {
     "intelligence": 75,
     "strength": 11,
@@ -8,17 +9,6 @@
     "durability": 30,
     "power": 26,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Ethan Hunt",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Madison, Wisconsin, United States of America",
-    "firstAppearance": "-",
-    "publisher": null,
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Ethan Hunt",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Madison, Wisconsin, United States of America",
+    "firstAppearance": "-",
+    "publisher": null,
+    "alignment": "good"
+  },
   "work": {
     "occupation": "IMF Agent, Training Officer (former), Field Agent, Field Team Leader",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Nathan Hunt (Father), Margaret Hunt (Mother), Donald Hunt (Uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ethan-hunt.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ethan-hunt.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ethan-hunt.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ethan-hunt.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/245-ethan-hunt.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/245-ethan-hunt.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/245-ethan-hunt.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/245-ethan-hunt.jpg"
   }
 }

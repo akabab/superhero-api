@@ -1,6 +1,7 @@
 {
   "id": 716,
   "name": "Wolfsbane",
+  "slug": "716-wolfsbane",
   "powerstats": {
     "intelligence": 38,
     "strength": 16,
@@ -8,18 +9,6 @@
     "durability": 42,
     "power": 26,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Rahne Sinclair",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Grimfang",
-      "Mutate #490"
-    ],
-    "placeOfBirth": "Somewhere in Ross and Cromarty, Scotland",
-    "firstAppearance": "Marvel Graphic Novel #4: New Mutants",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Rahne Sinclair",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Grimfang",
+      "Mutate #490"
+    ],
+    "placeOfBirth": "Somewhere in Ross and Cromarty, Scotland",
+    "firstAppearance": "Marvel Graphic Novel #4: New Mutants",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Teacher",
     "base": "(current) X-Factor Investigations, New York City (former)Professor Xavier's School of Gifted Youngsters, Salem Center, Westchester County, New York; Muir Island, Scotland; X-Factor headquarters, Embassy Row, Washington, D.C.; X-Factor Headquarters, New Yo"
@@ -44,9 +45,9 @@
     "relatives": "Reverand Craig (father), Moira MacTaggert (surrogate mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/wolfsbane.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/wolfsbane.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wolfsbane.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/wolfsbane.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/716-wolfsbane.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/716-wolfsbane.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/716-wolfsbane.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/716-wolfsbane.jpg"
   }
 }

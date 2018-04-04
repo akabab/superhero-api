@@ -1,6 +1,7 @@
 {
   "id": 236,
   "name": "Elastigirl",
+  "slug": "236-elastigirl",
   "powerstats": {
     "intelligence": 63,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 95,
     "power": 52,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Helen Parr",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mrs Incredible"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The Incredibles (Movies, 2004)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Helen Parr",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mrs Incredible"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Robert Parr(Mr Incredible, husband), Violet Parr(Violet, daughter), Dashiell Parr (Dash, son), Jack-jack (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/elastigirl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/elastigirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/elastigirl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/elastigirl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/236-elastigirl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/236-elastigirl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/236-elastigirl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/236-elastigirl.jpg"
   }
 }

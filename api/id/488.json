@@ -1,6 +1,7 @@
 {
   "id": 488,
   "name": "Negasonic Teenage Warhead",
+  "slug": "488-negasonic-teenage-warhead",
   "powerstats": {
     "intelligence": 50,
     "strength": 7,
@@ -8,17 +9,6 @@
     "durability": 10,
     "power": 45,
     "combat": 35
-  },
-  "biography": {
-    "fullName": "Ellie Phimister",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Warhead"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "New X-Men #115",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Black",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Ellie Phimister",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Warhead"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New X-Men #115",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ntw.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ntw.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ntw.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ntw.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/488-negasonic-teenage-warhead.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/488-negasonic-teenage-warhead.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/488-negasonic-teenage-warhead.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/488-negasonic-teenage-warhead.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 219,
   "name": "Diamondback",
+  "slug": "219-diamondback",
   "powerstats": {
     "intelligence": 44,
     "strength": 16,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 45,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Willis Stryker",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Willis Stryker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Luke Cage, Hero for Hire#1 (1972)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Criminal",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/willis-stryker.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/willis-stryker.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/willis-stryker.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/willis-stryker.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/219-diamondback.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/219-diamondback.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/219-diamondback.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/219-diamondback.jpg"
   }
 }

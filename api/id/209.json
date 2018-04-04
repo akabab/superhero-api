@@ -1,6 +1,7 @@
 {
   "id": 209,
   "name": "Dash",
+  "slug": "209-dash",
   "powerstats": {
     "intelligence": 25,
     "strength": 12,
@@ -8,18 +9,6 @@
     "durability": 60,
     "power": 20,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Dashiell Robert Parr",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Fastest Kid on Earth",
-      "The Dash"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The Incredibles (Movies, 2004)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Dashiell Robert Parr",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Fastest Kid on Earth",
+      "The Dash"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Incredibles (Movies, 2004)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Robert Parr (Mr Incredible, father), Helen Parr (Elastigirl, mother), Violet Parr(Violet, sister), , Jack-jack (brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/dash.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/dash.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dash.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/dash.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/209-dash.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/209-dash.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/209-dash.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/209-dash.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 201,
   "name": "Daredevil",
+  "slug": "201-daredevil",
   "powerstats": {
     "intelligence": 75,
     "strength": 13,
@@ -8,6 +9,20 @@
     "durability": 35,
     "power": 61,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
   },
   "biography": {
     "fullName": "Matt Murdock",
@@ -34,20 +49,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "200 lb",
-      "90 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Red"
-  },
   "work": {
     "occupation": "Adventurer, vigilante, Attorney at Law",
     "base": "Hell's Kitchen, New York, New York, Shadowland (formerly)"
@@ -57,9 +58,9 @@
     "relatives": "Jonathan \"Battling Jack\" Murdock (Father, deceased), Maggie Murdock (aka Sister Maggie, Mother), Milla Donovan (ex-wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/daredevil.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/daredevil.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/daredevil.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/daredevil.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/201-daredevil.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/201-daredevil.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/201-daredevil.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/201-daredevil.jpg"
   }
 }

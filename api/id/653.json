@@ -1,6 +1,7 @@
 {
   "id": 653,
   "name": "Taskmaster",
+  "slug": "653-taskmaster",
   "powerstats": {
     "intelligence": 75,
     "strength": 12,
@@ -8,17 +9,6 @@
     "durability": 20,
     "power": 63,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Tony Masters",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Avengers #195",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Tony Masters",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Avengers #195",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Sheriff, Assassin, Mercenary; formerly Military Trainer, Combat Instructor, Head of Initiative training camp",
     "base": "Bagalia; A.I.M Island, Taskmaster's Academy"
@@ -43,9 +44,9 @@
     "relatives": "Mercedes Merced (wife), Jeanne Foucault (Finesse, alleged daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/taskmaster.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/taskmaster.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/taskmaster.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/taskmaster.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/653-taskmaster.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/653-taskmaster.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/653-taskmaster.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/653-taskmaster.jpg"
   }
 }

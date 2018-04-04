@@ -1,6 +1,7 @@
 {
   "id": 470,
   "name": "Moon Knight",
+  "slug": "470-moon-knight",
   "powerstats": {
     "intelligence": 50,
     "strength": 36,
@@ -8,6 +9,20 @@
     "durability": 42,
     "power": 28,
     "combat": 75
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Marc Spector",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "225 lb",
-      "101 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Adventurer, entrepreneur; former prize fighter, spy, soldier, mercenary, cab driver",
     "base": "New York City; formerly Spector Mansion, Long Island, Avengers Compound, California"
@@ -48,9 +49,9 @@
     "relatives": "Shadowknight (Randall Spector) (brother, deceased), Elias (father, deceased), Seth Phalkon (alleged great-great-grandfather)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/moon-knight.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/moon-knight.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/moon-knight.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/moon-knight.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/470-moon-knight.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/470-moon-knight.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/470-moon-knight.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/470-moon-knight.jpg"
   }
 }

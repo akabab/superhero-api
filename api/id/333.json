@@ -1,6 +1,7 @@
 {
   "id": 333,
   "name": "Human Torch",
+  "slug": "333-human-torch",
   "powerstats": {
     "intelligence": 63,
     "strength": 11,
@@ -8,18 +9,6 @@
     "durability": 70,
     "power": 87,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Johnny Storm",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Matchstick Johnny",
-      "Doug Brown"
-    ],
-    "placeOfBirth": "Glenville, Long Island, New York",
-    "firstAppearance": "Fantastic Four #1 (1961)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Johnny Storm",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Matchstick Johnny",
+      "Doug Brown"
+    ],
+    "placeOfBirth": "Glenville, Long Island, New York",
+    "firstAppearance": "Fantastic Four #1 (1961)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "Pier Four, New York City"
@@ -44,9 +45,9 @@
     "relatives": "Susan Richards - Invisible Woman (sister), Franklin Richards (nephew), Reed Richards - Mister Fantastic (brother-in-law) Lyja (ex-wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/human-torch.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/human-torch.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/human-torch.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/human-torch.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/333-human-torch.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/333-human-torch.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/333-human-torch.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/333-human-torch.jpg"
   }
 }

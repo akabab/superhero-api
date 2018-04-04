@@ -1,6 +1,7 @@
 {
   "id": 135,
   "name": "Box IV",
+  "slug": "135-box-iv",
   "powerstats": {
     "intelligence": 50,
     "strength": 75,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 11,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Madison Jeffries",
-    "alterEgos": "Gemini V",
-    "aliases": [
-      "Gemini",
-      "Jack-In-The-Box"
-    ],
-    "placeOfBirth": "Place of birth unknown",
-    "firstAppearance": "Alpha Flight #16",
-    "publisher": "Gemini V",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "-",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Brown / Black"
   },
+  "biography": {
+    "fullName": "Madison Jeffries",
+    "alterEgos": "Gemini V",
+    "aliases": [
+      "Gemini",
+      "Jack-In-The-Box"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "Alpha Flight #16",
+    "publisher": "Gemini V",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Inventor, former soldier",
     "base": "Base of operations unknown"
@@ -44,9 +45,9 @@
     "relatives": "Scramble (Lionel Jeffries, brother, deceased), Diamond Lil (wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/box-4.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/box-4.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/box-4.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/box-4.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/135-box-iv.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/135-box-iv.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/135-box-iv.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/135-box-iv.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 383,
   "name": "Kick-Ass",
+  "slug": "383-kick-ass",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 35,
     "power": 22,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Dave Lizewski",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kickass"
-    ],
-    "placeOfBirth": "New York City",
-    "firstAppearance": "Kick Ass #1",
-    "publisher": "Icon Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Dave Lizewski",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kickass"
+    ],
+    "placeOfBirth": "New York City",
+    "firstAppearance": "Kick Ass #1",
+    "publisher": "Icon Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Mother (unnamed, deceased), Father (unnamed)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kick-ass.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kick-ass.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kick-ass.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kick-ass.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/383-kick-ass.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/383-kick-ass.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/383-kick-ass.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/383-kick-ass.jpg"
   }
 }

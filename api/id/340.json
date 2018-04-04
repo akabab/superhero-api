@@ -1,6 +1,7 @@
 {
   "id": 340,
   "name": "Impulse",
+  "slug": "340-impulse",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 60,
     "power": 74,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Bartholomew Allen II",
-    "alterEgos": "Flash IV, Kid Flash II",
-    "aliases": [
-      "Flash IV",
-      "Kid Flash II"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
-    "publisher": "Flash IV",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Yellow",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Bartholomew Allen II",
+    "alterEgos": "Flash IV, Kid Flash II",
+    "aliases": [
+      "Flash IV",
+      "Kid Flash II"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash Vol 2 #92 (July, 1994)",
+    "publisher": "Flash IV",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, Student",
     "base": "San Francisco, formerly Los Angeles, Keystone City, Manchester, Alabama"
@@ -44,9 +45,9 @@
     "relatives": "Don Allen (father), Meloni Thawne (mother), Barry Allen (grandfather), Iris West-Allen (grandmother), President Thawne (grandfather), Captain Boomerang (Owen Mercer) (half-brother), Allen Family"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/impulse.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/impulse.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/impulse.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/impulse.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/340-impulse.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/340-impulse.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/340-impulse.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/340-impulse.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 83,
   "name": "Big Man",
+  "slug": "83-big-man",
   "powerstats": {
     "intelligence": 75,
     "strength": 12,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 19,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Frederick Foswell",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Patch"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Amazing Spider-Man # 10 (1964)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Frederick Foswell",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Patch"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man # 10 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Reporter, professional criminal",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Janice Foswell (daughter), unnamed wife"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/big-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/big-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/big-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/big-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/83-big-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/83-big-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/83-big-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/83-big-man.jpg"
   }
 }

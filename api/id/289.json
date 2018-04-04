@@ -1,6 +1,7 @@
 {
   "id": 289,
   "name": "Goku",
+  "slug": "289-goku",
   "powerstats": {
     "intelligence": 56,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 90,
     "power": 100,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Saiyan",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "137 lb",
+      "62 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Kakarot",
@@ -26,20 +41,6 @@
     "publisher": "Shueisha",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Saiyan",
-    "height": [
-      "5'9",
-      "175 cm"
-    ],
-    "weight": [
-      "137 lb",
-      "62 kg"
-    ],
-    "eyeColor": "-",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -49,9 +50,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/goku.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/goku.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/goku.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/goku.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/289-goku.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/289-goku.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/289-goku.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/289-goku.jpg"
   }
 }

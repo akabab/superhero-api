@@ -1,6 +1,7 @@
 {
   "id": 489,
   "name": "Nick Fury",
+  "slug": "489-nick-fury",
   "powerstats": {
     "intelligence": 75,
     "strength": 11,
@@ -8,20 +9,6 @@
     "durability": 42,
     "power": 25,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Nicholas Joseph Fury",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Doyle",
-      "The Mystery in the Mask",
-      "Patch",
-      "Scorpio"
-    ],
-    "placeOfBirth": "New York City",
-    "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Brown",
     "hairColor": "Brown / White"
   },
+  "biography": {
+    "fullName": "Nicholas Joseph Fury",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Doyle",
+      "The Mystery in the Mask",
+      "Patch",
+      "Scorpio"
+    ],
+    "placeOfBirth": "New York City",
+    "firstAppearance": "Sgt. Fury and His Howling Commandos #1 (1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "S.H.I.E.L.D. director; former S.H.I.E.L.D. agent, intelligence agent, soldier and commando leader, parachuting instructor, stunt flyer",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "Jack Fury (father, deceased);\nunnamed mother;\nunnamed stepmother (deceased);\nDawn Fury (half-sister);\nJake Fury (half-brother);\nMikel Fury (son, deceased);\nJerry Sapristi (cousin);\nTina Sapristi (cousin by marriage);\nErnesto, Pietro, Giovanni, Maria, Rosa and Gabriella (1st cousins once removed);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/nick-fury.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/nick-fury.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nick-fury.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/nick-fury.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/489-nick-fury.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/489-nick-fury.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/489-nick-fury.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/489-nick-fury.jpg"
   }
 }

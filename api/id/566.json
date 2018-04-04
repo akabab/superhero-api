@@ -1,6 +1,7 @@
 {
   "id": 566,
   "name": "Rocket Raccoon",
+  "slug": "566-rocket-raccoon",
   "powerstats": {
     "intelligence": 50,
     "strength": 5,
@@ -8,19 +9,6 @@
     "durability": 28,
     "power": 28,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Rocket Raccoon",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Sharpshooting Space Racoon",
-      "Rocky Raccoon",
-      "Ranger Rocket"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Marvel Preview #7 (June, 1976)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Rocket Raccoon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sharpshooting Space Racoon",
+      "Rocky Raccoon",
+      "Ranger Rocket"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Marvel Preview #7 (June, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Law enforcement officer, security guard, member of the Guardians of the Galaxy",
     "base": "Knowhere; Formerly Hala, mobile aboard the Rakk'n'Ruin Halfworld, Keystone Quadrant"
@@ -45,9 +46,9 @@
     "relatives": "Lylla (mate)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rocket-raccoon.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rocket-raccoon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rocket-raccoon.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rocket-raccoon.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/566-rocket-raccoon.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/566-rocket-raccoon.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/566-rocket-raccoon.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/566-rocket-raccoon.jpg"
   }
 }

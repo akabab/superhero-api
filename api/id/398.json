@@ -1,6 +1,7 @@
 {
   "id": 398,
   "name": "Kylo Ren",
+  "slug": "398-kylo-ren",
   "powerstats": {
     "intelligence": 56,
     "strength": 44,
@@ -8,17 +9,6 @@
     "durability": 30,
     "power": 100,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Ben Solo",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
-    "publisher": "George Lucas",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Ben Solo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Star Wars: Episode VII - The Force Awakens (2015)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Han Solo (Father), Princess Leia (Mother), Luke Skywalker (Uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kylo-ren.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kylo-ren.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kylo-ren.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kylo-ren.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/398-kylo-ren.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/398-kylo-ren.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/398-kylo-ren.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/398-kylo-ren.jpg"
   }
 }

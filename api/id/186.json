@@ -1,6 +1,7 @@
 {
   "id": 186,
   "name": "Copycat",
+  "slug": "186-copycat",
   "powerstats": {
     "intelligence": 56,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 25,
     "power": 54,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "148 lb",
+      "67 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "White"
   },
   "biography": {
     "fullName": "Vanessa Carlysle",
@@ -29,20 +44,6 @@
     "publisher": "Marvel Comics",
     "alignment": "neutral"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "148 lb",
-      "67 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "White"
-  },
   "work": {
     "occupation": "-",
     "base": "Mobile; formerly Adirondack Mountains, Xavier's School for Gifted Youngsters"
@@ -52,9 +53,9 @@
     "relatives": "Burt Carlysle (father, deceased), Dorothy Carlysle (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/copycat.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/copycat.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/copycat.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/copycat.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/186-copycat.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/186-copycat.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/186-copycat.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/186-copycat.jpg"
   }
 }

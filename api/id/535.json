@@ -1,6 +1,7 @@
 {
   "id": 535,
   "name": "Question",
+  "slug": "535-question",
   "powerstats": {
     "intelligence": 81,
     "strength": 14,
@@ -8,17 +9,6 @@
     "durability": 35,
     "power": 20,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Charles Victor Szasz",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Vic Sage"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Charles Victor Szasz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Vic Sage"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Blue Beetle (Charlton) Vol 4 #1 (June, 1967)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former Television Investigative Journalist",
     "base": "Hub City; Chicago, Gotham City, Metropolis"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/question.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/question.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/question.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/question.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/535-question.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/535-question.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/535-question.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/535-question.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 93,
   "name": "Bizarro",
+  "slug": "93-bizarro",
   "powerstats": {
     "intelligence": 38,
     "strength": 95,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Bizarro",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Superboy Vol. 1 #68 (1958)",
-    "publisher": "DC Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Black",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Bizarro",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superboy Vol. 1 #68 (1958)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "-",
     "base": "Bizarro World"
@@ -43,9 +44,9 @@
     "relatives": "Bizarro-Lois No. 1 (wife, Pre-Crisis only), Bizarro, Jr. (son, Pre-Crisis only), Bizarro-Lois, Jr. (daughter, Pre-Crisis only)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bizarro.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bizarro.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bizarro.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bizarro.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/93-bizarro.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/93-bizarro.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/93-bizarro.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/93-bizarro.jpg"
   }
 }

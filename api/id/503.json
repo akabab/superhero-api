@@ -1,6 +1,7 @@
 {
   "id": 503,
   "name": "One-Above-All",
+  "slug": "503-one-above-all",
   "powerstats": {
     "intelligence": 100,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "One Above All"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Doctor Strange Vol 2 #13",
-    "publisher": "Marvel Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "-",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "One Above All"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Doctor Strange Vol 2 #13",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Living Tribunal (creation)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/one-above-all-omni.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/one-above-all-omni.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/one-above-all-omni.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/one-above-all-omni.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/503-one-above-all.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/503-one-above-all.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/503-one-above-all.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/503-one-above-all.jpg"
   }
 }

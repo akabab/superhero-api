@@ -1,6 +1,7 @@
 {
   "id": 556,
   "name": "Rhino",
+  "slug": "556-rhino",
   "powerstats": {
     "intelligence": 25,
     "strength": 80,
@@ -8,18 +9,6 @@
     "durability": 90,
     "power": 36,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Aleksei Mikhailovich Sytsevich",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Alex O'Hirn",
-      "Mecha-Rhino"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Amazing Spider-Man #41",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Aleksei Mikhailovich Sytsevich",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Alex O'Hirn",
+      "Mecha-Rhino"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #41",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional Criminal ,Henchman of the Russian Mafia",
     "base": "Mobile"
@@ -44,9 +45,9 @@
     "relatives": "Miriam Sytsevich (mother, deceased), Alexia (niece, lastname unrevealed), unnamed grandmother"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rhino.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rhino.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rhino.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rhino.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/556-rhino.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/556-rhino.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/556-rhino.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/556-rhino.jpg"
   }
 }

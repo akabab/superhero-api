@@ -1,6 +1,7 @@
 {
   "id": 346,
   "name": "Iron Man",
+  "slug": "346-iron-man",
   "powerstats": {
     "intelligence": 100,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 85,
     "power": 100,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "425 lb",
+      "191 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Tony Stark",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'6",
-      "198 cm"
-    ],
-    "weight": [
-      "425 lb",
-      "191 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Inventor, Industrialist; former United States Secretary of Defense",
     "base": "Seattle, Washington"
@@ -48,9 +49,9 @@
     "relatives": "Howard Anthony Stark (father, deceased), Maria Stark (mother, deceased), Morgan Stark (cousin), Isaac Stark (ancestor)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/iron-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/iron-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/iron-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/iron-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/346-iron-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/346-iron-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/346-iron-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/346-iron-man.jpg"
   }
 }

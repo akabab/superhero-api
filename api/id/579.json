@@ -1,6 +1,7 @@
 {
   "id": 579,
   "name": "Scarlet Witch",
+  "slug": "579-scarlet-witch",
   "powerstats": {
     "intelligence": 100,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 70,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "132 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Wanda Maximoff",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant",
-    "height": [
-      "5'7",
-      "170 cm"
-    ],
-    "weight": [
-      "132 lb",
-      "59 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Adventurer; formerly witchcraft tutor, housewife, terrorist",
     "base": "Mobile; formerly The Works; Avengers Compound, California; Avengers Mansion, New York"
@@ -47,9 +48,9 @@
     "relatives": "Pietro (Quicksilver, twin brother), Magnus (Magneto, father), Magda Lehnsherr (mother, deceased), Anya (half-sister, deceased), Lorna Dane (Polaris, half-sister), Vision (estranged husband), Django Maximoff (foster father, deceased), Marya Maximoff (foster mother, deceased), Crystal (sister-in-law), Luna (niece), Tommy & Billy (reincarnated sons), Talia Wagner (Nocturne, alternate reality daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/scarlet-witch.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/scarlet-witch.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarlet-witch.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/scarlet-witch.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/579-scarlet-witch.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/579-scarlet-witch.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/579-scarlet-witch.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/579-scarlet-witch.jpg"
   }
 }

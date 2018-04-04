@@ -1,6 +1,7 @@
 {
   "id": 204,
   "name": "Darkseid",
+  "slug": "204-darkseid",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Uxas",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Dark God"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Superman's Pal Jimmy Olsen #134 (November 1970)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Uxas",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dark God"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superman's Pal Jimmy Olsen #134 (November 1970)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Dictator of Apokolips",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Zonuz (father), Izaya (brother), Avia (sister, deceased), Grail (daughter), Kalibak (son), Orion (son), Deathspawn (son), Scot (nephew/adopted son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/darkseid.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/darkseid.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/darkseid.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/darkseid.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/204-darkseid.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/204-darkseid.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/204-darkseid.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/204-darkseid.jpg"
   }
 }

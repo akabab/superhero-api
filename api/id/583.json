@@ -1,6 +1,7 @@
 {
   "id": 583,
   "name": "Sentry",
+  "slug": "583-sentry",
   "powerstats": {
     "intelligence": 75,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 84,
     "power": 100,
     "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "194 lb",
+      "87 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Robert Reynolds",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "neutral"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "194 lb",
-      "87 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "-",
     "base": "The Watchtower (on top of Stark Tower, where it was formerly located before all memory of him disappeared)"
@@ -47,9 +48,9 @@
     "relatives": "Lindy Reynolds (wife, deceased), Mrs. Reynolds (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sentry.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sentry.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sentry.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sentry.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/583-sentry.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/583-sentry.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/583-sentry.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/583-sentry.jpg"
   }
 }

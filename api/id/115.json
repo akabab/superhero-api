@@ -1,6 +1,7 @@
 {
   "id": 115,
   "name": "Blink",
+  "slug": "115-blink",
   "powerstats": {
     "intelligence": 50,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 77,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Clarice Ferguson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Bahamas",
-    "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Magenta"
   },
+  "biography": {
+    "fullName": "Clarice Ferguson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Bahamas",
+    "firstAppearance": "Uncanny X-Men #317 (October, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, freedom fighter",
     "base": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Black Rome, Necrosha"
@@ -43,9 +44,9 @@
     "relatives": "Apocalypse (ancestor, deceased);Margaret Slade (ancestor, deceased);Hamilton Slade (distant relative, deceased);Frederick Slade (great-great-grandfather);Ms. Ferguson (great-great-grandmother, deceased);Chamber (distant cousin);Clan Akkaba (relatives)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/blink.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/blink.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/blink.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/blink.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/115-blink.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/115-blink.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/115-blink.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/115-blink.jpg"
   }
 }

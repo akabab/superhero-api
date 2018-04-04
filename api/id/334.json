@@ -1,6 +1,7 @@
 {
   "id": 334,
   "name": "Huntress",
+  "slug": "334-huntress",
   "powerstats": {
     "intelligence": 69,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 28,
     "power": 34,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Helena Rosa Bertinelli",
-    "alterEgos": "Batgirl III",
-    "aliases": [
-      "Batgirl",
-      "Sicilian",
-      "Mafia Princess"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Huntress #1 (April 1989)",
-    "publisher": "Batgirl III",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Helena Rosa Bertinelli",
+    "alterEgos": "Batgirl III",
+    "aliases": [
+      "Batgirl",
+      "Sicilian",
+      "Mafia Princess"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Huntress #1 (April 1989)",
+    "publisher": "Batgirl III",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Vigilante; High school English teacher",
     "base": "Mobile; primarily Gotham City and Metropolis"
@@ -45,9 +46,9 @@
     "relatives": "Giuseppe Bertinelli (great-grandfather; deceased), Alfredo Bertinelli (grandfather; deceased), Franco Bertinelli (father; deceased), Maria Panessa Bertinelli (mother; deceased), Santo Cassamento (biological father; deceased), Pino Bertinelli (brother; deceased), Freddy Caldone (cousin; deceased), Tomaso Panessa (uncle), Graziella Panessa (aunt), Monica Simonetta Panessa (cousin), Claudio Panessa (cousin; deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/huntress.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/huntress.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/huntress.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/huntress.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/334-huntress.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/334-huntress.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/334-huntress.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/334-huntress.jpg"
   }
 }

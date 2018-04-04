@@ -1,6 +1,7 @@
 {
   "id": 571,
   "name": "Sage",
+  "slug": "571-sage",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 28,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Tessa",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Place of birth unknown",
-    "firstAppearance": "X-MEN Vol. 1 #132",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Tessa",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Place of birth unknown",
+    "firstAppearance": "X-MEN Vol. 1 #132",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former Soldier",
     "base": "Base of operations unknown"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sage.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sage.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sage.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sage.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/571-sage.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/571-sage.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/571-sage.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/571-sage.jpg"
   }
 }

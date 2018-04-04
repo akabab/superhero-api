@@ -1,6 +1,7 @@
 {
   "id": 309,
   "name": "Harley Quinn",
+  "slug": "309-harley-quinn",
   "powerstats": {
     "intelligence": 88,
     "strength": 12,
@@ -8,6 +9,20 @@
     "durability": 65,
     "power": 55,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'7",
+      "170 cm"
+    ],
+    "weight": [
+      "140 lb",
+      "63 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Harley Quinn",
@@ -25,20 +40,6 @@
     "publisher": "DC Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Human",
-    "height": [
-      "5'7",
-      "170 cm"
-    ],
-    "weight": [
-      "140 lb",
-      "63 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Psychiatrist",
     "base": "Gotham City"
@@ -48,9 +49,9 @@
     "relatives": "Barry Quinzel (brother), Sharon Quinzel (mother), Nick Quinzel (father), Jenny Quinzel (niece), Nicky Quinzel (nephew)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/harley-quinn.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/harley-quinn.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/harley-quinn.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/harley-quinn.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/309-harley-quinn.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/309-harley-quinn.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/309-harley-quinn.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/309-harley-quinn.jpg"
   }
 }

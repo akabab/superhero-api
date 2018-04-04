@@ -1,6 +1,7 @@
 {
   "id": 538,
   "name": "Ra's Al Ghul",
+  "slug": "538-ra's-al-ghul",
   "powerstats": {
     "intelligence": 100,
     "strength": 28,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 27,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Ra's Al Ghul",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Demon's Head"
-    ],
-    "placeOfBirth": "Egypt",
-    "firstAppearance": "Batman #232 (June, 1971)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Grey"
   },
+  "biography": {
+    "fullName": "Ra's Al Ghul",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Demon's Head"
+    ],
+    "placeOfBirth": "Egypt",
+    "firstAppearance": "Batman #232 (June, 1971)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Eco Terrorist, Businessman, Cult Leader",
     "base": "mobile"
@@ -43,9 +44,9 @@
     "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ras-al-ghul.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ras-al-ghul.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ras-al-ghul.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ras-al-ghul.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/538-ra's-al-ghul.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/538-ra's-al-ghul.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/538-ra's-al-ghul.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/538-ra's-al-ghul.jpg"
   }
 }

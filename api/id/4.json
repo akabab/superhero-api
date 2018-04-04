@@ -1,6 +1,7 @@
 {
   "id": 4,
   "name": "Abomination",
+  "slug": "4-abomination",
   "powerstats": {
     "intelligence": 63,
     "strength": 80,
@@ -8,18 +9,6 @@
     "durability": 90,
     "power": 62,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Emil Blonsky",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Agent R-7",
-      "Ravager of Worlds"
-    ],
-    "placeOfBirth": "Zagreb, Yugoslavia",
-    "firstAppearance": "Tales to Astonish #90",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Emil Blonsky",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Agent R-7",
+      "Ravager of Worlds"
+    ],
+    "placeOfBirth": "Zagreb, Yugoslavia",
+    "firstAppearance": "Tales to Astonish #90",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Ex-Spy",
     "base": "Mobile"
@@ -44,9 +45,9 @@
     "relatives": "Nadia Dornova Blonsky (wife, separated)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/abomination.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/abomination.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/abomination.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/abomination.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/4-abomination.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/4-abomination.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/4-abomination.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/4-abomination.jpg"
   }
 }

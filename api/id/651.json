@@ -1,6 +1,7 @@
 {
   "id": 651,
   "name": "T-850",
+  "slug": "651-t-850",
   "powerstats": {
     "intelligence": 75,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 83,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Cyberdyne Systems Series 850 Terminator",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Terminator"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Terminator 3: Rise of the Machines (2003)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Cyberdyne Systems Series 850 Terminator",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Terminator"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Terminator 3: Rise of the Machines (2003)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Assassin",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/t-850.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/t-850.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/t-850.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/t-850.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/651-t-850.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/651-t-850.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/651-t-850.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/651-t-850.jpg"
   }
 }

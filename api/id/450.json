@@ -1,6 +1,7 @@
 {
   "id": 450,
   "name": "Michelangelo",
+  "slug": "450-michelangelo",
   "powerstats": {
     "intelligence": 63,
     "strength": 14,
@@ -8,20 +9,6 @@
     "durability": 65,
     "power": 59,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mike",
-      "Mikey",
-      "Mikester",
-      "Michaelangelo"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "IDW Publishing",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mike",
+      "Mikey",
+      "Mikester",
+      "Michaelangelo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "IDW Publishing",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "Leonardo (brother), Donatello (brother), Raphael (brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/michelangelo.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/michelangelo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/michelangelo.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/michelangelo.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/450-michelangelo.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/450-michelangelo.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/450-michelangelo.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/450-michelangelo.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 130,
   "name": "Boom-Boom",
+  "slug": "130-boom-boom",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 42,
     "power": 57,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "122 lb",
+      "55 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Tabitha Smith",
@@ -26,20 +41,6 @@
     "publisher": "Meltdown",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant",
-    "height": [
-      "5'5",
-      "165 cm"
-    ],
-    "weight": [
-      "122 lb",
-      "55 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer, former student, thief",
     "base": "-"
@@ -49,9 +50,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/boom-boom.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/boom-boom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/boom-boom.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/boom-boom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/130-boom-boom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/130-boom-boom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/130-boom-boom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/130-boom-boom.jpg"
   }
 }

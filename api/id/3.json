@@ -1,6 +1,7 @@
 {
   "id": 3,
   "name": "Abin Sur",
+  "slug": "3-abin-sur",
   "powerstats": {
     "intelligence": 50,
     "strength": 90,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 99,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Lagzia"
-    ],
-    "placeOfBirth": "Ungara",
-    "firstAppearance": "Showcase #22 (October, 1959)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lagzia"
+    ],
+    "placeOfBirth": "Ungara",
+    "firstAppearance": "Showcase #22 (October, 1959)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Green Lantern, former history professor",
     "base": "Oa"
@@ -43,9 +44,9 @@
     "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/abin-sur.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/abin-sur.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/abin-sur.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/abin-sur.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/3-abin-sur.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/3-abin-sur.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/3-abin-sur.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/3-abin-sur.jpg"
   }
 }

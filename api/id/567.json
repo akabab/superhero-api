@@ -1,6 +1,7 @@
 {
   "id": 567,
   "name": "Rogue",
+  "slug": "567-rogue",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 80,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Brown / White"
   },
   "biography": {
     "fullName": "Anna Marie",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": null,
-    "height": [
-      "5'8",
-      "173 cm"
-    ],
-    "weight": [
-      "120 lb",
-      "54 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Brown / White"
-  },
   "work": {
     "occupation": "Adventurer, former mechanic, waitress, terrorist",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "Owen (father), Priscilla (mother), Carrie (aunt), Raven Darkh?lme (Mystique, foster mother), Kurt Wagner (Nightcrawler, foster brother), Graydon Creed (foster brother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rogue.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rogue.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rogue.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rogue.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/567-rogue.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/567-rogue.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/567-rogue.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/567-rogue.jpg"
   }
 }

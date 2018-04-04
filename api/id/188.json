@@ -1,6 +1,7 @@
 {
   "id": 188,
   "name": "Cottonmouth",
+  "slug": "188-cottonmouth",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 10,
     "power": 27,
     "combat": 25
-  },
-  "biography": {
-    "fullName": "Burchell Clemens",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Quincy McIver"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Captain America #310 (October, 1985)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Burchell Clemens",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Quincy McIver"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Captain America #310 (October, 1985)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional criminal",
     "base": "Serpent Citadel"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cottonmouth.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cottonmouth.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cottonmouth.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cottonmouth.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/188-cottonmouth.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/188-cottonmouth.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/188-cottonmouth.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/188-cottonmouth.jpg"
   }
 }

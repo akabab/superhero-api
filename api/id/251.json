@@ -1,6 +1,7 @@
 {
   "id": 251,
   "name": "Falcon",
+  "slug": "251-falcon",
   "powerstats": {
     "intelligence": 38,
     "strength": 13,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 22,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "240 lb",
+      "108 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Sam Wilson",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "240 lb",
-      "108 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Crimefighter, (former) freelance artist",
     "base": "New York, New York; formerly Avengers Mansion, New York City, New York; S.H.I.E.L.D. Helicarrier."
@@ -47,9 +48,9 @@
     "relatives": "Paul Wilson (father, deceased); Darlene Wilson (mother, deceased); Sarah Wilson (sister), Gideon Wilson (brother); Jim Wilson (nephew, deceased); Jody Casper (nephew)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/falcon.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/falcon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/falcon.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/falcon.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/251-falcon.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/251-falcon.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/251-falcon.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/251-falcon.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 198,
   "name": "Dagger",
+  "slug": "198-dagger",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 52,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Tandy Bowen",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Lady Light"
-    ],
-    "placeOfBirth": "Shaker Heights, Ohio",
-    "firstAppearance": "Spectacular Spiderman #64",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -33,6 +23,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Tandy Bowen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lady Light"
+    ],
+    "placeOfBirth": "Shaker Heights, Ohio",
+    "firstAppearance": "Spectacular Spiderman #64",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Vigilante",
     "base": "Holy Ghost Church, 42nd Street, New York City"
@@ -42,9 +43,9 @@
     "relatives": "Melissa Bowen (mother), unnamed father, Phillip Carlisle (stepfather), Father Michael Bowen (uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/dagger.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/dagger.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dagger.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/dagger.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/198-dagger.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/198-dagger.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/198-dagger.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/198-dagger.jpg"
   }
 }

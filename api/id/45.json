@@ -1,6 +1,7 @@
 {
   "id": 45,
   "name": "Armor",
+  "slug": "45-armor",
   "powerstats": {
     "intelligence": 50,
     "strength": 63,
@@ -8,18 +9,6 @@
     "durability": 80,
     "power": 55,
     "combat": 54
-  },
-  "biography": {
-    "fullName": "Hisako Ichiki",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "X-Girl",
-      "Kid"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Astonishing X-Men #4 (2004)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Black",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Hisako Ichiki",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "X-Girl",
+      "Kid"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Astonishing X-Men #4 (2004)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, student",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/armor.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/armor.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/armor.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/armor.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/45-armor.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/45-armor.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/45-armor.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/45-armor.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 459,
   "name": "Mister Mxyzptlk",
+  "slug": "459-mister-mxyzptlk",
   "powerstats": {
     "intelligence": 100,
     "strength": 85,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Mr. Mxyzptlk",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Superman #30",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Mr. Mxyzptlk",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superman #30",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-mxyzptlk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-mxyzptlk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-mxyzptlk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mister-mxyzptlk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/459-mister-mxyzptlk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/459-mister-mxyzptlk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/459-mister-mxyzptlk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/459-mister-mxyzptlk.jpg"
   }
 }

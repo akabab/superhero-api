@@ -1,6 +1,7 @@
 {
   "id": 240,
   "name": "Elongated Man",
+  "slug": "240-elongated-man",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 44,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Ralph Dibny",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Alvin Burgson; Molder"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Flash #112 (1960)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Ralph Dibny",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Alvin Burgson; Molder"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #112 (1960)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Detective",
     "base": "Opal City, Central City"
@@ -43,9 +44,9 @@
     "relatives": "Sue Dibny (wife, deceased); Ken Dibny (brother); Jake Dibny (uncle); Jim (uncle-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/elongated-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/elongated-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/elongated-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/elongated-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/240-elongated-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/240-elongated-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/240-elongated-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/240-elongated-man.jpg"
   }
 }

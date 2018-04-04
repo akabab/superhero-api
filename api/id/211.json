@@ -1,6 +1,7 @@
 {
   "id": 211,
   "name": "Dazzler",
+  "slug": "211-dazzler",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 100,
     "combat": 55
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Alison Blaire",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant",
-    "height": [
-      "5'8",
-      "173 cm"
-    ],
-    "weight": [
-      "115 lb",
-      "52 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer, singer, former actress, model, revolutionary",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Bella Blaire (paternal grandmother), Carter Blaire (father, deceased), Katherine Blaire-Brown (Barbara London, mother), Nicholas Brown (step-father), Lois London (half-sister), Longshot (husband)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/dazzler.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/dazzler.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dazzler.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/dazzler.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/211-dazzler.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/211-dazzler.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/211-dazzler.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/211-dazzler.jpg"
   }
 }

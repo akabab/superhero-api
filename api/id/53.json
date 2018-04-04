@@ -1,6 +1,7 @@
 {
   "id": 53,
   "name": "Atom II",
+  "slug": "53-atom-ii",
   "powerstats": {
     "intelligence": 88,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 45,
     "power": 40,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Ray Palmer",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Mighty Mite",
-      "the Tiny Titan",
-      "the World's Smallest Hero"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Showcase #34",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Ray Palmer",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Mighty Mite",
+      "the Tiny Titan",
+      "the World's Smallest Hero"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Showcase #34",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Physics Professor",
     "base": "Ivy Town"
@@ -45,9 +46,9 @@
     "relatives": "Jean Loring (ex-wife, deceased), Princess Laethwen (wife, deceased), Danny Palmer (brother, deceased), David Palmer (father), Susan Palmer (mother, deceased), David Palmer (uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/atom-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/atom-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/atom-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/atom-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/53-atom-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/53-atom-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/53-atom-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/53-atom-ii.jpg"
   }
 }

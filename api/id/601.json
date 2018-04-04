@@ -1,6 +1,7 @@
 {
   "id": 601,
   "name": "Sinestro",
+  "slug": "601-sinestro",
   "powerstats": {
     "intelligence": 75,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 64,
     "power": 100,
     "combat": 55
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Korugaran",
+    "height": [
+      "6'7",
+      "201 cm"
+    ],
+    "weight": [
+      "205 lb",
+      "92 kg"
+    ],
+    "eyeColor": "Black",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Thaal Sinestro",
@@ -24,20 +39,6 @@
     "publisher": "DC Comics",
     "alignment": "neutral"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Korugaran",
-    "height": [
-      "6'7",
-      "201 cm"
-    ],
-    "weight": [
-      "205 lb",
-      "92 kg"
-    ],
-    "eyeColor": "Black",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "-",
     "base": "Ranx, Warworld. formerly New Korugar, Qward, Oa"
@@ -47,9 +48,9 @@
     "relatives": "Witch Queen (sister, pre-Crisis), Soranik Natu (daughter), Arin Sur (wife, deceased), Abin Sur (brother-in-law, deceased), Amon Sur (nephew)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sinestro.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sinestro.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sinestro.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sinestro.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/601-sinestro.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/601-sinestro.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/601-sinestro.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/601-sinestro.jpg"
   }
 }

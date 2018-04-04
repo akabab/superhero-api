@@ -1,6 +1,7 @@
 {
   "id": 477,
   "name": "Ms Marvel II",
+  "slug": "477-ms-marvel-ii",
   "powerstats": {
     "intelligence": 38,
     "strength": 63,
@@ -8,17 +9,6 @@
     "durability": 84,
     "power": 11,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Sharon Ventura",
-    "alterEgos": "She-Thing",
-    "aliases": [
-      "She-Thing"
-    ],
-    "placeOfBirth": "Pullman, Washington",
-    "firstAppearance": "-",
-    "publisher": "She-Thing",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Sharon Ventura",
+    "alterEgos": "She-Thing",
+    "aliases": [
+      "She-Thing"
+    ],
+    "placeOfBirth": "Pullman, Washington",
+    "firstAppearance": "-",
+    "publisher": "She-Thing",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Wanderer, former adventurer, wrestler, stunt woman, scuba diver, motorcycle performer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ms-marvel-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ms-marvel-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ms-marvel-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ms-marvel-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/477-ms-marvel-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/477-ms-marvel-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/477-ms-marvel-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/477-ms-marvel-ii.jpg"
   }
 }

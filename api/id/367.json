@@ -1,6 +1,7 @@
 {
   "id": 367,
   "name": "John Constantine",
+  "slug": "367-john-constantine",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 40,
     "power": 54,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "John Constantine",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Hellblazer"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "John Constantine",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hellblazer"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Swamp Thing Vol 2 #37 (June, 1985)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Thomas Constantine (father, deceased), Cheryl Constantine (sister, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/john-constantine.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/john-constantine.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/john-constantine.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/john-constantine.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/367-john-constantine.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/367-john-constantine.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/367-john-constantine.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/367-john-constantine.jpg"
   }
 }

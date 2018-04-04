@@ -1,6 +1,7 @@
 {
   "id": 527,
   "name": "Professor X",
+  "slug": "527-professor-x",
   "powerstats": {
     "intelligence": 100,
     "strength": 8,
@@ -8,20 +9,6 @@
     "durability": 14,
     "power": 100,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Charles Francis Xavier",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Prof",
-      "Dr. X",
-      "Professor Xavier",
-      "formerly Prisoner M-13"
-    ],
-    "placeOfBirth": "New York, New York",
-    "firstAppearance": "X-Men #1 (September, 1963)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Charles Francis Xavier",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Prof",
+      "Dr. X",
+      "Professor Xavier",
+      "formerly Prisoner M-13"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "X-Men #1 (September, 1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Mutant leader, mutant rights activist, geneticist, teacher, adventurer, heir, formerly headmaster, soldier (US Army)",
     "base": "Formerly Utopia, San Francisco Bay, California; Genosha; Xavier Institute, Salem Center, Westchester County, New York; Imperial Palace, Chandilar, Shi'ar Empire; Columbia University, Manhattan, New York City, New York"
@@ -46,9 +47,9 @@
     "relatives": "Brian Xavier (father, deceased), Sharon Xavier (mother, deceased), Cassandra Nova (sister), Kurt Marko (stepfather, deceased), Cain Marko (Juggernaut, stepbrother), Lilandra (ex-wife), David Charles Haller (Legion, son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/professor-x.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/professor-x.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/professor-x.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/professor-x.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/527-professor-x.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/527-professor-x.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/527-professor-x.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/527-professor-x.jpg"
   }
 }

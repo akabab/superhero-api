@@ -1,6 +1,7 @@
 {
   "id": 56,
   "name": "Aurora",
+  "slug": "56-aurora",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 60,
     "power": 74,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Jeanne-Marie Beaubier",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Sister Beaubier"
-    ],
-    "placeOfBirth": "Montreal, Quebec, Canada",
-    "firstAppearance": "X-Men #121 (1979)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jeanne-Marie Beaubier",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sister Beaubier"
+    ],
+    "placeOfBirth": "Montreal, Quebec, Canada",
+    "firstAppearance": "X-Men #121 (1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; former terrorist, nun, history/geography teacher",
     "base": "Laval, Quebec, Canada"
@@ -43,9 +44,9 @@
     "relatives": "Jean-Baptiste Beaubier (father, deceased), unidentified mother (deceased), Jean-Paul Beaubier (Northstar, twin brother) Joanna Beaubier (adopted niece, deceased); Lois and Genevieve Martin (first cousins once removed/adopted parents, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/aurora.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/aurora.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/aurora.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/aurora.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/56-aurora.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/56-aurora.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/56-aurora.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/56-aurora.jpg"
   }
 }

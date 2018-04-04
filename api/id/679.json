@@ -1,6 +1,7 @@
 {
   "id": 679,
   "name": "Ultragirl",
+  "slug": "679-ultragirl",
   "powerstats": {
     "intelligence": 50,
     "strength": 80,
@@ -8,18 +9,6 @@
     "durability": 70,
     "power": 35,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Tsu-Zana",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Suzy Sherman",
-      "Ultra-Girl"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Tsu-Zana",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Suzy Sherman",
+      "Ultra-Girl"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Model",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Toby Sherman (father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ultragirl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ultragirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ultragirl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ultragirl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/679-ultragirl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/679-ultragirl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/679-ultragirl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/679-ultragirl.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 315,
   "name": "Hawkgirl",
+  "slug": "315-hawkgirl",
   "powerstats": {
     "intelligence": 50,
     "strength": 28,
@@ -8,18 +9,6 @@
     "durability": 99,
     "power": 96,
     "combat": 72
-  },
-  "biography": {
-    "fullName": "Kendra Saunders",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Chay-Ara; Sheila Carr; Lady Celia Penbrook",
-      "Kate Manser; Shiera Sanders"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "JSA Secret Files #1 (August 1999)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Kendra Saunders",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Chay-Ara; Sheila Carr; Lady Celia Penbrook",
+      "Kate Manser; Shiera Sanders"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "JSA Secret Files #1 (August 1999)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, Film School Student, Temp Curator of the Stonechat Museum",
     "base": "St. Roch, Louisiana, JLA Watchtower; formerly Manhattan, New York (as a member of the JSA)"
@@ -44,9 +45,9 @@
     "relatives": "Michael Saunders (father, deceased); Trina Saunders (mother, deceased); Cyril \"Speed\" Saunders (grandfather); Mia Saunders (daughter); Shiera Hall (Hawkgirl, great-aunt, deceased); Carter Hall (Hawkman, great-uncle); Hector Hall (Dr. Fate, 2nd cousin); Northwind (cousin through adoption); Hippolyta Hall (Fury, cousin through marriage); Sandman (Daniel Hall, 3rd cousin), Death, Destiny, Destruction, Delirium, Desire (3rd cousins)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hawkgirl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hawkgirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkgirl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hawkgirl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/315-hawkgirl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/315-hawkgirl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/315-hawkgirl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/315-hawkgirl.jpg"
   }
 }

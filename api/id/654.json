@@ -1,6 +1,7 @@
 {
   "id": 654,
   "name": "Tempest",
+  "slug": "654-tempest",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 66,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Angel Salvadore Bohusk",
-    "alterEgos": "Angel Salvadore",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "New X-Men #118 (November, 2001)",
-    "publisher": "Angel Salvadore",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Angel Salvadore Bohusk",
+    "alterEgos": "Angel Salvadore",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New X-Men #118 (November, 2001)",
+    "publisher": "Angel Salvadore",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Tito Bohusk (son); Axel Bohusk (son); Kara Bohusk (daughter); three other unidentified children;"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/tempest.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/tempest.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/tempest.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/tempest.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/654-tempest.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/654-tempest.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/654-tempest.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/654-tempest.jpg"
   }
 }

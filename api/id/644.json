@@ -1,6 +1,7 @@
 {
   "id": 644,
   "name": "Superman",
+  "slug": "644-superman",
   "powerstats": {
     "intelligence": 94,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Kryptonian",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Clark Kent",
@@ -26,20 +41,6 @@
     "publisher": "Superman Prime One-Million",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Kryptonian",
-    "height": [
-      "6'3",
-      "191 cm"
-    ],
-    "weight": [
-      "225 lb",
-      "101 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Reporter for the Daily Planet and novelist",
     "base": "Metropolis"
@@ -49,9 +50,9 @@
     "relatives": "Lois Lane (wife), Jor-El (father, deceased), Lara (mother, deceased), Jonathan Kent (adoptive father), Martha Kent (adoptive mother), Seyg-El (paternal grandfather, deceased), Zor-El (uncle, deceased), Alura (aunt, deceased), Supergirl (Kara Zor-El, cousin), Superboy (Kon-El/Conner Kent, partial clone)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/superman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/superman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/superman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/superman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/644-superman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/644-superman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/644-superman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/644-superman.jpg"
   }
 }

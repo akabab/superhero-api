@@ -1,6 +1,7 @@
 {
   "id": 63,
   "name": "Batgirl",
+  "slug": "63-batgirl",
   "powerstats": {
     "intelligence": 88,
     "strength": 11,
@@ -8,18 +9,6 @@
     "durability": 40,
     "power": 34,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Barbara Gordon",
-    "alterEgos": "Oracle",
-    "aliases": [
-      "Oracle",
-      "Bluebelle"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Detective Comics #359",
-    "publisher": "Oracle",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Barbara Gordon",
+    "alterEgos": "Oracle",
+    "aliases": [
+      "Oracle",
+      "Bluebelle"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Detective Comics #359",
+    "publisher": "Oracle",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Gotham City, formerly Metropolis, Platinum Flats"
@@ -44,9 +45,9 @@
     "relatives": "James Gordon (father) ? Barbara Eileen (mother) ? James Gordon, Jr. (brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/batgirl-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/batgirl-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/batgirl-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/batgirl-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/63-batgirl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/63-batgirl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/63-batgirl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/63-batgirl.jpg"
   }
 }

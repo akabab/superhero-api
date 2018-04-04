@@ -1,6 +1,7 @@
 {
   "id": 588,
   "name": "Shatterstar",
+  "slug": "588-shatterstar",
   "powerstats": {
     "intelligence": 63,
     "strength": 48,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 49,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "Gaveedra Seven",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Benjamin Russell"
-    ],
-    "placeOfBirth": "Mojoworld",
-    "firstAppearance": "New Mutants #99",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Gaveedra Seven",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Benjamin Russell"
+    ],
+    "placeOfBirth": "Mojoworld",
+    "firstAppearance": "New Mutants #99",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Warrior",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Longshot (father), Dazzler (mother), Mojo V"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/shatterstar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/shatterstar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/shatterstar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/shatterstar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/588-shatterstar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/588-shatterstar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/588-shatterstar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/588-shatterstar.jpg"
   }
 }

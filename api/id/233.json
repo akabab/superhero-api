@@ -1,6 +1,7 @@
 {
   "id": 233,
   "name": "Dr Manhattan",
+  "slug": "233-dr-manhattan",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Jonathan Osterman",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jon Osterman",
-      "Doctor Manhattan"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Watchmen #1 (September, 1986)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "White",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Jonathan Osterman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jon Osterman",
+      "Doctor Manhattan"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Watchmen #1 (September, 1986)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Scientist",
     "base": "New York City; formerly Mars"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/dr-manhattan.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/dr-manhattan.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dr-manhattan.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/dr-manhattan.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/233-dr-manhattan.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/233-dr-manhattan.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/233-dr-manhattan.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/233-dr-manhattan.jpg"
   }
 }

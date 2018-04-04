@@ -1,6 +1,7 @@
 {
   "id": 285,
   "name": "Gladiator",
+  "slug": "285-gladiator",
   "powerstats": {
     "intelligence": 50,
     "strength": 100,
@@ -8,19 +9,6 @@
     "durability": 100,
     "power": 77,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Kallark",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Majestor",
-      "Praetor",
-      "Captain Universe"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Men Vol 1 #107 October, 1977",
-    "publisher": "Marvel Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Blue"
   },
+  "biography": {
+    "fullName": "Kallark",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Majestor",
+      "Praetor",
+      "Captain Universe"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men Vol 1 #107 October, 1977",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Majestor of the Shi'ar Empire; Former Praetor of the Imperial Guard; possibly former Herald of Galactus",
     "base": "Chandilar, Shi'ar Galaxy; mobile throughout the Shi'ar Empire and surrounding galaxies."
@@ -45,9 +46,9 @@
     "relatives": "Kubark (Kid Gladiator) (son), Xenith (The Strontian) (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/gladiator.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/gladiator.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gladiator.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/gladiator.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/285-gladiator.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/285-gladiator.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/285-gladiator.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/285-gladiator.jpg"
   }
 }

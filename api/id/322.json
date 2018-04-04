@@ -1,6 +1,7 @@
 {
   "id": 322,
   "name": "Hellboy",
+  "slug": "322-hellboy",
   "powerstats": {
     "intelligence": 63,
     "strength": 53,
@@ -8,18 +9,6 @@
     "durability": 95,
     "power": 73,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Anung Un Rama",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "World Destroyer",
-      "The Great Beast"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Dime Press #4 (May 1, 1993)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Gold",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Anung Un Rama",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "World Destroyer",
+      "The Great Beast"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Dime Press #4 (May 1, 1993)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Catherine Tanner-Tremaine (mother, deceased), two unnamed maternal half-siblings (deceased), Professor Trevor Bruttenholm (foster father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hellboy.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hellboy.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hellboy.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hellboy.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/322-hellboy.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/322-hellboy.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/322-hellboy.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/322-hellboy.jpg"
   }
 }

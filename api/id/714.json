@@ -1,6 +1,7 @@
 {
   "id": 714,
   "name": "Winter Soldier",
+  "slug": "714-winter-soldier",
   "powerstats": {
     "intelligence": 56,
     "strength": 32,
@@ -8,18 +9,6 @@
     "durability": 65,
     "power": 60,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "Bucky Barnes",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Bucky",
-      "Captain America"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Bucky Barnes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bucky",
+      "Captain America"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Captain America Vol 5 #1 (January, 2005) (as Winter Soldier)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; former SHIELD operative, Assassin (See Note under \"Winter Soldier\" article), Army Mascot, Student",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "George M. Barnes (father, deceased), Winifred C. Barnes (mother, deceased), Rebecca P. Barnes Proctor (sister), Ida (aunt, presumed deceased), Mr. Proctor (brother-in-law), unidentified niece and nephew, Scott Proctor (grandnephew), Kimberly Proctor (grandniece)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/winter-soldier.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/winter-soldier.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/winter-soldier.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/winter-soldier.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/714-winter-soldier.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/714-winter-soldier.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/714-winter-soldier.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/714-winter-soldier.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 43,
   "name": "Ares",
+  "slug": "43-ares",
   "powerstats": {
     "intelligence": 75,
     "strength": 82,
@@ -8,20 +9,6 @@
     "durability": 80,
     "power": 84,
     "combat": 101
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "God of War",
-      "Mister Talon",
-      "Mars",
-      "Warhawk"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Thor #129",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "God of War",
+      "Mister Talon",
+      "Mars",
+      "Warhawk"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Thor #129",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Avengers Tower, formerly Olympus"
@@ -46,9 +47,9 @@
     "relatives": "Zeus (father), Hera (mother), Enyo (wife), Deimos, Phobos, Alexander (sons), Neptune, Pluto (uncles), Demeter, Hestia (aunts), Hephaestus (brother), Apollo, Dionysus, Hercules, Hermes(half-brothers), Artemis, Pallas Athena, Venus, (half-sisters)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ares.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ares.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ares.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ares.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/43-ares.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/43-ares.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/43-ares.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/43-ares.jpg"
   }
 }

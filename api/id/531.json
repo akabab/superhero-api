@@ -1,6 +1,7 @@
 {
   "id": 531,
   "name": "Purple Man",
+  "slug": "531-purple-man",
   "powerstats": {
     "intelligence": 56,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 30,
     "power": 92,
     "combat": 10
-  },
-  "biography": {
-    "fullName": "Zebediah Killgrave",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kilgrave"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Daredevil #4 (October, 1964)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Purple",
     "hairColor": "Purple"
   },
+  "biography": {
+    "fullName": "Zebediah Killgrave",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kilgrave"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Daredevil #4 (October, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional criminal, Megalomaniac, Former spy",
     "base": "New York City, New York, USA; formerly Canada, Croatia, formerly Yugoslavia"
@@ -43,9 +44,9 @@
     "relatives": "Melanie Killgrave (ex-wife); Persuasion (Kara Killgrave) (daughter); Joe (son); Shallah (daughter); Connor (son); Jamie (son); Unnamed daughter"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/purple-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/purple-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/purple-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/purple-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/531-purple-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/531-purple-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/531-purple-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/531-purple-man.jpg"
   }
 }

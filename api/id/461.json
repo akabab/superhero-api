@@ -1,6 +1,7 @@
 {
   "id": 461,
   "name": "Mister Zsasz",
+  "slug": "461-mister-zsasz",
   "powerstats": {
     "intelligence": 88,
     "strength": 22,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 18,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Victor Zsasz",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mr Zsasz"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Victor Zsasz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mr Zsasz"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Serial Killer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/no-portrait.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/no-portrait.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/no-portrait.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/no-portrait.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/no-portrait.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/no-portrait.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/no-portrait.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/no-portrait.jpg"
   }
 }

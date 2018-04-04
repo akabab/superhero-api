@@ -1,6 +1,7 @@
 {
   "id": 576,
   "name": "Scarecrow",
+  "slug": "576-scarecrow",
   "powerstats": {
     "intelligence": 81,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 48,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Jonathan Crane",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Jonathan Crane",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "WORLD'S FINEST COMICS #3 (Fall, 1941)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Special Professional Criminal",
     "base": "Gotham City"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/scarecrow.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/scarecrow.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarecrow.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/scarecrow.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/576-scarecrow.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/576-scarecrow.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/576-scarecrow.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/576-scarecrow.jpg"
   }
 }

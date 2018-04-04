@@ -1,6 +1,7 @@
 {
   "id": 448,
   "name": "Metron",
+  "slug": "448-metron",
   "powerstats": {
     "intelligence": 88,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 56,
     "power": 100,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Metron",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "New Gods vol. 1 #1 (February-March, 1971)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Metron",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New Gods vol. 1 #1 (February-March, 1971)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Scientist, seeker of knowledge",
     "base": "Supertown, New Genesis"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/metron.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/metron.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/metron.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/metron.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/448-metron.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/448-metron.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/448-metron.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/448-metron.jpg"
   }
 }

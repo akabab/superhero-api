@@ -1,6 +1,7 @@
 {
   "id": 162,
   "name": "Carnage",
+  "slug": "162-carnage",
   "powerstats": {
     "intelligence": 63,
     "strength": 63,
@@ -8,18 +9,6 @@
     "durability": 84,
     "power": 88,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Cletus Kasady",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mass Carnage",
-      "999th"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Cletus Kasady",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mass Carnage",
+      "999th"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #344 (February, 1991)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "New York City"
@@ -44,9 +45,9 @@
     "relatives": "Venom (\"father\"); Shriek (\"wife\"); Hybrid, Lasher, Phage, Riot (\"brothers\"); Agony, Scream (\"sisters\"); Carrion, Demogoblin, Doppelganger, Toxin (\"sons\"); Scorn (\"Daughter\")"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/carnage.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/carnage.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/carnage.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/carnage.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/162-carnage.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/162-carnage.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/162-carnage.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/162-carnage.jpg"
   }
 }

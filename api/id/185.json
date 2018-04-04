@@ -1,6 +1,7 @@
 {
   "id": 185,
   "name": "Colossus",
+  "slug": "185-colossus",
   "powerstats": {
     "intelligence": 63,
     "strength": 83,
@@ -8,20 +9,6 @@
     "durability": 100,
     "power": 45,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Piotr Nikolaievitch Rasputin",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Pete",
-      "Peter Nicholas",
-      "The Proletarian",
-      "Little Brother"
-    ],
-    "placeOfBirth": "Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",
-    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Silver",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Piotr Nikolaievitch Rasputin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pete",
+      "Peter Nicholas",
+      "The Proletarian",
+      "Little Brother"
+    ],
+    "placeOfBirth": "Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",
+    "firstAppearance": "Giant-Size X-Men #1 (May, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "(current) Adventurer, student, (former) Artist",
     "base": "(current) Professor Charles Xavier's Institute for Higher Learning, Salem Center, Westchester County, New York (former) Muir Isle, Scotland,; a loft in Soho, Manhattan, Ust-Ordynski Collective, Lake Baikal, Siberia, U.S.S.R., X-Men Headquarters in Austra"
@@ -46,9 +47,9 @@
     "relatives": "Grigory Efimovich Rasputin (great-grandfather, deceased), Elena (great-grandmother, deceased), Ivan Rasputin (great-grand uncle, deceased), Grigory Rasputin (grandfather, deceased), Nikolai Rasputin (father, deceased), Alexandra Rasputina (mother, deceased), Vladimir Rasputin (uncle, deceased), unidentified aunt & uncle (deceased), Illyana Nikolievna Rasputina (Magik, sister, deceased), Mikhail Rasputin (brother), Peter Jr. (son), Larissa Mishchenko (cousin, deceased), Konstantin (cousin, deceased), Klara (cousin, deceased), Dimitriy (cousin, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/colossus.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/colossus.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/colossus.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/colossus.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/185-colossus.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/185-colossus.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/185-colossus.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/185-colossus.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 613,
   "name": "Spectre",
+  "slug": "613-spectre",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "White",
+    "hairColor": "No Hair"
   },
   "biography": {
     "fullName": "Aztar",
@@ -26,20 +41,6 @@
     "publisher": "Aztar",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "God / Eternal",
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "White",
-    "hairColor": "No Hair"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -49,9 +50,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spectre.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spectre.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spectre.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spectre.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/613-spectre.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/613-spectre.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/613-spectre.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/613-spectre.jpg"
   }
 }

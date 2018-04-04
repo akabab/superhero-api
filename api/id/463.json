@@ -1,6 +1,7 @@
 {
   "id": 463,
   "name": "MODOK",
+  "slug": "463-modok",
   "powerstats": {
     "intelligence": 100,
     "strength": 18,
@@ -8,18 +9,6 @@
     "durability": 25,
     "power": 79,
     "combat": 15
-  },
-  "biography": {
-    "fullName": "George Tarleton",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "M.O.D.O.K.",
-      "Mental Organism Designed Only for Killing"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Tales of Suspense #93",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "White",
     "hairColor": "Brownn"
   },
+  "biography": {
+    "fullName": "George Tarleton",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "M.O.D.O.K.",
+      "Mental Organism Designed Only for Killing"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Tales of Suspense #93",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Would-be conqueror, AIM leader, terrorist; former AIM agent, technician",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "M.O.D.O.K. Superior (clone), Head Case (son), Number None (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/modok.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/modok.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/modok.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/modok.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/463-modok.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/463-modok.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/463-modok.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/463-modok.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 640,
   "name": "Sunspot",
+  "slug": "640-sunspot",
   "powerstats": {
     "intelligence": 63,
     "strength": 63,
@@ -8,20 +9,6 @@
     "durability": 25,
     "power": 90,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Roberto DaCosta",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Robert DaCosta",
-      "Bobby; Black Rook",
-      "Black King",
-      "Reignfire"
-    ],
-    "placeOfBirth": "Rio de Janeiro, Brazil",
-    "firstAppearance": "Marvel Graphic Novel #4 (October, 1982)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "brown",
     "hairColor": "black"
   },
+  "biography": {
+    "fullName": "Roberto DaCosta",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Robert DaCosta",
+      "Bobby; Black Rook",
+      "Black King",
+      "Reignfire"
+    ],
+    "placeOfBirth": "Rio de Janeiro, Brazil",
+    "firstAppearance": "Marvel Graphic Novel #4 (October, 1982)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, businessman",
     "base": "1128 Mission Street, San Francisco, California"
@@ -46,9 +47,9 @@
     "relatives": "Emmanuel da Costa (father, deceased), Nina da Costa (mother), Reignfire (genetic copy, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sunspot.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sunspot.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sunspot.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sunspot.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/640-sunspot.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/640-sunspot.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/640-sunspot.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/640-sunspot.jpg"
   }
 }

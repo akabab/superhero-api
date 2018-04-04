@@ -1,6 +1,7 @@
 {
   "id": 266,
   "name": "Flash III",
+  "slug": "266-flash-iii",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 60,
     "power": 100,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Wally West",
-    "alterEgos": "Speed Demon",
-    "aliases": [
-      "The Fastest Man Alive",
-      "The Scarlet Speedster; formerly",
-      "Kid Flash I"
-    ],
-    "placeOfBirth": "Blue Valley, Nebraska",
-    "firstAppearance": "Flash #110 (January, 1960)",
-    "publisher": "Speed Demon",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Wally West",
+    "alterEgos": "Speed Demon",
+    "aliases": [
+      "The Fastest Man Alive",
+      "The Scarlet Speedster; formerly",
+      "Kid Flash I"
+    ],
+    "placeOfBirth": "Blue Valley, Nebraska",
+    "firstAppearance": "Flash #110 (January, 1960)",
+    "publisher": "Speed Demon",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, Mechanic for the KCPD",
     "base": "Keystone City, Kansas"
@@ -45,9 +46,9 @@
     "relatives": "Rudolph and Mary West (parents), Ira West (grandfather), Iris Allen (aunt), Barry Allen (Flash II, uncle), Linda Park West (wife), Jai and Iris West (twin children)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-3.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-3.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/flash-3.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/266-flash-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/266-flash-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/266-flash-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/266-flash-iii.jpg"
   }
 }

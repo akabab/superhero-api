@@ -1,6 +1,7 @@
 {
   "id": 360,
   "name": "Jessica Cruz",
+  "slug": "360-jessica-cruz",
   "powerstats": {
     "intelligence": 56,
     "strength": 90,
@@ -8,18 +9,6 @@
     "durability": 50,
     "power": 100,
     "combat": 55
-  },
-  "biography": {
-    "fullName": "Jessica Cruz",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Green Lantern",
-      "Power Ring"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Green Lantern Vol 5 #20 (July, 2013)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Jessica Cruz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Green Lantern",
+      "Power Ring"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Green Lantern Vol 5 #20 (July, 2013)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Sara Cruz (sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jessica-cruz.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jessica-cruz.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jessica-cruz.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jessica-cruz.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/360-jessica-cruz.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/360-jessica-cruz.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/360-jessica-cruz.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/360-jessica-cruz.jpg"
   }
 }

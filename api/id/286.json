@@ -1,6 +1,7 @@
 {
   "id": 286,
   "name": "Goblin Queen",
+  "slug": "286-goblin-queen",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 65,
     "combat": 56
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
   },
   "biography": {
     "fullName": "Madelyne Jennifer Pryor",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": null,
-    "height": [
-      "5'6",
-      "168 cm"
-    ],
-    "weight": [
-      "110 lb",
-      "50 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Red"
-  },
   "work": {
     "occupation": "-",
     "base": "Mobile; formerly Anchorage, Alaska; Reaver Base, Australian Outback, Australia; Empire State Building, New York, New York"
@@ -47,9 +48,9 @@
     "relatives": "Mister Sinister (creator), Jean Grey (Phoenix, genetic template), Scott Summers (Cyclops, husband), Nathan Christopher Summers (Cable, son), Christopher Summers (Corsair, father-in-law), Alex Summers (Havok, brother-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/goblin-queen.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/goblin-queen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/goblin-queen.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/goblin-queen.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/286-goblin-queen.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/286-goblin-queen.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/286-goblin-queen.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/286-goblin-queen.jpg"
   }
 }

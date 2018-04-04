@@ -1,6 +1,7 @@
 {
   "id": 358,
   "name": "Jennifer Kale",
+  "slug": "358-jennifer-kale",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 74,
     "combat": 72
-  },
-  "biography": {
-    "fullName": "Jennifer Kale",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Wendy the Good Little Witch"
-    ],
-    "placeOfBirth": "Citrusville, Florida",
-    "firstAppearance": "(Adventures into) Fear#11 (1972)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Jennifer Kale",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Wendy the Good Little Witch"
+    ],
+    "placeOfBirth": "Citrusville, Florida",
+    "firstAppearance": "(Adventures into) Fear#11 (1972)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Sorceress, student",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Andrew Jackson Kale (brother, deceased), Joshua Kale (grandfather, deceased), Naomi Kale (aunt), Johnny Blaze ( Ghost Rider ), Barbara and Daniel Ketch (cousins); Illyana Kale, Noble and pastor Kale, Magdalena (ancestors)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jennifer-kale.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jennifer-kale.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jennifer-kale.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jennifer-kale.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/358-jennifer-kale.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/358-jennifer-kale.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/358-jennifer-kale.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/358-jennifer-kale.jpg"
   }
 }

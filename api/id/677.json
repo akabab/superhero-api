@@ -1,6 +1,7 @@
 {
   "id": 677,
   "name": "Triton",
+  "slug": "677-triton",
   "powerstats": {
     "intelligence": 56,
     "strength": 63,
@@ -8,17 +9,6 @@
     "durability": 65,
     "power": 35,
     "combat": 55
-  },
-  "biography": {
-    "fullName": "Triton",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Island of Attilan, Atlantic Ocean",
-    "firstAppearance": "Fantastic Four #45 (December, 1965)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Triton",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Island of Attilan, Atlantic Ocean",
+    "firstAppearance": "Fantastic Four #45 (December, 1965)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Mander, Azur (parents, deceased), Karnak (brother, deceased), Magnar, Zeta (paternal grandparents), Kobar, La (maternal grandparents), Rynda (paternal aunt), Ambur (maternal aunt) ,Black Bolt, Maximus, Medusa, Crystal (cousins)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/triton.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/triton.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/triton.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/triton.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/677-triton.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/677-triton.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/677-triton.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/677-triton.jpg"
   }
 }

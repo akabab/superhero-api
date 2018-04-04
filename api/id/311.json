@@ -1,6 +1,7 @@
 {
   "id": 311,
   "name": "Havok",
+  "slug": "311-havok",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 60,
     "power": 71,
     "combat": 45
-  },
-  "biography": {
-    "fullName": "Alexander Summers",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mutant X",
-      "Goblin Prince"
-    ],
-    "placeOfBirth": "Honolulu, Hawaii",
-    "firstAppearance": "X-MEN #58",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Alexander Summers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mutant X",
+      "Goblin Prince"
+    ],
+    "placeOfBirth": "Honolulu, Hawaii",
+    "firstAppearance": "X-MEN #58",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Currently Adventurer, formerly Graduate student in geophysics",
     "base": "Alexandria, Virginia"
@@ -44,9 +45,9 @@
     "relatives": "Oscar Summers (adoptive paternal distant ancestor, deceased), Daniel Summers (paternal distant ancestor, deceased), Amanda Mueller (Black Womb) (paternal distant ancestor), unnamed paternal great-grandfather, deceased, Gloria Dayne (Fontanelle) (paternal distant ancestor), Philip Summers (paternal grandfather), Deborah Summers (paternal grandmother), Christopher Summers (Corsair) (father, deceased), Katherine Summers (mother, deceased), Andrew Blanding (adoptive father), Joanna Blanding (adoptive mother), Scott Summers (Cyclops) (brother), Gabriel Summers (Vulcan) (brother, deceased), Ahmet Abdol (Living Monolith) (\"brother\" via X-Gene transfer), Haley Blanding (adoptive sister), Todd Blanding (adoptive brother, deceased), Madelyne Pryor-Summers (Red Queen) (sister-in-law/clone of second sister-in-law, deceased), Jean Grey-Summers (Phoenix) (sister-in-law, deceased), Cal'syee Neramani (Deathbird) (sister-in-law), Nathan Summers (Cable) (nephew), Adam Neramani (X-Treme) (nephew, alleged half-brother), Aliya Dayspring (Jenskot) (niece, deceased), Hope Summers (niece, deceased), Madelyne Pryor (Earth-1298) (Marvel Woman) (alternate reality wife), Scott Summers (Earth-1298) (alternate reality son), Rachel Grey (Marvel Girl) (alternate reality niece), Rachel Summers (Mother Askani) (alternate reality niece, deceased), Nathaniel Grey (X-Man) (alternate reality nephew), Stryfe (nephew's clone, deceased), Tyler Dayspring (Genesis) (great-nephew, deceased), Hope Summers (adoptive great-niece), Janet van Dyne (Wasp) (wife), Katie Summers (daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/havok.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/havok.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/havok.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/havok.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/311-havok.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/311-havok.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/311-havok.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/311-havok.jpg"
   }
 }

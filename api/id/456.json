@@ -1,6 +1,7 @@
 {
   "id": 456,
   "name": "Mister Fantastic",
+  "slug": "456-mister-fantastic",
   "powerstats": {
     "intelligence": 100,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 70,
     "power": 33,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Reed Richards",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mr Fantastic"
-    ],
-    "placeOfBirth": "Central City, California",
-    "firstAppearance": "FANTASTIC FOUR #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Reed Richards",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mr Fantastic"
+    ],
+    "placeOfBirth": "Central City, California",
+    "firstAppearance": "FANTASTIC FOUR #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Scientist, adventurer",
     "base": "New York City"
@@ -43,9 +44,9 @@
     "relatives": "Nathaniai (father), Evelyn (mother, deceased), Susan Storm - Invisible Woman (wife), Franklin (son), Johnny Storm - Human Torch (brother-inlaw), Cassandra (stepmother, deceased), Immortus (father's descendant, see Immortus, Kang, Rama-Tut)."
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mr-fantastic.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mr-fantastic.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mr-fantastic.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mr-fantastic.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/456-mister-fantastic.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/456-mister-fantastic.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/456-mister-fantastic.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/456-mister-fantastic.jpg"
   }
 }

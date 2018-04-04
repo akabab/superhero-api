@@ -1,6 +1,7 @@
 {
   "id": 61,
   "name": "Banshee",
+  "slug": "61-banshee",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 40,
     "power": 63,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Sean Cassidy",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Death"
-    ],
-    "placeOfBirth": "Cassidy Keep, Ireland",
-    "firstAppearance": "X-Men #28 (January, 1967)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Strawberry Blond"
   },
+  "biography": {
+    "fullName": "Sean Cassidy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Death"
+    ],
+    "placeOfBirth": "Cassidy Keep, Ireland",
+    "firstAppearance": "X-Men #28 (January, 1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Currently founder and director of operation for X-Corps, formerly Adventurer and Headmaster at the Massachusetts Academy, in charge of Generation X, Interpol Inspector and Agent, freelance detective, professional criminal, involuntary operative for Factor",
     "base": "Muir Island, off the coast of Scotland. formerly Massachusetts Academy; Xavier Institute"
@@ -43,9 +44,9 @@
     "relatives": "Maeve Rourke Cassidy (wife, deceased), Thomas (Black Tom, cousin), Theresa Rourke (Siryn, daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/banshee.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/banshee.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/banshee.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/banshee.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/61-banshee.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/61-banshee.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/61-banshee.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/61-banshee.jpg"
   }
 }

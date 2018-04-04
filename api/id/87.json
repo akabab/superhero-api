@@ -1,6 +1,7 @@
 {
   "id": 87,
   "name": "Bionic Woman",
+  "slug": "87-bionic-woman",
   "powerstats": {
     "intelligence": 56,
     "strength": 37,
@@ -8,17 +9,6 @@
     "durability": 40,
     "power": 20,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Jamie Sommers",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Clarissa Whyte"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jamie Sommers",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Clarissa Whyte"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bionic-woman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bionic-woman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bionic-woman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bionic-woman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/87-bionic-woman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/87-bionic-woman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/87-bionic-woman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/87-bionic-woman.jpg"
   }
 }

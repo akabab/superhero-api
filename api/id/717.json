@@ -1,6 +1,7 @@
 {
   "id": 717,
   "name": "Wolverine",
+  "slug": "717-wolverine",
   "powerstats": {
     "intelligence": 63,
     "strength": 32,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 89,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'3",
+      "160 cm"
+    ],
+    "weight": [
+      "300 lb",
+      "135 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Logan",
@@ -31,20 +46,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "5'3",
-      "160 cm"
-    ],
-    "weight": [
-      "300 lb",
-      "135 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Adventurer, instructor, former bartender, bouncer, spy, government operative, mercenary, soldier, sailor, miner",
     "base": "Xavier Institute, Salem Center, Westchester County, New York; Avengers Tower, New York City"
@@ -54,9 +55,9 @@
     "relatives": "John Howlett Sr. (father, deceased), Elizabeth Howlett (mother, deceased), John Howlett Jr. (brother, allegedly deceased), Viper (ex-wife), Amiko (foster daughter), Erista (son), X-23 (clone)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/wolverine.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/wolverine.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wolverine.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/wolverine.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/717-wolverine.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/717-wolverine.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/717-wolverine.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/717-wolverine.jpg"
   }
 }

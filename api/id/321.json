@@ -1,6 +1,7 @@
 {
   "id": 321,
   "name": "Hela",
+  "slug": "321-hela",
   "powerstats": {
     "intelligence": 63,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 45
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Goddess of Death"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Journey into Mystery #102",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Goddess of Death"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Journey into Mystery #102",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Asgardian Goddess of Death, former Ruler of Hel and Niffleheim",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Loki (father), Thor (Uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hela.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hela.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hela.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hela.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/321-hela.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/321-hela.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/321-hela.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/321-hela.jpg"
   }
 }

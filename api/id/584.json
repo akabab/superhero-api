@@ -1,6 +1,7 @@
 {
   "id": 584,
   "name": "Shadow King",
+  "slug": "584-shadow-king",
   "powerstats": {
     "intelligence": 75,
     "strength": 12,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 75
+  },
+  "appearance": {
+    "gender": "-",
+    "race": null,
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "330 lb",
+      "149 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Amahl Farouk",
@@ -28,20 +43,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "-",
-    "race": null,
-    "height": [
-      "6'1",
-      "185 cm"
-    ],
-    "weight": [
-      "330 lb",
-      "149 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "-",
     "base": "The Astral Plane; Formerly Cairo, Egypt."
@@ -51,9 +52,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/shadow-king.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/shadow-king.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/shadow-king.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/shadow-king.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/584-shadow-king.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/584-shadow-king.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/584-shadow-king.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/584-shadow-king.jpg"
   }
 }

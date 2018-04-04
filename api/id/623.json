@@ -1,6 +1,7 @@
 {
   "id": 623,
   "name": "Spider-Woman",
+  "slug": "623-spider-woman",
   "powerstats": {
     "intelligence": 56,
     "strength": 42,
@@ -8,20 +9,6 @@
     "durability": 60,
     "power": 68,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Jessica Drew",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Arachne",
-      "Ariadne Hyde",
-      "Dark Angel",
-      "Dark Angel of San Francisco"
-    ],
-    "placeOfBirth": "London, England",
-    "firstAppearance": "Marvel Spotlight #32 (February, 1977)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -37,6 +24,20 @@
     "eyeColor": "Green",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jessica Drew",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Arachne",
+      "Ariadne Hyde",
+      "Dark Angel",
+      "Dark Angel of San Francisco"
+    ],
+    "placeOfBirth": "London, England",
+    "firstAppearance": "Marvel Spotlight #32 (February, 1977)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Form agent of HYDRA, former bounty hunter, private investigator, adventurer",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "Jonathan (father, deceased), Merriem (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-woman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-woman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-woman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spider-woman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/623-spider-woman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/623-spider-woman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/623-spider-woman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/623-spider-woman.jpg"
   }
 }

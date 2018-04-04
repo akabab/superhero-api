@@ -1,6 +1,7 @@
 {
   "id": 550,
   "name": "Red Skull",
+  "slug": "550-red-skull",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 14,
     "power": 19,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "240 lb",
+      "108 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "No Hair"
   },
   "biography": {
     "fullName": "Johann Shmidt",
@@ -28,20 +43,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "240 lb",
-      "108 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "No Hair"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -51,9 +52,9 @@
     "relatives": "Hermann Shmidt (father, deceased), Martha Shmidt (mother, deceased), Sinthea Shmidt (Mother Superior/Sin, daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-skull.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-skull.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-skull.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/red-skull.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/550-red-skull.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/550-red-skull.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/550-red-skull.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/550-red-skull.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 156,
   "name": "Captain Marvel",
+  "slug": "156-captain-marvel",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 95,
     "power": 100,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Billy Batson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The World's Mightiest Mortal",
-      "The Big Red Cheese",
-      "Captain Thunder",
-      "Shazam"
-    ],
-    "placeOfBirth": "Fawcett City, United States",
-    "firstAppearance": "Whiz Comics no. 2 (1940)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Billy Batson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The World's Mightiest Mortal",
+      "The Big Red Cheese",
+      "Captain Thunder",
+      "Shazam"
+    ],
+    "placeOfBirth": "Fawcett City, United States",
+    "firstAppearance": "Whiz Comics no. 2 (1940)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "C.C. Batson (father, deceased), Marilyn Batson (mother, deceased), Ebenezer Batson (uncle), Mary Batson (Mary Marvel, sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-marvel.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-marvel.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/captain-marvel.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/156-captain-marvel.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/156-captain-marvel.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/156-captain-marvel.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/156-captain-marvel.jpg"
   }
 }

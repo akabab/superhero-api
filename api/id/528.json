@@ -1,6 +1,7 @@
 {
   "id": 528,
   "name": "Professor Zoom",
+  "slug": "528-professor-zoom",
   "powerstats": {
     "intelligence": 94,
     "strength": 10,
@@ -8,20 +9,6 @@
     "durability": 20,
     "power": 83,
     "combat": 20
-  },
-  "biography": {
-    "fullName": "Eobard Thawne",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Reverse Flash",
-      "Black Flash",
-      "Adrian Zoom",
-      "Mister Zyx"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Flash #139 (September, 1963)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Strawberry Blond"
   },
+  "biography": {
+    "fullName": "Eobard Thawne",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Reverse Flash",
+      "Black Flash",
+      "Adrian Zoom",
+      "Mister Zyx"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #139 (September, 1963)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Central Cityplex, 25th Century"
@@ -46,9 +47,9 @@
     "relatives": "Robern Thawne (brother), Malcolm Thawne (Cobalt Blue) (distant ancestor), President Thawne, Meloni Thawne, Bart Allen, Owen Mercer (descendants) - see Allen Family for complete family tree"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/professor-zoom.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/professor-zoom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/professor-zoom.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/professor-zoom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/528-professor-zoom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/528-professor-zoom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/528-professor-zoom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/528-professor-zoom.jpg"
   }
 }

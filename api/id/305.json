@@ -1,6 +1,7 @@
 {
   "id": 305,
   "name": "Guy Gardner",
+  "slug": "305-guy-gardner",
   "powerstats": {
     "intelligence": 38,
     "strength": 90,
@@ -8,19 +9,6 @@
     "durability": 64,
     "power": 100,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Guy Gardner",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Green Lantern",
-      "Red Lantern",
-      "Warrior"
-    ],
-    "placeOfBirth": "Baltimore, Maryland",
-    "firstAppearance": "Green Lantern Vol 2 #59",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Guy Gardner",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Green Lantern",
+      "Red Lantern",
+      "Warrior"
+    ],
+    "placeOfBirth": "Baltimore, Maryland",
+    "firstAppearance": "Green Lantern Vol 2 #59",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former High School gym teacher; former bar owner; currently Honor guard of the Green Lantern Corps",
     "base": "Formerly New York City; currently Oa"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/guy-gardner.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/guy-gardner.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/guy-gardner.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/guy-gardner.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/305-guy-gardner.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/305-guy-gardner.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/305-guy-gardner.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/305-guy-gardner.jpg"
   }
 }

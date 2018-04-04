@@ -1,6 +1,7 @@
 {
   "id": 483,
   "name": "Namora",
+  "slug": "483-namora",
   "powerstats": {
     "intelligence": 50,
     "strength": 85,
@@ -8,19 +9,6 @@
     "durability": 42,
     "power": 48,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Aquaria Nautica Neptunia",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Sub-Mariner",
-      "Avenging Daughter",
-      "the Sea Beauty"
-    ],
-    "placeOfBirth": "Unnamed Atlantean outpost",
-    "firstAppearance": "Marvel Mystery Comics #82 (1947)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Aquaria Nautica Neptunia",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sub-Mariner",
+      "Avenging Daughter",
+      "the Sea Beauty"
+    ],
+    "placeOfBirth": "Unnamed Atlantean outpost",
+    "firstAppearance": "Marvel Mystery Comics #82 (1947)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Namor (cousin), Talan (husband, deceased), Namorita (\"daughter\" cloned)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/namora.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/namora.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/namora.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/namora.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/483-namora.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/483-namora.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/483-namora.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/483-namora.jpg"
   }
 }

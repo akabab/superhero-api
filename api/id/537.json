@@ -1,6 +1,7 @@
 {
   "id": 537,
   "name": "Quill",
+  "slug": "537-quill",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 23,
     "combat": 14
-  },
-  "biography": {
-    "fullName": "Maxwell Jordan",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Max"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "New X-Men: Academy X #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Maxwell Jordan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Max"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New X-Men: Academy X #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "X-Mansion"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/quill.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/quill.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/quill.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/quill.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/537-quill.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/537-quill.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/537-quill.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/537-quill.jpg"
   }
 }

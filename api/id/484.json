@@ -1,6 +1,7 @@
 {
   "id": 484,
   "name": "Namorita",
+  "slug": "484-namorita",
   "powerstats": {
     "intelligence": 50,
     "strength": 72,
@@ -8,18 +9,6 @@
     "durability": 70,
     "power": 37,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Namorita Prentiss",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kymaera",
-      "Hard"
-    ],
-    "placeOfBirth": "Atlantis Outskirts",
-    "firstAppearance": "SUB-MARINER Vol. 2 #50 (1972)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Namorita Prentiss",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kymaera",
+      "Hard"
+    ],
+    "placeOfBirth": "Atlantis Outskirts",
+    "firstAppearance": "SUB-MARINER Vol. 2 #50 (1972)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Superhero, formerly Leader of Atlantis",
     "base": "Mobile, formerly New Warriors headquarters and Atlantis"
@@ -44,9 +45,9 @@
     "relatives": "Namora (mother); Talan (father, deceased); Namor, Byrrah, Dara, Arkus (first cousins once removed); Fen (great-aunt, deceased); Thakorr (great-grandfather, deceased); Korra (great-grandmother, presumed deceased); large extended family; Betty Prentiss (legal guardian, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/namorita.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/namorita.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/namorita.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/namorita.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/484-namorita.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/484-namorita.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/484-namorita.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/484-namorita.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 151,
   "name": "Captain Britain",
+  "slug": "151-captain-britain",
   "powerstats": {
     "intelligence": 75,
     "strength": 77,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 31,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "257 lb",
+      "116 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Brian Braddock",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'6",
-      "198 cm"
-    ],
-    "weight": [
-      "257 lb",
-      "116 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer, formerly King of Otherworld, scientist",
     "base": "Lighthouse, Earth Orbit; Starlight Citadel, Otherworld; formerly Braddock Manor; Braddock Lighthouse, England; New York City (during exchange trip, specifically Peter Parker's Manhattan apartment); flat near Thames University, London"
@@ -47,9 +48,9 @@
     "relatives": "John Braddock (ancestor, possibly grandfather), James Braddock, Sr. (father, deceased), Lady Elizabeth Braddock (mother, deceased), James Braddock, Jr. (brother), Elizabeth Braddock (twin sister), Meggan (wife), William Puceanu (father-in-law)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-britain.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-britain.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-britain.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/captain-britain.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/151-captain-britain.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/151-captain-britain.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/151-captain-britain.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/151-captain-britain.jpg"
   }
 }

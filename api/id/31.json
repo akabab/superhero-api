@@ -1,6 +1,7 @@
 {
   "id": 31,
   "name": "Ant-Man II",
+  "slug": "31-ant-man-ii",
   "powerstats": {
     "intelligence": 75,
     "strength": 18,
@@ -8,18 +9,6 @@
     "durability": 40,
     "power": 53,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Scott Lang",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Myrmidon",
-      "Scott Edward Harris Lang"
-    ],
-    "placeOfBirth": "Coral Gables, Florida",
-    "firstAppearance": "Avengers Vol 1 #181 (March, 1979)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Scott Lang",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Myrmidon",
+      "Scott Edward Harris Lang"
+    ],
+    "placeOfBirth": "Coral Gables, Florida",
+    "firstAppearance": "Avengers Vol 1 #181 (March, 1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Electronics Technician,",
     "base": "South Beach, Miami, Florida; formerly Farmingdale, Long Island, New York"
@@ -44,9 +45,9 @@
     "relatives": "Cassandra Eleanor Lang (daughter), Ruth (sister), Carl (brother-in-law), Peggy Rae (ex-wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ant-man-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ant-man-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ant-man-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ant-man-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/31-ant-man-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/31-ant-man-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/31-ant-man-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/31-ant-man-ii.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 615,
   "name": "Speedy",
+  "slug": "615-speedy",
   "powerstats": {
     "intelligence": 50,
     "strength": 6,
@@ -8,19 +9,6 @@
     "durability": 20,
     "power": 26,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Thea Queen",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Thea Merlyn",
-      "Mia",
-      "Red Arrow"
-    ],
-    "placeOfBirth": "Starling City",
-    "firstAppearance": "Arrow (TV Series) - \"Pilot\"",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Green",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Thea Queen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Thea Merlyn",
+      "Mia",
+      "Red Arrow"
+    ],
+    "placeOfBirth": "Starling City",
+    "firstAppearance": "Arrow (TV Series) - \"Pilot\"",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Nightclub Owner",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Moira Queen (mother, deceased), Robert Queen (foster father, deceased), Walter Steele (step-father, formerly), Malcolm Merlyn (biological father), Oliver Queen (Green Arrow, half-brother), Tommy Merlyn (half-brother, deceased), William Clayton (nephew)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thea-queen.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thea-queen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thea-queen.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thea-queen.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/615-speedy.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/615-speedy.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/615-speedy.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/615-speedy.jpg"
   }
 }

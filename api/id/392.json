@@ -1,6 +1,7 @@
 {
   "id": 392,
   "name": "Klaw",
+  "slug": "392-klaw",
   "powerstats": {
     "intelligence": 63,
     "strength": 38,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 62,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Ulysses Klaw",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Vlaardingen, Netherlands",
-    "firstAppearance": "Fantastic Four #53 (August, 1966)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Ulysses Klaw",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Vlaardingen, Netherlands",
+    "firstAppearance": "Fantastic Four #53 (August, 1966)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Criminal, former Scientist",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/klaw.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/klaw.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/klaw.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/klaw.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/392-klaw.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/392-klaw.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/392-klaw.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/392-klaw.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 661,
   "name": "Thunderbird",
+  "slug": "661-thunderbird",
   "powerstats": {
     "intelligence": 50,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 32,
     "power": 13,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "John Proudstar",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Camp Verde, Arizona",
-    "firstAppearance": "Giant-Size X-Men #1 (1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "John Proudstar",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Camp Verde, Arizona",
+    "firstAppearance": "Giant-Size X-Men #1 (1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former adventurer, student, Marine",
     "base": "Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York"
@@ -43,9 +44,9 @@
     "relatives": "Unidentified grandfather (deceased), Neal Proudstar (father, deceased), Maria Proudstar (mother, deceased), James Proudstar (Warpath, brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thunderbird.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thunderbird.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thunderbird.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thunderbird.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/661-thunderbird.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/661-thunderbird.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/661-thunderbird.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/661-thunderbird.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 323,
   "name": "Hellcat",
+  "slug": "323-hellcat",
   "powerstats": {
     "intelligence": 63,
     "strength": 11,
@@ -8,19 +9,6 @@
     "durability": 45,
     "power": 46,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Patricia Walker",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Patsy Walker",
-      "Patricia Hellstrom",
-      "The Cat"
-    ],
-    "placeOfBirth": "Centerville, CA USA",
-    "firstAppearance": "Avengers #144 (February, 1976)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Patricia Walker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Patsy Walker",
+      "Patricia Hellstrom",
+      "The Cat"
+    ],
+    "placeOfBirth": "Centerville, CA USA",
+    "firstAppearance": "Avengers #144 (February, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Housemaker, model, adventurer, supernatural investigator",
     "base": "San Francisco, CA USA"
@@ -45,9 +46,9 @@
     "relatives": "Joshua Walker (father), Dorothy Walker (mother, deceased), Sophia (maternal aunt), Bea (step-mother), Mickey Walker (brother), Robert \"Buzz\" Baxter (aka Mad-Dog, ex-husband), Daimon Hellstrom (aka Hellstorm, ex-husband), Percy Walker"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hellcat.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hellcat.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hellcat.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hellcat.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/323-hellcat.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/323-hellcat.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/323-hellcat.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/323-hellcat.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 562,
   "name": "Robin II",
+  "slug": "562-robin-ii",
   "powerstats": {
     "intelligence": 75,
     "strength": 11,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 28,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "225 lb",
+      "101 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Red"
   },
   "biography": {
     "fullName": "Jason Todd",
@@ -26,20 +41,6 @@
     "publisher": "Red Hood",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "225 lb",
-      "101 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Red"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -49,9 +50,9 @@
     "relatives": "Willis Todd (father), Sheila Haywood (mother), Catherine Todd (step-mother), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Timothy Drake (Robin III, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/robin-1.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/robin-1.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-1.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/robin-1.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/562-robin-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/562-robin-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/562-robin-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/562-robin-ii.jpg"
   }
 }

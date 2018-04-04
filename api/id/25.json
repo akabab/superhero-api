@@ -1,6 +1,7 @@
 {
   "id": 25,
   "name": "Angel Dust",
+  "slug": "25-angel-dust",
   "powerstats": {
     "intelligence": 38,
     "strength": 55,
@@ -8,18 +9,6 @@
     "durability": 42,
     "power": 17,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Christina",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Angel",
-      "Dusty"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Morlocks #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Yellow",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Christina",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Angel",
+      "Dusty"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Morlocks #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Chicago, Illinois"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/angel-dust.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/angel-dust.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/angel-dust.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/angel-dust.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/25-angel-dust.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/25-angel-dust.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/25-angel-dust.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/25-angel-dust.jpg"
   }
 }

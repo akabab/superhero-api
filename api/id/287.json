@@ -1,6 +1,7 @@
 {
   "id": 287,
   "name": "Godzilla",
+  "slug": "287-godzilla",
   "powerstats": {
     "intelligence": 44,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 20
+  },
+  "appearance": {
+    "gender": "-",
+    "race": "Kaiju",
+    "height": [
+      "354'4",
+      "108.0 meters"
+    ],
+    "weight": [
+      "200000000 lb",
+      "90,000 tons"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Gojira",
@@ -25,20 +40,6 @@
     "publisher": "",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "-",
-    "race": "Kaiju",
-    "height": [
-      "354'4",
-      "108.0 meters"
-    ],
-    "weight": [
-      "200000000 lb",
-      "90,000 tons"
-    ],
-    "eyeColor": "-",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/godzilla.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/godzilla.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/godzilla.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/godzilla.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/287-godzilla.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/287-godzilla.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/287-godzilla.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/287-godzilla.jpg"
   }
 }

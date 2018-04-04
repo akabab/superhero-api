@@ -1,6 +1,7 @@
 {
   "id": 196,
   "name": "Cyclops",
+  "slug": "196-cyclops",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 42,
     "power": 76,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "195 lb",
+      "88 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Scott Summers",
@@ -28,20 +43,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "6'3",
-      "191 cm"
-    ],
-    "weight": [
-      "195 lb",
-      "88 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Leader of mutant race, adventurer, headmaster, former student, radio announcer",
     "base": "Xavier Institute, Salem Center, Westchester County, New York"
@@ -51,9 +52,9 @@
     "relatives": "Oscar Summers (adoptive paternal distant ancestor, deceased); Daniel Summers (paternal distant ancestor, deceased); Amanda Mueller (Black Womb) (paternal distant ancestor); unnamed great-grandfather, deceased; Gloria Dayne (Fontanelle) (paternal distant ancestor); Philip Summers (paternal grandfather); Deborah Summers (paternal grandmother); Christopher Summers (Corsair) (father, deceased); Katherine Ann Summers (mother, deceased); Jack Winters (Jack O'Diamonds) (former foster father); Alexander Summers (Havok) (brother); Gabriel Summers (Vulcan) (brother, deceased); Madelyne Pryor-Summers (Red Queen) (first wife/second wife's clone, deceased); Jean Grey-Summers (Phoenix) (second wife, deceased); Nathan Summers (Cable) (son, deceased); Gailyn Bailey (niece, deceased); Joseph Bailey (nephew, deceased); Adam Neramani (X-Treme) (nephew, alleged half-brother); Hope Summers (adoptive granddaughter); Stryfe (son's clone); Summers and Grey Family Tree (more relatives)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cyclops.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cyclops.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cyclops.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cyclops.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/196-cyclops.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/196-cyclops.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/196-cyclops.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/196-cyclops.jpg"
   }
 }

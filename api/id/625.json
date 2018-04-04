@@ -1,6 +1,7 @@
 {
   "id": 625,
   "name": "Spider-Woman III",
+  "slug": "625-spider-woman-iii",
   "powerstats": {
     "intelligence": 50,
     "strength": 48,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 60,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Martha Franklin",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Rochester, New York",
-    "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Martha Franklin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Rochester, New York",
+    "firstAppearance": "(cameo) Spectacular Spider-Man #263 (1998); (full) Amazing Spider-Man #441 (1998)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Jeremy Franklin (father, deceased), Bernice Franklin (mother, deceased), J. Jonah Jameson (foster father), Marla Madison (foster mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-woman-3.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-woman-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-woman-3.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spider-woman-3.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/625-spider-woman-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/625-spider-woman-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/625-spider-woman-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/625-spider-woman-iii.jpg"
   }
 }

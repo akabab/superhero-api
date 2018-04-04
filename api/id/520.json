@@ -1,6 +1,7 @@
 {
   "id": 520,
   "name": "Plastic Man",
+  "slug": "520-plastic-man",
   "powerstats": {
     "intelligence": 50,
     "strength": 63,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Patrick O'Brian",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Police Comics #1 (August, 1941)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Patrick O'Brian",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Police Comics #1 (August, 1941)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Government Agent",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Offspring (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/plastic-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/plastic-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/plastic-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/plastic-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/520-plastic-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/520-plastic-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/520-plastic-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/520-plastic-man.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 703,
   "name": "War Machine",
+  "slug": "703-war-machine",
   "powerstats": {
     "intelligence": 63,
     "strength": 80,
@@ -8,19 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "James Rupert Rhodes",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Rhodey",
-      "Iron Man",
-      "Jim Rhodes"
-    ],
-    "placeOfBirth": "Philadelphia, Pennsylvania",
-    "firstAppearance": "Iron Man #118 (1979)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "James Rupert Rhodes",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rhodey",
+      "Iron Man",
+      "Jim Rhodes"
+    ],
+    "placeOfBirth": "Philadelphia, Pennsylvania",
+    "firstAppearance": "Iron Man #118 (1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Initiative instructor, adventurer, government agent; formerly: Sentinel Squad O*N*E combat instructor, soldier, pilot",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "David Rhodes (father), Roberta Rhodes (mother), Jeanette Rhodes (sister, deceased), Josh (uncle, last name unrevealed), unnamed alleged son"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/war-machine.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/war-machine.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/war-machine.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/war-machine.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/703-war-machine.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/703-war-machine.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/703-war-machine.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/703-war-machine.jpg"
   }
 }

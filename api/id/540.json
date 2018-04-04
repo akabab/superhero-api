@@ -1,6 +1,7 @@
 {
   "id": 540,
   "name": "Rambo",
+  "slug": "540-rambo",
   "powerstats": {
     "intelligence": 63,
     "strength": 14,
@@ -8,18 +9,6 @@
     "durability": 30,
     "power": 30,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "John Rambo",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Raven",
-      "Lone Wolf"
-    ],
-    "placeOfBirth": "Bowie, Arizona",
-    "firstAppearance": "First Blood (Novel, 1972)",
-    "publisher": null,
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "John Rambo",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Raven",
+      "Lone Wolf"
+    ],
+    "placeOfBirth": "Bowie, Arizona",
+    "firstAppearance": "First Blood (Novel, 1972)",
+    "publisher": null,
+    "alignment": "good"
+  },
   "work": {
     "occupation": "United States Army soldier (former)",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "R. Rambo (father), Marie Drago (mother), Col. Sam Trautman (close-friend, father-figure, trainer, best-friend until death)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rambo.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rambo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rambo.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rambo.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/540-rambo.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/540-rambo.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/540-rambo.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/540-rambo.jpg"
   }
 }

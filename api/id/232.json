@@ -1,6 +1,7 @@
 {
   "id": 232,
   "name": "Dormammu",
+  "slug": "232-dormammu",
   "powerstats": {
     "intelligence": 88,
     "strength": 95,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "No Hair"
   },
   "biography": {
     "fullName": "Dormammu",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "6'1",
-      "185 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "Yellow",
-    "hairColor": "No Hair"
-  },
   "work": {
     "occupation": "Despot, conqueror",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Sinifer (parent/genitor), Umar (sister), Clea (niece), Doctor Strange (nephew-in-law), Satannish (alleged offspring)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/dormammu.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/dormammu.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/dormammu.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/dormammu.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/232-dormammu.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/232-dormammu.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/232-dormammu.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/232-dormammu.jpg"
   }
 }

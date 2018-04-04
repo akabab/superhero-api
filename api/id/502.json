@@ -1,6 +1,7 @@
 {
   "id": 502,
   "name": "One Punch Man",
+  "slug": "502-one-punch-man",
   "powerstats": {
     "intelligence": 38,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 95,
     "power": 55,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Saitama",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Caped Baldy"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "One Punch - Chapter 1, Volume 1",
-    "publisher": "Shueisha",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Saitama",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Caped Baldy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "One Punch - Chapter 1, Volume 1",
+    "publisher": "Shueisha",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Superhero, Sensei",
     "base": "Z-City"
@@ -43,9 +44,9 @@
     "relatives": "Genos (partner)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/one-punch-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/one-punch-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/one-punch-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/one-punch-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/502-one-punch-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/502-one-punch-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/502-one-punch-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/502-one-punch-man.jpg"
   }
 }

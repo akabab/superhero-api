@@ -1,6 +1,7 @@
 {
   "id": 471,
   "name": "Moonstone",
+  "slug": "471-moonstone",
   "powerstats": {
     "intelligence": 56,
     "strength": 67,
@@ -8,18 +9,6 @@
     "durability": 52,
     "power": 74,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Karla Sofen",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Meteorite",
-      " Kate Sorenson"
-    ],
-    "placeOfBirth": "Van Nuys, California",
-    "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Karla Sofen",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Meteorite",
+      " Kate Sorenson"
+    ],
+    "placeOfBirth": "Van Nuys, California",
+    "firstAppearance": "Captain America Vol. 1 #192 (December, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "former Adventurer, Psychiatrist",
     "base": "formerly Mount Charteris; Four Freedoms Plaza"
@@ -44,9 +45,9 @@
     "relatives": "Karl August Sofen (father), Marion Sofen (mother), unnamed maternal grandparents (only mentioned )"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/moonstone.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/moonstone.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/moonstone.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/moonstone.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/471-moonstone.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/471-moonstone.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/471-moonstone.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/471-moonstone.jpg"
   }
 }

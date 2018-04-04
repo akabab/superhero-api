@@ -1,6 +1,7 @@
 {
   "id": 578,
   "name": "Scarlet Spider II",
+  "slug": "578-scarlet-spider-ii",
   "powerstats": {
     "intelligence": 88,
     "strength": 55,
@@ -8,19 +9,6 @@
     "durability": 40,
     "power": 37,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Kaine Parker",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Tarantula",
-      "Kaine",
-      "Ara?a Escarlata"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Kaine Parker",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tarantula",
+      "Kaine",
+      "Ara?a Escarlata"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Web of Spider-Man #119 (December, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Fugitive",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Miles Warren (creator), Peter Parker (Spider-Man, genetic template), Ben Reilly (Scarlet Spider, fellow clone, deceased), Spidercide (fellow clone, allegedly deceased), Guardian (fellow clone, deceased), Jack (fellow clone, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/scarlet-spider-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/scarlet-spider-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scarlet-spider-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/scarlet-spider-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/578-scarlet-spider-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/578-scarlet-spider-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/578-scarlet-spider-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/578-scarlet-spider-ii.jpg"
   }
 }

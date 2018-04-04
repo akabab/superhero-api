@@ -1,6 +1,7 @@
 {
   "id": 685,
   "name": "Vanisher",
+  "slug": "685-vanisher",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 56,
     "power": 61,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Telford Porter"
-    ],
-    "placeOfBirth": "Boston, Massachusetts",
-    "firstAppearance": "X-Men (Vol 1) #2",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Telford Porter"
+    ],
+    "placeOfBirth": "Boston, Massachusetts",
+    "firstAppearance": "X-Men (Vol 1) #2",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional criminal, former subversive",
     "base": "former) Factor Three headquarters, Europe; Beat Street Club, New York City"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/vanisher.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/vanisher.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/vanisher.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/vanisher.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/685-vanisher.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/685-vanisher.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/685-vanisher.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/685-vanisher.jpg"
   }
 }

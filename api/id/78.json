@@ -1,6 +1,7 @@
 {
   "id": 78,
   "name": "Ben 10",
+  "slug": "78-ben-10",
   "powerstats": {
     "intelligence": 10,
     "strength": 7,
@@ -8,17 +9,6 @@
     "durability": 10,
     "power": 90,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Benjamin Kirby Tennyson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Ben Ten"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Ben 10 S01E01",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Benjamin Kirby Tennyson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ben Ten"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Ben 10 S01E01",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ben-10.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ben-10.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ben-10.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ben-10.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/78-ben-10.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/78-ben-10.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/78-ben-10.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/78-ben-10.jpg"
   }
 }

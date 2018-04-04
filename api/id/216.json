@@ -1,6 +1,7 @@
 {
   "id": 216,
   "name": "Deathstroke",
+  "slug": "216-deathstroke",
   "powerstats": {
     "intelligence": 75,
     "strength": 30,
@@ -8,19 +9,6 @@
     "durability": 100,
     "power": 47,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Slade Joseph Wilson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Slade Wilson",
-      "Deathstroke the Terminator",
-      "Batman"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "New Teen Titans #2 (December, 1980)",
-    "publisher": "DC Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "White"
   },
+  "biography": {
+    "fullName": "Slade Joseph Wilson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Slade Wilson",
+      "Deathstroke the Terminator",
+      "Batman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "New Teen Titans #2 (December, 1980)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Mercenary; Former Soldier, Big-Game Hunter",
     "base": "The Labyrinth (exact location is currently unknown)"
@@ -45,9 +46,9 @@
     "relatives": "Wade LaFarge (Ravager III, half-brother, deceased), Adeline Kane (ex-wife, deceased), Grant Wilson (Ravager I, son, deceased), Joseph Wilson (Jericho, son), Rose Wilson (Ravager IV, daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/deathstroke.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/deathstroke.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathstroke.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/deathstroke.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/216-deathstroke.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/216-deathstroke.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/216-deathstroke.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/216-deathstroke.jpg"
   }
 }

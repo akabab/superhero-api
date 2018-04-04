@@ -1,6 +1,7 @@
 {
   "id": 431,
   "name": "Mantis",
+  "slug": "431-mantis",
   "powerstats": {
     "intelligence": 63,
     "strength": 8,
@@ -8,6 +9,20 @@
     "durability": 80,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human-Kree",
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "115 lb",
+      "52 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Human-Kree",
-    "height": [
-      "5'6",
-      "168 cm"
-    ],
-    "weight": [
-      "115 lb",
-      "52 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Celestial Madonna, former adventuress, former bar-maid/prostitute/exotic dancer",
     "base": "Mobile"
@@ -47,9 +48,9 @@
     "relatives": "Libra (Gustav Brandt) (father), Lau Brandt (mother), Cotati possessing Jacques Duquesne (husband), Quoi (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mantis.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mantis.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mantis.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mantis.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/431-mantis.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/431-mantis.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/431-mantis.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/431-mantis.jpg"
   }
 }

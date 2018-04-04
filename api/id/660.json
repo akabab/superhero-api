@@ -1,6 +1,7 @@
 {
   "id": 660,
   "name": "Thor Girl",
+  "slug": "660-thor-girl",
   "powerstats": {
     "intelligence": 75,
     "strength": 83,
@@ -8,6 +9,20 @@
     "durability": 84,
     "power": 100,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Asgardian",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "317 lb",
+      "143 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Tarene",
@@ -31,20 +46,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Asgardian",
-    "height": [
-      "5'9",
-      "175 cm"
-    ],
-    "weight": [
-      "317 lb",
-      "143 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "-",
     "base": "Camp Hammond; FormerlyNew York City, Formerly Asgard"
@@ -54,9 +55,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thor-girl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thor-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thor-girl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thor-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/660-thor-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/660-thor-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/660-thor-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/660-thor-girl.jpg"
   }
 }

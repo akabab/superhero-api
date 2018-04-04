@@ -1,6 +1,7 @@
 {
   "id": 20,
   "name": "Amazo",
+  "slug": "20-amazo",
   "powerstats": {
     "intelligence": 63,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Professor Ivos Amazing Android",
-      "Timazo",
-      "Humazo",
-      "Hourmazo"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Brave and the Bold #30 (July, 1960)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Red",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Professor Ivos Amazing Android",
+      "Timazo",
+      "Humazo",
+      "Hourmazo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Brave and the Bold #30 (July, 1960)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "Professor Ivo (creator), Kid Amazo (cyborg offspring)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/amazo.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/amazo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/amazo.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/amazo.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/20-amazo.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/20-amazo.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/20-amazo.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/20-amazo.jpg"
   }
 }

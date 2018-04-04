@@ -1,6 +1,7 @@
 {
   "id": 253,
   "name": "Faora",
+  "slug": "253-faora",
   "powerstats": {
     "intelligence": 88,
     "strength": 95,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 98,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Faora Hu-Ul",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Katie"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Action Comics #471 (May, 1977)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Faora Hu-Ul",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Katie"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Action Comics #471 (May, 1977)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Serial killer",
     "base": "Phantom Zone; formerly Krypton"
@@ -43,9 +44,9 @@
     "relatives": "Hu-Ul (father, presumably deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/faora.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/faora.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/faora.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/faora.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/253-faora.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/253-faora.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/253-faora.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/253-faora.jpg"
   }
 }

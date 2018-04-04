@@ -1,6 +1,7 @@
 {
   "id": 612,
   "name": "Spawn",
+  "slug": "612-spawn",
   "powerstats": {
     "intelligence": 75,
     "strength": 60,
@@ -8,18 +9,6 @@
     "durability": 90,
     "power": 100,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Al Simmons",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The One",
-      "Hellspawn"
-    ],
-    "placeOfBirth": "Detroit, Michigan (8th level of Hell after rebirth)",
-    "firstAppearance": "Spawn #1 (May, 1992)",
-    "publisher": "Image Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Al Simmons",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The One",
+      "Hellspawn"
+    ],
+    "placeOfBirth": "Detroit, Michigan (8th level of Hell after rebirth)",
+    "firstAppearance": "Spawn #1 (May, 1992)",
+    "publisher": "Image Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Hell"
@@ -44,9 +45,9 @@
     "relatives": "Wanda (widow), Cyan (widow's daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spawn.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spawn.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spawn.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spawn.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/612-spawn.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/612-spawn.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/612-spawn.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/612-spawn.jpg"
   }
 }

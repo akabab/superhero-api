@@ -1,6 +1,7 @@
 {
   "id": 690,
   "name": "Venompool",
+  "slug": "690-venompool",
   "powerstats": {
     "intelligence": 69,
     "strength": 57,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Wade Wilson",
-    "alterEgos": "Deadpool, Evil Deadpool",
-    "aliases": [
-      "Deadpool"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "What If? Iron Man: Demon in an Armor #1 (February, 2011)",
-    "publisher": "Deadpool",
-    "alignment": "-"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Wade Wilson",
+    "alterEgos": "Deadpool, Evil Deadpool",
+    "aliases": [
+      "Deadpool"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "What If? Iron Man: Demon in an Armor #1 (February, 2011)",
+    "publisher": "Deadpool",
+    "alignment": "-"
+  },
   "work": {
     "occupation": "Conqueror; Adventurer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/venompool.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/venompool.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/venompool.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/venompool.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/690-venompool.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/690-venompool.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/690-venompool.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/690-venompool.jpg"
   }
 }

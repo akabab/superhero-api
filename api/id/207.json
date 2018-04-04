@@ -1,6 +1,7 @@
 {
   "id": 207,
   "name": "Darth Maul",
+  "slug": "207-darth-maul",
   "powerstats": {
     "intelligence": 56,
     "strength": 48,
@@ -8,18 +9,6 @@
     "durability": 30,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Sith",
-      "Master Of The Double-Bladed Lightsaber"
-    ],
-    "placeOfBirth": "Dathomir",
-    "firstAppearance": "Star Wars Episode I: The Phantom Menace (1999)",
-    "publisher": "George Lucas",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Yellow / Red",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Sith",
+      "Master Of The Double-Bladed Lightsaber"
+    ],
+    "placeOfBirth": "Dathomir",
+    "firstAppearance": "Star Wars Episode I: The Phantom Menace (1999)",
+    "publisher": "George Lucas",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Darth Sidious (Master)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/darth-maul.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/darth-maul.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/darth-maul.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/darth-maul.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/207-darth-maul.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/207-darth-maul.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/207-darth-maul.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/207-darth-maul.jpg"
   }
 }

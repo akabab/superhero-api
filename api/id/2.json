@@ -1,6 +1,7 @@
 {
   "id": 2,
   "name": "Abe Sapien",
+  "slug": "2-abe-sapien",
   "powerstats": {
     "intelligence": 88,
     "strength": 28,
@@ -8,19 +9,6 @@
     "durability": 65,
     "power": 100,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Abraham Sapien",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Langdon Everett Caul",
-      "Abraham Sapien",
-      "Langdon Caul"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Hellboy: Seed of Destruction (1993)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Abraham Sapien",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Langdon Everett Caul",
+      "Abraham Sapien",
+      "Langdon Caul"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Hellboy: Seed of Destruction (1993)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Paranormal Investigator",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Edith Howard (wife, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/abe-sapien.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/abe-sapien.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/abe-sapien.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/abe-sapien.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/2-abe-sapien.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/2-abe-sapien.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/2-abe-sapien.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/2-abe-sapien.jpg"
   }
 }

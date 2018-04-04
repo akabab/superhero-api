@@ -1,6 +1,7 @@
 {
   "id": 382,
   "name": "Kevin 11",
+  "slug": "382-kevin-11",
   "powerstats": {
     "intelligence": 25,
     "strength": 7,
@@ -8,6 +9,20 @@
     "durability": 14,
     "power": 100,
     "combat": 40
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Kevin Ethan Levin",
@@ -29,20 +44,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "-",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -52,9 +53,9 @@
     "relatives": "Mrs. Levin (mother), Devlin Levin (alternate future son), Ben Tennyson (Ben 10, best friend), Harvey Hackett (Stepfather), Gwen Tennyson(girlfriend)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kevin-11.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kevin-11.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kevin-11.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kevin-11.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/382-kevin-11.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/382-kevin-11.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/382-kevin-11.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/382-kevin-11.jpg"
   }
 }

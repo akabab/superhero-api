@@ -1,6 +1,7 @@
 {
   "id": 505,
   "name": "Oracle",
+  "slug": "505-oracle",
   "powerstats": {
     "intelligence": 75,
     "strength": 11,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 19,
     "combat": 76
-  },
-  "biography": {
-    "fullName": "Barbara Gordon",
-    "alterEgos": "Batgirl",
-    "aliases": [
-      "Batgirl",
-      "Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Suicide Squad #23 (Jan.1989)",
-    "publisher": "Batgirl",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Barbara Gordon",
+    "alterEgos": "Batgirl",
+    "aliases": [
+      "Batgirl",
+      "Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Suicide Squad #23 (Jan.1989)",
+    "publisher": "Batgirl",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Computer hacker and Coordinator of the Birds of Prey; Former student; former librarian; former vigilante",
     "base": "Metropolis, formerly Gotham City"
@@ -44,9 +45,9 @@
     "relatives": "Roger C. Gordon (father, deceased); Thelma (mother, deceased); James Gordon (uncle/adoptive father); Barbara Eileen Gordon (aunt/adoptive mother); James Gordon Jr. (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/oracle_dc.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/oracle_dc.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/oracle_dc.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/oracle_dc.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/505-oracle.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/505-oracle.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/505-oracle.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/505-oracle.jpg"
   }
 }

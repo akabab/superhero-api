@@ -1,6 +1,7 @@
 {
   "id": 57,
   "name": "Azazel",
+  "slug": "57-azazel",
   "powerstats": {
     "intelligence": 50,
     "strength": 11,
@@ -8,6 +9,20 @@
     "durability": 95,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Neyaphem",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "149 lb",
+      "67 kg"
+    ],
+    "eyeColor": "Yellow",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "",
@@ -27,20 +42,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Neyaphem",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "149 lb",
-      "67 kg"
-    ],
-    "eyeColor": "Yellow",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Leader of the Neyaphem",
     "base": "Brimstone Dimension; formerly La Isla des Demonas, Bermuda"
@@ -50,9 +51,9 @@
     "relatives": "Kurt Wagner (Nightcrawler, son), Nils Styger (Abyss, son), Kiwi Black (son), numberous other offspring (deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/azazel.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/azazel.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/azazel.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/azazel.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/57-azazel.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/57-azazel.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/57-azazel.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/57-azazel.jpg"
   }
 }

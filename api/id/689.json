@@ -1,6 +1,7 @@
 {
   "id": 689,
   "name": "Venom III",
+  "slug": "689-venom-iii",
   "powerstats": {
     "intelligence": 63,
     "strength": 73,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 73,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "MacDonald Gargan",
-    "alterEgos": "Scorpion",
-    "aliases": [
-      "Scorpion"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
-    "publisher": "Scorpion",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "MacDonald Gargan",
+    "alterEgos": "Scorpion",
+    "aliases": [
+      "Scorpion"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(As Gargan) Amazing Spider-Man #19 (1964); (as Scorpion) Amazing Spider-Man #20 (1965); (as Venom) Marvel Knights: Spider-Man #10 (2005)",
+    "publisher": "Scorpion",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Government operative; former professional criminal, private eye",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/venom-3.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/venom-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/venom-3.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/venom-3.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/689-venom-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/689-venom-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/689-venom-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/689-venom-iii.jpg"
   }
 }

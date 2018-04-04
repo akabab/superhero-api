@@ -1,6 +1,7 @@
 {
   "id": 375,
   "name": "Junkpile",
+  "slug": "375-junkpile",
   "powerstats": {
     "intelligence": 50,
     "strength": 38,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 81,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Men 2099 #1 (October, 1993)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men 2099 #1 (October, 1993)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Mercenary; Former member of S.H.I.E.L.D.",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/junkpile.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/junkpile.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/junkpile.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/junkpile.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/375-junkpile.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/375-junkpile.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/375-junkpile.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/375-junkpile.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 524,
   "name": "Power Girl",
+  "slug": "524-power-girl",
   "powerstats": {
     "intelligence": 94,
     "strength": 100,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 75
-  },
-  "biography": {
-    "fullName": "Kara Zor-L",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Karen Starr",
-      "Nightwing"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "All-Star Comics #58 (January/February 1976)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "blue",
     "hairColor": "blond"
   },
+  "biography": {
+    "fullName": "Kara Zor-L",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Karen Starr",
+      "Nightwing"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "All-Star Comics #58 (January/February 1976)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Zor-L (father, deceased), Allura (mother, deceased), Jor-L (uncle, deceased), Lora (aunt, deceased), Kal-L (Earth-Two Superman, cousin and adopted father, deceased), Earth-Two Lois Lane (adopted mother, deceased), Equinox (son, deceased), Kara Zor-El (alternate universe version)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/power-girl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/power-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/power-girl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/power-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/524-power-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/524-power-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/524-power-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/524-power-girl.jpg"
   }
 }

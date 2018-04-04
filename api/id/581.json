@@ -1,6 +1,7 @@
 {
   "id": 581,
   "name": "Scorpion",
+  "slug": "581-scorpion",
   "powerstats": {
     "intelligence": 50,
     "strength": 52,
@@ -8,18 +9,6 @@
     "durability": 85,
     "power": 49,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "MacDonald Gargan",
-    "alterEgos": "Venom III",
-    "aliases": [
-      "Venom",
-      "Spider-Man"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Amazing Spider-Man #19 (1964)",
-    "publisher": "Venom III",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "MacDonald Gargan",
+    "alterEgos": "Venom III",
+    "aliases": [
+      "Venom",
+      "Spider-Man"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #19 (1964)",
+    "publisher": "Venom III",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "U.S. government agent; former professional criminal, assassin, private detective",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/scorpion.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/scorpion.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/scorpion.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/scorpion.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/581-scorpion.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/581-scorpion.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/581-scorpion.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/581-scorpion.jpg"
   }
 }

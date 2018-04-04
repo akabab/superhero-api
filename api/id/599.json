@@ -1,6 +1,7 @@
 {
   "id": 599,
   "name": "Silverclaw",
+  "slug": "599-silverclaw",
   "powerstats": {
     "intelligence": 50,
     "strength": 28,
@@ -8,18 +9,6 @@
     "durability": 42,
     "power": 34,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Maria de Guadalupe Santiago",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "La Garra Argentado",
-      "Daughter of the Volcano God,"
-    ],
-    "placeOfBirth": "The village of Kamekeri, Costa Verde",
-    "firstAppearance": "Avengers #8 (1998)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Maria de Guadalupe Santiago",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "La Garra Argentado",
+      "Daughter of the Volcano God,"
+    ],
+    "placeOfBirth": "The village of Kamekeri, Costa Verde",
+    "firstAppearance": "Avengers #8 (1998)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "University student, adventurer",
     "base": "Empire State University and Avengers Mansion, New York City, NY"
@@ -44,9 +45,9 @@
     "relatives": "Jaime Santiago (father), Peliali (mother), Edwin Jarvis (\"uncle\")"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/silverclaw.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/silverclaw.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/silverclaw.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/silverclaw.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/599-silverclaw.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/599-silverclaw.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/599-silverclaw.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/599-silverclaw.jpg"
   }
 }

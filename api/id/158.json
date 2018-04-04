@@ -1,6 +1,7 @@
 {
   "id": 158,
   "name": "Captain Marvel II",
+  "slug": "158-captain-marvel-ii",
   "powerstats": {
     "intelligence": 75,
     "strength": 81,
@@ -8,18 +9,6 @@
     "durability": 90,
     "power": 34,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Frederick Christopher Freeman",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Captain Marvel Jr.",
-      "CM3"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Frederick Christopher Freeman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Captain Marvel Jr.",
+      "CM3"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Current incarnation: (As Freddy Freeman) The Power of Shazam #3 (May, 1995)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "Primarily Fawcett City."
@@ -44,9 +45,9 @@
     "relatives": "parents, deceased, Jacob Freeman (granfather, deceased), Timothy Karnes (Sabbac, foster brother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/captain-marvel-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/captain-marvel-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/captain-marvel-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/captain-marvel-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/158-captain-marvel-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/158-captain-marvel-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/158-captain-marvel-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/158-captain-marvel-ii.jpg"
   }
 }

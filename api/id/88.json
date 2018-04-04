@@ -1,6 +1,7 @@
 {
   "id": 88,
   "name": "Bird-Brain",
+  "slug": "88-bird-brain",
   "powerstats": {
     "intelligence": 25,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 21,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Bird-Boy"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The New Mutants #56 (October, 1987)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "-",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Bird-Boy"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The New Mutants #56 (October, 1987)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bird-brain.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bird-brain.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bird-brain.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bird-brain.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/88-bird-brain.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/88-bird-brain.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/88-bird-brain.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/88-bird-brain.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 7,
   "name": "Adam Monroe",
+  "slug": "7-adam-monroe",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Takezo Kensei",
-      "Richard Sanders"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Heroes S02E01 - Four Months Later...",
-    "publisher": "NBC - Heroes",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Takezo Kensei",
+      "Richard Sanders"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Heroes S02E01 - Four Months Later...",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "former samurai swordsman, former British mercenary commander, former soldier in the Confederate Army",
     "base": "U.S.; formerly Diedenshausen, Germany; Milan, Italy; Paris, France; Japan; England; Atlanta, GA; Montreal, Canada"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/adam-monroe.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/adam-monroe.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/adam-monroe.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/adam-monroe.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/7-adam-monroe.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/7-adam-monroe.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/7-adam-monroe.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/7-adam-monroe.jpg"
   }
 }

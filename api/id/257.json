@@ -1,6 +1,7 @@
 {
   "id": 257,
   "name": "Firebird",
+  "slug": "257-firebird",
   "powerstats": {
     "intelligence": 38,
     "strength": 8,
@@ -8,19 +9,6 @@
     "durability": 14,
     "power": 100,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Bonita Juarez",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Pajaro Del Fuego",
-      "La Espirita",
-      "Firemaiden"
-    ],
-    "placeOfBirth": "Buena Vista, New Mexico",
-    "firstAppearance": "INCREDIBLE HULK Vol. 2 #265",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Bonita Juarez",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Pajaro Del Fuego",
+      "La Espirita",
+      "Firemaiden"
+    ],
+    "placeOfBirth": "Buena Vista, New Mexico",
+    "firstAppearance": "INCREDIBLE HULK Vol. 2 #265",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Social worker, adventurer",
     "base": "New Mexico"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/firebird.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/firebird.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/firebird.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/firebird.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/257-firebird.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/257-firebird.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/257-firebird.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/257-firebird.jpg"
   }
 }

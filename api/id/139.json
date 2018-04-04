@@ -1,6 +1,7 @@
 {
   "id": 139,
   "name": "Brundlefly",
+  "slug": "139-brundlefly",
   "powerstats": {
     "intelligence": 69,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 40,
     "power": 27,
     "combat": 15
-  },
-  "biography": {
-    "fullName": "Seth Brundle",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Fly"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The Fly (1986)",
-    "publisher": "",
-    "alignment": "-"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Seth Brundle",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Fly"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Fly (1986)",
+    "publisher": "",
+    "alignment": "-"
+  },
   "work": {
     "occupation": "Scientist",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/brundlefly.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/brundlefly.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/brundlefly.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/brundlefly.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/139-brundlefly.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/139-brundlefly.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/139-brundlefly.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/139-brundlefly.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 526,
   "name": "Predator",
+  "slug": "526-predator",
   "powerstats": {
     "intelligence": 63,
     "strength": 30,
@@ -8,19 +9,6 @@
     "durability": 85,
     "power": 100,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Yautja",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Hunters",
-      "Yautja",
-      "Hish"
-    ],
-    "placeOfBirth": "Yautja Prime",
-    "firstAppearance": "Predator (1987)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Yautja",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hunters",
+      "Yautja",
+      "Hish"
+    ],
+    "placeOfBirth": "Yautja Prime",
+    "firstAppearance": "Predator (1987)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/predator.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/predator.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/predator.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/predator.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/526-predator.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/526-predator.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/526-predator.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/526-predator.jpg"
   }
 }

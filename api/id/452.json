@@ -1,6 +1,7 @@
 {
   "id": 452,
   "name": "Mimic",
+  "slug": "452-mimic",
   "powerstats": {
     "intelligence": 63,
     "strength": 67,
@@ -8,19 +9,6 @@
     "durability": 56,
     "power": 79,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Calvin Montgomery Rankin",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Cal",
-      "Wolverine",
-      "Calvin Rankin"
-    ],
-    "placeOfBirth": "Passiac, New Jersey",
-    "firstAppearance": "Uncanny X-Men #19",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Calvin Montgomery Rankin",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cal",
+      "Wolverine",
+      "Calvin Rankin"
+    ],
+    "placeOfBirth": "Passiac, New Jersey",
+    "firstAppearance": "Uncanny X-Men #19",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Ronald Rankin (father, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mimic.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mimic.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mimic.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mimic.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/452-mimic.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/452-mimic.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/452-mimic.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/452-mimic.jpg"
   }
 }

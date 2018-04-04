@@ -1,6 +1,7 @@
 {
   "id": 306,
   "name": "Hal Jordan",
+  "slug": "306-hal-jordan",
   "powerstats": {
     "intelligence": 69,
     "strength": 90,
@@ -8,19 +9,6 @@
     "durability": 80,
     "power": 100,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Hal Jordan",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Parallax",
-      "Spectre",
-      "Green Lantern"
-    ],
-    "placeOfBirth": "Coast City, California",
-    "firstAppearance": "Showcase #22",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Hal Jordan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Parallax",
+      "Spectre",
+      "Green Lantern"
+    ],
+    "placeOfBirth": "Coast City, California",
+    "firstAppearance": "Showcase #22",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, Air Force Test Pilot",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Martin H. \"Marty\" Jordan (father, deceased), Jessica Jordan (mother, deceased), Jim Jordan (younger brother), Jack Jordan (older brother, deceased), Jan Jordan (sister-in-law, deceased), Helen Jordan (neice), Larry Jordan (Air Wave I - cousin, deceased), Hal Jordan (Air Wave II - cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hal-jordan.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hal-jordan.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hal-jordan.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hal-jordan.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/306-hal-jordan.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/306-hal-jordan.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/306-hal-jordan.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/306-hal-jordan.jpg"
   }
 }

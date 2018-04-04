@@ -1,6 +1,7 @@
 {
   "id": 170,
   "name": "Chameleon",
+  "slug": "170-chameleon",
   "powerstats": {
     "intelligence": 88,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 28,
     "combat": 28
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "-",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Dmitri Anatoly Smerdyakov Kravinoff",
@@ -29,20 +44,6 @@
     "publisher": "DC Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "-",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -52,9 +53,9 @@
     "relatives": "Kravinoff Patriarch (father, deceased), mother (unnamed), Sergei Kravinoff (Kraven I, half-brother, deceased), Vladimir Kravinoff (The Grim Hunter, nephew, deceased), Alyosha Kravinoff (Kraven the Hunter, nephew), Ned Tannengarden (nephew, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/chameleon.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/chameleon.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/chameleon.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/chameleon.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/170-chameleon.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/170-chameleon.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/170-chameleon.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/170-chameleon.jpg"
   }
 }

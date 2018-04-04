@@ -1,6 +1,7 @@
 {
   "id": 403,
   "name": "Legion",
+  "slug": "403-legion",
   "powerstats": {
     "intelligence": 50,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 30,
     "power": 100,
     "combat": 75
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "130 lb",
+      "59 kg"
+    ],
+    "eyeColor": "Green / Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "David Haller",
@@ -32,20 +47,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "5'9",
-      "175 cm"
-    ],
-    "weight": [
-      "130 lb",
-      "59 kg"
-    ],
-    "eyeColor": "Green / Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Adventurer, Student",
     "base": "formerly Ruth Aldine's mind, Utopia, San Francisco Bay, California; Westcliffe, Colorado; \"No-Time\"; Moira MacTaggart's Mutant Research Center, Muir Island, off the coast of Scotland; Haifa; Paris, France"
@@ -55,9 +56,9 @@
     "relatives": "Charles Graymalkin (paternal collateral ancestor), Marcia Graymalkin (paternal collateral ancestor), Jonas Graymalkin (paternal collateral ancestor), Brian Xavier (paternal grandfather), Sharon Xavier (paternal grandmother), Kurt Marko (paternal step-grandfather), Cain Marko (paternal step-uncle), Cassandra Nova Xavier (paternal aunt), Charles Xavier (father), Gabrielle Haller (mother), Daniel Shomron (stepfather), Xavier Family (paternal relatives), Ruth Aldine (lover/current body)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/legion.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/legion.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/legion.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/legion.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/403-legion.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/403-legion.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/403-legion.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/403-legion.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 731,
   "name": "Zoom",
+  "slug": "731-zoom",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 100,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Hunter Zolomon",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Flash Secret Files #3",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Hunter Zolomon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash Secret Files #3",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Keystone City, Kansas"
@@ -43,9 +44,9 @@
     "relatives": "Ashley Zolomon (ex-wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/zoom.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/zoom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/zoom.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/zoom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/731-zoom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/731-zoom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/731-zoom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/731-zoom.jpg"
   }
 }

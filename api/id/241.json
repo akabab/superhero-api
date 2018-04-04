@@ -1,6 +1,7 @@
 {
   "id": 241,
   "name": "Emma Frost",
+  "slug": "241-emma-frost",
   "powerstats": {
     "intelligence": 75,
     "strength": 63,
@@ -8,18 +9,6 @@
     "durability": 90,
     "power": 100,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Emma Frost",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Storm",
-      "White Queen"
-    ],
-    "placeOfBirth": "Boston, Massachusetts",
-    "firstAppearance": "UNCANNY X-MEN #132",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Emma Frost",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Storm",
+      "White Queen"
+    ],
+    "placeOfBirth": "Boston, Massachusetts",
+    "firstAppearance": "UNCANNY X-MEN #132",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "(current) Emma Frost operates from the Massachusetts Academy, Snow Valley, Massachusetts, (former) Hellfire Club mansion in New York City, a home in the Berkshire Mountains in Massachusetts (near the Massachusetts Academy), and places of residence in vari"
@@ -44,9 +45,9 @@
     "relatives": "Winston Frost (father), Hazel Frost (mother), Christian Frost (brother) Adrienne Frost (sister, deceased,) Cordelia Frost (sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/emma-frost.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/emma-frost.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/emma-frost.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/emma-frost.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/241-emma-frost.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/241-emma-frost.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/241-emma-frost.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/241-emma-frost.jpg"
   }
 }

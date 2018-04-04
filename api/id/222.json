@@ -1,6 +1,7 @@
 {
   "id": 222,
   "name": "Doctor Doom",
+  "slug": "222-doctor-doom",
   "powerstats": {
     "intelligence": 100,
     "strength": 32,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "Victor von Doom",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Master",
-      "Invincible Man"
-    ],
-    "placeOfBirth": "Haasenstadt, Latveria",
-    "firstAppearance": "Fantastic Four #5 (July 1962)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Victor von Doom",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Master",
+      "Invincible Man"
+    ],
+    "placeOfBirth": "Haasenstadt, Latveria",
+    "firstAppearance": "Fantastic Four #5 (July 1962)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Monarch",
     "base": "Castle Doom, Doomstadt, Latveria"
@@ -44,9 +45,9 @@
     "relatives": "Werner von Doom (father, deceased), Cynthia von Doom (mother, deceased); Kang the Conqueror, his counterparts, and offspring (alleged descendants), Kristoff Vernard (Doctor Doom II, adopted son), Dr Bob Doom (distant cousin), Boris (unofficially adoptive father/guardian), Valeria von Doom (daughter from alternate universe; became baby of Susan Richards and is now called Valeria Richards)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/doctor-doom.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/doctor-doom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doctor-doom.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/doctor-doom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/222-doctor-doom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/222-doctor-doom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/222-doctor-doom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/222-doctor-doom.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 370,
   "name": "Joker",
+  "slug": "370-joker",
   "powerstats": {
     "intelligence": 100,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 60,
     "power": 43,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "192 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Green"
   },
   "biography": {
     "fullName": "Jack Napier",
@@ -25,20 +40,6 @@
     "publisher": "DC Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'5",
-      "196 cm"
-    ],
-    "weight": [
-      "192 lb",
-      "86 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Green"
-  },
   "work": {
     "occupation": "-",
     "base": "Arkham Asylum, Gotham City; Ha-Hacienda"
@@ -48,9 +49,9 @@
     "relatives": "Jeannie (wife, deceased); Unborn son (deceased); Melvin Reipan (cousin, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/joker.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/joker.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/joker.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/joker.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/370-joker.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/370-joker.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/370-joker.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/370-joker.jpg"
   }
 }

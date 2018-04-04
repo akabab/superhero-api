@@ -1,6 +1,7 @@
 {
   "id": 693,
   "name": "Vindicator",
+  "slug": "693-vindicator",
   "powerstats": {
     "intelligence": 63,
     "strength": 63,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 58,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Heather Hudson",
-    "alterEgos": "Vindicator II",
-    "aliases": [
-      "Guardian"
-    ],
-    "placeOfBirth": "Calgary, Alberta, Canada",
-    "firstAppearance": "X-Men #139 (November, 1980)",
-    "publisher": "Vindicator II",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Heather Hudson",
+    "alterEgos": "Vindicator II",
+    "aliases": [
+      "Guardian"
+    ],
+    "placeOfBirth": "Calgary, Alberta, Canada",
+    "firstAppearance": "X-Men #139 (November, 1980)",
+    "publisher": "Vindicator II",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "former secretary, researcher",
     "base": "Ottawa, Canada"
@@ -43,9 +44,9 @@
     "relatives": "Guardian, husband"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/vindicator.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/vindicator.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/vindicator.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/vindicator.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/693-vindicator.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/693-vindicator.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/693-vindicator.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/693-vindicator.jpg"
   }
 }

@@ -46,3 +46,30 @@ const getImage = index => {
 
 // getImage(0)
 
+const toKebabCase = string => string.replace(/([a-z])([A-Z])/g, '$1-$2')
+  .replace(/\s+/g, '-').toLowerCase()
+
+// sourceHeroes.forEach(hero => {
+//   const imageFileName = hero.images.thumb.split('/thumbs/')[1] // .split('.jpg')[0]
+//   const slug = `${hero.id}-${toKebabCase(hero.name)}`
+
+//   hero = {
+//     id: hero.id,
+//     name: hero.name,
+//     slug,
+//     powerstats: hero.powerstats,
+//     appearance: hero.appearance,
+//     biography: hero.biography,
+//     work: hero.work,
+//     connections: hero.connections,
+//   }
+
+//   const filepath = `builder/sources/superheroes/${hero.slug}.json`
+
+//   // if (imageFileName !== 'no-portrait.jpg') {
+//   //   rename(`builder/sources/imgs/${imageFileName}`, `builder/sources/imgs/${hero.slug}.jpg`)
+//   //     .catch(err => console.log(err))
+//   // }
+
+//   writeFile(filepath, JSON.stringify(hero, null, 2))
+// })

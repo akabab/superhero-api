@@ -1,6 +1,7 @@
 {
   "id": 284,
   "name": "Giganta",
+  "slug": "284-giganta",
   "powerstats": {
     "intelligence": 81,
     "strength": 89,
@@ -8,17 +9,6 @@
     "durability": 85,
     "power": 32,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Doris Zuel",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Wonder Woman (Volume 1) #9 (1944)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Doris Zuel",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Wonder Woman (Volume 1) #9 (1944)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Criminal, former Scientist, Professor at Ivy University",
     "base": "Ivy Town"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/giganta.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/giganta.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/giganta.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/giganta.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/284-giganta.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/284-giganta.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/284-giganta.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/284-giganta.jpg"
   }
 }

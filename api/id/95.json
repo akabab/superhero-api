@@ -1,6 +1,7 @@
 {
   "id": 95,
   "name": "Black Adam",
+  "slug": "95-black-adam",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Teth-Adam",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Hassan Bari",
-      "Theo Adam",
-      "Mighty Adam",
-      "Khem-Adam"
-    ],
-    "placeOfBirth": "Kahndaq, Egypt",
-    "firstAppearance": "Marvel Family #1 (December, 1945)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Teth-Adam",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hassan Bari",
+      "Theo Adam",
+      "Mighty Adam",
+      "Khem-Adam"
+    ],
+    "placeOfBirth": "Kahndaq, Egypt",
+    "firstAppearance": "Marvel Family #1 (December, 1945)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Mobile; Formerly Kahndaq; Fawcett City; New York City"
@@ -46,9 +47,9 @@
     "relatives": "Shiruta (wife, deceased), Gon and Hurut (sons, deceased) Theo Adam (descendant, currently in control of his body), Sarah Primm (descendant, Theo's sister), Adrianna Tomaz (wife. deceased), Amon Tomaz (brother-in-law, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-adam.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-adam.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-adam.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-adam.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/95-black-adam.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/95-black-adam.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/95-black-adam.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/95-black-adam.jpg"
   }
 }

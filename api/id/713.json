@@ -1,6 +1,7 @@
 {
   "id": 713,
   "name": "Wildfire",
+  "slug": "713-wildfire",
   "powerstats": {
     "intelligence": 50,
     "strength": 32,
@@ -8,20 +9,6 @@
     "durability": 100,
     "power": 77,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Drake Burroughs",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "ERG-1",
-      "Atom'x",
-      "Randall Burroughs",
-      "Jahr-Drake Nigle"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Drake Burroughs",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "ERG-1",
+      "Atom'x",
+      "Randall Burroughs",
+      "Jahr-Drake Nigle"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/wildfire.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/wildfire.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wildfire.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/wildfire.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/713-wildfire.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/713-wildfire.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/713-wildfire.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/713-wildfire.jpg"
   }
 }

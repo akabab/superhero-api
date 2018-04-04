@@ -1,6 +1,7 @@
 {
   "id": 330,
   "name": "Hope Summers",
+  "slug": "330-hope-summers",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 32,
     "power": 93,
     "combat": 75
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": null,
+    "height": [
+      "5'6",
+      "168 cm"
+    ],
+    "weight": [
+      "106 lb",
+      "48 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Red"
   },
   "biography": {
     "fullName": "Hope Summers",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": null,
-    "height": [
-      "5'6",
-      "168 cm"
-    ],
-    "weight": [
-      "106 lb",
-      "48 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Red"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Louise Spalding (mother, deceased), unknown biological father, Mrs. Spalding (maternal grandmother), Cable (adoptive father, deceased), Hope (adoptive mother, deceased), Cyclops (adoptive grandfather), Red Queen / Phoenix (adoptive grandmothers, deceased?), X-Man (adoptive uncle), Marvel Girl (adoptive aunt), Havok (adoptive granduncle), Vulcan (adoptive granduncle, deceased), Deathbird (adoptive grandaunt)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hope-summers.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hope-summers.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hope-summers.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hope-summers.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/330-hope-summers.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/330-hope-summers.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/330-hope-summers.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/330-hope-summers.jpg"
   }
 }

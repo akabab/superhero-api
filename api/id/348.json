@@ -1,6 +1,7 @@
 {
   "id": 348,
   "name": "Isis",
+  "slug": "348-isis",
   "powerstats": {
     "intelligence": 75,
     "strength": 48,
@@ -8,17 +9,6 @@
     "durability": 46,
     "power": 50,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Adrianna Tomaz",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Adrianna Tomaz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(as Adrianna) 52 Week Three; (as Isis) 52 Week Twelve",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, formerly First Lady of Kahndaq, former slave",
     "base": "Shiruta, Kahndaq"
@@ -43,9 +44,9 @@
     "relatives": "Amon Tomaz (brother, deceased), Black Adam (husband)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/isis.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/isis.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/isis.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/isis.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/348-isis.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/348-isis.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/348-isis.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/348-isis.jpg"
   }
 }

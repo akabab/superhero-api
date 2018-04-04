@@ -1,6 +1,7 @@
 {
   "id": 605,
   "name": "Skaar",
+  "slug": "605-skaar",
   "powerstats": {
     "intelligence": 50,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 90,
     "power": 69,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'6",
+      "198 cm"
+    ],
+    "weight": [
+      "400 lb",
+      "180 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "6'6",
-      "198 cm"
-    ],
-    "weight": [
-      "400 lb",
-      "180 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Warrior",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Morris Walters (granduncle), Elaine Banner-Walters (paternal grandaunt, deceased), Brian Banner (paternal grandfather, deceased), Rebecca Banner (paternal grandmother, deceased), She-Hulk (1st cousin once removed), Hulk (father), Caiera the Oldstrong (mother, deceased), Hiro-Kala (Twin brother), Lyra (half-sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/skaar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/skaar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/skaar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/skaar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/605-skaar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/605-skaar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/605-skaar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/605-skaar.jpg"
   }
 }

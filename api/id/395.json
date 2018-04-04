@@ -1,6 +1,7 @@
 {
   "id": 395,
   "name": "Kraven the Hunter",
+  "slug": "395-kraven-the-hunter",
   "powerstats": {
     "intelligence": 63,
     "strength": 32,
@@ -8,19 +9,6 @@
     "durability": 42,
     "power": 25,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Sergei Kravinoff",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kraven the Hunter",
-      "World's Greatest Hunter",
-      "the Grim Hunter"
-    ],
-    "placeOfBirth": "Volgograd (formerly Stalingrad), Russia",
-    "firstAppearance": "The Amazing Spider-Man #15 (1964)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Sergei Kravinoff",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kraven the Hunter",
+      "World's Greatest Hunter",
+      "the Grim Hunter"
+    ],
+    "placeOfBirth": "Volgograd (formerly Stalingrad), Russia",
+    "firstAppearance": "The Amazing Spider-Man #15 (1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional game hunter, mercenary",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Nikolai & Anna Makarova Kravinoff (parents, deceased), Dmitri Smerdyakov (Chameleon, half-brother), Vladimir Kravinoff (Grim Hunter, son, deceased), Aloysha \"Al\" Kravinoff (Kraven II, son), Ned Tannengarden (son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kraven-1.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kraven-1.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kraven-1.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kraven-1.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/395-kraven-the-hunter.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/395-kraven-the-hunter.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/395-kraven-the-hunter.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/395-kraven-the-hunter.jpg"
   }
 }

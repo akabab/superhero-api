@@ -1,6 +1,7 @@
 {
   "id": 66,
   "name": "Batgirl IV",
+  "slug": "66-batgirl-iv",
   "powerstats": {
     "intelligence": 69,
     "strength": 12,
@@ -8,18 +9,6 @@
     "durability": 56,
     "power": 46,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Cassandra Cain",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kasumi",
-      "various mundane persona,"
-    ],
-    "placeOfBirth": "League of Assassins (exact base is unknown)",
-    "firstAppearance": "Batman: Legends of the Dark Knight #120",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Cassandra Cain",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kasumi",
+      "various mundane persona,"
+    ],
+    "placeOfBirth": "League of Assassins (exact base is unknown)",
+    "firstAppearance": "Batman: Legends of the Dark Knight #120",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Gotham City; Bl?dhaven; Tibet; New York City"
@@ -44,9 +45,9 @@
     "relatives": "David Cain (father), Lady Shiva (mother), Carolyn (aunt, deceased), Annalea (sibling, deceased), 'The Mad Dog' (sibling)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/batgirl-4.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/batgirl-4.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/batgirl-4.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/batgirl-4.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/66-batgirl-iv.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/66-batgirl-iv.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/66-batgirl-iv.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/66-batgirl-iv.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 711,
   "name": "White Canary",
+  "slug": "711-white-canary",
   "powerstats": {
     "intelligence": 63,
     "strength": 7,
@@ -8,18 +9,6 @@
     "durability": 15,
     "power": 49,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Silk Sister",
-      "Sara Lance"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Birds of Prey #1",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Silk Sister",
+      "Sara Lance"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Birds of Prey #1",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/white-canary.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/white-canary.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/white-canary.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/white-canary.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/711-white-canary.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/711-white-canary.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/711-white-canary.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/711-white-canary.jpg"
   }
 }

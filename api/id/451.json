@@ -1,6 +1,7 @@
 {
   "id": 451,
   "name": "Micro Lad",
+  "slug": "451-micro-lad",
   "powerstats": {
     "intelligence": 38,
     "strength": 28,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 44,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Gim Allon",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Colossal Boy (mostly known as Colossal Boy",
-      "although he dislikes that name himself)"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Grey",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Gim Allon",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Colossal Boy (mostly known as Colossal Boy",
+      "although he dislikes that name himself)"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teen Titans/Legion Special #1 (2004)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "United Planets, 31st century"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/micro-lad.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/micro-lad.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/micro-lad.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/micro-lad.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/451-micro-lad.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/451-micro-lad.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/451-micro-lad.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/451-micro-lad.jpg"
   }
 }

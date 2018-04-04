@@ -1,6 +1,7 @@
 {
   "id": 68,
   "name": "Batgirl VI",
+  "slug": "68-batgirl-vi",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,20 +9,6 @@
     "durability": 28,
     "power": 22,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Stephanie Brown",
-    "alterEgos": "Spoiler",
-    "aliases": [
-      "Steph",
-      "Robin",
-      "Marion Todd",
-      "Spoiler"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
-    "publisher": "Spoiler",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Stephanie Brown",
+    "alterEgos": "Spoiler",
+    "aliases": [
+      "Steph",
+      "Robin",
+      "Marion Todd",
+      "Spoiler"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Detective Comics #647. As Batgirl in Batgirl (Volume 3) #1. (2009)",
+    "publisher": "Spoiler",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "College student at Gotham University",
     "base": "Gotham Heights, Gotham City"
@@ -46,9 +47,9 @@
     "relatives": "Arthur Brown (The Cluemaster, father), Crystal Brown (mother), unnamed daughter (given up for adoption)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/batgirl-6.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/batgirl-6.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/batgirl-6.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/batgirl-6.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/68-batgirl-vi.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/68-batgirl-vi.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/68-batgirl-vi.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/68-batgirl-vi.jpg"
   }
 }

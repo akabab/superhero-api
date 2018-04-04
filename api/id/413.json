@@ -1,6 +1,7 @@
 {
   "id": 413,
   "name": "Lobo",
+  "slug": "413-lobo",
   "powerstats": {
     "intelligence": 94,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Czarnian",
+    "height": [
+      "7'6",
+      "229 cm"
+    ],
+    "weight": [
+      "640 lb",
+      "288 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Lobo",
@@ -24,20 +39,6 @@
     "publisher": "DC Comics",
     "alignment": "neutral"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Czarnian",
-    "height": [
-      "7'6",
-      "229 cm"
-    ],
-    "weight": [
-      "640 lb",
-      "288 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Assassin, Bounty Hunter, Priest",
     "base": "Mobile throughout several galaxies"
@@ -47,9 +48,9 @@
     "relatives": "Slobo (clone)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/lobo.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/lobo.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/lobo.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/lobo.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/413-lobo.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/413-lobo.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/413-lobo.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/413-lobo.jpg"
   }
 }

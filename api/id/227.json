@@ -1,6 +1,7 @@
 {
   "id": 227,
   "name": "Domino",
+  "slug": "227-domino",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 49,
     "combat": 74
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'8",
+      "173 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Neena Thurman",
@@ -29,20 +44,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Human",
-    "height": [
-      "5'8",
-      "173 cm"
-    ],
-    "weight": [
-      "120 lb",
-      "54 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -52,9 +53,9 @@
     "relatives": "Beatrice (mother), Lazarus (brother), Milo Thurman (husband, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/domino.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/domino.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/domino.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/domino.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/227-domino.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/227-domino.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/227-domino.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/227-domino.jpg"
   }
 }

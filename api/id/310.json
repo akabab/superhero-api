@@ -1,6 +1,7 @@
 {
   "id": 310,
   "name": "Harry Potter",
+  "slug": "310-harry-potter",
   "powerstats": {
     "intelligence": 75,
     "strength": 7,
@@ -8,6 +9,20 @@
     "durability": 10,
     "power": 100,
     "combat": 50
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Harry James Potter",
@@ -24,20 +39,6 @@
     "publisher": "J. K. Rowling",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Head of the Department of Magical Law Enforcement[",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/harry-potter.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/harry-potter.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/harry-potter.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/harry-potter.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/310-harry-potter.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/310-harry-potter.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/310-harry-potter.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/310-harry-potter.jpg"
   }
 }

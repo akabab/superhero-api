@@ -1,6 +1,7 @@
 {
   "id": 345,
   "name": "Iron Fist",
+  "slug": "345-iron-fist",
   "powerstats": {
     "intelligence": 75,
     "strength": 55,
@@ -8,6 +9,20 @@
     "durability": 50,
     "power": 95,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "175 lb",
+      "79 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Danny Rand",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'11",
-      "180 cm"
-    ],
-    "weight": [
-      "175 lb",
-      "79 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer; formerly co-owner of Rand-Meachum, Inc., bodyguard, private investigator, research assistant, warrior",
     "base": "New York"
@@ -47,9 +48,9 @@
     "relatives": "Wendell Rand-K'ai (father, deceased), Heather Duncan Rand (mother, deceased), Yu-Ti (adopted uncle), Miranda Rand-K'ai (half-sister), Lord Tuan (adopted paternal grandfather, deceased), Lady Ming (adopted paternal grandmother, deceased), Thomas Duncan (maternal grandfather)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/iron-fist.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/iron-fist.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/iron-fist.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/iron-fist.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/345-iron-fist.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/345-iron-fist.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/345-iron-fist.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/345-iron-fist.jpg"
   }
 }

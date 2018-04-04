@@ -1,6 +1,7 @@
 {
   "id": 49,
   "name": "Atlas",
+  "slug": "49-atlas",
   "powerstats": {
     "intelligence": 63,
     "strength": 100,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 27,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Atlas the Great",
-      "Atlas the Untamed"
-    ],
-    "placeOfBirth": "Crystal Mountain",
-    "firstAppearance": "Action Comics #121",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Atlas the Great",
+      "Atlas the Untamed"
+    ],
+    "placeOfBirth": "Crystal Mountain",
+    "firstAppearance": "Action Comics #121",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Formely; Hyssa, Metropolis"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/atlas.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/atlas.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/atlas.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/atlas.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/49-atlas.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/49-atlas.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/49-atlas.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/49-atlas.jpg"
   }
 }

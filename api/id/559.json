@@ -1,6 +1,7 @@
 {
   "id": 559,
   "name": "Rip Hunter",
+  "slug": "559-rip-hunter",
   "powerstats": {
     "intelligence": 100,
     "strength": 8,
@@ -8,6 +9,20 @@
     "durability": 10,
     "power": 100,
     "combat": 25
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "-",
+      "0 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Richard Hunter",
@@ -26,20 +41,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "-",
-      "0 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "-",
     "base": "Time Lab, Arizona"
@@ -49,9 +50,9 @@
     "relatives": "Michael Carter, (Booster Gold, father),  Unknown (mother), Jonar Carter (grandfather), Ellen Carter (grandmother, deceased), Michelle Carter (Goldstar) (aunt), Daniel Carter (21st century ancestor), Rose Levin (ancestor), Dan Hunter (cousin),"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rip-hunter.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rip-hunter.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rip-hunter.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rip-hunter.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/559-rip-hunter.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/559-rip-hunter.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/559-rip-hunter.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/559-rip-hunter.jpg"
   }
 }

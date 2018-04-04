@@ -1,6 +1,7 @@
 {
   "id": 563,
   "name": "Robin III",
+  "slug": "563-robin-iii",
   "powerstats": {
     "intelligence": 81,
     "strength": 11,
@@ -8,20 +9,6 @@
     "durability": 28,
     "power": 29,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Tim Drake",
-    "alterEgos": "Red Robin",
-    "aliases": [
-      "Alvin Draper",
-      "Batman",
-      "Robin",
-      "Timothy Wayne"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Batman #436 (August, 1989)",
-    "publisher": "Red Robin",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Tim Drake",
+    "alterEgos": "Red Robin",
+    "aliases": [
+      "Alvin Draper",
+      "Batman",
+      "Robin",
+      "Timothy Wayne"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #436 (August, 1989)",
+    "publisher": "Red Robin",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "High School Student",
     "base": "Gotham City; Titans Tower, San Francisco"
@@ -46,9 +47,9 @@
     "relatives": "Jack Drake (father, deceased), Janet Drake (mother, deceased), Dana Winters Drake (step-mother, status unknown), Bruce Wayne (Batman, adoptive father), Damian Wayne (Robin V, adoptive brother), Dick Grayson (Robin I, adoptive brother), Jason Todd (Robin II, adoptive brother), Cassandra Cain (Batgirl IV, adoptive sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/robin-iii.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/robin-iii.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-iii.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/robin-iii.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/563-robin-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/563-robin-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/563-robin-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/563-robin-iii.jpg"
   }
 }

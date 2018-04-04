@@ -1,6 +1,7 @@
 {
   "id": 214,
   "name": "Deadshot",
+  "slug": "214-deadshot",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 28,
     "power": 55,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Floyd Lawton",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Man Who Never Misses",
-      "Worlds Finest Assassin",
-      "Orlando Furioso"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Batman #59 (June, 1950)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Floyd Lawton",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Man Who Never Misses",
+      "Worlds Finest Assassin",
+      "Orlando Furioso"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman #59 (June, 1950)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/deadshot.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/deadshot.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deadshot.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/deadshot.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/214-deadshot.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/214-deadshot.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/214-deadshot.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/214-deadshot.jpg"
   }
 }

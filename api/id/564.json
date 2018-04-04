@@ -1,6 +1,7 @@
 {
   "id": 564,
   "name": "Robin V",
+  "slug": "564-robin-v",
   "powerstats": {
     "intelligence": 69,
     "strength": 8,
@@ -8,20 +9,6 @@
     "durability": 16,
     "power": 29,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Damian Wayne",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Batman",
-      "Damian al Ghul",
-      "Ibn al Xu'ffasch",
-      "Redbird"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Batman: Son of the Demon",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Damian Wayne",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Batman",
+      "Damian al Ghul",
+      "Ibn al Xu'ffasch",
+      "Redbird"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Batman: Son of the Demon",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Gotham City"
@@ -46,9 +47,9 @@
     "relatives": "Talia al Ghul (mother),\nBruce Wayne (Batman, father),\nRa's Al Ghul (maternal grandfather),\nMelisande (maternal grandmother),\nThomas Wayne (paternal grandfather),\nMartha Wayne (paternal grandmother),\nSensei (great-grandfather),\nSimon Hurt (ancestor),\nNyssa Raatko (aunt, deceased),\nDusan al Ghul (White Ghost, uncle, deceased),\nRichard Grayson (Nightwing, adoptive brother),\nTim Drake (Red Robin, adoptive brother),\nCassandra Cain (Batgirl IV, adoptive sister),\nJason Todd (Red Hood, adoptive brother), \nPatrick Wayne (great-grandfather, deceased); \nCharles Wayne (great-great-grandfather, deceased);\nConstance Wayne (great-great-grandmother, deceased); \nAlan Wayne (ancestor, deceased); \nSolomon Wayne (ancestor, deceased); \nDarius Wayne (ancestor, deceased); \nJoshua Wayne (ancestor, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/robin-v.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/robin-v.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/robin-v.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/robin-v.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/564-robin-v.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/564-robin-v.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/564-robin-v.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/564-robin-v.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 274,
   "name": "Gambit",
+  "slug": "274-gambit",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,20 +9,6 @@
     "durability": 28,
     "power": 55,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "Remy Etienne LeBeau",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Death",
-      "Le Diable Blanc",
-      "formerly Robert Lord",
-      "Cajun"
-    ],
-    "placeOfBirth": "New Orleans, Louisiana",
-    "firstAppearance": "(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Red",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Remy Etienne LeBeau",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Death",
+      "Le Diable Blanc",
+      "formerly Robert Lord",
+      "Cajun"
+    ],
+    "placeOfBirth": "New Orleans, Louisiana",
+    "firstAppearance": "(as Gambit) Uncanny X-Men #266 (1990), (as Death) X-Men #184 (2006)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Jean Grey School for Higher Learning, Salem Center, Westchester County, New York; formerly Utopia, San Francisco Bay, California; Xavier Institute, Salem Center, Westchester County, New York; New Orleans; Paris; Cairo; Illinois",
     "base": "(current) Xavier Institute, Salem Center, Westchester County, New York; (former) New Orleans, Louisiana; Paris, France; Cairo, Illinois;"
@@ -46,9 +47,9 @@
     "relatives": "Jean-Luc LeBeau (father), Belladonna (aka Bella Donna Boudreaux) (wife, separated)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/gambit.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/gambit.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gambit.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/gambit.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/274-gambit.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/274-gambit.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/274-gambit.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/274-gambit.jpg"
   }
 }

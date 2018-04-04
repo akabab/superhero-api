@@ -1,6 +1,7 @@
 {
   "id": 659,
   "name": "Thor",
+  "slug": "659-thor",
   "powerstats": {
     "intelligence": 69,
     "strength": 100,
@@ -8,20 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Thor Odinson",
-    "alterEgos": "Rune King Thor",
-    "aliases": [
-      "Donald Blake",
-      "Sigurd Jarlson",
-      "Jake Olsen",
-      "Donar the Mighty"
-    ],
-    "placeOfBirth": "Asgard",
-    "firstAppearance": "Journey into Mystery #83 (August, 1962)",
-    "publisher": "Rune King Thor",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Thor Odinson",
+    "alterEgos": "Rune King Thor",
+    "aliases": [
+      "Donald Blake",
+      "Sigurd Jarlson",
+      "Jake Olsen",
+      "Donar the Mighty"
+    ],
+    "placeOfBirth": "Asgard",
+    "firstAppearance": "Journey into Mystery #83 (August, 1962)",
+    "publisher": "Rune King Thor",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "King of Asgard; formerly EMS Technician; Physician",
     "base": "New York, New York"
@@ -46,9 +47,9 @@
     "relatives": "Odin (father), Gaea (mother), Frigga (step-mother), Loki (step-brother), Vidar (half-brother), Buri (paternal great-grandfather), Bolthorn (maternal great grandfather), Bor (grandfather), Bestla (grandmother), Vili (uncle), Ve (uncle), Sigyn (former sister-in-law), Hela (alleged niece), Jormungand (alleged nephew), Fernis Wolf (alleged nephew)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thor.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thor.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thor.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thor.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/659-thor.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/659-thor.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/659-thor.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/659-thor.jpg"
   }
 }

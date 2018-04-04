@@ -1,6 +1,7 @@
 {
   "id": 638,
   "name": "Storm",
+  "slug": "638-storm",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 30,
     "power": 88,
     "combat": 75
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant",
+    "height": [
+      "5'11",
+      "180 cm"
+    ],
+    "weight": [
+      "127 lb",
+      "57 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
   },
   "biography": {
     "fullName": "Ororo Munroe",
@@ -32,20 +47,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant",
-    "height": [
-      "5'11",
-      "180 cm"
-    ],
-    "weight": [
-      "127 lb",
-      "57 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "White"
-  },
   "work": {
     "occupation": "Adventurer",
     "base": "Xavier Institute, Salem Center, Westchester County, New York State"
@@ -55,9 +56,9 @@
     "relatives": "Ayesha of Balobedu (ancestor), Ashake of Egypt (ancestor), Ashake of Mero? (ancestor), unnamed ancestor, Harriet Munroe (paternal grandmother), unnamed paternal grandfather, unnamed maternal grandmother, David Munroe (father, deceased), N'Dar? Munroe (mother, deceased), Ainet (unofficial foster mother), Achmed El Gib?r (unofficial foster father), Colonel Shetani (maternal uncle), unnamed paternal aunt (deceased), David Munroe, Jr. (cousin), Munroe Family (relatives), Black Panther (T'Challa) (ex-husband, marriage annulled)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/storm.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/storm.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/storm.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/storm.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/638-storm.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/638-storm.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/638-storm.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/638-storm.jpg"
   }
 }

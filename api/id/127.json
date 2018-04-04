@@ -1,6 +1,7 @@
 {
   "id": 127,
   "name": "Boba Fett",
+  "slug": "127-boba-fett",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 36,
     "power": 68,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Clone",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "- lb",
+      "0 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "",
@@ -24,20 +39,6 @@
     "publisher": "George Lucas",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human / Clone",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "- lb",
-      "0 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Bounty Hunter",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/boba-fett.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/boba-fett.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/boba-fett.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/boba-fett.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/127-boba-fett.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/127-boba-fett.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/127-boba-fett.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/127-boba-fett.jpg"
   }
 }

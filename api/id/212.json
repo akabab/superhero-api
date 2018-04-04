@@ -1,6 +1,7 @@
 {
   "id": 212,
   "name": "Deadman",
+  "slug": "212-deadman",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Boston Brand",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Strange Adventures #205 (October, 1967)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Boston Brand",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Strange Adventures #205 (October, 1967)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Wandering Spirit, Former Circus Aerialist",
     "base": "Mobile, Realm of the Just Dead"
@@ -43,9 +44,9 @@
     "relatives": "Cleveland Brand (twin brother, deceased), Lita Brand (niece), Unnamed parents"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/deadman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/deadman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deadman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/deadman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/212-deadman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/212-deadman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/212-deadman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/212-deadman.jpg"
   }
 }

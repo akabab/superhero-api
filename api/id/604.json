@@ -1,6 +1,7 @@
 {
   "id": 604,
   "name": "Siryn",
+  "slug": "604-siryn",
   "powerstats": {
     "intelligence": 38,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 50,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Theresa Rourke Cassidy",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Theresa Rourke"
-    ],
-    "placeOfBirth": "Cassidy Keep, County Mayo, Ireland",
-    "firstAppearance": "Spider-Woman (first series) #37",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Strawberry Blond"
   },
+  "biography": {
+    "fullName": "Theresa Rourke Cassidy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Theresa Rourke"
+    ],
+    "placeOfBirth": "Cassidy Keep, County Mayo, Ireland",
+    "firstAppearance": "Spider-Woman (first series) #37",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "(current) Adventurer (former) Professional Criminal",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Sean Cassidy (Banshee, father), Maeve Rourke (mother, deceased), Black Tom Cassidy (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/siryn.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/siryn.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/siryn.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/siryn.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/604-siryn.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/604-siryn.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/604-siryn.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/604-siryn.jpg"
   }
 }

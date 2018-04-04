@@ -1,6 +1,7 @@
 {
   "id": 230,
   "name": "Doomsday",
+  "slug": "230-doomsday",
   "powerstats": {
     "intelligence": 75,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Doomsday",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Ultimate Lifeform"
-    ],
-    "placeOfBirth": "Krypton",
-    "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "White"
   },
+  "biography": {
+    "fullName": "Doomsday",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Ultimate Lifeform"
+    ],
+    "placeOfBirth": "Krypton",
+    "firstAppearance": "Superman: The Man of Steel #17 (Nov 1992)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Destroyer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/doomsday.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/doomsday.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/doomsday.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/doomsday.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/230-doomsday.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/230-doomsday.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/230-doomsday.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/230-doomsday.jpg"
   }
 }

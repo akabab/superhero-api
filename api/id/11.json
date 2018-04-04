@@ -1,6 +1,7 @@
 {
   "id": 11,
   "name": "Agent Zero",
+  "slug": "11-agent-zero",
   "powerstats": {
     "intelligence": 75,
     "strength": 28,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 72,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Christoph Nord",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Maverick"
-    ],
-    "placeOfBirth": "Unrevealed location in former East Germany",
-    "firstAppearance": "-",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Christoph Nord",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Maverick"
+    ],
+    "placeOfBirth": "Unrevealed location in former East Germany",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Mercenary, former government operative, freedom fighter",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Unidentified parents (deceased), Andreas Nord (brother, deceased), Ginetta Lucia Barsalini (wife, deceased), unnamed child (deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/agent-zero.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/agent-zero.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/agent-zero.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/agent-zero.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/11-agent-zero.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/11-agent-zero.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/11-agent-zero.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/11-agent-zero.jpg"
   }
 }

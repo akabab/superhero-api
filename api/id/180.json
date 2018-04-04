@@ -1,6 +1,7 @@
 {
   "id": 180,
   "name": "Cloak",
+  "slug": "180-cloak",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 100,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Tyrone Johnson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "South Boston, Massachusetts",
-    "firstAppearance": "Spectacular Spiderman #64",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "brown",
     "hairColor": "black"
   },
+  "biography": {
+    "fullName": "Tyrone Johnson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "South Boston, Massachusetts",
+    "firstAppearance": "Spectacular Spiderman #64",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Vigilante",
     "base": "Holy Ghost Church, 42nd Street, New York City"
@@ -43,9 +44,9 @@
     "relatives": "Smokin' Joe (rumored grandfather)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cloak.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cloak.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cloak.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cloak.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/180-cloak.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/180-cloak.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/180-cloak.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/180-cloak.jpg"
   }
 }

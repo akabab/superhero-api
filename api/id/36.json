@@ -1,6 +1,7 @@
 {
   "id": 36,
   "name": "Aquababy",
+  "slug": "36-aquababy",
   "powerstats": {
     "intelligence": 10,
     "strength": 16,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 37,
     "combat": 14
-  },
-  "biography": {
-    "fullName": "Arthur Curry, Jr.",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Aquaman #23 (October, 1965)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Arthur Curry, Jr.",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Aquaman #23 (October, 1965)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Atlantis"
@@ -43,9 +44,9 @@
     "relatives": "Aquaman (Orin/Arthur Curry) (father); Mera (mother); Koryak (half-brother); A.J. (half-brother); Atlan (grandfather); Tom Curry (adoptive grandfather, deceased); Orm Marius (uncle); Kordax (ancestor, deceased); Arthur Joseph Curry (adoptive cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/aquababy.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/aquababy.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/aquababy.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/aquababy.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/36-aquababy.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/36-aquababy.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/36-aquababy.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/36-aquababy.jpg"
   }
 }

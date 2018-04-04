@@ -1,6 +1,7 @@
 {
   "id": 141,
   "name": "Bullseye",
+  "slug": "141-bullseye",
   "powerstats": {
     "intelligence": 50,
     "strength": 11,
@@ -8,6 +9,20 @@
     "durability": 70,
     "power": 20,
     "combat": 70
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "blue",
+    "hairColor": "blond"
   },
   "biography": {
     "fullName": "Lester",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "200 lb",
-      "90 kg"
-    ],
-    "eyeColor": "blue",
-    "hairColor": "blond"
-  },
   "work": {
     "occupation": "Assassin, professional criminal, former mercenary",
     "base": "Formerly Avengers Tower; Thunderbolts Mountain"
@@ -48,9 +49,9 @@
     "relatives": "Kingmaker (father)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bullseye.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bullseye.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bullseye.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bullseye.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/141-bullseye.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/141-bullseye.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/141-bullseye.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/141-bullseye.jpg"
   }
 }

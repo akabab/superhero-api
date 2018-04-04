@@ -1,6 +1,7 @@
 {
   "id": 325,
   "name": "Hercules",
+  "slug": "325-hercules",
   "powerstats": {
     "intelligence": 63,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 85,
     "power": 89,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Demi-God",
+    "height": [
+      "6'5",
+      "196 cm"
+    ],
+    "weight": [
+      "325 lb",
+      "146 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Heracles",
@@ -30,20 +45,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Demi-God",
-    "height": [
-      "6'5",
-      "196 cm"
-    ],
-    "weight": [
-      "325 lb",
-      "146 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Adventurer, Olympian God of Strength and Labor, later Olympian God of Heroes",
     "base": "Brooklyn; formerly Infinite Avengers Mansion, Mount Olympus, Avengers Mansion, Hydrobase"
@@ -53,9 +54,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hercules.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hercules.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hercules.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hercules.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/325-hercules.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/325-hercules.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/325-hercules.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/325-hercules.jpg"
   }
 }

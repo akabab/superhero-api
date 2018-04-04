@@ -1,6 +1,7 @@
 {
   "id": 380,
   "name": "Kathryn Janeway",
+  "slug": "380-kathryn-janeway",
   "powerstats": {
     "intelligence": 75,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 25,
     "power": 21,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Kathryn Janeway",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Bloomington, Indiana, Earth",
-    "firstAppearance": "-",
-    "publisher": "Star Trek",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Kathryn Janeway",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Bloomington, Indiana, Earth",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Fleet Commander",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Edward Janeway (father), Gretchen Janeway (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/kathryne-janeway.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/kathryne-janeway.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/kathryne-janeway.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/kathryne-janeway.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/380-kathryn-janeway.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/380-kathryn-janeway.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/380-kathryn-janeway.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/380-kathryn-janeway.jpg"
   }
 }

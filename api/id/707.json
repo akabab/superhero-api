@@ -1,6 +1,7 @@
 {
   "id": 707,
   "name": "Warpath",
+  "slug": "707-warpath",
   "powerstats": {
     "intelligence": 38,
     "strength": 72,
@@ -8,17 +9,6 @@
     "durability": 70,
     "power": 26,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "James Proudstar",
-    "alterEgos": "Thunderbird II",
-    "aliases": [
-      "Thunderbird"
-    ],
-    "placeOfBirth": "Camp Verde, Arizona",
-    "firstAppearance": "New Mutants #16 (June, 1984)",
-    "publisher": "Thunderbird II",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "James Proudstar",
+    "alterEgos": "Thunderbird II",
+    "aliases": [
+      "Thunderbird"
+    ],
+    "placeOfBirth": "Camp Verde, Arizona",
+    "firstAppearance": "New Mutants #16 (June, 1984)",
+    "publisher": "Thunderbird II",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Thunderbird (John Proudstar, brother, deceased), Maria Proudstar (mother, deceased), Neal Proudstar (father, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/warpath.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/warpath.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/warpath.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/warpath.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/707-warpath.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/707-warpath.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/707-warpath.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/707-warpath.jpg"
   }
 }

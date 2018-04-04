@@ -1,6 +1,7 @@
 {
   "id": 372,
   "name": "Jubilee",
+  "slug": "372-jubilee",
   "powerstats": {
     "intelligence": 56,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 20,
     "power": 66,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Jubilation Lee",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jubes"
-    ],
-    "placeOfBirth": "Beverly Hills, California",
-    "firstAppearance": "Uncanny X-Men #244 (May, 1989)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jubilation Lee",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jubes"
+    ],
+    "placeOfBirth": "Beverly Hills, California",
+    "firstAppearance": "Uncanny X-Men #244 (May, 1989)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student, Adventurer",
     "base": "Xavier Institute, Salem Center, Westchester County, New York"
@@ -43,9 +44,9 @@
     "relatives": "Dr. and Mrs. Lee (parents, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jubilee.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jubilee.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jubilee.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jubilee.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/372-jubilee.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/372-jubilee.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/372-jubilee.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/372-jubilee.jpg"
   }
 }

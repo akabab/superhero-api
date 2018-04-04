@@ -1,6 +1,7 @@
 {
   "id": 288,
   "name": "Gog",
+  "slug": "288-gog",
   "powerstats": {
     "intelligence": 50,
     "strength": 34,
@@ -8,18 +9,6 @@
     "durability": 72,
     "power": 39,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Nephut-Sha",
-      "Hassan Kareem"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Incredible Hulk #257 (1981)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nephut-Sha",
+      "Hassan Kareem"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Incredible Hulk #257 (1981)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Seth (creator), Magog (\"brother\")"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/no-portrait.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/no-portrait.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/no-portrait.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/no-portrait.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/no-portrait.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/no-portrait.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/no-portrait.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/no-portrait.jpg"
   }
 }

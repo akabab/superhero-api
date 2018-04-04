@@ -1,6 +1,7 @@
 {
   "id": 619,
   "name": "Spider-Gwen",
+  "slug": "619-spider-gwen",
   "powerstats": {
     "intelligence": 75,
     "strength": 55,
@@ -8,17 +9,6 @@
     "durability": 70,
     "power": 66,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Gwen Stacy",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Spider-Woman"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Edge of Spider-Verse #2",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Gwen Stacy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Spider-Woman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Edge of Spider-Verse #2",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "George Stacy (father), Helen Stacy (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-gwen.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-gwen.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-gwen.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spider-gwen.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/619-spider-gwen.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/619-spider-gwen.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/619-spider-gwen.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/619-spider-gwen.jpg"
   }
 }

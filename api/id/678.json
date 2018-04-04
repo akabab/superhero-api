@@ -1,6 +1,7 @@
 {
   "id": 678,
   "name": "Two-Face",
+  "slug": "678-two-face",
   "powerstats": {
     "intelligence": 88,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 9,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Harvey Dent",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Apollo"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Harvey Dent",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Apollo"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Reformed criminal; former district attorney",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Duela Dent (Daughter), Gilda Dent (Wife), Poison Ivy (Fianc?e), Rachel Dawes (Girlfriend)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/two-face.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/two-face.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/two-face.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/two-face.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/678-two-face.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/678-two-face.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/678-two-face.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/678-two-face.jpg"
   }
 }

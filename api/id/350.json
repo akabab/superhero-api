@@ -1,6 +1,7 @@
 {
   "id": 350,
   "name": "Jack of Hearts",
+  "slug": "350-jack-of-hearts",
   "powerstats": {
     "intelligence": 63,
     "strength": 55,
@@ -8,17 +9,6 @@
     "durability": 30,
     "power": 77,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Jonathan Hart",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "New Haven, Connecticut",
-    "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue / White",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Jonathan Hart",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "New Haven, Connecticut",
+    "firstAppearance": "Deadly Hands of Kung Fu #22 (March, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "Avengers Mansion"
@@ -43,9 +44,9 @@
     "relatives": "Philip (father, deceased), Marie (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jack-of-hearts.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jack-of-hearts.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jack-of-hearts.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jack-of-hearts.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/350-jack-of-hearts.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/350-jack-of-hearts.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/350-jack-of-hearts.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/350-jack-of-hearts.jpg"
   }
 }

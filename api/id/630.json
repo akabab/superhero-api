@@ -1,6 +1,7 @@
 {
   "id": 630,
   "name": "Star-Lord",
+  "slug": "630-star-lord",
   "powerstats": {
     "intelligence": 69,
     "strength": 20,
@@ -8,17 +9,6 @@
     "durability": 50,
     "power": 25,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Peter Jason Quill",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Starlord"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Marvel Preview #4 (January, 1976)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Peter Jason Quill",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Starlord"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Marvel Preview #4 (January, 1976)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; Royal Prince of Spartax",
     "base": "C.I.T.T.; formerly Kree space; Hala, Daedalus 5"
@@ -43,9 +44,9 @@
     "relatives": "Eson (grandfather, deceased), Gareth (great-uncle, deceased), Jason of Sparta (father), Meredith Quill (mother, deceased), Victoria (half-sister), Kip Holm (adopted brother), Sandy (adopted sister in-law), Alain (adopted niece), Rhys, Robyn (adopted nephews), Kitty Pryde (fiance), Unnamed former Symbiote"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/star-lord.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/star-lord.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/star-lord.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/star-lord.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/630-star-lord.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/630-star-lord.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/630-star-lord.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/630-star-lord.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 246,
   "name": "Etrigan",
+  "slug": "246-etrigan",
   "powerstats": {
     "intelligence": 50,
     "strength": 85,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Jason Blood",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Demon"
-    ],
-    "placeOfBirth": "Hell",
-    "firstAppearance": "Demon #1 (September, 1972)",
-    "publisher": "DC Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Red",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Jason Blood",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Demon"
+    ],
+    "placeOfBirth": "Hell",
+    "firstAppearance": "Demon #1 (September, 1972)",
+    "publisher": "DC Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "-",
     "base": "Hell"
@@ -43,9 +44,9 @@
     "relatives": "Belial (father), Raan va Daath (mother), Merlin (half Brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/etrigan.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/etrigan.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/etrigan.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/etrigan.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/246-etrigan.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/246-etrigan.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/246-etrigan.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/246-etrigan.jpg"
   }
 }

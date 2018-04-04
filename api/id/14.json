@@ -1,6 +1,7 @@
 {
   "id": 14,
   "name": "Alan Scott",
+  "slug": "14-alan-scott",
   "powerstats": {
     "intelligence": 63,
     "strength": 80,
@@ -8,19 +9,6 @@
     "durability": 90,
     "power": 100,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Alan Ladd Wellington Scott",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Green Lantern",
-      "White King",
-      "Sentinal"
-    ],
-    "placeOfBirth": "Gotham City",
-    "firstAppearance": "All-American Comics 16 (1940)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Alan Ladd Wellington Scott",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Green Lantern",
+      "White King",
+      "Sentinal"
+    ],
+    "placeOfBirth": "Gotham City",
+    "firstAppearance": "All-American Comics 16 (1940)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Gotham City and New York City; Formerly Capitol City"
@@ -45,9 +46,9 @@
     "relatives": "Harlequin (Molly Mayne-Scott) (wife), Thorn (Rose Canton) (first wife, deceased), Todd Rice (Obsidian, son), Jennie-Lynn Hayden (Jade, daughter, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/alan-scott.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/alan-scott.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/alan-scott.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/alan-scott.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/14-alan-scott.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/14-alan-scott.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/14-alan-scott.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/14-alan-scott.jpg"
   }
 }

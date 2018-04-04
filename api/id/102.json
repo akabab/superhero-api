@@ -1,6 +1,7 @@
 {
   "id": 102,
   "name": "Black Knight III",
+  "slug": "102-black-knight-iii",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 70,
     "power": 43,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Dane Whitman",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Pendragon",
-      "Gann Josin",
-      "Eobar Garrington"
-    ],
-    "placeOfBirth": "Gloucester, Massachusetts",
-    "firstAppearance": "Avengers #47 (1967)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Dane Whitman",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Pendragon",
+      "Gann Josin",
+      "Eobar Garrington"
+    ],
+    "placeOfBirth": "Gloucester, Massachusetts",
+    "firstAppearance": "Avengers #47 (1967)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, scientist; former crusader",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Nathan Garrett (Black Knight II, uncle, deceased); Sir Percy of Scandia (Black Knight), Sir Raston, Eobar Garrington (Black Knights of past eras, ancestors, deceased); Lady Rosamund, Edward, Geoffrey (ancestral relations, presumed deceased); Dafydd ap Iowerth, Arthur Pendragon, Mordred the Evil, Morgan Le Fay (distant ancestral relations)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-knight-3.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-knight-3.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-knight-3.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-knight-3.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/102-black-knight-iii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/102-black-knight-iii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/102-black-knight-iii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/102-black-knight-iii.jpg"
   }
 }

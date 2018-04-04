@@ -1,6 +1,7 @@
 {
   "id": 351,
   "name": "Jack-Jack",
+  "slug": "351-jack-jack",
   "powerstats": {
     "intelligence": 6,
     "strength": 34,
@@ -8,17 +9,6 @@
     "durability": 80,
     "power": 100,
     "combat": 6
-  },
-  "biography": {
-    "fullName": "Jack-Jack Parr",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The Incredibles (Movie, 2004)",
-    "publisher": "Dark Horse Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Jack-Jack Parr",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Incredibles (Movie, 2004)",
+    "publisher": "Dark Horse Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Robert Parr(Mr Incredible, father), Helen Parr (Elastigirl, mother), Violet Parr(Violet, sister), Dashiell Parr (Dash, brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/jack-jack.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/jack-jack.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/jack-jack.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/jack-jack.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/351-jack-jack.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/351-jack-jack.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/351-jack-jack.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/351-jack-jack.jpg"
   }
 }

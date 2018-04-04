@@ -1,6 +1,7 @@
 {
   "id": 215,
   "name": "Deathlok",
+  "slug": "215-deathlok",
   "powerstats": {
     "intelligence": 69,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 70,
     "power": 40,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Luther Manning",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Demolisher"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Astonishing Tales #25 (August, 1974)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Grey"
   },
+  "biography": {
+    "fullName": "Luther Manning",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Demolisher"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Astonishing Tales #25 (August, 1974)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "New York area"
@@ -43,9 +44,9 @@
     "relatives": "Janice (Wife, seperated), Richard (son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/deathlok.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/deathlok.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/deathlok.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/deathlok.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/215-deathlok.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/215-deathlok.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/215-deathlok.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/215-deathlok.jpg"
   }
 }

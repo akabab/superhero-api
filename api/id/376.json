@@ -1,6 +1,7 @@
 {
   "id": 376,
   "name": "Justice",
+  "slug": "376-justice",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,6 +9,20 @@
     "durability": 70,
     "power": 55,
     "combat": 30
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Hazel",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Vance Astrovik",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'10",
-      "178 cm"
-    ],
-    "weight": [
-      "180 lb",
-      "81 kg"
-    ],
-    "eyeColor": "Hazel",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Adventurer",
     "base": "Mobile, formerly New Warriors and Avengers Headquarters, Camp Hammond"
@@ -47,9 +48,9 @@
     "relatives": "Jerzy Astroyevicht (aka Jerry Astrovik; paternal grandfather); Katerina Astroyevicht (aka Katerina Astrovik; paternal grandmother); Arnold Astrovik (father, deceased); Norma Astrovik (mother);"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/justice.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/justice.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/justice.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/justice.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/376-justice.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/376-justice.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/376-justice.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/376-justice.jpg"
   }
 }

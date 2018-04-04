@@ -1,6 +1,7 @@
 {
   "id": 462,
   "name": "Mockingbird",
+  "slug": "462-mockingbird",
   "powerstats": {
     "intelligence": 75,
     "strength": 31,
@@ -8,6 +9,20 @@
     "durability": 20,
     "power": 48,
     "combat": 95
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Human",
+    "height": [
+      "5'9",
+      "175 cm"
+    ],
+    "weight": [
+      "135 lb",
+      "61 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Barbara Morse",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Human",
-    "height": [
-      "5'9",
-      "175 cm"
-    ],
-    "weight": [
-      "135 lb",
-      "61 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer; former counter-terrorist agent, private investigator, government operative, S.H.I.E.L.D. agent, biologist",
     "base": "New York City, New York"
@@ -47,9 +48,9 @@
     "relatives": "Susan Morse (mother); Ben Morse (brother); Hawkeye (Clint Barton) (ex-husband)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mockingbird.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mockingbird.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mockingbird.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mockingbird.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/462-mockingbird.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/462-mockingbird.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/462-mockingbird.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/462-mockingbird.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 414,
   "name": "Loki",
+  "slug": "414-loki",
   "powerstats": {
     "intelligence": 88,
     "strength": 63,
@@ -8,6 +9,20 @@
     "durability": 85,
     "power": 100,
     "combat": 60
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Asgardian",
+    "height": [
+      "6'4",
+      "193 cm"
+    ],
+    "weight": [
+      "525 lb",
+      "236 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Loki Laufeyson",
@@ -28,20 +43,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Asgardian",
-    "height": [
-      "6'4",
-      "193 cm"
-    ],
-    "weight": [
-      "525 lb",
-      "236 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "God of evil; former god of mischief and madness",
     "base": "Asgard"
@@ -51,9 +52,9 @@
     "relatives": "Laufey (father, deceased), Farbauti (mother, deceased), Sigyn (wife, deceased), Odin (foster father, deceased), Frigga (foster mother, deceased), Thor, Vidar (foster brothers, deceased), Hela,Fenris (Wolf), Jordmungand (Midgard Serpent) (children, deceased), Arkin (cousin, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/loki.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/loki.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/loki.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/loki.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/414-loki.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/414-loki.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/414-loki.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/414-loki.jpg"
   }
 }

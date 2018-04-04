@@ -1,6 +1,7 @@
 {
   "id": 261,
   "name": "Firestorm",
+  "slug": "261-firestorm",
   "powerstats": {
     "intelligence": 38,
     "strength": 80,
@@ -8,20 +9,6 @@
     "durability": 80,
     "power": 100,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Ronald Raymond",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Ronnie",
-      "Roy",
-      "Ronald Rockwell",
-      "Flamehead"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Firestorm #1 (March, 1978)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Ronald Raymond",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Ronnie",
+      "Roy",
+      "Ronald Rockwell",
+      "Flamehead"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Firestorm #1 (March, 1978)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; former employee of Bun 'n Run",
     "base": "Formerly Manhattan, New York City; Ivy University, Ivy Town; Pittsburgh, Pennsylvania"
@@ -46,9 +47,9 @@
     "relatives": "Edward Raymond (father); Elaine Rockwell (mother, deceased); Felicity Smoak-Raymond (stepmother); Richard Dare (grandfather)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/firestorm-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/firestorm-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/firestorm-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/firestorm-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/261-firestorm.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/261-firestorm.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/261-firestorm.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/261-firestorm.jpg"
   }
 }

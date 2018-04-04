@@ -1,6 +1,7 @@
 {
   "id": 680,
   "name": "Ultron",
+  "slug": "680-ultron",
   "powerstats": {
     "intelligence": 88,
     "strength": 83,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 64
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Android",
+    "height": [
+      "6'9",
+      "206 cm"
+    ],
+    "weight": [
+      "735 lb",
+      "331 kg"
+    ],
+    "eyeColor": "Red",
+    "hairColor": "-"
   },
   "biography": {
     "fullName": "Ultron",
@@ -29,20 +44,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Android",
-    "height": [
-      "6'9",
-      "206 cm"
-    ],
-    "weight": [
-      "735 lb",
-      "331 kg"
-    ],
-    "eyeColor": "Red",
-    "hairColor": "-"
-  },
   "work": {
     "occupation": "Mass murderer, scientist, would-be world conqueror, ruler of Phalanx",
     "base": "-"
@@ -52,9 +53,9 @@
     "relatives": "Hank Pym (Yellowjacket, creator, \"father\"), Janet Van Dyne (Wasp, regarded by Ultron as \"mother\" due to marriage to Pym), Jocasta (creation, former mate), Alkhema (creation, former mate, deactivated), Vision (creation, \"son\"), Victor Mancha (creation, son), Rex (creation, pet, deactivated), Robos & Bio-Synthezoids (creations of Alkhema, \"grandchildren\";, destroyed); Simon Williams (Wonder Man), Eric Williams (Grim Reaper) & Wanda Maximoff (Scarlet Witch), all regarded by Ultron as part of his \"extended family\" due to their familial connections with the Vision"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ultron.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ultron.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ultron.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ultron.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/680-ultron.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/680-ultron.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/680-ultron.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/680-ultron.jpg"
   }
 }

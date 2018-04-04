@@ -1,6 +1,7 @@
 {
   "id": 194,
   "name": "Cyborg",
+  "slug": "194-cyborg",
   "powerstats": {
     "intelligence": 75,
     "strength": 53,
@@ -8,19 +9,6 @@
     "durability": 85,
     "power": 71,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Victor Stone",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Cyberion Technis",
-      "Omegadrome",
-      "Planet Cyberion"
-    ],
-    "placeOfBirth": "New York City, New York",
-    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Victor Stone",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cyberion Technis",
+      "Omegadrome",
+      "Planet Cyberion"
+    ],
+    "placeOfBirth": "New York City, New York",
+    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, Teen Titan",
     "base": "San Francisco"
@@ -45,9 +46,9 @@
     "relatives": "Silas Stone (father), Elinore Stone (mother), Tucker Stone (grandfather), Maude Stone (grandmother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cyborg.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cyborg.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cyborg.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cyborg.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/194-cyborg.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/194-cyborg.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/194-cyborg.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/194-cyborg.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 320,
   "name": "Heat Wave",
+  "slug": "320-heat-wave",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 45,
     "power": 27,
     "combat": 30
-  },
-  "biography": {
-    "fullName": "Mick Rory",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Rory Calhoun"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Flash #140 (November, 1963)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Mick Rory",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Rory Calhoun"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #140 (November, 1963)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Professional Criminal",
     "base": "Central City"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/heat-wave.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/heat-wave.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/heat-wave.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/heat-wave.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/320-heat-wave.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/320-heat-wave.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/320-heat-wave.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/320-heat-wave.jpg"
   }
 }

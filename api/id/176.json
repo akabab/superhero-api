@@ -1,6 +1,7 @@
 {
   "id": 176,
   "name": "Chuck Norris",
+  "slug": "176-chuck-norris",
   "powerstats": {
     "intelligence": 50,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 56,
     "power": 42,
     "combat": 99
-  },
-  "biography": {
-    "fullName": "Carlos Ray Norris",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Chuck"
-    ],
-    "placeOfBirth": "Ryan, Oklahoma, United States",
-    "firstAppearance": "-",
-    "publisher": null,
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Carlos Ray Norris",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Chuck"
+    ],
+    "placeOfBirth": "Ryan, Oklahoma, United States",
+    "firstAppearance": "-",
+    "publisher": null,
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/chuck-norris.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/chuck-norris.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/chuck-norris.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/chuck-norris.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/176-chuck-norris.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/176-chuck-norris.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/176-chuck-norris.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/176-chuck-norris.jpg"
   }
 }

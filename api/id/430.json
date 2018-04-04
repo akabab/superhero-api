@@ -1,6 +1,7 @@
 {
   "id": 430,
   "name": "Mandarin",
+  "slug": "430-mandarin",
   "powerstats": {
     "intelligence": 100,
     "strength": 28,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 100,
     "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "215 lb",
+      "97 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
   },
   "biography": {
     "fullName": "Khan",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "215 lb",
-      "97 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "White"
-  },
   "work": {
     "occupation": "Would-be conqueror; former janitor, businessman and crimelord, government administrator",
     "base": "Prometheus Corporation; formerly Dragon of Heaven; Palace of the Star Dragon in the Valley of Spirits."
@@ -47,9 +48,9 @@
     "relatives": "Unidentified father, mother, paternal aunt (all deceased). Mei-Ling (fianc?e, deceased), Temujin (son), Genghis Khan (alleged ancestor, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mandarin.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mandarin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mandarin.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mandarin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/430-mandarin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/430-mandarin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/430-mandarin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/430-mandarin.jpg"
   }
 }

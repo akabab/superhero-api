@@ -1,6 +1,7 @@
 {
   "id": 408,
   "name": "Lightning Lord",
+  "slug": "408-lightning-lord",
   "powerstats": {
     "intelligence": 44,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 66,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Mekt Ranzz",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Mekt Ranzz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Supergirl and the Legion of Super-Heroes #25 (Feb. 2007)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/lightning-lord.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/lightning-lord.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/lightning-lord.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/lightning-lord.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/408-lightning-lord.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/408-lightning-lord.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/408-lightning-lord.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/408-lightning-lord.jpg"
   }
 }

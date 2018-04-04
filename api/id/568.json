@@ -1,6 +1,7 @@
 {
   "id": 568,
   "name": "Ronin",
+  "slug": "568-ronin",
   "powerstats": {
     "intelligence": 56,
     "strength": 12,
@@ -8,6 +9,20 @@
     "durability": 10,
     "power": 13,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Clint Barton",
@@ -31,20 +46,6 @@
     "publisher": "Goliath",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'3",
-      "191 cm"
-    ],
-    "weight": [
-      "230 lb",
-      "104 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Outlaw adventurer, revolutionary; former professional super hero, fugitive, unnoficial S.H.I.E.L.D. operative, federal inmate, CTE security chief, ranch hand, archery tutor, carnival performer, roustabout, butcher shop worker",
     "base": "-"
@@ -54,9 +55,9 @@
     "relatives": "Harold Barton (father), Edith Barton (mother), Charles Bernard \"Barney\" Barton (brother), Barbara Morse 'Bobbi' Barton (Mockingbird, wife), Brett Barton (ancestor), Mack Barton (ancestor); all deceased"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/no-portrait.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/no-portrait.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/no-portrait.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/no-portrait.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/no-portrait.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/no-portrait.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/no-portrait.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/no-portrait.jpg"
   }
 }

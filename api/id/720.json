@@ -1,6 +1,7 @@
 {
   "id": 720,
   "name": "Wonder Woman",
+  "slug": "720-wonder-woman",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Amazon",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "165 lb",
+      "74 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Diana Prince",
@@ -25,20 +40,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Amazon",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "165 lb",
-      "74 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Adventurer, Emissary to the world of Man, Protector of Paradise Island; former Goddess of Truth",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Queen Hippolyta (mother, deceased), Donna Troy (Troia) (magically-created duplicate)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/wonder-woman-v2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/wonder-woman-v2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wonder-woman-v2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/wonder-woman-v2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/720-wonder-woman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/720-wonder-woman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/720-wonder-woman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/720-wonder-woman.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 44,
   "name": "Ariel",
+  "slug": "44-ariel",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 94,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Ariel",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Fallen Angels #1 (1987)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Purple",
     "hairColor": "Pink"
   },
+  "biography": {
+    "fullName": "Ariel",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Fallen Angels #1 (1987)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Leader, refugee alien; former alien mutant-hunter and hedonist",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ariel.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ariel.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ariel.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ariel.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/44-ariel.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/44-ariel.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/44-ariel.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/44-ariel.jpg"
   }
 }

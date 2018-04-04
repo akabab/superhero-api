@@ -1,6 +1,7 @@
 {
   "id": 200,
   "name": "Daphne Powell",
+  "slug": "200-daphne-powell",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 10,
     "power": 56,
     "combat": 10
-  },
-  "biography": {
-    "fullName": "Daphne Powell",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "No Ordinary Family S01E01 (2010)",
-    "publisher": "ABC Studios",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Daphne Powell",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "No Ordinary Family S01E01 (2010)",
+    "publisher": "ABC Studios",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Student",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Jim Powell and Stephanie Powell (parents), JJ Powell (brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/daphne-powell.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/daphne-powell.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/daphne-powell.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/daphne-powell.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/200-daphne-powell.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/200-daphne-powell.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/200-daphne-powell.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/200-daphne-powell.jpg"
   }
 }

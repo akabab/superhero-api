@@ -1,6 +1,7 @@
 {
   "id": 30,
   "name": "Ant-Man",
+  "slug": "30-ant-man",
   "powerstats": {
     "intelligence": 100,
     "strength": 18,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 32,
     "combat": 32
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'11",
+      "211 cm"
+    ],
+    "weight": [
+      "270 lb",
+      "122 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Hank Pym",
@@ -26,20 +41,6 @@
     "publisher": "Giant-Man",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'11",
-      "211 cm"
-    ],
-    "weight": [
-      "270 lb",
-      "122 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer, Biochemist, former manager of Avengers Compound",
     "base": "Avengers Compound, Los Angeles; formerly Infinite Avengers Mansion; Captive aboard a Skrull ship; Avengers Mansion, New York City, New York"
@@ -49,9 +50,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ant-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ant-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ant-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ant-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/30-ant-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/30-ant-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/30-ant-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/30-ant-man.jpg"
   }
 }

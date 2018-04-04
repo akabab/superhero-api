@@ -1,6 +1,7 @@
 {
   "id": 81,
   "name": "Big Barda",
+  "slug": "81-big-barda",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Barda Free",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Barda",
-      "the Strongest Woman in the World"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Mister Miracle (Volume 1) #4",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Barda Free",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Barda",
+      "the Strongest Woman in the World"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Mister Miracle (Volume 1) #4",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Gotham City, New Genesis, formerly Apokolips"
@@ -44,9 +45,9 @@
     "relatives": "Big Breeda (mother), Scott Free (Mister Miricle, husband), Highfather Izaya (father-in-law, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/big-barda.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/big-barda.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/big-barda.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/big-barda.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/81-big-barda.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/81-big-barda.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/81-big-barda.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/81-big-barda.jpg"
   }
 }

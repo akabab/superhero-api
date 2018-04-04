@@ -1,6 +1,7 @@
 {
   "id": 267,
   "name": "Flash IV",
+  "slug": "267-flash-iv",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 32,
     "power": 100,
     "combat": 48
-  },
-  "biography": {
-    "fullName": "Bartholomew Allen II",
-    "alterEgos": "Impulse, Kid Flash II",
-    "aliases": [
-      "Impulse",
-      "Kid Flash II"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003)",
-    "publisher": "Impulse",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Yellow",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Bartholomew Allen II",
+    "alterEgos": "Impulse, Kid Flash II",
+    "aliases": [
+      "Impulse",
+      "Kid Flash II"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "(as Impulse) Flash v.2 #91 (June 1994)* (as Kid Flash) Teen Titans v.3 #4 (December 2003)",
+    "publisher": "Impulse",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Police trainee",
     "base": "Los Angeles, California (previously Manchester, Alabama, briefly Denver, Colorado, then Keystone City, Kansas)"
@@ -44,9 +45,9 @@
     "relatives": "Barry Allen (Flash II, grandfather), Iris West Allen (grandmother), Don Allen (father), Meloni Thawne (mother), President Thawne (grandfather), Dawn Allen (aunt), Jenni Ognats (cousin), Thaddeus Thawne (clone), Owen Mercer (half-brother), Max Crandall (guardian)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-4.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-4.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-4.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/flash-4.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/267-flash-iv.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/267-flash-iv.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/267-flash-iv.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/267-flash-iv.jpg"
   }
 }

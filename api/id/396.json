@@ -1,6 +1,7 @@
 {
   "id": 396,
   "name": "Krypto",
+  "slug": "396-krypto",
   "powerstats": {
     "intelligence": 9,
     "strength": 80,
@@ -8,17 +9,6 @@
     "durability": 90,
     "power": 82,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "Krypto the Superdog",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Adventure Comics #210 (March, 1955)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "White"
   },
+  "biography": {
+    "fullName": "Krypto the Superdog",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Adventure Comics #210 (March, 1955)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Smallville, Kansas"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/krypto.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/krypto.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/krypto.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/krypto.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/396-krypto.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/396-krypto.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/396-krypto.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/396-krypto.jpg"
   }
 }

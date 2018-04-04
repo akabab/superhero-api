@@ -1,6 +1,7 @@
 {
   "id": 665,
   "name": "Thundra",
+  "slug": "665-thundra",
   "powerstats": {
     "intelligence": 38,
     "strength": 81,
@@ -8,17 +9,6 @@
     "durability": 64,
     "power": 26,
     "combat": 54
-  },
-  "biography": {
-    "fullName": "Thundra",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Fantastic Four #129 (December, 1972)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Thundra",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Fantastic Four #129 (December, 1972)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Ruler, warrior",
     "base": "Mobile; United Sisterhood Republic of North America"
@@ -43,9 +44,9 @@
     "relatives": "Superia (alleged ancestor), Arkon (consort) Lyra (alternate reality daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thundra.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thundra.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thundra.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thundra.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/665-thundra.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/665-thundra.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/665-thundra.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/665-thundra.jpg"
   }
 }

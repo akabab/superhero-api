@@ -1,6 +1,7 @@
 {
   "id": 146,
   "name": "Callisto",
+  "slug": "146-callisto",
   "powerstats": {
     "intelligence": 63,
     "strength": 53,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 52,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Callisto",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-MEN (first series) #169",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Callisto",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-MEN (first series) #169",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "The Xavier Institute, Salem Center, Westchester County, New York State, (former) The Alley (beneath Manhattan's surface), X-Factor I's sentient starship"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/callisto.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/callisto.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/callisto.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/callisto.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/146-callisto.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/146-callisto.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/146-callisto.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/146-callisto.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 24,
   "name": "Angel",
+  "slug": "24-angel",
   "powerstats": {
     "intelligence": 63,
     "strength": 13,
@@ -8,6 +9,20 @@
     "durability": 64,
     "power": 28,
     "combat": 42
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": null,
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "150 lb",
+      "68 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Warren Kenneth Worthington III",
@@ -24,20 +39,6 @@
     "publisher": "Archangel",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": null,
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "150 lb",
-      "68 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer, chairman & principal stockholder of Worthington Industries, former terrorist",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "Warren Kenneth Worthington Sr. (grandfather, deceased), Warren Kenneth Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burtram \"Burt\" Worthington (Dazzler, paternal uncle), unnamed cousin"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/angel.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/angel.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/angel.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/angel.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/24-angel.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/24-angel.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/24-angel.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/24-angel.jpg"
   }
 }

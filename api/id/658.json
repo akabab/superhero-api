@@ -1,6 +1,7 @@
 {
   "id": 658,
   "name": "Thing",
+  "slug": "658-thing",
   "powerstats": {
     "intelligence": 75,
     "strength": 84,
@@ -8,19 +9,6 @@
     "durability": 100,
     "power": 38,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Ben Grimm",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Blackbeard the Pirate",
-      "Grim Ben",
-      "Dr. Josiah Verpoorteen"
-    ],
-    "placeOfBirth": "New York City, New York",
-    "firstAppearance": "Fantastic Four #1 (November, 1961)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Ben Grimm",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Blackbeard the Pirate",
+      "Grim Ben",
+      "Dr. Josiah Verpoorteen"
+    ],
+    "placeOfBirth": "New York City, New York",
+    "firstAppearance": "Fantastic Four #1 (November, 1961)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, former Air Force test pilot",
     "base": "Baxter Building, New York City, New York (formerly) Four Freedoms Plaza, Pier Four;"
@@ -45,9 +46,9 @@
     "relatives": "Daniel (father, deceased), Elsie (mother, deceased), Daniel Jr. (brother, deceased), Jacob ('Jake,' uncle), Alyce (aunt, deceased), Pentunia ('Penny,' aunt, Jacob's second wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/thing.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/thing.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/thing.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/thing.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/658-thing.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/658-thing.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/658-thing.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/658-thing.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 327,
   "name": "Hit-Girl",
+  "slug": "327-hit-girl",
   "powerstats": {
     "intelligence": 56,
     "strength": 7,
@@ -8,18 +9,6 @@
     "durability": 20,
     "power": 27,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Mindy McCready",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Hit Girl",
-      "Hitgirl"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Icon Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Mindy McCready",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hit Girl",
+      "Hitgirl"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Icon Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hit-girl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hit-girl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hit-girl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hit-girl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/327-hit-girl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/327-hit-girl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/327-hit-girl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/327-hit-girl.jpg"
   }
 }

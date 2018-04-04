@@ -1,6 +1,7 @@
 {
   "id": 15,
   "name": "Alex Mercer",
+  "slug": "15-alex-mercer",
   "powerstats": {
     "intelligence": 50,
     "strength": 80,
@@ -8,19 +9,6 @@
     "durability": 90,
     "power": 100,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Alexander J. Mercer",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Prototype",
-      "Zues",
-      "Blacklight"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Wildstorm",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Alexander J. Mercer",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Prototype",
+      "Zues",
+      "Blacklight"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Wildstorm",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "Dana Mercer (sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/alex-mercer.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/alex-mercer.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/alex-mercer.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/alex-mercer.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/15-alex-mercer.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/15-alex-mercer.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/15-alex-mercer.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/15-alex-mercer.jpg"
   }
 }

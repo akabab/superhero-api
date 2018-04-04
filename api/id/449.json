@@ -1,6 +1,7 @@
 {
   "id": 449,
   "name": "Micah Sanders",
+  "slug": "449-micah-sanders",
   "powerstats": {
     "intelligence": 63,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 57,
     "combat": 14
-  },
-  "biography": {
-    "fullName": "Micah Sanders",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "MicahSanders500"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "NBC - Heroes",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Micah Sanders",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "MicahSanders500"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "NBC - Heroes",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Elementary school student",
     "base": "New Orleans, LA"
@@ -43,9 +44,9 @@
     "relatives": "Niki Sanders (Mother), DL Hawkins (Father), Paulette Hawkins (paternal grandmother), Hal Sanders (maternal grandfather), Nana Dawson (Guardian)\nNana Dawson (Great-aunt), Monica Dawson (Cousin), Damon Dawson (Cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/micah-sanders.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/micah-sanders.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/micah-sanders.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/micah-sanders.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/449-micah-sanders.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/449-micah-sanders.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/449-micah-sanders.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/449-micah-sanders.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 668,
   "name": "Tinkerer",
+  "slug": "668-tinkerer",
   "powerstats": {
     "intelligence": 100,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 14,
     "power": 10,
     "combat": 14
-  },
-  "biography": {
-    "fullName": "Phineas Mason",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Amazing Spider-Man #2 (1963)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "White"
   },
+  "biography": {
+    "fullName": "Phineas Mason",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Amazing Spider-Man #2 (1963)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Inventor and technician serving the underworld",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Deborah Watts Mason (wife, deceased), Rick Mason (aka Agent, son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/tinkerer.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/tinkerer.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/tinkerer.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/tinkerer.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/668-tinkerer.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/668-tinkerer.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/668-tinkerer.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/668-tinkerer.jpg"
   }
 }

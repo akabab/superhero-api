@@ -1,6 +1,7 @@
 {
   "id": 313,
   "name": "Hawkeye",
+  "slug": "313-hawkeye",
   "powerstats": {
     "intelligence": 56,
     "strength": 12,
@@ -8,6 +9,20 @@
     "durability": 10,
     "power": 29,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'3",
+      "191 cm"
+    ],
+    "weight": [
+      "230 lb",
+      "104 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Clint Barton",
@@ -25,20 +40,6 @@
     "publisher": "Goliath",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'3",
-      "191 cm"
-    ],
-    "weight": [
-      "230 lb",
-      "104 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Adventurer",
     "base": "-"
@@ -48,9 +49,9 @@
     "relatives": "Harold Barton (father, deceased), Edith Barton (mother, deceased), Bernard Barton (brother, deceased), Barbara Morse (wife, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hawkeye.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hawkeye.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hawkeye.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hawkeye.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/313-hawkeye.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/313-hawkeye.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/313-hawkeye.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/313-hawkeye.jpg"
   }
 }

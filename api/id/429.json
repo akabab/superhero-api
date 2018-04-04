@@ -1,6 +1,7 @@
 {
   "id": 429,
   "name": "Man-Wolf",
+  "slug": "429-man-wolf",
   "powerstats": {
     "intelligence": 63,
     "strength": 44,
@@ -8,19 +9,6 @@
     "durability": 42,
     "power": 45,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "John Jameson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Stargod",
-      "Vanwolf",
-      "Skywolf"
-    ],
-    "placeOfBirth": "New York, New York",
-    "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "John Jameson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Stargod",
+      "Vanwolf",
+      "Skywolf"
+    ],
+    "placeOfBirth": "New York, New York",
+    "firstAppearance": "AMAZING SPIDER-MAN #1, (as Man-Wolf) AMAZING SPIDER-MAN #124",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Employed by Dept. of Social Services, Queens; former astronaut, test pilot, security chief for Ravenscroft Institute",
     "base": "Queens"
@@ -45,9 +46,9 @@
     "relatives": "J. Jonah (father), Joan (mother, deceased), Marla Madison (stepmother), David (paternal grandfather, presumed deceased), Betty (paternal grandmother, presumed deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/man-wolf.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/man-wolf.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-wolf.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/man-wolf.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/429-man-wolf.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/429-man-wolf.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/429-man-wolf.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/429-man-wolf.jpg"
   }
 }

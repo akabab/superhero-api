@@ -1,6 +1,7 @@
 {
   "id": 263,
   "name": "Flash",
+  "slug": "263-flash",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 50,
     "power": 68,
     "combat": 32
-  },
-  "biography": {
-    "fullName": "Jay Garrick",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jay Garrick",
-      "Siegfreid the Speedster"
-    ],
-    "placeOfBirth": "Hibbardsville, Kansas",
-    "firstAppearance": "Flash Comics #1 (January 1940)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Brown / White"
   },
+  "biography": {
+    "fullName": "Jay Garrick",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jay Garrick",
+      "Siegfreid the Speedster"
+    ],
+    "placeOfBirth": "Hibbardsville, Kansas",
+    "firstAppearance": "Flash Comics #1 (January 1940)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Research Scientist, part-time Director of Garrick Laboratories",
     "base": "Keystone City, Kansas"
@@ -44,9 +45,9 @@
     "relatives": "Joseph Garrick (father), Joan Williams (wife), Arthur Williams (father-in-law), unnamed adopted son (deceased), Bart Allen (Flash II, ward)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-1.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-1.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-1.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/flash-1.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/263-flash.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/263-flash.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/263-flash.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/263-flash.jpg"
   }
 }

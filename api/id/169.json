@@ -1,6 +1,7 @@
 {
   "id": 169,
   "name": "Chamber",
+  "slug": "169-chamber",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,19 +9,6 @@
     "durability": 80,
     "power": 57,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Jonothon Evan Starsmore",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Decibel",
-      "Jono",
-      "Jono Hex"
-    ],
-    "placeOfBirth": "United Kingdom",
-    "firstAppearance": "Generation X #1 (November, 1994)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Jonothon Evan Starsmore",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Decibel",
+      "Jono",
+      "Jono Hex"
+    ],
+    "placeOfBirth": "United Kingdom",
+    "firstAppearance": "Generation X #1 (November, 1994)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer",
     "base": "Utopia; formerly New Warriors HQ; Xavier Institute for Higher Learning, Salem Center, Westchester County, New York; Massachusetts Academy, Snow Valley, Massachusetts"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/chamber.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/chamber.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/chamber.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/chamber.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/169-chamber.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/169-chamber.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/169-chamber.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/169-chamber.jpg"
   }
 }

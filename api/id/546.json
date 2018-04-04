@@ -1,6 +1,7 @@
 {
   "id": 546,
   "name": "Red Hood",
+  "slug": "546-red-hood",
   "powerstats": {
     "intelligence": 75,
     "strength": 12,
@@ -8,6 +9,20 @@
     "durability": 28,
     "power": 35,
     "combat": 95
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0",
+      "183 cm"
+    ],
+    "weight": [
+      "180 lb",
+      "81 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Jason Todd",
@@ -24,20 +39,6 @@
     "publisher": "Robin II",
     "alignment": "neutral"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'0",
-      "183 cm"
-    ],
-    "weight": [
-      "180 lb",
-      "81 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Mercenary, Vigilante",
     "base": "-"
@@ -47,9 +48,9 @@
     "relatives": "Willis Todd (father, deceased); Sheila Haywood (mother, deceased); Catherine Ann Todd (adoptive mother, deceased), Bruce Wayne (adoptive father), Dick Grayson and Tim Drake (adoptive brothers)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/red-hood.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/red-hood.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/red-hood.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/red-hood.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/546-red-hood.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/546-red-hood.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/546-red-hood.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/546-red-hood.jpg"
   }
 }

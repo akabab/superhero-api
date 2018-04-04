@@ -1,6 +1,7 @@
 {
   "id": 722,
   "name": "Wyatt Wingfoot",
+  "slug": "722-wyatt-wingfoot",
   "powerstats": {
     "intelligence": 10,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 1,
     "power": 1,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Wyatt Wingfoot",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "Keewazi Reservation, Oklahoma",
-    "firstAppearance": "FANTASTIC FOUR #50",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Wyatt Wingfoot",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "Keewazi Reservation, Oklahoma",
+    "firstAppearance": "FANTASTIC FOUR #50",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Occasional adventurer",
     "base": "Fantastic Four headquarters, New York City, and Keewazi Reservation, Oklahoma"
@@ -43,9 +44,9 @@
     "relatives": "Will Wingfoot (father, deceased), Chief Silent Fox (grandfather, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/wyatt-wingfoot.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/wyatt-wingfoot.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/wyatt-wingfoot.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/wyatt-wingfoot.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/722-wyatt-wingfoot.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/722-wyatt-wingfoot.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/722-wyatt-wingfoot.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/722-wyatt-wingfoot.jpg"
   }
 }

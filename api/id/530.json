@@ -1,6 +1,7 @@
 {
   "id": 530,
   "name": "Punisher",
+  "slug": "530-punisher",
   "powerstats": {
     "intelligence": 69,
     "strength": 16,
@@ -8,6 +9,20 @@
     "durability": 45,
     "power": 42,
     "combat": 100
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'0'",
+      "183 cm"
+    ],
+    "weight": [
+      "200 lb",
+      "90 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Frank Castle",
@@ -39,20 +54,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'0'",
-      "183 cm"
-    ],
-    "weight": [
-      "200 lb",
-      "90 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Former United States Marine turned professional vigilante",
     "base": "Mobile, usually in New York City"
@@ -62,9 +63,9 @@
     "relatives": "Maria Castle (Wife, deceased), Christie Castle (Daughter, deceased), Frank Castle Junior (Son, deceased), Mario Castle (Father, deceased), Louisa Castle (Mother, deceased), Rocco Castiglione (Uncle, deceased), Esmerelda Castiglione (Aunt, deceased), Michael Castle (Brother, stillborn, deceased)."
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/punisher.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/punisher.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/punisher.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/punisher.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/530-punisher.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/530-punisher.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/530-punisher.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/530-punisher.jpg"
   }
 }

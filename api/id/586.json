@@ -1,6 +1,7 @@
 {
   "id": 586,
   "name": "Shadowcat",
+  "slug": "586-shadowcat",
   "powerstats": {
     "intelligence": 88,
     "strength": 8,
@@ -8,20 +9,6 @@
     "durability": 25,
     "power": 69,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Kitty Pryde",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Kitty Pryde",
-      "Ariel",
-      "Sprite",
-      "Cat"
-    ],
-    "placeOfBirth": "Deerfield, Illinois",
-    "firstAppearance": "X-Men #129 (January, 1980)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -37,6 +24,20 @@
     "eyeColor": "Hazel",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Kitty Pryde",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Kitty Pryde",
+      "Ariel",
+      "Sprite",
+      "Cat"
+    ],
+    "placeOfBirth": "Deerfield, Illinois",
+    "firstAppearance": "X-Men #129 (January, 1980)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Teacher, Adventurer, former student",
     "base": "Xavier Insitute for Higher Learning, Salem Center, New York, formerly Muir Island off the coast of Scotland, formerly Excalibur's Lighthouse, formerly Braddock Manor, England"
@@ -46,9 +47,9 @@
     "relatives": "Kate (maternal great-grandmother), Samuel Prydeman (paternal grandfather, deceased), Chava Rosanoff (paternal great-aunt, deceased), Mr. Rosanoff (paternal great-uncle, apparently deceased), Nina (aunt), Carmen Pryde (father, deceased), Theresa Pryde (mother), Kenny (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/shadowcat.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/shadowcat.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/shadowcat.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/shadowcat.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/586-shadowcat.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/586-shadowcat.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/586-shadowcat.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/586-shadowcat.jpg"
   }
 }

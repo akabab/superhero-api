@@ -1,6 +1,7 @@
 {
   "id": 728,
   "name": "Ymir",
+  "slug": "728-ymir",
   "powerstats": {
     "intelligence": 50,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 98,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Ymir",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Aurgelmir"
-    ],
-    "placeOfBirth": "Niffleheim",
-    "firstAppearance": "JOURNEY INTO MYSTERY #97",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "White",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "Ymir",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Aurgelmir"
+    ],
+    "placeOfBirth": "Niffleheim",
+    "firstAppearance": "JOURNEY INTO MYSTERY #97",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Niffleheim"
@@ -43,9 +44,9 @@
     "relatives": "Utgard-Loki, Loki, and the race of Frost Giants (descendants)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ymir.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ymir.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ymir.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ymir.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/728-ymir.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/728-ymir.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/728-ymir.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/728-ymir.jpg"
   }
 }

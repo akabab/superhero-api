@@ -1,6 +1,7 @@
 {
   "id": 631,
   "name": "Stardust",
+  "slug": "631-stardust",
   "powerstats": {
     "intelligence": 88,
     "strength": 85,
@@ -8,17 +9,6 @@
     "durability": 110,
     "power": 100,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Entity Lambda-Zero"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Entity Lambda-Zero"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Herald of Galactus",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/stardust.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/stardust.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/stardust.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/stardust.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/631-stardust.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/631-stardust.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/631-stardust.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/631-stardust.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 13,
   "name": "Ajax",
+  "slug": "13-ajax",
   "powerstats": {
     "intelligence": 56,
     "strength": 48,
@@ -8,19 +9,6 @@
     "durability": 80,
     "power": 34,
     "combat": 55
-  },
-  "biography": {
-    "fullName": "Francis",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "\"Frankie\"",
-      "the A-Man",
-      "the Attending"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Deadpool #14 (March, 1998)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Francis",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "\"Frankie\"",
+      "the A-Man",
+      "the Attending"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Deadpool #14 (March, 1998)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -45,9 +46,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/ajax.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/ajax.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/ajax.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/ajax.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/13-ajax.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/13-ajax.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/13-ajax.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/13-ajax.jpg"
   }
 }

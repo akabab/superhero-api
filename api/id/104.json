@@ -1,6 +1,7 @@
 {
   "id": 104,
   "name": "Black Mamba",
+  "slug": "104-black-mamba",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 88,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Tanya Sealy",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Tanya Sweet"
-    ],
-    "placeOfBirth": "Chicago, Illinois",
-    "firstAppearance": "Marvel Two-In-One #64",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Green",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Tanya Sealy",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Tanya Sweet"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "Marvel Two-In-One #64",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Mercenary, professional criminal, former call girl",
     "base": "Mobile, formerly Serpent Citadel"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-mamba.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-mamba.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-mamba.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-mamba.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/104-black-mamba.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/104-black-mamba.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/104-black-mamba.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/104-black-mamba.jpg"
   }
 }

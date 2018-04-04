@@ -1,6 +1,7 @@
 {
   "id": 497,
   "name": "Nova",
+  "slug": "497-nova",
   "powerstats": {
     "intelligence": 63,
     "strength": 60,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 35
-  },
-  "biography": {
-    "fullName": "Frankie Raye",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Frances Hyatt",
-      "Human Torch"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Fantastic Four #164 (November, 1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "White",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Frankie Raye",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Frances Hyatt",
+      "Human Torch"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Fantastic Four #164 (November, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "World-ship of Galactus"
@@ -44,9 +45,9 @@
     "relatives": "\"Thomas Raye\" (Phineas T. Horton, stepfather, deceased), Thomas Raymond (Toro, possible biological father); Lanette Raye (mother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/nova2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/nova2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nova2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/nova2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/497-nova.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/497-nova.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/497-nova.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/497-nova.jpg"
   }
 }

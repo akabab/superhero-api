@@ -1,6 +1,7 @@
 {
   "id": 32,
   "name": "Anti-Monitor",
+  "slug": "32-anti-monitor",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,18 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Monitor",
-      "Mobius"
-    ],
-    "placeOfBirth": "Moon of Qward",
-    "firstAppearance": "Crisis on Infinite Earths #4",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Yellow",
     "hairColor": "No Hair"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Monitor",
+      "Mobius"
+    ],
+    "placeOfBirth": "Moon of Qward",
+    "firstAppearance": "Crisis on Infinite Earths #4",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Qward, Antimatter Universe"
@@ -44,9 +45,9 @@
     "relatives": "Monitor (\"brother\"), The Monitors"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/anti-monitor.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/anti-monitor.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/anti-monitor.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/anti-monitor.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/32-anti-monitor.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/32-anti-monitor.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/32-anti-monitor.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/32-anti-monitor.jpg"
   }
 }

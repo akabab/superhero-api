@@ -1,6 +1,7 @@
 {
   "id": 436,
   "name": "Match",
+  "slug": "436-match",
   "powerstats": {
     "intelligence": 75,
     "strength": 95,
@@ -8,18 +9,6 @@
     "durability": 85,
     "power": 100,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Kent Connor",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Superboy",
-      "Superman"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Black",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Kent Connor",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Superboy",
+      "Superman"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Superboy Vol 4 #35 (January, 1997)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Superman (genetic template via Superboy), Lex Luthor (genetic Template via Superboy), Superboy (genetic template)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/match.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/match.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/match.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/match.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/436-match.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/436-match.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/436-match.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/436-match.jpg"
   }
 }

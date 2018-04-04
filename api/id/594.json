@@ -1,6 +1,7 @@
 {
   "id": 594,
   "name": "Sif",
+  "slug": "594-sif",
   "powerstats": {
     "intelligence": 63,
     "strength": 90,
@@ -8,20 +9,6 @@
     "durability": 80,
     "power": 100,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Sif",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Lady Sif",
-      "Erika Velez",
-      "Mrs. Chambers",
-      "Sybil"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Journey into Mystery #102 (March, 1964)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Sif",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lady Sif",
+      "Erika Velez",
+      "Mrs. Chambers",
+      "Sybil"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Journey into Mystery #102 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "Broxton/Asgard; Formerly New York City"
@@ -46,9 +47,9 @@
     "relatives": "Heimdall (brother)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/sif.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/sif.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/sif.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/sif.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/594-sif.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/594-sif.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/594-sif.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/594-sif.jpg"
   }
 }

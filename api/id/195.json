@@ -1,6 +1,7 @@
 {
   "id": 195,
   "name": "Cyborg Superman",
+  "slug": "195-cyborg-superman",
   "powerstats": {
     "intelligence": 75,
     "strength": 93,
@@ -8,19 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Henry Henshaw",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Grandmaster of the Manhunters",
-      "Herald of the Anti-Monitor",
-      "Alpha-Prime of the Alpha Lanterns"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Adventures of Superman #466 (May, 1990)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Henry Henshaw",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Grandmaster of the Manhunters",
+      "Herald of the Anti-Monitor",
+      "Alpha-Prime of the Alpha Lanterns"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Adventures of Superman #466 (May, 1990)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Warworld, Qward, Antimatter Universe, formerly Biot, Sector 3601"
@@ -45,9 +46,9 @@
     "relatives": "Terri Henshaw (wife, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cyborg-superman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cyborg-superman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cyborg-superman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cyborg-superman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/195-cyborg-superman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/195-cyborg-superman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/195-cyborg-superman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/195-cyborg-superman.jpg"
   }
 }

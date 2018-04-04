@@ -1,6 +1,7 @@
 {
   "id": 496,
   "name": "Nova",
+  "slug": "496-nova",
   "powerstats": {
     "intelligence": 100,
     "strength": 85,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "6'1",
+      "185 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Brown",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Richard Rider",
@@ -26,20 +41,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "6'1",
-      "185 cm"
-    ],
-    "weight": [
-      "190 lb",
-      "86 kg"
-    ],
-    "eyeColor": "Brown",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Superhero, also works parttime at Marvel Burger",
     "base": "Mobile & Xandar, also formerly New Warriors headquarters"
@@ -49,9 +50,9 @@
     "relatives": "Charles Rider (Father), Gloria Rider (Mother), Robbie Rider (Brother) , Ralph Rider (Uncle, deceased) , Ellen (aunt)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/nova.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/nova.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/nova.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/nova.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/496-nova.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/496-nova.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/496-nova.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/496-nova.jpg"
   }
 }

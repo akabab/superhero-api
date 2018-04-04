@@ -1,6 +1,7 @@
 {
   "id": 557,
   "name": "Rick Flag",
+  "slug": "557-rick-flag",
   "powerstats": {
     "intelligence": 88,
     "strength": 11,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 19,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Richard Rogers Flag",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Brave and the Bold #25 (September 1959)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Richard Rogers Flag",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Brave and the Bold #25 (September 1959)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Government Agent, Covert Ops field Commander",
     "base": "Belle Reve, Louisiana"
@@ -43,9 +44,9 @@
     "relatives": "Richard Flag, Sr. (father, deceased); Richard Flag III (son); Karin Grace (mother of child)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/rick-flag.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/rick-flag.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/rick-flag.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/rick-flag.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/557-rick-flag.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/557-rick-flag.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/557-rick-flag.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/557-rick-flag.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 426,
   "name": "Man of Miracles",
+  "slug": "426-man-of-miracles",
   "powerstats": {
     "intelligence": 100,
     "strength": 100,
@@ -8,17 +9,6 @@
     "durability": 100,
     "power": 100,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mother Of Existence"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Spawn #75",
-    "publisher": "Image Comics",
-    "alignment": "-"
   },
   "appearance": {
     "gender": "-",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Silver"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mother Of Existence"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Spawn #75",
+    "publisher": "Image Comics",
+    "alignment": "-"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/man-of-miracles.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/man-of-miracles.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/man-of-miracles.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/man-of-miracles.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/426-man-of-miracles.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/426-man-of-miracles.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/426-man-of-miracles.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/426-man-of-miracles.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 495,
   "name": "Northstar",
+  "slug": "495-northstar",
   "powerstats": {
     "intelligence": 50,
     "strength": 18,
@@ -8,17 +9,6 @@
     "durability": 56,
     "power": 65,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Jean-Paul Beaubier",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jean-Paul Martin"
-    ],
-    "placeOfBirth": "Montreal, Qu?bec, Canada",
-    "firstAppearance": "X-Men #120 (1979)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Jean-Paul Beaubier",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jean-Paul Martin"
+    ],
+    "placeOfBirth": "Montreal, Qu?bec, Canada",
+    "firstAppearance": "X-Men #120 (1979)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former terrorist, adventurer, teacher, businessman, novelist, professional skier, trapeze artist, thief",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Jean-Baptiste Beaubier (father, deceased), unnamed mother (deceased), Louis Martin (adoptive father, deceased), unnamed adoptive mother (deceased), Jeanne-Marie Beaubier (Aurora, sister), Joanne Beaubier (adopted daughter, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/northstar.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/northstar.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/northstar.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/northstar.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/495-northstar.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/495-northstar.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/495-northstar.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/495-northstar.jpg"
   }
 }

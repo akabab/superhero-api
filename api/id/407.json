@@ -1,6 +1,7 @@
 {
   "id": 407,
   "name": "Lightning Lad",
+  "slug": "407-lightning-lad",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 28,
     "power": 60,
     "combat": 42
-  },
-  "biography": {
-    "fullName": "Garth Ranzz",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Lightning Boy",
-      "Live Wire"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Teen Titans/Legion Special #1",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Garth Ranzz",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Lightning Boy",
+      "Live Wire"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Teen Titans/Legion Special #1",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Legionnaire",
     "base": "Earth, 31st century"
@@ -44,9 +45,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/lightning-lad.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/lightning-lad.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/lightning-lad.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/lightning-lad.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/407-lightning-lad.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/407-lightning-lad.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/407-lightning-lad.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/407-lightning-lad.jpg"
   }
 }

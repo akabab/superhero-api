@@ -1,6 +1,7 @@
 {
   "id": 474,
   "name": "Moses Magnum",
+  "slug": "474-moses-magnum",
   "powerstats": {
     "intelligence": 75,
     "strength": 28,
@@ -8,17 +9,6 @@
     "durability": 42,
     "power": 55,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Moses Magnum",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Magnum Force,"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Brown",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Moses Magnum",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Magnum Force,"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Giant-Size Spider-Man #4 (1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Terrorist, president of Magnum Munitions; former ruler of Canaan",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/moses-magnum.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/moses-magnum.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/moses-magnum.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/moses-magnum.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/474-moses-magnum.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/474-moses-magnum.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/474-moses-magnum.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/474-moses-magnum.jpg"
   }
 }

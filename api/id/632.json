@@ -1,6 +1,7 @@
 {
   "id": 632,
   "name": "Starfire",
+  "slug": "632-starfire",
   "powerstats": {
     "intelligence": 50,
     "strength": 80,
@@ -8,19 +9,6 @@
     "durability": 85,
     "power": 59,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "Koriand'r",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Princess Koriand'r",
-      "Kory Anders",
-      "Nova"
-    ],
-    "placeOfBirth": "Tamaran",
-    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -36,6 +24,19 @@
     "eyeColor": "Green",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Koriand'r",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Princess Koriand'r",
+      "Kory Anders",
+      "Nova"
+    ],
+    "placeOfBirth": "Tamaran",
+    "firstAppearance": "DC Comics Presents #26 (October, 1980)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Model",
     "base": "Formerly Titans Island, New York City; Titans Tower, San Francisco"
@@ -45,9 +46,9 @@
     "relatives": "King Myand'r (father), Queen Luand'r (mother), Queen Komand'r (sister, Blackfire), Ryand'r (brother), Prince Karras (husband, deceased), Ph'yzzon (husband, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/starfire.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/starfire.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/starfire.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/starfire.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/632-starfire.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/632-starfire.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/632-starfire.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/632-starfire.jpg"
   }
 }

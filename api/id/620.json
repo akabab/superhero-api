@@ -1,6 +1,7 @@
 {
   "id": 620,
   "name": "Spider-Man",
+  "slug": "620-spider-man",
   "powerstats": {
     "intelligence": 90,
     "strength": 55,
@@ -8,6 +9,20 @@
     "durability": 75,
     "power": 74,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human",
+    "height": [
+      "5'10",
+      "178 cm"
+    ],
+    "weight": [
+      "165 lb",
+      "74 kg"
+    ],
+    "eyeColor": "Hazel",
+    "hairColor": "Brown"
   },
   "biography": {
     "fullName": "Peter Parker",
@@ -34,20 +49,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human",
-    "height": [
-      "5'10",
-      "178 cm"
-    ],
-    "weight": [
-      "165 lb",
-      "74 kg"
-    ],
-    "eyeColor": "Hazel",
-    "hairColor": "Brown"
-  },
   "work": {
     "occupation": "Freelance photographer, teacher",
     "base": "New York, New York"
@@ -57,9 +58,9 @@
     "relatives": "Richard Parker (father, deceased), Mary Parker(mother, deceased), Benjamin Parker (uncle, deceased), May Parker (aunt), Mary Jane Watson-Parker (wife), May Parker (daughter, allegedly deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/spider-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/spider-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/spider-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/spider-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/620-spider-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/620-spider-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/620-spider-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/620-spider-man.jpg"
   }
 }

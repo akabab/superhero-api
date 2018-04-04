@@ -1,6 +1,7 @@
 {
   "id": 335,
   "name": "Husk",
+  "slug": "335-husk",
   "powerstats": {
     "intelligence": 63,
     "strength": 63,
@@ -8,17 +9,6 @@
     "durability": 78,
     "power": 48,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Paige Elisabeth Guthrie",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Hayseed"
-    ],
-    "placeOfBirth": "Cumberland, Kentucky",
-    "firstAppearance": "Rom Annual #3 (November, 1984)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Paige Elisabeth Guthrie",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Hayseed"
+    ],
+    "placeOfBirth": "Cumberland, Kentucky",
+    "firstAppearance": "Rom Annual #3 (November, 1984)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer; formerly student, activist",
     "base": "Base of operations unknown; formerly Xavier Institute, Salem Center, Westchester County, New York"
@@ -43,9 +44,9 @@
     "relatives": "Thomas Zebulon Guthrie (father,deceased),Lucinda Guthrie (mother),Samuel Zachery Guthrie (brother,Cannonball),Joshua 'Jay' Guthrie (brother,Icarus),Joella Guthrie (sister),Elizabeth Guthrie (sister),Melody Guthrie (sister),Jeb Guthrie (brother),Lewis Guth"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/husk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/husk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/husk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/husk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/335-husk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/335-husk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/335-husk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/335-husk.jpg"
   }
 }

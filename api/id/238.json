@@ -1,6 +1,7 @@
 {
   "id": 238,
   "name": "Elektra",
+  "slug": "238-elektra",
   "powerstats": {
     "intelligence": 63,
     "strength": 11,
@@ -8,17 +9,6 @@
     "durability": 28,
     "power": 59,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Elektra Natchios",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Erynys (evil self)"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Daredevil #168",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Elektra Natchios",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Erynys (evil self)"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Daredevil #168",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Assassin, adventurer, mercenary, former student, dancer",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Hugo Kostas Natchios (father, deceased), Christina Natchios (mother, deceased), Orestez Natchios (older brother), Demetrios Natchios (Uncle), Alexia Natchios (Aunt)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/elektra.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/elektra.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/elektra.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/elektra.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/238-elektra.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/238-elektra.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/238-elektra.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/238-elektra.jpg"
   }
 }

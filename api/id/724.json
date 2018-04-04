@@ -1,6 +1,7 @@
 {
   "id": 724,
   "name": "X-Man",
+  "slug": "724-x-man",
   "powerstats": {
     "intelligence": 88,
     "strength": 53,
@@ -8,17 +9,6 @@
     "durability": 95,
     "power": 100,
     "combat": 84
-  },
-  "biography": {
-    "fullName": "Nate Grey",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Nate the Great"
-    ],
-    "placeOfBirth": "American Northeast of Earth-295",
-    "firstAppearance": "X-Man #1 (1995)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Nate Grey",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Nate the Great"
+    ],
+    "placeOfBirth": "American Northeast of Earth-295",
+    "firstAppearance": "X-Man #1 (1995)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Former shaman, adventurer, freedom fighter",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Scott Summers of Earth-295 (Cyclops, genetic template), Jean Grey of Earth-295 (genetic template)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/x-man.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/x-man.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/x-man.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/x-man.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/724-x-man.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/724-x-man.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/724-x-man.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/724-x-man.jpg"
   }
 }

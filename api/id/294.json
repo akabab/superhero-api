@@ -1,6 +1,7 @@
 {
   "id": 294,
   "name": "Gorilla Grodd",
+  "slug": "294-gorilla-grodd",
   "powerstats": {
     "intelligence": 81,
     "strength": 53,
@@ -8,20 +9,6 @@
     "durability": 70,
     "power": 100,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "Grodd",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "William Dawson",
-      "King Grodd",
-      "Gorilla Grodd",
-      "Grodd-Son"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Flash #106 (May, 1959)",
-    "publisher": "DC Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Yellow",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Grodd",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "William Dawson",
+      "King Grodd",
+      "Gorilla Grodd",
+      "Grodd-Son"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Flash #106 (May, 1959)",
+    "publisher": "DC Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "Gorilla City, Africa"
@@ -46,9 +47,9 @@
     "relatives": "Boka (wife, separated), Gorbzil Mammit (son), Sam Simeon (grandson)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/gorilla-grodd.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/gorilla-grodd.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gorilla-grodd.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/gorilla-grodd.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/294-gorilla-grodd.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/294-gorilla-grodd.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/294-gorilla-grodd.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/294-gorilla-grodd.jpg"
   }
 }

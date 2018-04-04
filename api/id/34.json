@@ -1,6 +1,7 @@
 {
   "id": 34,
   "name": "Anti-Venom",
+  "slug": "34-anti-venom",
   "powerstats": {
     "intelligence": 75,
     "strength": 60,
@@ -8,6 +9,20 @@
     "durability": 90,
     "power": 96,
     "combat": 84
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Symbiote",
+    "height": [
+      "7'6",
+      "229 cm"
+    ],
+    "weight": [
+      "795 lb",
+      "358 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Eddie Brock",
@@ -25,20 +40,6 @@
     "publisher": "Toxin",
     "alignment": "-"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Symbiote",
-    "height": [
-      "7'6",
-      "229 cm"
-    ],
-    "weight": [
-      "795 lb",
-      "358 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Vigilante; former journalist for the Daily Globe",
     "base": "New York, New York"
@@ -48,9 +49,9 @@
     "relatives": "Carl Brock (father, estranged), Janine Brock (mother, deceased), Mary Brock (sister), Ann Weying (ex-wife, deceased), Symbiotes' relatives: Toxin Symbiote (current symbiote, former grandson), Venom Symbiote (former symbiote, grandfather, former brother), Agony, Phage, Riot, Lasher (uncles, former sons), Scorn (sister, former niece), Carnage (father, former son), Scream (aunt, former daughter, deceased), Hybrid (uncle, former son, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/anti-venom.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/anti-venom.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/anti-venom.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/anti-venom.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/34-anti-venom.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/34-anti-venom.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/34-anti-venom.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/34-anti-venom.jpg"
   }
 }

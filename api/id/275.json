@@ -1,6 +1,7 @@
 {
   "id": 275,
   "name": "Gamora",
+  "slug": "275-gamora",
   "powerstats": {
     "intelligence": 75,
     "strength": 85,
@@ -8,18 +9,6 @@
     "durability": 85,
     "power": 53,
     "combat": 100
-  },
-  "biography": {
-    "fullName": "Gamora Zen Whoberi Ben Titan",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Deadliest Woman In The Universe",
-      "The Most Dangerous Woman in the Galaxy"
-    ],
-    "placeOfBirth": "Planet Zen Whoberi, Silican System, Milky Way",
-    "firstAppearance": "Strange Tales #180 (June, 1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Yellow",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Gamora Zen Whoberi Ben Titan",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Deadliest Woman In The Universe",
+      "The Most Dangerous Woman in the Galaxy"
+    ],
+    "placeOfBirth": "Planet Zen Whoberi, Silican System, Milky Way",
+    "firstAppearance": "Strange Tales #180 (June, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Assassin, mercenary, adventurer",
     "base": "C.I.T.T.; formerly Godthab Omega, Monster Island, Sanctuary II and the pocket-dimension within the Soul Gem; Earth-7528"
@@ -44,9 +45,9 @@
     "relatives": "Thanos (foster father), Thane (foster brother), Unnamed former Symbiote"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/gamora.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/gamora.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/gamora.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/gamora.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/275-gamora.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/275-gamora.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/275-gamora.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/275-gamora.jpg"
   }
 }

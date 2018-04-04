@@ -1,6 +1,7 @@
 {
   "id": 458,
   "name": "Mister Knife",
+  "slug": "458-mister-knife",
   "powerstats": {
     "intelligence": 75,
     "strength": 10,
@@ -8,20 +9,6 @@
     "durability": 30,
     "power": 13,
     "combat": 65
-  },
-  "biography": {
-    "fullName": "J'son",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Jason of Spartax",
-      "Jason of Sparta",
-      "Star-Lord",
-      "Mr Knife"
-    ],
-    "placeOfBirth": "Spartax, Spartoi Empire, near the Shi'ar Galaxy",
-    "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "J'son",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Jason of Spartax",
+      "Jason of Sparta",
+      "Star-Lord",
+      "Mr Knife"
+    ],
+    "placeOfBirth": "Spartax, Spartoi Empire, near the Shi'ar Galaxy",
+    "firstAppearance": "Inhumans Vol 3 #2 (July, 2000)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "Crimelord; former emperor, prince",
     "base": "Formerly Spartax, Spartoi Empire, near the Shi'ar Galaxy"
@@ -46,9 +47,9 @@
     "relatives": "Eson (father, deceased), Peter Quill (Star-Lord, son), Victoria (daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/mister-knife.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/mister-knife.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/mister-knife.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/mister-knife.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/458-mister-knife.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/458-mister-knife.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/458-mister-knife.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/458-mister-knife.jpg"
   }
 }

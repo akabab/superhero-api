@@ -1,6 +1,7 @@
 {
   "id": 210,
   "name": "Data",
+  "slug": "210-data",
   "powerstats": {
     "intelligence": 100,
     "strength": 32,
@@ -8,17 +9,6 @@
     "durability": 40,
     "power": 56,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Data",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "B-4"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Star Trek",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Yellow",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Data",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "B-4"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Star Trek",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Lieutenant commander",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Dr. Noonian Soong (creator)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/data.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/data.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/data.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/data.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/210-data.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/210-data.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/210-data.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/210-data.jpg"
   }
 }

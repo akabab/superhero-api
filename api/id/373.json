@@ -1,6 +1,7 @@
 {
   "id": 373,
   "name": "Judge Dredd",
+  "slug": "373-judge-dredd",
   "powerstats": {
     "intelligence": 75,
     "strength": 18,
@@ -8,18 +9,6 @@
     "durability": 50,
     "power": 52,
     "combat": 95
-  },
-  "biography": {
-    "fullName": "Joseph Dredd",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Dead Man",
-      "Joe"
-    ],
-    "placeOfBirth": "Mega City One",
-    "firstAppearance": "2000 AD no. 2 (5 March 1977)",
-    "publisher": "Rebellion",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Joseph Dredd",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Dead Man",
+      "Joe"
+    ],
+    "placeOfBirth": "Mega City One",
+    "firstAppearance": "2000 AD no. 2 (5 March 1977)",
+    "publisher": "Rebellion",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Mega-City Judge",
     "base": "Mega City One"
@@ -44,9 +45,9 @@
     "relatives": "Rico Dredd (brother), Judge Kraken (clone), Vienna (niece),"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/judge-dredd.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/judge-dredd.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/judge-dredd.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/judge-dredd.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/373-judge-dredd.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/373-judge-dredd.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/373-judge-dredd.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/373-judge-dredd.jpg"
   }
 }

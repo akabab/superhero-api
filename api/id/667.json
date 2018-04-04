@@ -1,6 +1,7 @@
 {
   "id": 667,
   "name": "Tigra",
+  "slug": "667-tigra",
   "powerstats": {
     "intelligence": 63,
     "strength": 32,
@@ -8,18 +9,6 @@
     "durability": 38,
     "power": 33,
     "combat": 90
-  },
-  "biography": {
-    "fullName": "Greer Grant Nelson",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Cat",
-      "Greer Sorenson"
-    ],
-    "placeOfBirth": "Presumably Chicago Illinois USA",
-    "firstAppearance": "The Cat #1",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -35,6 +24,18 @@
     "eyeColor": "Green",
     "hairColor": "Auburn"
   },
+  "biography": {
+    "fullName": "Greer Grant Nelson",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Cat",
+      "Greer Sorenson"
+    ],
+    "placeOfBirth": "Presumably Chicago Illinois USA",
+    "firstAppearance": "The Cat #1",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Laboratory assistant, model, adventurer, NYC police",
     "base": "New York City, New York USA"
@@ -44,9 +45,9 @@
     "relatives": "Mr. Grant (father), Mrs. Grant (mother, deceased), William Nelson (husband, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/tigra.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/tigra.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/tigra.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/tigra.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/667-tigra.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/667-tigra.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/667-tigra.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/667-tigra.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 145,
   "name": "Cable",
+  "slug": "145-cable",
   "powerstats": {
     "intelligence": 88,
     "strength": 48,
@@ -8,6 +9,20 @@
     "durability": 56,
     "power": 100,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'8",
+      "203 cm"
+    ],
+    "weight": [
+      "350 lb",
+      "158 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
   },
   "biography": {
     "fullName": "Nathan Summers",
@@ -27,20 +42,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "6'8",
-      "203 cm"
-    ],
-    "weight": [
-      "350 lb",
-      "158 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "White"
-  },
   "work": {
     "occupation": "(current) Adventurer, (former) freedom fighter, United States government agent, mercenary, combat instructor for X-Force",
     "base": "The Xavier Institute, Salem Center, Westchester County, New York"
@@ -50,9 +51,9 @@
     "relatives": "Scott Summers (Cyclops, father), Madelyne Pryor-Summers (Goblin Queen, mother, deceased), Jean Grey (Phoenix, stepmother), Alexander Summers (Havok, uncle), Christopher Summers (Corsair, paternal grandfather), Katherine Anne Summers (paternal grandmother, deceased), Philip Summers (great-grandfather), Deborah Summers (great-grandmother), Jenskot (Aliya, wife, deceased), Tyler (Genesis, son, deceased), Stryfe (clone, deceased), Gabriel Summers (Vulcan, uncle)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/cable.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/cable.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/cable.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/cable.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/145-cable.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/145-cable.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/145-cable.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/145-cable.jpg"
   }
 }

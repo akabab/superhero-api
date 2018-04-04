@@ -1,6 +1,7 @@
 {
   "id": 498,
   "name": "Odin",
+  "slug": "498-odin",
   "powerstats": {
     "intelligence": 100,
     "strength": 83,
@@ -8,6 +9,20 @@
     "durability": 95,
     "power": 100,
     "combat": 90
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "God / Eternal",
+    "height": [
+      "6'9",
+      "206 cm"
+    ],
+    "weight": [
+      "650 lb",
+      "293 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "White"
   },
   "biography": {
     "fullName": "Odin Borson",
@@ -27,20 +42,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "God / Eternal",
-    "height": [
-      "6'9",
-      "206 cm"
-    ],
-    "weight": [
-      "650 lb",
-      "293 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "White"
-  },
   "work": {
     "occupation": "Deity, Monarch of Asgard, Asgardian God of the Sky, Wind, Wisdom, Crafts, Time, and the Dead, Warrior",
     "base": "City of Asgard, Asgard"
@@ -50,9 +51,9 @@
     "relatives": "Buri (Tiwaz) (paternal grandfather), Bolthorn (maternal grandfather), Bor Burison (father, deceased), Bestla (mother), Mimir Burison (paternal uncle), Njord (paternal uncle), Vili, Ve, Cul (brothers), Frigga (wife), Freyr (father-in-law), Gullveig (sister-in-law), Thor (son by Jord), Vidar (son by Grid), Balder (son by Frigga), Tyr, Hermod (allegedly sons by Frigga), Angela (daughter by Frigga), Laussa (daughter by Frigga and Surtur), Loki (foster son), Hoder (nephew), Skadi (niece)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/odin.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/odin.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/odin.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/odin.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/498-odin.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/498-odin.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/498-odin.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/498-odin.jpg"
   }
 }

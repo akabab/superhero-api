@@ -1,6 +1,7 @@
 {
   "id": 423,
   "name": "Magneto",
+  "slug": "423-magneto",
   "powerstats": {
     "intelligence": 88,
     "strength": 80,
@@ -8,6 +9,20 @@
     "durability": 84,
     "power": 91,
     "combat": 80
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Mutant",
+    "height": [
+      "6'2",
+      "188 cm"
+    ],
+    "weight": [
+      "190 lb",
+      "86 kg"
+    ],
+    "eyeColor": "Grey",
+    "hairColor": "White"
   },
   "biography": {
     "fullName": "Erik Magnus Lensherr",
@@ -24,20 +39,6 @@
     "publisher": "Marvel Comics",
     "alignment": "bad"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Mutant",
-    "height": [
-      "6'2",
-      "188 cm"
-    ],
-    "weight": [
-      "190 lb",
-      "86 kg"
-    ],
-    "eyeColor": "Grey",
-    "hairColor": "White"
-  },
   "work": {
     "occupation": "Currently Revolutionary and Conqueror, formerly Volunteer Orderly, Secret Agent",
     "base": "Currently unrevealed, formerly Asteroid M; various hidden bases on Earth including one in Antarctica; an island in the Bermuda Triangle; Professor Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York"
@@ -47,9 +48,9 @@
     "relatives": "Magda (wife, deceased), Anya (daughter, deceased), Pietro Maximoff (Quicksilver, son), Wanda Maximoff (Scarlet Witch, daughter), Lorna Dane (Polaris, daughter), Joseph (clone, deceased), Luna (granddaughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/magneto.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/magneto.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/magneto.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/magneto.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/423-magneto.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/423-magneto.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/423-magneto.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/423-magneto.jpg"
   }
 }

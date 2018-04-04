@@ -1,6 +1,7 @@
 {
   "id": 332,
   "name": "Hulk",
+  "slug": "332-hulk",
   "powerstats": {
     "intelligence": 88,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 98,
     "combat": 85
+  },
+  "appearance": {
+    "gender": "Male",
+    "race": "Human / Radiation",
+    "height": [
+      "8'0",
+      "244 cm"
+    ],
+    "weight": [
+      "1400 lb",
+      "630 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Green"
   },
   "biography": {
     "fullName": "Bruce Banner",
@@ -27,20 +42,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Male",
-    "race": "Human / Radiation",
-    "height": [
-      "8'0",
-      "244 cm"
-    ],
-    "weight": [
-      "1400 lb",
-      "630 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Green"
-  },
   "work": {
     "occupation": "Nuclear physicist, Agent of S.H.I.E.L.D.",
     "base": "(Banner) Hulkbuster Base, New Mexico, (Hulk) mobile, but prefers New Mexico"
@@ -50,9 +51,9 @@
     "relatives": "Betty Ross Talbot Banner (wife), Brian Banner (father, apparently deceased), Rebecca Banner (mother, deceased), Morris Walters (uncle), Elaine Banner Walters (aunt, deceased), Jennifer Walters (She-Hulk, cousin), Thaddeus E. 'Thunderbolt' Ross (father"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/hulk.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/hulk.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/hulk.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/hulk.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/332-hulk.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/332-hulk.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/332-hulk.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/332-hulk.jpg"
   }
 }

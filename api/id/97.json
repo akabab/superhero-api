@@ -1,6 +1,7 @@
 {
   "id": 97,
   "name": "Black Canary",
+  "slug": "97-black-canary",
   "powerstats": {
     "intelligence": 63,
     "strength": 8,
@@ -8,17 +9,6 @@
     "durability": 20,
     "power": 52,
     "combat": 80
-  },
-  "biography": {
-    "fullName": "Laurel Lance",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Justice League of America (Volume 1) #75",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Female",
@@ -34,6 +24,17 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Laurel Lance",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Justice League of America (Volume 1) #75",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Detective/Crime-fighter, Chairperson of the Justice League of America; former florist, judo instructor",
     "base": "Formerly Oracle's clock tower in Gotham City; formerly Seattle, Washington; formerly Star City, California; formerly New York City, New York (as a member of the JSA); currently mobile"
@@ -43,9 +44,9 @@
     "relatives": "Larry Lance (father, deceased), Dinah Drake Lance (Black Canary, mother, deceased); Oliver Queen (Green Arrow, husband); Craig Windrow (ex-husband); Sin (adoptive daughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/black-canary-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/black-canary-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/black-canary-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/black-canary-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/97-black-canary.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/97-black-canary.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/97-black-canary.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/97-black-canary.jpg"
   }
 }

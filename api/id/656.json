@@ -1,6 +1,7 @@
 {
   "id": 656,
   "name": "The Cape",
+  "slug": "656-the-cape",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,17 +9,6 @@
     "durability": 32,
     "power": 22,
     "combat": 64
-  },
-  "biography": {
-    "fullName": "Vince Faraday",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Cape"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "The Cape S01E01 (2011)",
-    "publisher": null,
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Vince Faraday",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Cape"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "The Cape S01E01 (2011)",
+    "publisher": null,
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Trip Faraday (son), Dana Thompson-Faraday (wife)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/the-cape.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/the-cape.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/the-cape.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/the-cape.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/656-the-cape.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/656-the-cape.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/656-the-cape.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/656-the-cape.jpg"
   }
 }

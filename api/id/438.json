@@ -1,6 +1,7 @@
 {
   "id": 438,
   "name": "Maverick",
+  "slug": "438-maverick",
   "powerstats": {
     "intelligence": 63,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 42,
     "power": 60,
     "combat": 85
-  },
-  "biography": {
-    "fullName": "Christopher Bradley",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Chris",
-      "Bolt"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "X-Men Unlimited #8 (1995)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Christopher Bradley",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Chris",
+      "Bolt"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "X-Men Unlimited #8 (1995)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Mercenary; former adventurer, student",
     "base": "-"
@@ -44,9 +45,9 @@
     "relatives": "Robert Bradley (Frank Johnson, father), Marion Bradley (Rose Johnson, mother), Catherine Bradley (Jennifer Johnson, sister)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/maverick.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/maverick.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/maverick.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/maverick.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/438-maverick.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/438-maverick.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/438-maverick.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/438-maverick.jpg"
   }
 }

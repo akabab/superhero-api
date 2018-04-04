@@ -1,6 +1,7 @@
 {
   "id": 8,
   "name": "Adam Strange",
+  "slug": "8-adam-strange",
   "powerstats": {
     "intelligence": 69,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 40,
     "power": 37,
     "combat": 50
-  },
-  "biography": {
-    "fullName": "Adam Strange",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Warrior of Two Worlds",
-      "Savior of Rann"
-    ],
-    "placeOfBirth": "Chicago, Illinois",
-    "firstAppearance": "Outsiders #6 (April, 1986)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Adam Strange",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Warrior of Two Worlds",
+      "Savior of Rann"
+    ],
+    "placeOfBirth": "Chicago, Illinois",
+    "firstAppearance": "Outsiders #6 (April, 1986)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, archaelogist, ambassador",
     "base": "Rann, Alpha Centauri System"
@@ -44,9 +45,9 @@
     "relatives": "Alanna Strange (wife); Aleea Strange (daughter); Sardath (father-in-law); Janey Strange (sister); Todd Strange (brother, deceased); Bantteir (mother-in-law); Adam Strange II (descendent)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/adam-strange.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/adam-strange.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/adam-strange.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/adam-strange.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/8-adam-strange.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/8-adam-strange.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/8-adam-strange.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/8-adam-strange.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 203,
   "name": "Darkman",
+  "slug": "203-darkman",
   "powerstats": {
     "intelligence": 75,
     "strength": 14,
@@ -8,17 +9,6 @@
     "durability": 85,
     "power": 12,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Peyton Westlake",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Darkman (August 24, 1990)",
-    "publisher": "Universal Studios",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Peyton Westlake",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Darkman (August 24, 1990)",
+    "publisher": "Universal Studios",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Scientist",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "Julie Hastings (girlfriend)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/darkman.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/darkman.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/darkman.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/darkman.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/203-darkman.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/203-darkman.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/203-darkman.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/203-darkman.jpg"
   }
 }

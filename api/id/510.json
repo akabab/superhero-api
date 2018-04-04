@@ -1,6 +1,7 @@
 {
   "id": 510,
   "name": "Paul Blart",
+  "slug": "510-paul-blart",
   "powerstats": {
     "intelligence": 8,
     "strength": 11,
@@ -8,17 +9,6 @@
     "durability": 50,
     "power": 7,
     "combat": 5
-  },
-  "biography": {
-    "fullName": "Paul Blart",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Mall Cop"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "Sony Pictures",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "Paul Blart",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Mall Cop"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "Sony Pictures",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/paul-blart.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/paul-blart.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/paul-blart.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/paul-blart.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/510-paul-blart.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/510-paul-blart.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/510-paul-blart.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/510-paul-blart.jpg"
   }
 }

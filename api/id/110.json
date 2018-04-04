@@ -1,6 +1,7 @@
 {
   "id": 110,
   "name": "Blackwing",
+  "slug": "110-blackwing",
   "powerstats": {
     "intelligence": 38,
     "strength": 10,
@@ -8,20 +9,6 @@
     "durability": 32,
     "power": 20,
     "combat": 56
-  },
-  "biography": {
-    "fullName": "Joseph Manfredi",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Blackwing",
-      "Joe Manfredi",
-      "Joe Silvermane",
-      "Guiseppi Manfredi"
-    ],
-    "placeOfBirth": "Professional Criminal",
-    "firstAppearance": "Daredevil #118 (February, 1975)",
-    "publisher": "Marvel Comics",
-    "alignment": "bad"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Black"
   },
+  "biography": {
+    "fullName": "Joseph Manfredi",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Blackwing",
+      "Joe Manfredi",
+      "Joe Silvermane",
+      "Guiseppi Manfredi"
+    ],
+    "placeOfBirth": "Professional Criminal",
+    "firstAppearance": "Daredevil #118 (February, 1975)",
+    "publisher": "Marvel Comics",
+    "alignment": "bad"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -46,9 +47,9 @@
     "relatives": "Silvio Manfredi (Silvermane, father), Caterina Manfredi (mother, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/blackwing.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/blackwing.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/blackwing.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/blackwing.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/110-blackwing.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/110-blackwing.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/110-blackwing.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/110-blackwing.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 177,
   "name": "Citizen Steel",
+  "slug": "177-citizen-steel",
   "powerstats": {
     "intelligence": 50,
     "strength": 95,
@@ -8,19 +9,6 @@
     "durability": 100,
     "power": 23,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Nathan Heywood",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "Buckeye",
-      "Uncle Nate",
-      "Uncle Nathan"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
-    "publisher": "DC Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -36,6 +24,19 @@
     "eyeColor": "Green",
     "hairColor": "Red"
   },
+  "biography": {
+    "fullName": "Nathan Heywood",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "Buckeye",
+      "Uncle Nate",
+      "Uncle Nathan"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Justice Society of America Vol 3 #2 (March, 2007)",
+    "publisher": "DC Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Adventurer, former Professional Football Player",
     "base": "Battery Park, New York City, formerly Franklin County, Ohio"
@@ -45,9 +46,9 @@
     "relatives": "Hank Heywood, Sr. (Commander Steel, grandfather, deceased) ? Hank Heywood, Jr. (uncle, deceased) ? Hank Heywood III (Steel, cousin, deceased) ? Kirk Heywood (brother, deceased), Nicole (cousin)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/citizen-steel.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/citizen-steel.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/citizen-steel.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/citizen-steel.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/177-citizen-steel.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/177-citizen-steel.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/177-citizen-steel.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/177-citizen-steel.jpg"
   }
 }

@@ -1,6 +1,7 @@
 {
   "id": 265,
   "name": "Flash II",
+  "slug": "265-flash-ii",
   "powerstats": {
     "intelligence": 88,
     "strength": 48,
@@ -8,20 +9,6 @@
     "durability": 60,
     "power": 100,
     "combat": 60
-  },
-  "biography": {
-    "fullName": "Barry Allen",
-    "alterEgos": "Black Racer",
-    "aliases": [
-      "The Scarlet Speedster",
-      "the Fastest Man Alive",
-      "the Monarch of Motion",
-      "the Sultan of Speed"
-    ],
-    "placeOfBirth": "Fallville, Iowa",
-    "firstAppearance": "Showcase #4 (October, 1956)",
-    "publisher": "Black Racer",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -37,6 +24,20 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "Barry Allen",
+    "alterEgos": "Black Racer",
+    "aliases": [
+      "The Scarlet Speedster",
+      "the Fastest Man Alive",
+      "the Monarch of Motion",
+      "the Sultan of Speed"
+    ],
+    "placeOfBirth": "Fallville, Iowa",
+    "firstAppearance": "Showcase #4 (October, 1956)",
+    "publisher": "Black Racer",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "Forensic Scientist",
     "base": "Central City, Missouri"
@@ -46,9 +47,9 @@
     "relatives": "Henry and Nora (parents), Malcolm Thawne (twin), Iris West Allen (wife), Wally West (Flash III, nephew), Don and Dawn Allen (son and daughter), Bart Allen (Flash IV, grandson), Jenni Ognats (granddaughter)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/flash-2.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/flash-2.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/flash-2.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/flash-2.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/265-flash-ii.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/265-flash-ii.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/265-flash-ii.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/265-flash-ii.jpg"
   }
 }

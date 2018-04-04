@@ -1,6 +1,7 @@
 {
   "id": 643,
   "name": "Supergirl",
+  "slug": "643-supergirl",
   "powerstats": {
     "intelligence": 94,
     "strength": 100,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 100,
     "combat": 75
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Kryptonian",
+    "height": [
+      "5'5",
+      "165 cm"
+    ],
+    "weight": [
+      "120 lb",
+      "54 kg"
+    ],
+    "eyeColor": "Blue",
+    "hairColor": "Blond"
   },
   "biography": {
     "fullName": "Kara Zor-El",
@@ -31,20 +46,6 @@
     "publisher": "DC Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Kryptonian",
-    "height": [
-      "5'5",
-      "165 cm"
-    ],
-    "weight": [
-      "120 lb",
-      "54 kg"
-    ],
-    "eyeColor": "Blue",
-    "hairColor": "Blond"
-  },
   "work": {
     "occupation": "Intern, Adventurer, Student, Crime-Fighter",
     "base": "Metropolis"
@@ -54,9 +55,9 @@
     "relatives": "Zor-El (father), Allura In-Ze (mother), Jor-El II (uncle, deceased), Lara Lor-Van (aunt, deceased), Kal-El (Superman,Clark Kent, cousin), Lois Lane (cousin-in-law), Jonathan Kent (adopted uncle), Martha Kent (adopted aunt), Kon-El (Superboy, Conner Kent, clone cousin, deceased), Nim-El (uncle), Dondra Klu-Ta (aunt), Don-El (cousin), Jor-El I (praternal grandfather, deceased), Nimda An-Dor (paternal grandmother, deceased), Lar-Van (maternal grandfather, deceased), Lara Rok-Var (maternal grandmother, deceased), Val-El, Sul-El, Tala-El, Hatu-El, Gam-El (ancestors, deceased)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/supergirl.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/supergirl.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/supergirl.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/supergirl.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/643-supergirl.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/643-supergirl.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/643-supergirl.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/643-supergirl.jpg"
   }
 }

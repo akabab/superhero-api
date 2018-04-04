@@ -1,6 +1,7 @@
 {
   "id": 415,
   "name": "Longshot",
+  "slug": "415-longshot",
   "powerstats": {
     "intelligence": 50,
     "strength": 10,
@@ -8,18 +9,6 @@
     "durability": 10,
     "power": 71,
     "combat": 70
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Lost Messiah",
-      "The Lucky One"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "Longshot #1 (September, 1985)",
-    "publisher": "Marvel Comics",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -35,6 +24,18 @@
     "eyeColor": "Blue",
     "hairColor": "Blond"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Lost Messiah",
+      "The Lucky One"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "Longshot #1 (September, 1985)",
+    "publisher": "Marvel Comics",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "freedom fighter, stuntman rebel, adventurer",
     "base": "X-Factor Investigations Headquarters, New York City, New York; formerly Detroit, Michigan; mobile; Xavier's School for Gifted Youngsters, Salem Center, Westchester County, New York; Mojoverse; Cooterman's Creek, Australian Outback, Australia; Alcatraz I"
@@ -44,9 +45,9 @@
     "relatives": "Arize (creator), Alison Blaire (Dazzler) (wife), Gaveedra Seven (Shatterstar) (alleged son)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/longshot.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/longshot.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/longshot.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/longshot.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/415-longshot.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/415-longshot.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/415-longshot.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/415-longshot.jpg"
   }
 }

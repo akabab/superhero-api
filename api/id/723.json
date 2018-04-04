@@ -1,6 +1,7 @@
 {
   "id": 723,
   "name": "X-23",
+  "slug": "723-x-23",
   "powerstats": {
     "intelligence": 75,
     "strength": 24,
@@ -8,6 +9,20 @@
     "durability": 100,
     "power": 55,
     "combat": 95
+  },
+  "appearance": {
+    "gender": "Female",
+    "race": "Mutant / Clone",
+    "height": [
+      "5'1",
+      "155 cm"
+    ],
+    "weight": [
+      "110 lb",
+      "50 kg"
+    ],
+    "eyeColor": "Green",
+    "hairColor": "Black"
   },
   "biography": {
     "fullName": "Laura Kinney",
@@ -25,20 +40,6 @@
     "publisher": "Marvel Comics",
     "alignment": "good"
   },
-  "appearance": {
-    "gender": "Female",
-    "race": "Mutant / Clone",
-    "height": [
-      "5'1",
-      "155 cm"
-    ],
-    "weight": [
-      "110 lb",
-      "50 kg"
-    ],
-    "eyeColor": "Green",
-    "hairColor": "Black"
-  },
   "work": {
     "occupation": "Adventurer, Student, former; Assassin, Prostitute",
     "base": "Mobile. Formerly Avengers Mansion, New York City and Avengers Compound"
@@ -48,9 +49,9 @@
     "relatives": "Sarah Kinney (surrogate mother, deceased), James Howlett (Wolverine, genetic progenitor)"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/x-23.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/x-23.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/x-23.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/x-23.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/723-x-23.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/723-x-23.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/723-x-23.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/723-x-23.jpg"
   }
 }

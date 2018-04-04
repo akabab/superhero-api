@@ -1,6 +1,7 @@
 {
   "id": 84,
   "name": "Bill Harken",
+  "slug": "84-bill-harken",
   "powerstats": {
     "intelligence": 63,
     "strength": 36,
@@ -8,17 +9,6 @@
     "durability": 60,
     "power": 27,
     "combat": 40
-  },
-  "biography": {
-    "fullName": "",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "-"
-    ],
-    "placeOfBirth": "-",
-    "firstAppearance": "-",
-    "publisher": "SyFy",
-    "alignment": "good"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "-",
     "hairColor": "-"
   },
+  "biography": {
+    "fullName": "",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "-"
+    ],
+    "placeOfBirth": "-",
+    "firstAppearance": "-",
+    "publisher": "SyFy",
+    "alignment": "good"
+  },
   "work": {
     "occupation": "-",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/bill-harken.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/bill-harken.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/bill-harken.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/bill-harken.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/84-bill-harken.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/84-bill-harken.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/84-bill-harken.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/84-bill-harken.jpg"
   }
 }

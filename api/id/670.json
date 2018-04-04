@@ -1,6 +1,7 @@
 {
   "id": 670,
   "name": "Toad",
+  "slug": "670-toad",
   "powerstats": {
     "intelligence": 50,
     "strength": 34,
@@ -8,17 +9,6 @@
     "durability": 56,
     "power": 70,
     "combat": 28
-  },
-  "biography": {
-    "fullName": "Mortimer Toynbee",
-    "alterEgos": "No alter egos found.",
-    "aliases": [
-      "The Terrible Toad-King"
-    ],
-    "placeOfBirth": "York, England",
-    "firstAppearance": "X-Men #4 (March, 1964)",
-    "publisher": "Marvel Comics",
-    "alignment": "neutral"
   },
   "appearance": {
     "gender": "Male",
@@ -34,6 +24,17 @@
     "eyeColor": "Black",
     "hairColor": "Brown"
   },
+  "biography": {
+    "fullName": "Mortimer Toynbee",
+    "alterEgos": "No alter egos found.",
+    "aliases": [
+      "The Terrible Toad-King"
+    ],
+    "placeOfBirth": "York, England",
+    "firstAppearance": "X-Men #4 (March, 1964)",
+    "publisher": "Marvel Comics",
+    "alignment": "neutral"
+  },
   "work": {
     "occupation": "Former criminal",
     "base": "-"
@@ -43,9 +44,9 @@
     "relatives": "-"
   },
   "images": {
-    "small": "https://akabab.github.io/superhero-api/api/images/sm/toad.jpg",
-    "medium": "https://akabab.github.io/superhero-api/api/images/md/toad.jpg",
-    "large": "https://akabab.github.io/superhero-api/api/images/lg/toad.jpg",
-    "thumb": "https://akabab.github.io/superhero-api/api/images/thumbs/toad.jpg"
+    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/xs/670-toad.jpg",
+    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/sm/670-toad.jpg",
+    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/md/670-toad.jpg",
+    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.1.1/api/images/lg/670-toad.jpg"
   }
 }
