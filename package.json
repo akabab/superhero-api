@@ -11,7 +11,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node builder",
-    "release": "node builder && git add . && git commit -m \"Release version $npm_package_version\" && git tag -a $npm_package_version -m \"Version $npm_package_version\" && git push --follow-tags"
+    "build-version": "node builder && git add . && git commit -m \"Release version $npm_package_version\"",
+    "tag-version": "git tag -a $npm_package_version -m \"Version $npm_package_version\"",
+    "release": "npm run build-version && npm run tag-version && git push --follow-tags"
   },
   "repository": {
     "type": "git",
