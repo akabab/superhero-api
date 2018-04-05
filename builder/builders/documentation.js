@@ -87,16 +87,16 @@ ${JSON.stringify(heroes[0].work, null, 2)}
 GET superhero image
 
 - Thumb (~32x48)
-[\`/images/xs/a-bomb.jpg\`](${cdnBaseUrl}/images/xs/a-bomb.jpg)
+[\`/images/xs/1-a-bomb.jpg\`](${cdnBaseUrl}/images/xs/1-a-bomb.jpg)
 
 - Small (~160x240)
-[\`/images/sm/a-bomb.jpg\`](${cdnBaseUrl}/images/sm/a-bomb.jpg)
+[\`/images/sm/1-a-bomb.jpg\`](${cdnBaseUrl}/images/sm/1-a-bomb.jpg)
 
 - Medium (~320x480)
-[\`/images/md/a-bomb.jpg\`](${cdnBaseUrl}/images/md/a-bomb.jpg)
+[\`/images/md/1-a-bomb.jpg\`](${cdnBaseUrl}/images/md/1-a-bomb.jpg)
 
 - Large (~480x640)
-[\`/images/lg/a-bomb.jpg\`](${cdnBaseUrl}/images/lg/a-bomb.jpg)
+[\`/images/lg/1-a-bomb.jpg\`](${cdnBaseUrl}/images/lg/1-a-bomb.jpg)
 `
 
 module.exports = { documentation }

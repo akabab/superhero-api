@@ -174,13 +174,13 @@ eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/work/
 GET superhero image
 
 - Thumb (~32x48)
-[`/images/xs/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/a-bomb.jpg)
+[`/images/xs/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/1-a-bomb.jpg)
 
 - Small (~160x240)
-[`/images/sm/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/a-bomb.jpg)
+[`/images/sm/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/1-a-bomb.jpg)
 
 - Medium (~320x480)
-[`/images/md/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/a-bomb.jpg)
+[`/images/md/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/1-a-bomb.jpg)
 
 - Large (~480x640)
-[`/images/lg/a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/a-bomb.jpg)
+[`/images/lg/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/1-a-bomb.jpg)
