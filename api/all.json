@@ -21888,7 +21888,7 @@
   {
     "id": 538,
     "name": "Ra's Al Ghul",
-    "slug": "538-ra's-al-ghul",
+    "slug": "538-ras-al-ghul",
     "powerstats": {
       "intelligence": 100,
       "strength": 28,
@@ -21931,10 +21931,10 @@
       "relatives": "The Sensei (father), White Ghost (Dusan al Ghul) (son), Talia al Ghul (daughter), Nyssa Raatko (daughter), Robin V (Damian Wayne) (grandson)"
     },
     "images": {
-      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/538-ra's-al-ghul.jpg",
-      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/538-ra's-al-ghul.jpg",
-      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/538-ra's-al-ghul.jpg",
-      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/538-ra's-al-ghul.jpg"
+      "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/538-ras-al-ghul.jpg",
+      "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/538-ras-al-ghul.jpg",
+      "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/538-ras-al-ghul.jpg",
+      "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/538-ras-al-ghul.jpg"
     }
   },
   {
