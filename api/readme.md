@@ -11,7 +11,7 @@ Multiple universes superheroes open-source REST API
 
 or cached CDN (faster)
 
-`https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api`
+`https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api`
 
 
 ### [routes](#routes-1)
@@ -32,12 +32,12 @@ or cached CDN (faster)
 ##### `/all.json`
 GET all superheroes in a single JSON file
 
-eg. [`/all.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/all.json)
+eg. [`/all.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/all.json)
 
 ##### `/id`
 GET superhero complete informations by id
 
-eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/id/1.json)
+eg. [`/id/1.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/id/1.json)
 ```json
 {
   "id": 1,
@@ -85,10 +85,10 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/id/1.js
     "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/1-a-bomb.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/1-a-bomb.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/1-a-bomb.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/1-a-bomb.jpg"
+    "xs": "https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/xs/1-a-bomb.jpg",
+    "sm": "https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/sm/1-a-bomb.jpg",
+    "md": "https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/md/1-a-bomb.jpg",
+    "lg": "https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/lg/1-a-bomb.jpg"
   }
 }
 ```
@@ -96,7 +96,7 @@ eg. [`/id/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/id/1.js
 ##### `/powerstats`
 GET superhero powerstats by id
 
-eg. [`/powerstats/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/powerstats/1.json)
+eg. [`/powerstats/1.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/powerstats/1.json)
 ```json
 {
   "intelligence": 38,
@@ -111,7 +111,7 @@ eg. [`/powerstats/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api
 ##### `/appearance`
 GET superhero appearance by id
 
-eg. [`/appearance/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/appearance/1.json)
+eg. [`/appearance/1.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/appearance/1.json)
 ```json
 {
   "gender": "Male",
@@ -132,7 +132,7 @@ eg. [`/appearance/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api
 ##### `/biography`
 GET superhero biography by id
 
-eg. [`/biography/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/biography/1.json)
+eg. [`/biography/1.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/biography/1.json)
 ```json
 {
   "fullName": "Richard Milhouse Jones",
@@ -150,7 +150,7 @@ eg. [`/biography/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/
 ##### `/connections`
 GET superhero connections by id
 
-eg. [`/connections/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/connections/1.json)
+eg. [`/connections/1.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/connections/1.json)
 ```json
 {
   "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
@@ -161,7 +161,7 @@ eg. [`/connections/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/ap
 ##### `/work`
 GET superhero work by id
 
-eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/work/1.json)
+eg. [`/work/1.json`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/work/1.json)
 ```json
 {
   "occupation": "Musician, adventurer, author; formerly talk show host",
@@ -174,13 +174,13 @@ eg. [`/work/1.json`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/work/
 GET superhero image
 
 - Thumb (~32x48)
-[`/images/xs/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/1-a-bomb.jpg)
+[`/images/xs/1-a-bomb.jpg`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/xs/1-a-bomb.jpg)
 
 - Small (~160x240)
-[`/images/sm/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/1-a-bomb.jpg)
+[`/images/sm/1-a-bomb.jpg`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/sm/1-a-bomb.jpg)
 
 - Medium (~320x480)
-[`/images/md/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/1-a-bomb.jpg)
+[`/images/md/1-a-bomb.jpg`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/md/1-a-bomb.jpg)
 
 - Large (~480x640)
-[`/images/lg/1-a-bomb.jpg`](https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/1-a-bomb.jpg)
+[`/images/lg/1-a-bomb.jpg`](https://rawcdn.githack.com/akabab/superhero-api/0.2.0/api/images/lg/1-a-bomb.jpg)
