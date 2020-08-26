@@ -12,6 +12,7 @@ Multiple universes superheroes open-source REST API
 \`${baseUrl}\`
 
 or cached CDN (faster)
+
 \`${cdnBaseUrl}\`
 
 see
