@@ -20,9 +20,9 @@ const missingKeys = (object, keys = [], k = '') => {
 
 const healthStatus = hero => {
   if (hero.health.length === 0) return '😎'
-  if ([1,2].includes(hero.health.length)) return '🙂'
-  if ([3,4].includes(hero.health.length)) return '😰'
-  if (hero.health.length > 4) return '🤢'
+  if ([1,2,3,4].includes(hero.health.length)) return '🙂'
+  if ([5,6,7,8].includes(hero.health.length)) return '😰'
+  if (hero.health.length > 8) return '🤢'
 }
 
 const getDuplicates = heroes => {
@@ -62,10 +62,10 @@ const carecenter = heroes => {
 - **${duplicates.length}** [duplicates](#duplicates)
 
 ### Care Center Status
-- 😎 **${heroes.filter(h => h.health.length === 0).length}** feeling good!
-- 🙂 **${heroes.filter(h => [1,2].includes(h.health.length)).length}** in good shape
-- 😰 **${heroes.filter(h => [3,4].includes(h.health.length)).length}** not so well
-- 🤢 **${heroes.filter(h => h.health.length > 4).length}** having a bad time
+- 😎 **${heroes.filter(h => h.health.length === 0).length}** feeling awesome!
+- 🙂 **${heroes.filter(h => [1,2,3,4].includes(h.health.length)).length}** in good shape
+- 😰 **${heroes.filter(h => [5,6,7,8].includes(h.health.length)).length}** not so well
+- 🤢 **${heroes.filter(h => h.health.length > 8).length}** having a bad time
 
 |    |    | id | name | issues |
 | -- | -- | -- | ---- | ------ |
