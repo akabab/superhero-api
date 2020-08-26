@@ -48,9 +48,9 @@
     "relatives": "Warren Kenneth Worthington Sr. (grandfather, deceased), Warren Kenneth Worthington Jr. (father, deceased), Kathryn Worthington (mother, deceased), Burtram \"Burt\" Worthington (Dazzler, paternal uncle), unnamed cousin"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/24-angel.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/24-angel.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/24-angel.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/24-angel.jpg"
+    "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/24-angel.jpg",
+    "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/24-angel.jpg",
+    "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/24-angel.jpg",
+    "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/24-angel.jpg"
   }
 }

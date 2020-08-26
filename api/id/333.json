@@ -45,9 +45,9 @@
     "relatives": "Susan Richards - Invisible Woman (sister), Franklin Richards (nephew), Reed Richards - Mister Fantastic (brother-in-law) Lyja (ex-wife)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/333-human-torch.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/333-human-torch.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/333-human-torch.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/333-human-torch.jpg"
+    "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/333-human-torch.jpg",
+    "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/333-human-torch.jpg",
+    "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/333-human-torch.jpg",
+    "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/333-human-torch.jpg"
   }
 }

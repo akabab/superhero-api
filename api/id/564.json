@@ -47,9 +47,9 @@
     "relatives": "Talia al Ghul (mother),\nBruce Wayne (Batman, father),\nRa's Al Ghul (maternal grandfather),\nMelisande (maternal grandmother),\nThomas Wayne (paternal grandfather),\nMartha Wayne (paternal grandmother),\nSensei (great-grandfather),\nSimon Hurt (ancestor),\nNyssa Raatko (aunt, deceased),\nDusan al Ghul (White Ghost, uncle, deceased),\nRichard Grayson (Nightwing, adoptive brother),\nTim Drake (Red Robin, adoptive brother),\nCassandra Cain (Batgirl IV, adoptive sister),\nJason Todd (Red Hood, adoptive brother), \nPatrick Wayne (great-grandfather, deceased); \nCharles Wayne (great-great-grandfather, deceased);\nConstance Wayne (great-great-grandmother, deceased); \nAlan Wayne (ancestor, deceased); \nSolomon Wayne (ancestor, deceased); \nDarius Wayne (ancestor, deceased); \nJoshua Wayne (ancestor, deceased)"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/564-robin-v.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/564-robin-v.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/564-robin-v.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/564-robin-v.jpg"
+    "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/564-robin-v.jpg",
+    "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/564-robin-v.jpg",
+    "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/564-robin-v.jpg",
+    "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/564-robin-v.jpg"
   }
 }

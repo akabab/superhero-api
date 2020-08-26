@@ -51,9 +51,9 @@
     "relatives": "Cassandra Richards, their unnamed son, and matriarch of the Eyriennes; Tara Richards, Reed Richards ( Mister Fantastic ), Franklin Richards, Valeria Richards (all ancestors); various Eyriennes (common ancestry); Victor Von Doom (Doctor Doom, alleged ancestor); Ramades (son), Marcus Kang I-XXIII (sons, deceased); Immortus, Iron Lad, and numerous other alternate dimensional counterparts and their offspring"
   },
   "images": {
-    "xs": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/xs/379-kang.jpg",
-    "sm": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/sm/379-kang.jpg",
-    "md": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/md/379-kang.jpg",
-    "lg": "https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/379-kang.jpg"
+    "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/379-kang.jpg",
+    "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/379-kang.jpg",
+    "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/379-kang.jpg",
+    "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/379-kang.jpg"
   }
 }
