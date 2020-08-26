@@ -1,7 +1,4 @@
-const { version } = require('../../package.json')
-
-const baseUrl = `https://akabab.github.io/superhero-api/api`
-const cdnBaseUrl = `https://cdn.jsdelivr.net/gh/akabab/superhero-api/${version}/api`
+const { baseUrl, cdnBaseUrl } = require('../config')
 
 const documentation = ({ endpoints, heroes }) => `
 # API
@@ -15,8 +12,11 @@ Multiple universes superheroes open-source REST API
 \`${baseUrl}\`
 
 or cached CDN (faster)
-
 \`${cdnBaseUrl}\`
+
+see
+- [JSDelivr](https://www.jsdelivr.com/)
+- [GitHack](https://raw.githack.com/)
 
 
 ### [routes](#routes-1)

@@ -2,10 +2,7 @@ const fs = require('fs-extra')
 const path = require('path')
 const { promisify } = require('util')
 
-const { version } = require('../package.json')
-
-const baseUrl = `https://akabab.github.io/superhero-api/api`
-const cdnBaseUrl = `https://cdn.jsdelivr.net/gh/akabab/superhero-api/${version}/api`
+const { baseUrl, cdnBaseUrl } = require('./config')
 
 const { buildImages } = require('./builders/images')
 const { documentation } = require('./builders/documentation')

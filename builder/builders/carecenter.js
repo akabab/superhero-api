@@ -1,7 +1,4 @@
-const { version } = require('../../package.json')
-
-const baseUrl = `https://akabab.github.io/superhero-api/api`
-const cdnBaseUrl = `https://cdn.jsdelivr.net/gh/akabab/superhero-api/${version}/api`
+const { baseUrl, cdnBaseUrl } = require('../config')
 
 const isObject = o => o && typeof o === 'object' && !Array.isArray(o)
 const missingKeys = (object, keys = [], k = '') => {
